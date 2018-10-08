@@ -13,7 +13,7 @@ import Prerequisites from './pages/Prerequisites'
 import GetUpdates from './pages/GetUpdates'
 import scenarioCombinations from './data/scenarioCombinations'
 
-ReactGA.initialize('UA-117950963-1');
+ReactGA.initialize('UA-127032810-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Page = styled.div`

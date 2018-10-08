@@ -38,9 +38,9 @@ const AboutBody = styled.p`
 export default () => (
   <AboutContainer>
     <AboutHeader>Scenariebeskrivelser</AboutHeader>
-    <AboutHeader2>DTU Frozen Policy scenario</AboutHeader2>
+    <AboutHeader2>Energiaftelen 2018</AboutHeader2>
     <AboutBody>
-      DTU Frozen Policy scenario er som Energistyrelsens basisfremskrivning. Det
+      Energiaftelen 2018 scenario er som Energistyrelsens basisfremskrivning. Det
       indeholder alle allerede besluttede politikker, inklusiv den seneste energiaftales
       beslutninger, samt samme brændselspriser som anvendes af Energistyrelsen. Dvs.
       et energiscenarie med fastlåst politik frem til 2050. Det antages, at der udpeges
@@ -63,7 +63,7 @@ export default () => (
       drivhusgasser i forbindelse med dansk ansvar i en global klimaaftale.
     </AboutBody>
     <AboutBody>
-      De følgende scenarier bygger alle oven på DTU Frozen Policy scenario: 
+      De følgende scenarier bygger alle oven på Energiaftelen 2018 scenario: 
     </AboutBody>
     <AboutHeader2>Carbon budget 2 graders temperatur stigning</AboutHeader2>
     <AboutBody>

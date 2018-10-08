@@ -65,6 +65,18 @@ export default () => (
     <AboutBody>
       De følgende scenarier bygger alle oven på Energiaftelen 2018 scenario: 
     </AboutBody>
+    <AboutHeader2>DTU Energispare scenarie</AboutHeader2>
+    <AboutBody>
+      Dette scenarie viser det danske energi system under antagelse at man i fremtiden
+      udbygger væsentligt med energibesparelser i både industrien og bygningsmasse.
+    </AboutBody>
+    <AboutHeader2>DTU Lav vækst scenarie</AboutHeader2>
+    <AboutBody>
+      Dette scenarie viser det danske energi system under antagelse at den økonomiske
+      vækst i Danmark er lavere end finansministeriets forventede fremskrivninger. Den
+      finansielle udvikling stagnere i 2030 og forbliver kontant frem mod 2050 i dette
+      scenarie.
+    </AboutBody>    
     <AboutHeader2>Carbon budget 2 graders temperatur stigning</AboutHeader2>
     <AboutBody>
       Et scenarie, der viser den maksimale grænse for CO2 Danmark kan udlede såfremt man vil holde 
@@ -85,18 +97,6 @@ export default () => (
     </AboutBody>
     <AboutBody>
       Kulstofbudgettet er beregnet ud fra IPCC´s tal, der også er brugt som grundlag til Parisaftalen.
-    </AboutBody>
-    <AboutHeader2>DTU Energispare scenarie</AboutHeader2>
-    <AboutBody>
-      Dette scenarie viser det danske energi system under antagelse at man i fremtiden
-      udbygger væsentligt med energibesparelser i både industrien og bygningsmasse.
-    </AboutBody>
-    <AboutHeader2>DTU Lav vækst scenarie</AboutHeader2>
-    <AboutBody>
-      Dette scenarie viser det danske energi system under antagelse at den økonomiske
-      vækst i Danmark er lavere end finansministeriets forventede fremskrivninger. Den
-      finansielle udvikling stagnere i 2030 og forbliver kontant frem mod 2050 i dette
-      scenarie.
     </AboutBody>
      <AboutBody>
        <Link to='/'>Tilbage til forsiden</Link>

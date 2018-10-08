@@ -43,13 +43,13 @@ const Welcome = (props) => (
   <AlertContainer>
     <AlertBody>
       <AlertBodyParagraph>
-        Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2018.
-        Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.
+        Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2018. Vælg et
+        scenario i venstre menu og se resultatet i graferne nedenfor.
       </AlertBodyParagraph>
       <AlertBodyParagraph>
-        De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Scenario
-        beskrivelserne og resultater er baseret på DTU’s fortolkninger af diverse udspil,
-        samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op.
+        De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Scenario beskrivelserne
+        og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt
+        egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op.
       </AlertBodyParagraph>
     </AlertBody>
     <CloseWindowIcon onClick={(event) => props.closeWelcome(event, 'showWelcome', false)}>

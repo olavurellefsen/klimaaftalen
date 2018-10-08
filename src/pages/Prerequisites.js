@@ -131,7 +131,7 @@ export default () => (
         <tr>
           <TableData>Volkswagen Group</TableData>
           <TableData>50 EV, 30 PHEV og 220 Hybrid modeller i 2025 og alle modeller (300) findes i EV eller PHEV version i 2030</TableData>
-          <TableData>25 % Af salg i 2025 er EV eller PHEV (2-3 millioner biler)</TableData>
+          <TableData>25 % af salg i 2025 er EV/PHEV (2-3 millioner biler)</TableData>
         </tr>
         <tr>
           <TableData>PSA Group (Peugeot, Opel, Citroén)</TableData>
@@ -202,7 +202,7 @@ export default () => (
         </tr>
         <tr>
           <TableData>Landvind</TableData>
-          <TableData>4400</TableData>
+          <TableData>6200</TableData>
         </tr>
         <tr>
           <TableData>Havvind</TableData>
@@ -235,9 +235,9 @@ export default () => (
       </tbody>
     </AboutTable>
     <AboutBody>
-      Landvind er begrænset 4400 MW grundet de seneste års kritik af udbygning. El-produktion på 
-      landvind er den billigste løsning og en øgning af potentialet betyder mere landvind og et billigere 
-      system.
+      Landvind er begrænset 6200 MW som følger af energiaftalens beslutninger om maksimalt 1750 MW
+      landvind. El-produktion på landvind er den billigste løsning og en øgning af potentialet betyder mere
+      landvind og et billigere system.
     </AboutBody>
     <AboutTable>
       <TableCaption>Nationale biomasse potentialer</TableCaption>
@@ -272,11 +272,11 @@ export default () => (
         </tr>
         <tr>
           <TableData>Gylle</TableData>
-          <TableData>13.8</TableData>
+          <TableData>18.7</TableData>
         </tr>
         <tr>
           <TableData>Halm</TableData>
-          <TableData>68</TableData>
+          <TableData>54</TableData>
         </tr>
         <tr>
           <TableData>Græsarter</TableData>
@@ -287,19 +287,22 @@ export default () => (
           <TableData>3.6</TableData>
         </tr>
         <tr>
+          <TableData>Dybstrøelse</TableData>
+          <TableData>16</TableData>
+        </tr>
+        <tr>
           <TableData>Totalt potentiale</TableData>
           <TableData>185.8</TableData>
         </tr>
       </tbody>
     </AboutTable>
     <AboutBody>
-      Den totale mænge nationale biomasse til rådighed svarer til ca. 185 PJ med de nuværende 
+      Den totale mænge nationale biomasse til rådighed svarer til ca. 220 PJ med de nuværende 
       ressourcer. Med udnyttelse af marginaljorde til produktion af energiafgrøder vil potentialet kunne 
       øge potentialet op mod 250 PJ biomasse. Ifølge studiet ”Carbon footprint of bioenergy pathways for 
       the future Danish energy system” er den bæredygtige biomasse ressource på 10-20 GJ/person/år, 
       svarende til 55-110 PJ biomasse forbrug i Danmark, altså mindre end det som anses som et realistisk 
-      potentiale i dag. Modellen har mulighed for at importere biomasse fra internationale markeder og 
-      dermed overstige de nationale ressourcer.
+      potentiale for Danmark.
     </AboutBody>    
     <AboutBody><Link to='/'>Tilbage til forsiden</Link></AboutBody>
   </AboutContainer>

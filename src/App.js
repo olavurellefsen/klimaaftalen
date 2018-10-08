@@ -6,6 +6,8 @@ import ReactGA from 'react-ga'
 import LeftMenu from './leftMenu/LeftMenu'
 import LeftMenuMobile from './leftMenu/LeftMenu.mobile'
 import Charts from './charts/Charts'
+import TransportCharts from './charts/TransportCharts'
+import SupplyCharts from './charts/SupplyCharts'
 import About from './pages/About'
 import ScenarioDescriptions from './pages/ScenarioDescriptions'
 import Recommendations from './pages/Recommendations'
@@ -77,7 +79,7 @@ export class App extends React.Component {
         this.setState(changeScenario("scenarioSelection2", value));
       }      
     }
-    this.props.history.push('/');
+    //this.props.history.push('/');
   }
 
   CloseWelcomeWidget = () => {
@@ -116,11 +118,20 @@ export class App extends React.Component {
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>
+                <Route path='/transport' render={()=><TransportCharts 
+                  scenarioSelection={this.state}
+                  closeWelcome={this.CloseWelcomeWidget}
+                />}/>
+                <Route path='/forsyning' render={()=><SupplyCharts 
+                  scenarioSelection={this.state}
+                  closeWelcome={this.CloseWelcomeWidget}
+                />}/>                
                 <Route path='/about' component={About} />
                 <Route path='/beskrivelser' component={ScenarioDescriptions} />
                 <Route path='/anbefalinger' component={Recommendations} />
                 <Route path='/forudsaetninger' component={Prerequisites} />
                 <Route path='/abonner' component={GetUpdates} />
+
               </MainSwitch>
             </Content>
           </Column>

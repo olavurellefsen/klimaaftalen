@@ -125,7 +125,11 @@ class ScenarioSelectionMenu extends React.Component {
             <MenuItem to='/beskrivelser'>Beskrivelse</MenuItem>
             <MenuItem to='/anbefalinger'>Anbefalinger</MenuItem>
             <MenuItem to='/forudsaetninger'>Forudsætn.</MenuItem>
-            <MenuItem to='/abonner'>Abonnér</MenuItem>        
+            <MenuItem to='/abonner'>Abonnér</MenuItem>
+            <br/>
+            <MenuItem to='/'>HJEM</MenuItem>
+            <MenuItem to='/transport'>TRANSPORT</MenuItem>
+            <MenuItem to='/forsyning'>FORSYNING</MenuItem>                    
           </MenuRoutes>
         </MenuHeader>
         <MenuSeparatorLine />        

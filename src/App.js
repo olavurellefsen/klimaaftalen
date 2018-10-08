@@ -47,7 +47,7 @@ export class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      scenarioSelection: "DTU_ea18_CB15_ccs",
+      scenarioSelection: "DTU_ea18_fp",
       scenarioSelection2: "",
       showWelcome: true,
       showDifference: false

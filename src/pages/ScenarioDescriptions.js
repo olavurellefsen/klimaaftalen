@@ -34,20 +34,6 @@ const AboutBody = styled.p`
     font-size: 0.7em;
   `}  
   `
-const AboutList = styled.ul`
-  font-size: 1em;
-  ${breakpoint('mobile','desktop')`
-    font-size: 0.7em;
-  `}  
-  `
-const AboutImage = styled.img`
-  padding: 20px 0px;
-  max-width: 752px;
-  ${breakpoint('mobile','desktop')`
-    max-width: 250px;
-    max-height: 142px;
-  `}  
-  `
 
 export default () => (
   <AboutContainer>

@@ -54,7 +54,7 @@ const Charts = (props) => {
             <StackedBarDiffChart chartName='_Transport sektorens energifor' chartTitle='Transportsektorens energiforbrug' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={-120} maxY={120} />
             <StackedBarDiffChart chartName='_Transport - bil bestanden' chartTitle='Transport - bil-bestand' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="1000 stk" minY={-2000} maxY={2000} />
             <StackedBarDiffChart chartName='_Miljø og energi afgifter' chartTitle='Miljø- og energi-afgifter' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mia.kr" divideValues={1000} minY={-30000} maxY={30000} />
-            <StackedBarDiffChart chartName='_Systemomkostninger' chartTitle='Systemomkostninger' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mia.Kr" divideValues={1000} minY={-20000} maxY={20000} />
+            <StackedBarDiffChart chartName='_Systemomkostninger' chartTitle='Systemomkostninger' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mia.Kr" divideValues={1000} minY={-120000} maxY={120000} />
           </Flex>
         }        
     </MainArea>

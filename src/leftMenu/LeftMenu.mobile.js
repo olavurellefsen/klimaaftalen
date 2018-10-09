@@ -53,6 +53,7 @@ const MenuRoutes  = styled.div`
   `;
   MenuRoutes.displayName = 'MenuRoutes';
 const MenuItem  = styled(Link)`
+  font-weight: ${props => (props.selected ? 'bold' : 'normal')};
   font-size: 0.7em;
   margin: 0;
   padding-top: 5px;
@@ -60,7 +61,7 @@ const MenuItem  = styled(Link)`
   width: 100%;
   display: flex;
   align-items: center;
-  color: white;
+  color: ${props => (props.selected ? 'yellow' : 'inherit')};
   text-decoration: none;
   :hover {
     text-decoration: underline;
@@ -121,17 +122,18 @@ class ScenarioSelectionMenu extends React.Component {
         <MenuHeader>
           <AppLogo src='./images/dtulogo_white.png' alt='logo'/>
           <MenuRoutes>
-            <MenuItem to='/about'>Om</MenuItem>
-            <MenuItem to='/beskrivelser'>Beskrivelse</MenuItem>
-            <MenuItem to='/anbefalinger'>Anbefalinger</MenuItem>
-            <MenuItem to='/forudsaetninger'>Forudsætn.</MenuItem>
-            <MenuItem to='/abonner'>Abonnér</MenuItem>
-            <br/>
-            <MenuItem to='/'>Resultater</MenuItem>
-            <MenuItem to='/transport'>Transport</MenuItem>
-            <MenuItem to='/forsyning'>Forsyning</MenuItem>                    
+            <MenuItem to='/about' selected={this.props.selectedChartgroup==='/about'}>Om</MenuItem>
+            <MenuItem to='/beskrivelser' selected={this.props.selectedChartgroup==='/beskrivelser'}>Beskrivelse</MenuItem>
+            <MenuItem to='/anbefalinger' selected={this.props.selectedChartgroup==='/anbefalinger'}>Anbefalinger</MenuItem>
+            <MenuItem to='/forudsaetninger' selected={this.props.selectedChartgroup==='/forudsaetninger'}>Forudsætn.</MenuItem>
+            <MenuItem to='/abonner' selected={this.props.selectedChartgroup==='/abonner'}>Abonnér</MenuItem>
           </MenuRoutes>
         </MenuHeader>
+        <MenuRoutes>
+          <MenuItem to='/' selected={this.props.selectedChartgroup==='/'}>Resultater</MenuItem>
+          <MenuItem to='/transport' selected={this.props.selectedChartgroup==='/transport'}>Transport</MenuItem>
+          <MenuItem to='/forsyning' selected={this.props.selectedChartgroup==='/forsyning'}>Forsyning</MenuItem>                    
+        </MenuRoutes>
         <MenuSeparatorLine />        
         <ScenarioSelection>
           <ScenarioSelectionList
@@ -170,7 +172,8 @@ ScenarioSelectionMenu.propTypes = {
   updateScenarioSelection: PropTypes.func.isRequired,
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
-  toggleDifference: PropTypes.func.isRequired
+  toggleDifference: PropTypes.func.isRequired,
+  selectedChartgroup: PropTypes.string.isRequired
 }
 
 export default ScenarioSelectionMenu;

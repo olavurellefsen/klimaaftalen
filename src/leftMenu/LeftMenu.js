@@ -83,7 +83,7 @@ const MenuRoutes  = styled.div`
   `;
   MenuRoutes.displayName = 'MenuRoutes';
 const MenuItem  = styled(Link)`
-  font-weight: bold;
+  font-weight: ${props => (props.selected ? 'bold' : 'normal')};
   font-size: 1em;
   margin: 0;
   padding-top: 5px;
@@ -91,12 +91,12 @@ const MenuItem  = styled(Link)`
   width: 100%;
   display: flex;
   align-items: center;
-  color: white;
   text-decoration: none;
   :hover {
     text-decoration: underline;
     cursor: pointer;
   }
+  color: ${props => (props.selected ? 'yellow' : 'inherit')};
   `;
   MenuItem.displayName = 'MenuItem';
 const ScenarioSelection  = styled.div`
@@ -153,21 +153,23 @@ class ScenarioSelectionMenu extends React.Component {
               Klimaaftalen
             </MenuTitle>
             <MenuRoutes>
-              <MenuItem to='/about'>Om værktøjet</MenuItem>
-              <MenuItem to='/beskrivelser'>Beskrivelser af scenarier</MenuItem>
-              <MenuItem to='/anbefalinger'>DTU's anbefalinger</MenuItem>
-              <MenuItem to='/forudsaetninger'>Forudsætninger</MenuItem>
-              <MenuItem to='/abonner'>Abonnér på opdateringer</MenuItem>
-              <br/>
-              <MenuItem to='/'>Hovedresultater</MenuItem>
-              <MenuItem to='/transport'>Transportsektoren</MenuItem>
-              <MenuItem to='/forsyning'>Forsyningssektoren</MenuItem>
+              <MenuItem to='/about' selected={this.props.selectedChartgroup==='/about'}>Om værktøjet</MenuItem>
+              <MenuItem to='/beskrivelser' selected={this.props.selectedChartgroup==='/beskrivelser'}>Beskrivelser af scenarier</MenuItem>
+              <MenuItem to='/anbefalinger' selected={this.props.selectedChartgroup==='/anbefalinger'}>DTU's anbefalinger</MenuItem>
+              <MenuItem to='/forudsaetninger' selected={this.props.selectedChartgroup==='/forudsaetninger'}>Forudsætninger</MenuItem>
+              <MenuItem to='/abonner' selected={this.props.selectedChartgroup==='/abonner'}>Abonnér på opdateringer</MenuItem>
             </MenuRoutes>
           </MenuHeaderLeft>
           <MenuHeaderRight>
             <AppLogo src='./images/dtulogo_white.png' alt='logo'/>
           </MenuHeaderRight>
         </MenuHeader>
+        <MenuSeparatorLine />        
+        <MenuRoutes>
+          <MenuItem to='/' selected={this.props.selectedChartgroup==='/'}>Hovedresultater</MenuItem>
+          <MenuItem to='/transport' selected={this.props.selectedChartgroup==='/transport'}>Transportsektoren</MenuItem>
+          <MenuItem to='/forsyning' selected={this.props.selectedChartgroup==='/forsyning'}>Forsyningssektoren</MenuItem>
+        </MenuRoutes>
         <MenuSeparatorLine />        
         <ScenarioSelection>
           <ScenarioSelectionList
@@ -206,7 +208,8 @@ ScenarioSelectionMenu.propTypes = {
   updateScenarioSelection: PropTypes.func.isRequired,
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
-  toggleDifference: PropTypes.func.isRequired
+  toggleDifference: PropTypes.func.isRequired,
+  selectedChartgroup: PropTypes.string.isRequired
 }
 
 export default ScenarioSelectionMenu;

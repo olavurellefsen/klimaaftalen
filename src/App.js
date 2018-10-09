@@ -102,12 +102,14 @@ export class App extends React.Component {
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
                 toggleDifference={this.ToggleDifference}
+                selectedChartgroup={this.props.location.pathname}
               />
               <LeftMenuMobile
                 scenarioSelection={this.state}
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
                 toggleDifference={this.ToggleDifference}
+                selectedChartgroup={this.props.location.pathname}
               />
             </Content>
           </Column>
@@ -131,7 +133,6 @@ export class App extends React.Component {
                 <Route path='/anbefalinger' component={Recommendations} />
                 <Route path='/forudsaetninger' component={Prerequisites} />
                 <Route path='/abonner' component={GetUpdates} />
-
               </MainSwitch>
             </Content>
           </Column>

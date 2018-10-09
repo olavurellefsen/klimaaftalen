@@ -35,7 +35,7 @@ export default () => (
   <AboutContainer>
     <AboutHeader>Abonnér på opdateringer</AboutHeader>
     <AboutBody>
-      Følg os på vores <BodyLink href='https://twitter.com/energiaftalen'>@energiaftalen</BodyLink> Twitter konto for få notifikationer, når der er nye data eller andre opdateringer.
+      Følg os på vores <BodyLink href='https://twitter.com/klimaaftalen'>@klimaaftalen</BodyLink> Twitter konto for få notifikationer, når der er nye data eller andre opdateringer.
     </AboutBody>
     <AboutBody><Link to='/'>Tilbage til forsiden</Link></AboutBody>
   </AboutContainer>

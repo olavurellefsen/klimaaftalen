@@ -5,6 +5,8 @@ import { Route, withRouter, Switch } from 'react-router-dom'
 import ReactGA from 'react-ga'
 import LeftMenu from './leftMenu/LeftMenu'
 import LeftMenuMobile from './leftMenu/LeftMenu.mobile'
+import Tabs from './tabs/Tabs'
+import TabsMobile from './tabs/Tabs.mobile'
 import Charts from './charts/Charts'
 import TransportCharts from './charts/TransportCharts'
 import SupplyCharts from './charts/SupplyCharts'
@@ -102,19 +104,19 @@ export class App extends React.Component {
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
                 toggleDifference={this.ToggleDifference}
-                selectedChartgroup={this.props.location.pathname}
               />
               <LeftMenuMobile
                 scenarioSelection={this.state}
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
                 toggleDifference={this.ToggleDifference}
-                selectedChartgroup={this.props.location.pathname}
               />
             </Content>
           </Column>
           <Column>
             <Content>
+              <Tabs selectedChartgroup={this.props.location.pathname} />
+              <TabsMobile selectedChartgroup={this.props.location.pathname} />
               <MainSwitch>
                 <Route exact path='/' render={()=><Charts 
                   scenarioSelection={this.state}

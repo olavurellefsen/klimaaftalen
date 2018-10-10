@@ -165,12 +165,6 @@ class ScenarioSelectionMenu extends React.Component {
           </MenuHeaderRight>
         </MenuHeader>
         <MenuSeparatorLine />        
-        <MenuRoutes>
-          <MenuItem to='/' selected={this.props.selectedChartgroup==='/'}>Hovedresultater</MenuItem>
-          <MenuItem to='/transport' selected={this.props.selectedChartgroup==='/transport'}>Transportsektoren</MenuItem>
-          <MenuItem to='/forsyning' selected={this.props.selectedChartgroup==='/forsyning'}>Forsyningssektoren</MenuItem>
-        </MenuRoutes>
-        <MenuSeparatorLine />        
         <ScenarioSelection>
           <ScenarioSelectionList
             updateScenarioSelection={this.props.updateScenarioSelection}
@@ -209,7 +203,6 @@ ScenarioSelectionMenu.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
-  selectedChartgroup: PropTypes.string.isRequired
 }
 
 export default ScenarioSelectionMenu;

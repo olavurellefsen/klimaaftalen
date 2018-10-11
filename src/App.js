@@ -81,12 +81,10 @@ export class App extends React.Component {
         this.setState(changeScenario("scenarioSelection2", value));
       }      
     }
-    //this.props.history.push('/');
   }
 
   CloseWelcomeWidget = () => {
     this.setState({showWelcome: false});
-    this.props.history.push('/');
   }
 
   ToggleDifference = (e) => {

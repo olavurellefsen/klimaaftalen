@@ -37,7 +37,7 @@ const Charts = (props) => {
             <StackedBarChart chartName='_Industriens energiforbrug' chartTitle='Industriens energiforbrug' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label="PJ" label2="Energibesparelser (PJ)" minY={0} maxY={400} minY2={0} maxY2={120} Y2Percentage={false} />
             <StackedBarChart chartName='_Transport sektorens energifor' chartTitle='Transportsektorens energiforbrug' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={350} />
             <StackedBarChart chartName='_Transport - bil bestanden' chartTitle='Transport - bil-bestand' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="1000 stk" minY={0} maxY={3000} />
-            <StackedBarChart chartName='_Miljø og energi afgifter' chartTitle='Miljø- og energi-afgifter' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mia.kr" divideValues={1000} minY={-10000} maxY={120000} />
+            <StackedBarChart chartName='_Miljø og energi afgifter' chartTitle='Miljø- og energi-afgifter' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mia.kr" divideValues={1000} minY={-5000} maxY={100000} />
             <StackedBarChart chartName='_Systemomkostninger' chartTitle='Systemomkostninger' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mia.Kr" divideValues={1000} minY={0} maxY={300000} />
           </Flex>
         }

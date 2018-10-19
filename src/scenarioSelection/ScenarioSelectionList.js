@@ -42,6 +42,13 @@ const ScenarioOption = styled.div`
   }
   `;
   ScenarioOption.displayName = 'ScenarioOption';
+const MenuSeparatorLine  = styled.hr`
+  margin: 0.25em 12px 0.25em 15px;
+  border-color: #555;
+  border-width: 1px;
+  width: 100%;
+  `;
+  MenuSeparatorLine.displayName = 'MenuSeparatorLine';
 
 class ScenarioSelectionList extends React.Component {
 
@@ -56,20 +63,24 @@ class ScenarioSelectionList extends React.Component {
     let scenarioOptions = dimensionOptions.map(option =>
       {
         let optionValue=option.name;
-        return(
-          <ScenarioOption
-            key={option.id}
-            value={optionValue}
-            selected={optionValue===stringValue}
-            selected2={optionValue===stringValue2}
-            onClick={(event) => this.handleChange(event, optionValue)}
-            narrowVersion={narrowVersion}
-          >
-            {narrowVersion===false && option.short_description}
-            {narrowVersion===true && option.ultra_short_description}
-          </ScenarioOption>
-
-        )
+        if(optionValue==="division_line") {
+          return (<MenuSeparatorLine key={option.id} />)
+        }
+        else {
+          return(
+            <ScenarioOption
+              key={option.id}
+              value={optionValue}
+              selected={optionValue===stringValue}
+              selected2={optionValue===stringValue2}
+              onClick={(event) => this.handleChange(event, optionValue)}
+              narrowVersion={narrowVersion}
+            >
+              {narrowVersion===false && option.short_description}
+              {narrowVersion===true && option.ultra_short_description}
+            </ScenarioOption>
+          )
+        }
       })
     return (
       <ScenarioList>

@@ -125,7 +125,7 @@ export default () => (
       39 forslag (overstreget betyder disse er implementeret i vores energimodel).  
     </AboutBody>
         <AboutBody>
-      <AboutImage src="images/Climate_Agreement.png" width="752" height="452" />
+      <AboutImage src="images/climate_agreement.gif" />
     </AboutBody>
     <AboutHeader2>DTU Energisparescenarie</AboutHeader2>
     <AboutBody>

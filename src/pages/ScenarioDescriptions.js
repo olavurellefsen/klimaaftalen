@@ -34,6 +34,20 @@ const AboutBody = styled.p`
     font-size: 0.7em;
   `}  
   `
+const AboutList = styled.ul`
+  font-size: 1em;
+  ${breakpoint('mobile','desktop')`
+    font-size: 0.7em;
+  `}  
+  `
+const AboutImage = styled.img`
+  padding: 20px 0px;
+  max-width: 752px;
+  ${breakpoint('mobile','desktop')`
+    max-width: 250px;
+    max-height: 142px;
+  `}  
+  `
 
 export default () => (
   <AboutContainer>
@@ -104,7 +118,7 @@ export default () => (
     <AboutBody>
       De følgende scenarier bygger alle oven på Energiaftelen 2018 scenario: 
     </AboutBody>
-    <AboutHeader2>Regeringens klimau dspil</AboutHeader2>
+    <AboutHeader2>Regeringens klimaudspil</AboutHeader2>
     <AboutBody>
       Regeringen kom i oktober 2018 med 39 forslag til den kommende klimaaftale. Dette scenarie beskriver udviklingen frem mod 
       2030 for energi og transport sektoren, dvs. landbrug endnu ikke er implementeret. I billedet herunder kan man se de konkrete 
@@ -113,7 +127,7 @@ export default () => (
         <AboutBody>
       <AboutImage src="images/Climate_Agreement.png" width="752" height="452" />
     </AboutBody>
-    <AboutHeader2>DTU Energispare scenarie</AboutHeader2>
+    <AboutHeader2>DTU Energisparescenarie</AboutHeader2>
     <AboutBody>
       Dette scenarie viser det danske energi system under antagelse at man i fremtiden
       udbygger væsentligt med energibesparelser i både industrien og bygningsmasse.

@@ -62,8 +62,56 @@ export default () => (
       energiforbrug og emissioner. Det er vigtigt at betragte hele den danske udledning af
       drivhusgasser i forbindelse med dansk ansvar i en global klimaaftale.
     </AboutBody>
+   <AboutBody>
+      Målsætninger:
+    </AboutBody>
+      <AboutList>
+        <li>55 % Ve andel i 2030</li>
+        <li>Et grønt baseret elsystem</li>
+        <li>Fjernvarmesektoren højst 10 % af produktionen baseret på fossile brændsler</li>
+      </AboutList>
+    <AboutBody>
+      Politikker:
+    </AboutBody>
+      <AboutList>
+        <li>3 nye havvindmølleparker (estimeret til at blive 3 GW)</li>
+        <li>Landvind begrænses til maksimalt 1850 vindmøller (estimeret til at være 6.2 GW i 2030)</li>
+        <li>4.2 Mia. DKK i teknologi neutral støtte for perioden 2020-2024</li>
+        <li>statsstøtten til biomasse-kraftvarmeanlæg fjernes for nye anlæg fra april 2019. Eksisterende ikke afskrevne
+             anlæg modtager fortsats støtte i resterende levetid dog maksimalt 15/20 år. (Antages at støtte i gennemsnit
+             bliver udbetalt i 7.5 år år yderligt)</li>
+        <li>Støtte til biogas forlænges frem til 2032</li>
+        <li>Afgiftslempelse på elafgift</li>
+          <AboutList>
+            <li>El-varmeafgift sænkes til 15,5 øre/kWh</li>
+            <li>Den almindelige elafgift sænkes med 4 øre/kWh i 2019-2022, 7 øre/kWH i 2023, 8 øre/kWH i 2024 
+            og 14 øre/kWh i 2025 (2018-priser). Som følger af aftalen vil elafgiften således udgøre 77,4 øre/kWh 
+            i 2025 (2018-priser).</li>
+            <li>Elafgiften til liberale erhverv sænkes til proces sats</li>
+          </AboutList>
+        <li>Udfasning af kul i el-produktion i 2030</li>
+      </AboutList>
+    <AboutBody>
+      Politikker endnu ikke implementereet i modellen:
+    </AboutBody>
+      <AboutList>
+        <li>500 mio. årligt til energibesparelser i industrien i perioden 2020-2024</li>
+        <AboutList>
+          <li>200 mio. er øremærker til energibesparelser i bygninger</li>
+        </AboutList>
+        <li>Fuld genopbygning af Thyra-anlæggene i Nordsøen, sikre at de resterende resourcer hentes op fra undergrunden.</li>
+     </AboutList>
     <AboutBody>
       De følgende scenarier bygger alle oven på Energiaftelen 2018 scenario: 
+    </AboutBody>
+    <AboutHeader2>Regeringens klimau dspil</AboutHeader2>
+    <AboutBody>
+      Regeringen kom i oktober 2018 med 39 forslag til den kommende klimaaftale. Dette scenarie beskriver udviklingen frem mod 
+      2030 for energi og transport sektoren, dvs. landbrug endnu ikke er implementeret. I billedet herunder kan man se de konkrete 
+      39 forslag (overstreget betyder disse er implementeret i vores energimodel).  
+    </AboutBody>
+        <AboutBody>
+      <AboutImage src="images/Climate_Agreement.png" width="752" height="452" />
     </AboutBody>
     <AboutHeader2>DTU Energispare scenarie</AboutHeader2>
     <AboutBody>
@@ -77,6 +125,12 @@ export default () => (
       finansielle udvikling stagnere i 2030 og forbliver kontant frem mod 2050 i dette
       scenarie.
     </AboutBody>    
+    <AboutHeader2>Måtsætningsscenarier</AboutHeader2>
+    <AboutBody>
+      De følgende scenarier skal udelukkende anvendes som målestok til at politik scenarierne når henholdsvis 2 og 1.5 
+      graders scenarierne. Da der ikke er afgifter inkluderet i målsætningsscenarierne, skal disse udelukkende bruges 
+      til at sammenligne emissioner og energiforbrug. 
+    </AboutBody> 
     <AboutHeader2>Carbon budget 2 graders temperatur stigning</AboutHeader2>
     <AboutBody>
       Et scenarie, der viser den maksimale grænse for CO2 Danmark kan udlede såfremt man vil holde 

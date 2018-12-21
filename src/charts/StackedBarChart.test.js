@@ -2,7 +2,7 @@ import React from 'react';
 import StackedBarChart from './StackedBarChart';
 
 it('renders the chart title', () => {
-  const selectedScenario = "DTU_Regeringen";
+  const selectedScenario = "Frozen_Policy";
   const chartName = "_CO2 emissioner";
   const chartTitle = "Dummy Title";
   const combinedChart = false;

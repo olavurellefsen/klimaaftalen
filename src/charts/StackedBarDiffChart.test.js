@@ -2,8 +2,8 @@ import React from 'react';
 import StackedBarDiffChart from './StackedBarDiffChart';
 
 it('renders the chart title', () => {
-  const selectedScenario = "DTU_Regeringen";
-  const selectedScenario2 = "DTU_Fossilfri_2050";
+  const selectedScenario = "Frozen_Policy";
+  const selectedScenario2 = "Energispar";
   const chartName = "_CO2 emissioner";
   const chartTitle = "Dummy Title";
   const combinedChart = false;

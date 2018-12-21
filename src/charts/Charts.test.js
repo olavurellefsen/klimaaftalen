@@ -3,7 +3,7 @@ import Charts from './Charts';
 
 it('renders the main area', () => {
   const scenarioSelection = {
-    scenarioSelection: "DTU_Regeringen",
+    scenarioSelection: "Frozen_Policy",
     scenarioSelection2: "",
     showWelcome: true,
     showDifference: false

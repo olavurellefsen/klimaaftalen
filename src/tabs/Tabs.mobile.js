@@ -46,8 +46,8 @@ class Tabs extends React.Component {
     return (
       <TabLayout>
           <TabItem to='/' selected={this.props.selectedChartgroup==='/'}>Resultater</TabItem>
-          <TabItem to='/transport' selected={this.props.selectedChartgroup==='/transport'}>Transport</TabItem>
-          <TabItem to='/forsyning' selected={this.props.selectedChartgroup==='/forsyning'}>Forsyning</TabItem>
+          <TabItem to='/tab2' selected={this.props.selectedChartgroup==='/tab2'}>Forsyning</TabItem>
+          <TabItem to='/tab3' selected={this.props.selectedChartgroup==='/tab3'}>Transport</TabItem>
       </TabLayout>
     );
   }

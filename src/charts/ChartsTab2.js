@@ -3,8 +3,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Welcome from '../alert/Welcome'
-import StackedBarChart from './StackedBarChartSupply'
-import StackedBarDiffChart from './StackedBarDiffChartSupply'
+import StackedBarChart from './StackedBarChartTab2'
+import StackedBarDiffChart from './StackedBarDiffChartTab2'
 
 const MainArea = styled.div`
   flex: 1;

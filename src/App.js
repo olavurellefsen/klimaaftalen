@@ -10,6 +10,8 @@ import TabsMobile from './tabs/Tabs.mobile'
 import Charts from './charts/Charts'
 import ChartsTab2 from './charts/ChartsTab2'
 import ChartsTab3 from './charts/ChartsTab3'
+import ChartsTab4 from './charts/ChartsTab4'
+import ChartsTab5 from './charts/ChartsTab5'
 import About from './pages/About'
 import ScenarioDescriptions from './pages/ScenarioDescriptions'
 import Recommendations from './pages/Recommendations'
@@ -51,7 +53,7 @@ export class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      scenarioSelection: "DTU_ea18_fp",
+      scenarioSelection: "Frozen_policy",
       scenarioSelection2: "",
       showWelcome: true,
       showDifference: false
@@ -127,7 +129,15 @@ export class App extends React.Component {
                 <Route path='/tab3' render={()=><ChartsTab3 
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
-                />}/>                
+                />}/>
+                <Route path='/tab4' render={()=><ChartsTab4 
+                  scenarioSelection={this.state}
+                  closeWelcome={this.CloseWelcomeWidget}
+                />}/>
+                <Route path='/tab5' render={()=><ChartsTab5 
+                  scenarioSelection={this.state}
+                  closeWelcome={this.CloseWelcomeWidget}
+                />}/>
                 <Route path='/about' component={About} />
                 <Route path='/beskrivelser' component={ScenarioDescriptions} />
                 <Route path='/anbefalinger' component={Recommendations} />

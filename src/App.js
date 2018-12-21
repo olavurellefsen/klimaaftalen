@@ -8,8 +8,8 @@ import LeftMenuMobile from './leftMenu/LeftMenu.mobile'
 import Tabs from './tabs/Tabs'
 import TabsMobile from './tabs/Tabs.mobile'
 import Charts from './charts/Charts'
-import TransportCharts from './charts/TransportCharts'
-import SupplyCharts from './charts/SupplyCharts'
+import ChartsTab2 from './charts/ChartsTab2'
+import ChartsTab3 from './charts/ChartsTab3'
 import About from './pages/About'
 import ScenarioDescriptions from './pages/ScenarioDescriptions'
 import Recommendations from './pages/Recommendations'
@@ -120,11 +120,11 @@ export class App extends React.Component {
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>
-                <Route path='/transport' render={()=><TransportCharts 
+                <Route path='/tab2' render={()=><ChartsTab2 
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>
-                <Route path='/forsyning' render={()=><SupplyCharts 
+                <Route path='/tab3' render={()=><ChartsTab3 
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>                

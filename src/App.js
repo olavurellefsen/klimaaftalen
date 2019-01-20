@@ -63,6 +63,7 @@ export class App extends React.Component {
 
   static propTypes = {
     history: PropTypes.object,
+    location: PropTypes.object
   }
 
   UpdateScenarioSelection = (e, name, value) => {

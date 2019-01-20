@@ -3,7 +3,7 @@ import LeftMenuMobile from './LeftMenu.mobile';
 
 it('renders the mobile menu', () => {
   const scenarioSelection = {
-    scenarioSelection: "Frozen_Policy",
+    scenarioSelection: "Frozen_Policy_INT",
     scenarioSelection2: "",
     showWelcome: true,
     showDifference: false

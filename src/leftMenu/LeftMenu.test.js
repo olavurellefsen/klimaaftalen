@@ -3,7 +3,7 @@ import LeftMenu from './LeftMenu';
 
 it('renders the menu', () => {
   const scenarioSelection = {
-    scenarioSelection: "Frozen_Policy",
+    scenarioSelection: "Frozen_Policy_INT",
     scenarioSelection2: "",
     showWelcome: true,
     showDifference: false

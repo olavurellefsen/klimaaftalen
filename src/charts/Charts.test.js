@@ -3,7 +3,7 @@ import Charts from './Charts';
 
 it('renders the main area', () => {
   const scenarioSelection = {
-    scenarioSelection: "Frozen_Policy",
+    scenarioSelection: "Frozen_Policy_INT",
     scenarioSelection2: "",
     showWelcome: true,
     showDifference: false

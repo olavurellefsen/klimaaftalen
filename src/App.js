@@ -53,7 +53,7 @@ export class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      scenarioSelection: "Frozen_policy",
+      scenarioSelection: "Frozen_policy_INT",
       scenarioSelection2: "",
       showWelcome: true,
       showDifference: false

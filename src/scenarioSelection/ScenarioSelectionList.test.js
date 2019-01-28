@@ -9,6 +9,7 @@ it('renders the scenario selection list', () => {
   const dimensionOptions = [];
   const dimensionTitle = "";
   const narrowVersion = true;
+  const showCCS = true;
   
   const wrapper = shallow(<ScenarioSelectionList 
     updateScenarioSelection={updateScenarioSelection}
@@ -18,6 +19,7 @@ it('renders the scenario selection list', () => {
     dimensionOptions={dimensionOptions}
     dimensionTitle={dimensionTitle}
     narrowVersion={narrowVersion}
+    showCCS={showCCS}
   />);
   
   expect(wrapper.find('ScenarioList')).toHaveLength(1);

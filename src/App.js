@@ -49,20 +49,25 @@ export const changeScenario = (name, value) => ({
   [name]: value
 });
 
+const default_scenario = "Frozen_policy_INT"; 
+const default_scenario_CCS = "Frozen_policy_INT_With_CCS"; 
+
 export class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      scenarioSelection: "Frozen_policy_INT",
+      scenarioSelection: default_scenario,
       scenarioSelection2: "",
       showWelcome: true,
-      showDifference: false
+      showDifference: false,
+      showCCS: false
     }
     this.scenarioCombinations = scenarioCombinations.scenarioCombinations
   }
 
   static propTypes = {
     history: PropTypes.object,
+    location: PropTypes.object
   }
 
   UpdateScenarioSelection = (e, name, value) => {
@@ -94,6 +99,15 @@ export class App extends React.Component {
     this.setState({showDifference: !this.state.showDifference});
   }
 
+  ToggleShowCCS = (e) => {
+    e.preventDefault();
+    this.setState({
+      showCCS: !this.state.showCCS,
+      scenarioSelection: this.state.showCCS ? default_scenario : default_scenario_CCS,
+      scenarioSelection2: "",
+    });
+  }
+
   render() { 
     return (
         <Page>
@@ -104,12 +118,14 @@ export class App extends React.Component {
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
                 toggleDifference={this.ToggleDifference}
+                toggleShowCCS={this.ToggleShowCCS}
               />
               <LeftMenuMobile
                 scenarioSelection={this.state}
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
                 toggleDifference={this.ToggleDifference}
+                toggleShowCCS={this.ToggleShowCCS}
               />
             </Content>
           </Column>

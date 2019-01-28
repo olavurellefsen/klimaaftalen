@@ -60,7 +60,7 @@ class ScenarioSelectionList extends React.Component {
     const { dimensionOptions, dimensionTitle, narrowVersion } = this.props
     let stringValue=this.props.selectedValue.toString();
     let stringValue2=this.props.selectedValue2.toString();
-    let scenarioOptions = dimensionOptions.map(option =>
+    let scenarioOptions = dimensionOptions.filter(option => option.css===this.props.showCCS).map(option =>
       {
         let optionValue=option.name;
         if(optionValue==="division_line") {
@@ -99,7 +99,8 @@ ScenarioSelectionList.propTypes = {
   selectedValue2: PropTypes.any.isRequired,
   dimensionOptions: PropTypes.array.isRequired,
   dimensionTitle: PropTypes.string.isRequired,
-  narrowVersion: PropTypes.bool.isRequired
+  narrowVersion: PropTypes.bool.isRequired,
+  showCCS: PropTypes.bool.isRequired
 }
 
 export default ScenarioSelectionList;

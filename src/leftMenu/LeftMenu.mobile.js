@@ -139,9 +139,19 @@ class ScenarioSelectionMenu extends React.Component {
             dimensionOptions={this.props.scenarioCombinations.scenarioOptions}
             dimensionTitle='Scenarier'
             narrowVersion={true}
+            showCCS={this.props.scenarioSelection.showCCS}
           />
         </ScenarioSelection>
-        <MenuSeparatorLine />        
+        <MenuSeparatorLine />
+        <ToggleDifference onClick={(e) => this.props.toggleShowCCS(e)}>
+          <ToggleSwitch
+            dimmed={false}
+            checked={this.props.scenarioSelection.showCCS}
+          />
+          <ToggleSwitchText
+            selected={this.props.scenarioSelection.showCCS}
+          >CCS</ToggleSwitchText>
+        </ToggleDifference>                
         <ToggleDifference onClick={(e) => this.props.toggleDifference(e)}>
           <ToggleSwitch
             dimmed={this.props.scenarioSelection.scenarioSelection2===""}
@@ -164,10 +174,12 @@ class ScenarioSelectionMenu extends React.Component {
 }
 
 ScenarioSelectionMenu.propTypes = {
+  selectedChartgroup: PropTypes.string.isRequired,
   updateScenarioSelection: PropTypes.func.isRequired,
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
+  toggleShowCCS: PropTypes.func.isRequired
 }
 
 export default ScenarioSelectionMenu;

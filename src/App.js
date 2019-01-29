@@ -50,7 +50,6 @@ export const changeScenario = (name, value) => ({
 });
 
 const default_scenario = "Frozen_policy_INT"; 
-const default_scenario_CCS = "Frozen_policy_INT_With_CCS"; 
 
 export class App extends React.Component {
   constructor(props) {
@@ -101,10 +100,25 @@ export class App extends React.Component {
 
   ToggleShowCCS = (e) => {
     e.preventDefault();
+    let newScenario = "";
+    let newScenario2 = "";
+    const oldScenario = this.state.scenarioSelection;
+    const oldScenario2 = this.state.scenarioSelection2;
+    if(this.state.showCCS) {
+      newScenario = oldScenario.substring(0,oldScenario.length-9);
+      if(oldScenario2!=="") {
+        newScenario2 = oldScenario2.substring(0,oldScenario2.length-9);
+      }
+    } else {
+      newScenario = oldScenario + "_With_CCS";
+      if(oldScenario2!=="") {
+        newScenario2 = oldScenario2 + "_With_CCS";
+      }
+    }
     this.setState({
       showCCS: !this.state.showCCS,
-      scenarioSelection: this.state.showCCS ? default_scenario : default_scenario_CCS,
-      scenarioSelection2: "",
+      scenarioSelection: newScenario,
+      scenarioSelection2: newScenario2
     });
   }
 
@@ -113,7 +127,8 @@ export class App extends React.Component {
         <Page>
           <Column>
             <Content>
-              <LeftMenu 
+              <LeftMenu
+                selectedChartgroup={this.state.scenarioSelection} 
                 scenarioSelection={this.state}
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}
@@ -121,6 +136,7 @@ export class App extends React.Component {
                 toggleShowCCS={this.ToggleShowCCS}
               />
               <LeftMenuMobile
+                selectedChartgroup={this.state.scenarioSelection}
                 scenarioSelection={this.state}
                 scenarioCombinations={this.scenarioCombinations}
                 updateScenarioSelection={this.UpdateScenarioSelection}

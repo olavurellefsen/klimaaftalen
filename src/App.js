@@ -14,7 +14,6 @@ import ChartsTab4 from './charts/ChartsTab4'
 import ChartsTab5 from './charts/ChartsTab5'
 import About from './pages/About'
 import ScenarioDescriptions from './pages/ScenarioDescriptions'
-import Recommendations from './pages/Recommendations'
 import Prerequisites from './pages/Prerequisites'
 import GetUpdates from './pages/GetUpdates'
 import scenarioCombinations from './data/scenarioCombinations'
@@ -172,7 +171,6 @@ export class App extends React.Component {
                 />}/>
                 <Route path='/about' component={About} />
                 <Route path='/beskrivelser' component={ScenarioDescriptions} />
-                <Route path='/anbefalinger' component={Recommendations} />
                 <Route path='/forudsaetninger' component={Prerequisites} />
                 <Route path='/abonner' component={GetUpdates} />
               </MainSwitch>

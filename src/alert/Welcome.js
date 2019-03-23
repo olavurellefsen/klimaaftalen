@@ -43,7 +43,7 @@ const Welcome = (props) => (
   <AlertContainer>
     <AlertBody>
       <AlertBodyParagraph>
-        Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2018. Vælg et
+        Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2019. Vælg et
         scenario i venstre menu og se resultatet i graferne nedenfor.
       </AlertBodyParagraph>
       <AlertBodyParagraph>

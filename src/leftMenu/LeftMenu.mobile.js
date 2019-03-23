@@ -124,7 +124,6 @@ class ScenarioSelectionMenu extends React.Component {
           <MenuRoutes>
             <MenuItem to='/about' selected={this.props.selectedChartgroup==='/about'}>Om</MenuItem>
             <MenuItem to='/beskrivelser' selected={this.props.selectedChartgroup==='/beskrivelser'}>Beskrivelse</MenuItem>
-            <MenuItem to='/anbefalinger' selected={this.props.selectedChartgroup==='/anbefalinger'}>Anbefalinger</MenuItem>
             <MenuItem to='/forudsaetninger' selected={this.props.selectedChartgroup==='/forudsaetninger'}>Forudsætn.</MenuItem>
             <MenuItem to='/abonner' selected={this.props.selectedChartgroup==='/abonner'}>Abonnér</MenuItem>
           </MenuRoutes>

@@ -788,268 +788,6 @@ export default {
         ]
       },
       {
-        "scenario": "Climate_agreement_INT",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2951314897
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3990417636
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5116085515
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6654210443
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7182584984
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7347606112
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7367613048
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7811090198
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers varmeforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.9560249635
-                  },
-                  {
-                    "year": 2020,
-                    "total": 9.6148735343
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2737221052
-                  },
-                  {
-                    "year": 2030,
-                    "total": 17.345570986
-                  },
-                  {
-                    "year": 2035,
-                    "total": 17.345570986
-                  },
-                  {
-                    "year": 2040,
-                    "total": 17.3931689863
-                  },
-                  {
-                    "year": 2045,
-                    "total": 17.3931689863
-                  },
-                  {
-                    "year": 2050,
-                    "total": 17.3931689863
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Industriens energiforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 18.6012641239
-                  },
-                  {
-                    "year": 2025,
-                    "total": 29.4548443966
-                  },
-                  {
-                    "year": 2030,
-                    "total": 35.5728446025
-                  },
-                  {
-                    "year": 2035,
-                    "total": 41.6691593886
-                  },
-                  {
-                    "year": 2040,
-                    "total": 48.3117785954
-                  },
-                  {
-                    "year": 2045,
-                    "total": 56.4110457924
-                  },
-                  {
-                    "year": 2050,
-                    "total": 62.1474371196
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Climate_agreement_INT_With_CCS",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2951314897
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3990417636
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5125016939
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6544590496
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7003872176
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7172797886
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7186773743
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7752205948
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers varmeforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.9560249635
-                  },
-                  {
-                    "year": 2020,
-                    "total": 9.6148735343
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2737221052
-                  },
-                  {
-                    "year": 2030,
-                    "total": 17.3817528262
-                  },
-                  {
-                    "year": 2035,
-                    "total": 17.3817528262
-                  },
-                  {
-                    "year": 2040,
-                    "total": 17.3931689863
-                  },
-                  {
-                    "year": 2045,
-                    "total": 17.3931689863
-                  },
-                  {
-                    "year": 2050,
-                    "total": 17.3931689863
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Industriens energiforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 18.6012641239
-                  },
-                  {
-                    "year": 2025,
-                    "total": 29.4689544476
-                  },
-                  {
-                    "year": 2030,
-                    "total": 35.5737597723
-                  },
-                  {
-                    "year": 2035,
-                    "total": 41.5637432089
-                  },
-                  {
-                    "year": 2040,
-                    "total": 48.3117785954
-                  },
-                  {
-                    "year": 2045,
-                    "total": 56.4110457924
-                  },
-                  {
-                    "year": 2050,
-                    "total": 61.7433611038
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "scenario": "Enhedslisten_INT",
         "indicators": [
           {
@@ -1828,6 +1566,268 @@ export default {
                   {
                     "year": 2050,
                     "total": 61.3733532127
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Regeringen_INT",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2951314897
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3990417636
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.510694326
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6389566678
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7082875162
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7422828006
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7557839557
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.803094874
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.3359902621
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.3359902621
+                  },
+                  {
+                    "year": 2040,
+                    "total": 17.3931689863
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.3931689863
+                  },
+                  {
+                    "year": 2050,
+                    "total": 17.3931689863
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.6012641239
+                  },
+                  {
+                    "year": 2025,
+                    "total": 29.4160337797
+                  },
+                  {
+                    "year": 2030,
+                    "total": 35.5109537728
+                  },
+                  {
+                    "year": 2035,
+                    "total": 41.6467804307
+                  },
+                  {
+                    "year": 2040,
+                    "total": 48.3086123678
+                  },
+                  {
+                    "year": 2045,
+                    "total": 56.4100865243
+                  },
+                  {
+                    "year": 2050,
+                    "total": 62.1474371196
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Regeringen_INT_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2951314897
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3990417636
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5101329275
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6273775113
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6906468101
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7247782918
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.737354291
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7964214309
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.3665711621
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.3665711621
+                  },
+                  {
+                    "year": 2040,
+                    "total": 17.3931689863
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.3931689863
+                  },
+                  {
+                    "year": 2050,
+                    "total": 17.3931689863
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.6012641239
+                  },
+                  {
+                    "year": 2025,
+                    "total": 29.4160337797
+                  },
+                  {
+                    "year": 2030,
+                    "total": 35.5109537728
+                  },
+                  {
+                    "year": 2035,
+                    "total": 41.541364251
+                  },
+                  {
+                    "year": 2040,
+                    "total": 48.3086123678
+                  },
+                  {
+                    "year": 2045,
+                    "total": 56.4484078
+                  },
+                  {
+                    "year": 2050,
+                    "total": 61.7604955527
                   }
                 ]
               }

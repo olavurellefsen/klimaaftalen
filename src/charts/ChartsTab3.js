@@ -28,15 +28,15 @@ const Charts = (props) => {
       {(props.scenarioSelection.showWelcome===true) && <Welcome closeWelcome={props.closeWelcome} />}
         {(props.scenarioSelection.showDifference===false || (props.scenarioSelection.showDifference===true && selectedScenario2==="")) && 
           <Flex>
-            <StackedBarChart chartName='_Transport systemomkostninger' chartTitle='Transport systemomkostninger' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="Mkr" minY={0} maxY={400000} />
+            <StackedBarChart chartName='_Transport systemomkostninger' chartTitle='Transport systemomkostninger' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="Mkr" minY={0} maxY={200000} />
             <StackedBarChart chartName='_Transport sektorens energifor' chartTitle='Transport sektorens energiforbrug' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={400} />
             <StackedBarChart chartName='_Transport passager km' chartTitle='Transport passager km' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mio. Pkm" minY={0} maxY={250000} />
             <StackedBarChart chartName='_Transport investering i lades' chartTitle='Investering i ladestander' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="Mkr" minY={0} maxY={2500} />
-            <StackedBarChart chartName='_Transport gods km' chartTitle='Gods km' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mio. tkm" minY={0} maxY={400000} />
+            <StackedBarChart chartName='_Transport gods km' chartTitle='Gods km' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="mio. tkm" minY={0} maxY={200000} />
             <StackedBarChart chartName='_Transport CO2 emissioner' chartTitle='CO2 emissioner' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="kt" minY={0} maxY={24000} />
-            <StackedBarChart chartName='_Transport brændslesforbrug lu' chartTitle='Brændselsforbrug luftfart' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={160} />
-            <StackedBarChart chartName='_Transport brændselsforbrug sø' chartTitle='Brændselsforbrug søfart' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={60} />
-            <StackedBarChart chartName='_Transport brændselsforbrug bi' chartTitle='Brændselsforbrug biler' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={100} />
+            <StackedBarChart chartName='_Transport brændslesforbrug lu' chartTitle='Brændselsforbrug luftfart' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={80} />
+            <StackedBarChart chartName='_Transport brændselsforbrug sø' chartTitle='Brændselsforbrug søfart' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={30} />
+            <StackedBarChart chartName='_Transport brændselsforbrug bi' chartTitle='Brændselsforbrug biler' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={120} />
             <StackedBarChart chartName='_Transport brændselsforbrug øv' chartTitle='Brændselsforbrug øvrig land' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={100} />
             <StackedBarChart chartName='_Transport - bil bestanden' chartTitle='Bilbestanden' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="k" minY={0} maxY={4000} />
 		  </Flex>

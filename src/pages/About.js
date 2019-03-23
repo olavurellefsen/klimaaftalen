@@ -49,10 +49,9 @@ export default () => (
     </AboutBody>
     <AboutHeader2>Hvem er ”vi”?</AboutHeader2>
     <AboutBody>
-      Energisystemanalyse-gruppen er en del af afdelingen for Systemanalyse på DTU’s institut for Systemer, Produktion og
-      Ledelse (DTU Management Engineering) [Link: <BodyLink href='http://www.man.dtu.dk/'>http://www.man.dtu.dk/</BodyLink>].
-      Vi udvikler energisystemmodeller med fokus på en grøn omstilling, udvikler scenarier og samarbejdsformer i rummet mellem
-      modeller og beslutningstagere (og andre).
+      Energisystemanalyse-gruppen er en del af Sustainability på DTU Management, institut for Økonomi, Teknologi og Ledelse 
+      [Link: <BodyLink href='http://www.man.dtu.dk/'>http://www.man.dtu.dk/</BodyLink>]. Vi udvikler energisystemmodeller
+      med fokus på en grøn omstilling, udvikler scenarier og samarbejdsformer i rummet mellem modeller og beslutningstagere (og andre).
     </AboutBody>
     <AboutBody>
       Se mere her: [Link: <BodyLink href='http://www.sys.man.dtu.dk/research/energy-systems-analysis'>http://www.sys.man.dtu.dk/research/energy-systems-analysis]</BodyLink>.

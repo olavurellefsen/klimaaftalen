@@ -1,4 +1,4 @@
-Klimaaftalen 2018
+Klimaaftalen 2019
 ============================
 
 This tool is developed by Tokni based data and charts from DTU Management Engineering's work with the TIMES-DK energy system model.

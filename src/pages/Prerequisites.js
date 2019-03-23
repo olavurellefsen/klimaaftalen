@@ -81,7 +81,7 @@ export default () => (
     </AboutBody>
     <AboutHeader2>Brændselspriser</AboutHeader2>
     <AboutBody>
-      Brændselspriserne, der anvendes i DTU’s TIMES-DK er baseret på Energistyrelses basisfremskrivning fra 2018.
+      Brændselspriserne, der anvendes i DTU’s TIMES-DK er baseret på Energistyrelses samfundøkonomiske beregningsforudsætninger fra 2018.
     </AboutBody>
     <AboutBody>
       <AboutImage src="images/fuel_price.png" alt="Fuel price" width="752" height="452" />
@@ -97,11 +97,11 @@ export default () => (
     </AboutBody> 
     <AboutBody>
       Købsprisen på hybridbiler forventes allerede at falde til under prisen af benzin og diesel biler i 2020, 
-      som følge af afgiftsmæssige fordele. Frem mod 2030 forventes elbiler yderligere at falde og bliver dermed 
+      som følge af afgiftsmæssige fordele. Frem mod 2025 forventes elbiler yderligere at falde og bliver dermed 
       den billigste bil type. De anvendte importpriser på biler i figuren svarer til en EU mellem klasse bil eller 
       en amerikansk kompakt model. Data er baseret på det amerikanske studie “ASSESSMENT OF VEHICLE SIZING, ENERGY 
       CONSUMPTION, AND COST THROUGH LARGE-SCALE SIMULATION OF ADVANCED VEHICLE TECHNOLOGIES” lavet af U.S. 
-      Department of Energy (2016). 
+      Department of Energy (2018). 
     </AboutBody>
     <AboutBody>
       En optimeringsmodel som TIMES-DK kan have svært ved at fange forbrugerpræferencer, der ikke er økonomisk 
@@ -176,7 +176,7 @@ export default () => (
       række eksogene antagelser om udviklingen i elpriser i omkringliggende lande, 
       transmissionsforbindelser osv. Disse rammebetingelser følger så vidt muligt Energistyrelsens 
       Basisfremskrivning. Det betyder bl.a. en maximal import/eksport af elektricitet på 22% af det 
-      nationale el forbrug i 2030 og frem mod 2050 øges denne begrænsning til 60 %.
+      nationale el forbrug i 2030.
     </AboutBody>
     <AboutBody>
       Der er ikke modelleret nogen brændselsbinding i ikke modellen. Det er derfor muligt at skifte   

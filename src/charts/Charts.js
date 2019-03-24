@@ -27,7 +27,7 @@ const Charts = (props) => {
       {(props.scenarioSelection.showWelcome===true) && <Welcome closeWelcome={props.closeWelcome} />}
         {(props.scenarioSelection.showDifference===false || (props.scenarioSelection.showDifference===true && selectedScenario2==="")) && 
           <Flex>
-            <StackedBarChart chartName='_CO2 emissioner' chartTitle='CO2-emissioner og VE-andel' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label="Kt" minY={-5000} maxY={40000} minY2={0} maxY2={1} label2="Vedvarende energi andel" Y2Percentage={true} />
+            <StackedBarChart chartName='_CO2 emissioner' chartTitle='CO2-emissioner og VE-andel' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label="Kt" minY={0} maxY={40000} minY2={0} maxY2={1} label2="Vedvarende energi andel" Y2Percentage={true} />
             <StackedBarChart chartName='_Biobrændsels forbrug' chartTitle='Biobrændsels-forbrug' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={400} />
             <StackedBarChart chartName='_Elproduktion' chartTitle='El-produktion' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="PJ" minY={0} maxY={400} />
             <StackedBarChart chartName='_Elkapacitet' chartTitle='El-kapacitet' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label="MW" minY={0} maxY={40000} />

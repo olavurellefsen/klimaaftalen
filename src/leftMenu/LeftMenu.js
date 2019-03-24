@@ -200,7 +200,7 @@ class ScenarioSelectionMenu extends React.Component {
         <MenuSeparatorLine />
         <MenuFooter>
           <CopyrightNotice>
-            <ExternalLink href='http://www.tokni.com'>Online version fra Tokni</ExternalLink>
+            <ExternalLink href='http://www.tokni.com'>Online version by Tokni</ExternalLink>
           </CopyrightNotice>
         </MenuFooter>
       </MenuLayout>

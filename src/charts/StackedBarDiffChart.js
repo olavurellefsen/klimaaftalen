@@ -67,8 +67,8 @@ class StackedBarChart extends React.Component {
         )
       );
     // Find the minimum and maximum stacked values
-    let minValue = 0;
-    let maxValue = 0;
+    let minValue = -0.00001;
+    let maxValue = 0.00001;
     for(var i=0; i<periods.length; i++) {
       let totalValuePos = 0;
       let totalValueNeg = 0;

@@ -11,30 +11,35 @@ const AboutContainer = styled.div`
   align-content: flex-start;
   flex-direction: column;
 `;
-const AboutHeader = styled.h1`
+const AboutHeader = styled.a`
   font-size: 2em;
   ${breakpoint("mobile", "desktop")`
     font-size: 1.5em;
   `}
   font-weight: bold;
+  text-decoration: none;
+  color: black;
+  cursor: none;  
 `;
-AboutHeader.displayName = "AboutHeader";
-const AboutHeader2 = styled.h2`
+const AboutHeader2 = styled.a`
+  padding-top: 30px;
   font-size: 1.5em;
   ${breakpoint("mobile", "desktop")`
     font-size: 1em;
   `}
   font-weight: bold;
+  text-decoration: none;
+  color: black;
 `;
-AboutHeader.displayName = "AboutHeader";
 const AboutHeader3 = styled.h3`
+  padding-top: 10px;
+  margin-bottom: 0px;
   font-size: 1.2em;
   ${breakpoint("mobile", "desktop")`
     font-size: 1em;
   `}
   font-weight: bold;
 `;
-AboutHeader.displayName = "AboutHeader";
 const AboutHeader4 = styled.h4`
   font-size: 1em;
   ${breakpoint("mobile", "desktop")`
@@ -42,7 +47,7 @@ const AboutHeader4 = styled.h4`
   `}
   font-weight: bold;
 `;
-const AboutBody = styled.p`
+const AboutBody = styled.div`
   padding: 10px 0px 0px 0px;
   margin: 0px;
   font-size: 1em;
@@ -72,12 +77,13 @@ const AboutImage = styled.img`
   `}
 `;
 const AboutMore = styled.a`
-  padding: 10px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
   margin: 0px;
   font-size: 1em;
   ${breakpoint("mobile", "desktop")`
 		font-size: 0.7em;
-	`}
+  `}
+  text-decoration: none;
 `;
 const AboutBackToTop = styled.a`
   padding: 10px 0px 0px 0px;
@@ -90,8 +96,8 @@ const AboutBackToTop = styled.a`
 
 export default () => (
   <AboutContainer>
-    <a name="scenariodescriptions-top" /><AboutHeader>Scenariebeskrivelser</AboutHeader>
-    <AboutHeader2>Enhedslisten</AboutHeader2>
+    <AboutHeader name="scenariodescriptions-top" href="#scenariodescriptions-top">Scenariebeskrivelser</AboutHeader>
+    <AboutHeader3>Enhedslisten</AboutHeader3>
     <AboutBody>
       Med klimaudspillet ’En Social Retfærdig Vej Til Det Grønne Samfund’ lægger
       Enhedslisten op til en overordnet målsætning om at reducere Danmarks
@@ -112,7 +118,7 @@ export default () => (
     </AboutBody>
     <AboutMore href="#enhedslisten">Mere...</AboutMore>
 
-    <AboutHeader2>Socialistisk Folkeparti</AboutHeader2>
+    <AboutHeader3>Socialistisk Folkeparti</AboutHeader3>
     <AboutBody>
       Socialistisk Folkeparti (SF) har en overordnet målsætning at reducere
       Danmarks klimaforureningen med 60% i 2030 (ift. 1990). For at nå denne
@@ -132,7 +138,7 @@ export default () => (
     </AboutBody>
 		<AboutMore href="#socialistisk-folkeparti">Mere...</AboutMore>
 
-    <AboutHeader2>Radikale Venstre</AboutHeader2>
+    <AboutHeader3>Radikale Venstre</AboutHeader3>
     <AboutBody>
       Med klimaplanen ’Klimaet Kalder. Fremad’ fremsætter Radikale Venstre en
       overordnet målsætning om at reducere udledningen af drivhusgasser med 60
@@ -151,7 +157,7 @@ export default () => (
     </AboutBody>
 		<AboutMore href="#radikale-venstre">Mere...</AboutMore>
 
-    <AboutHeader2>Socialdemokratiet</AboutHeader2>
+    <AboutHeader3>Socialdemokratiet</AboutHeader3>
     <AboutBody>
       Socialdemokratiet foreslår i klimaudspillet ’Danmark Skal Igen Være En
       Grøn Stormagt’ en overordnet vision om, at Danmark skal være fossilfrit i
@@ -170,7 +176,7 @@ export default () => (
     </AboutBody>
 		<AboutMore href="#socialdemokratiet">Mere...</AboutMore>
 
-    <AboutHeader2>Alternativet</AboutHeader2>
+    <AboutHeader3>Alternativet</AboutHeader3>
     <AboutBody>
       Alternativet har en overordnet målsætning om, at Danmark skal være
       fossilfrit i senest 2040. De forslår yderligere en række delmål: Mindst 60
@@ -190,7 +196,7 @@ export default () => (
     </AboutBody>
 		<AboutMore href="#alternativet">Mere...</AboutMore>
 
-    <AboutHeader2>Regeringen</AboutHeader2>
+    <AboutHeader3>Regeringen</AboutHeader3>
     <AboutBody>
       I Klima- og luftudspillet ’Sammen om en grønnere fremtid’ fremsætter
       regeringen en overordnet målsætning om, at Danmark skal være klimaneutral
@@ -210,9 +216,8 @@ export default () => (
     </AboutBody>
 		<AboutMore href="#regeringen">Mere...</AboutMore>
 
-    <a name="enhedslisten" />
-    <AboutHeader2>Enhedslisten</AboutHeader2>
-		<AboutBackToTop href="#scenariodescriptions-top">Back to top</AboutBackToTop>
+    <AboutHeader2 name="enhedslisten" href="#scenariodescriptions-top">Enhedslisten</AboutHeader2>
+    <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutImage
       src="images/Enhedslisten_CO2.png"
       alt="SF´s reduktionskurve"
@@ -703,9 +708,8 @@ export default () => (
       </AboutListB>
     </AboutBody>
 
-    <a name="socialistisk-folkeparti" />
-    <AboutHeader2>Socialistisk Folkeparti</AboutHeader2>
-		<AboutBackToTop href="#scenariodescriptions-top">Back to top</AboutBackToTop>
+    <AboutHeader2 name="socialistisk-folkeparti" href="#scenariodescriptions-top">Socialistisk Folkeparti</AboutHeader2>
+    <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af SFs konkrete
       målsætninger og virkemidler inden for klimaområdet. Der er taget
@@ -1096,9 +1100,8 @@ export default () => (
       drivhusgasser omregnet til CO2-udledning)
     </AboutBody>
 
-    <a name="radikale-venstre" />
-    <AboutHeader2>Radikale Venstre</AboutHeader2>
-		<AboutBackToTop href="#scenariodescriptions-top">Back to top</AboutBackToTop>
+    <AboutHeader2 name="radikale-venstre" href="#scenariodescriptions-top">Radikale Venstre</AboutHeader2>
+    <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af Radikale Venstres
       konkrete målsætninger og virkemidler inden for klimaområdet, primært
@@ -1590,9 +1593,8 @@ export default () => (
       </AboutList>
     </AboutBody>
 
-    <a name="socialdemokratiet" />
-    <AboutHeader2>Socialdemokratiet</AboutHeader2>
-		<AboutBackToTop href="#scenariodescriptions-top">Back to top</AboutBackToTop>
+    <AboutHeader2 name="socialdemokratiet" href="#scenariodescriptions-top" >Socialdemokratiet</AboutHeader2>
+    <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af Socialdemokraterne
       konkrete målsætninger og virkemidler inden for klimaområdet. Det er
@@ -1863,9 +1865,8 @@ export default () => (
       </AboutList>
     </AboutBody>
 
-    <a name="alternativet" />
-    <AboutHeader2>Alternativet</AboutHeader2>
-		<AboutBackToTop href="#scenariodescriptions-top">Back to top</AboutBackToTop>
+    <AboutHeader2 name="alternativet" href="#scenariodescriptions-top">Alternativet</AboutHeader2>
+    <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af Alternativets
       konkrete målsætninger og virkemidler inden for klimaområdet. Der er taget
@@ -2460,9 +2461,8 @@ export default () => (
       </AboutList>
     </AboutBody>
 
-    <a name="regeringen" />
-    <AboutHeader2>Regeringen</AboutHeader2>
-		<AboutBackToTop href="#scenariodescriptions-top">Back to top</AboutBackToTop>
+    <AboutHeader2 name="regeringen" href="#scenariodescriptions-top">Regeringen</AboutHeader2>
+    <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       Nedenfor findes en mere uddybet beskrivelse af Regeringens konkrete
       målsætninger og virkemidler inden for klimaområdet. Der er taget

@@ -19,7 +19,7 @@ const AboutHeader = styled.a`
   font-weight: bold;
   text-decoration: none;
   color: black;
-  cursor: none;  
+  cursor: none;
 `;
 const AboutHeader2 = styled.a`
   padding-top: 30px;
@@ -41,6 +41,7 @@ const AboutHeader3 = styled.h3`
   font-weight: bold;
 `;
 const AboutHeader4 = styled.h4`
+  margin: 20px 0px 0px 0px;
   font-size: 1em;
   ${breakpoint("mobile", "desktop")`
     font-size: 1em;
@@ -96,7 +97,26 @@ const AboutBackToTop = styled.a`
 
 export default () => (
   <AboutContainer>
-    <AboutHeader name="scenariodescriptions-top" href="#scenariodescriptions-top">Scenariebeskrivelser</AboutHeader>
+    <AboutHeader
+      name="scenariodescriptions-top"
+      href="#scenariodescriptions-top"
+    >
+      Scenariebeskrivelser
+    </AboutHeader>
+    <AboutBody>
+      Herunder er en beskrivelse af de forskellige partier, organisationer og
+      regeringens udspil til en klimaaftale. I hvert af de detaljerede
+      oversigter over deres målsætningerne og virkemidler har vi markeret
+      teksten med fed, hvor vi har kunne inkludere tiltaget i vores
+      modelberegninger. Derudover har vi lavet en række scenarier man kan
+      sammenligne med. Et Frozen policy scenarie som viser udviklingen med
+      allerede vedtagne politikker (dvs. inkl. energiaftalen fra 2018) og så to
+      udgaver af et scenario som holder summen af de danske fremtidige CO2
+      udledninger under 500 Mt, hvilket nok er minimum hvis vi skal opfylde
+      Paris-aftalen. Frozen policy scenariet anvendes som grundlag for alle de
+      andre udspil, dvs. deres tiltag bygger ovenpå det som allerede er
+      inkluderet i Frozen policy.
+    </AboutBody>
     <AboutHeader3>Enhedslisten</AboutHeader3>
     <AboutBody>
       Med klimaudspillet ’En Social Retfærdig Vej Til Det Grønne Samfund’ lægger
@@ -104,17 +124,15 @@ export default () => (
       CO2-udledning med 70 pct. i 2030 og 100 pct. i 2040 (ift. 1999). Som et
       centralt element foreslår Enhedslisten at udarbejde en klimalov, som
       gennem bindende målsætninger skal sikre, at Danmark holder sig på kursen
-      mod 70 pct. og 100 pct. Reduktion i hhv. 2030 og 2040. Indenfor
-      transportområdet foreslår Enhedslisten at forbyde salget af diesel- og
+      mod 70 pct. og 100 pct. reduktion i hhv. 2030 og 2040. Inden for
+      transportområdet foreslår Enhedslisten at forbyde salg af diesel- og
       benzinbiler i hhv. 2022 og 2025, og fremsætter en række tiltag for at
       understøtte denne udfasning. Inden for landbrugsområdet foreslår
       Enhedslisten at drivhusgasudledningen fra landbruget bør reduceres til
       mindst en tredjedel i 2030. Enhedslisten fremsætter et mål om, at vi i
       2030 ikke importerer mere el, el vi gør i dag. For at understøtte dette,
       ønsker Enhedslisten at investere i vindenergi og andre vedvarende
-      energikilder og samtidig nedsætte brugen af biomasse. På nedenstående
-      figur ses en reduktionskurve baseret på Enhedslistens foreslåede tiltag
-      frem til 2040
+      energikilder og samtidig nedsætte brugen af biomasse.
     </AboutBody>
     <AboutMore href="#enhedslisten">Mere...</AboutMore>
 
@@ -122,7 +140,7 @@ export default () => (
     <AboutBody>
       Socialistisk Folkeparti (SF) har en overordnet målsætning at reducere
       Danmarks klimaforureningen med 60% i 2030 (ift. 1990). For at nå denne
-      målsætning foreslår SF en række tiltag for at reducere klimabelastning,
+      målsætning foreslår SF en række tiltag til at reducere klimabelastning,
       særligt fra transport- og landbrugssektoren. Inden for transportsektoren
       har de en overordnet målsætning om at elbiler udgør 50% af den danske
       bilpart i starten af 2030’erne. Samtidig sætter de en målsætning om, at
@@ -136,26 +154,26 @@ export default () => (
       afgrøder, husdyrsfoder og dyrkningsteknikker, samt elektrificere
       landbruget og sætte krav om at efterbehandle staldgylle mm.
     </AboutBody>
-		<AboutMore href="#socialistisk-folkeparti">Mere...</AboutMore>
+    <AboutMore href="#socialistisk-folkeparti">Mere...</AboutMore>
 
     <AboutHeader3>Radikale Venstre</AboutHeader3>
     <AboutBody>
       Med klimaplanen ’Klimaet Kalder. Fremad’ fremsætter Radikale Venstre en
       overordnet målsætning om at reducere udledningen af drivhusgasser med 60
-      pct. i 2030 (ift. 1999). I samme år skal danskernes energi være helt fri
-      for fossile brændsler. Dette skal understøtte en fuldstændig omlægning til
-      vedvarende energi i 2050. Inden for transportsektoren er målsætningen 1
-      mio. elbiler i Danmark i 2030, hvilket skal understøttes af en række
-      tiltag. Yderligere foreslår de at gøre al offentlig tranport eldrevet.
-      Radikale Venstre foreslår desuden at udtage en tredjedel af opdyrket land
-      i Danmark til naturarealer, og samtidig arbejde for et giftfrit landbrug i
-      2050. Indenfor energiområdet ønsker Radikale Venstre at satse på
-      produktion samt eksport af vindenergi, og foreslår at etablere 3
-      havvindmølleparker udover dem, som allerede er vedtaget med energiaftalen.
-      Endelig fremsætter de et mål om at halvere CO2-aftrykket fra nybyggeri af
-      huse i 2030.
+      pct. i 2030 (ift. 1999). I samme år skal danskernes energiforsyning være
+      helt fri for fossile brændsler. Dette skal understøtte en fuldstændig
+      omlægning til vedvarende energi i 2050. Inden for transportsektoren er
+      målsætningen 1 mio. elbiler i Danmark i 2030, hvilket skal understøttes af
+      en række tiltag. Yderligere foreslår de at gøre al offentlig tranport
+      eldrevet. Radikale Venstre foreslår desuden at udtage en tredjedel af
+      opdyrket land i Danmark til naturarealer, og samtidig arbejde for et
+      giftfrit landbrug i 2050. Indenfor energiområdet ønsker Radikale Venstre
+      at satse på produktion samt eksport af vindenergi, og foreslår at etablere
+      3 havvindmølleparker udover dem, som allerede er vedtaget med
+      energiaftalen. Endelig fremsætter de et mål om at halvere CO2-aftrykket
+      fra nybyggeri af huse i 2030.
     </AboutBody>
-		<AboutMore href="#radikale-venstre">Mere...</AboutMore>
+    <AboutMore href="#radikale-venstre">Mere...</AboutMore>
 
     <AboutHeader3>Socialdemokratiet</AboutHeader3>
     <AboutBody>
@@ -174,27 +192,27 @@ export default () => (
       CO2-udledningen fra landbruget og samtidig udlægge 75.000 hektar af det
       danske areal til urørt skov.
     </AboutBody>
-		<AboutMore href="#socialdemokratiet">Mere...</AboutMore>
+    <AboutMore href="#socialdemokratiet">Mere...</AboutMore>
 
     <AboutHeader3>Alternativet</AboutHeader3>
     <AboutBody>
       Alternativet har en overordnet målsætning om, at Danmark skal være
-      fossilfrit i senest 2040. De forslår yderligere en række delmål: Mindst 60
+      fossilfrit senest i 2040. De forslår yderligere en række delmål: Mindst 60
       pct. reduktion i 2025, mindst 80 pct. reduktion i 2030 og mindst 95
       reduktion i 2035. Inden for transportområdet foreslår alternativet at
       udfase fossilbiler inden 2025 og foreslår samtidig en målsætning om, at
       den kollektive vej- og søtransport skal være fossilfri senest i 2025.
-      Indenfor boligområdet er deres målsætning, at Dansk byggeri skal
+      Inden for boligområdet er deres målsætning, at dansk byggeri skal
       energieffektivisere med 40 procent i 2030. Reduktion af landbrugets
-      klimabelastning foreslås reduceret med 66 pct. i 2035 sammenlignet med i
-      dag. Indenfor energiområdet ønsker Alternativet Danmarks indvindingen af
-      fossile brændsler afviklet over en 10-årig periode, samt udfase
-      førstegenerationsbiobrændsel inden 2025. Desuden ønsker Alternativet at
+      klimabelastning foreslås at nå 66 pct. i 2035 sammenlignet med i dag.
+      Inden for energiområdet ønsker Alternativet Danmarks indvinding af fossile
+      brændsler afviklet over en 10-årig periode, samt udfase
+      førstegenerations-biobrændsel inden 2025. Desuden ønsker Alternativet at
       investere i vedvarende energi, herunder særligt vindenergi. Endelig
-      formulere Alternativet også en række forslag der skal bidrage til en
+      formulerer Alternativet også en række forslag der skal bidrage til en
       adfærdsændring for den enkelte dansker.
     </AboutBody>
-		<AboutMore href="#alternativet">Mere...</AboutMore>
+    <AboutMore href="#alternativet">Mere...</AboutMore>
 
     <AboutHeader3>Regeringen</AboutHeader3>
     <AboutBody>
@@ -207,17 +225,135 @@ export default () => (
       tilsvarende biler i 2030. Indenfor landbrugsområdet ønsker regeringen at
       mindske luftforureningen og drivhusgasudledningen, og vil derfor gennem en
       række tiltag udbrede og forbedre løsninger inden for fx biogas,
-      præcisionslandbrug og jordfordeling. Inden for boligområdet er målet, at
+      præcisionslandbrug og jordfordeling. Mht. boligområdet er målet, at
       Danmark på sigt skal være uafhængigt af fossile brændsler. På kort sigt
       igangsættes en række initiativer med henblik på at udfase ældre brændeovne
       og klimaskadelige gasser i køleanlæg. På længere sigt vil regeringen
       formulere en strategi for at udvikle gassystemet, der skal bidrag til et
       klimaneutralt Danmark i 2050.
     </AboutBody>
-		<AboutMore href="#regeringen">Mere...</AboutMore>
+    <AboutMore href="#regeringen">Mere...</AboutMore>
 
-    <AboutHeader2 name="enhedslisten" href="#scenariodescriptions-top">Enhedslisten</AboutHeader2>
+    <AboutHeader3>Frozen policy scenario</AboutHeader3>
+    <AboutBody>
+      DTU Frozen Policy scenario er som Energistyrelsens basisfremskrivning. Det
+      indeholder alle allerede besluttede politikker, inklusiv den seneste
+      energiaftales, samt samme brændselspriser som anvendes af Energistyrelsen.
+      Dvs. et energiscenarie med fastlåst politik frem til 2050. Det antages, at
+      der udpeges områder til udbygning af havvindmøller i både øst og vest
+      Danmark, samt at udbuddet af el og hybrid biler i 2025 er på niveau med i
+      dagens udbud af benzin biler – dette kræver formentlig en klar udmelding
+      fra regeringen om at de ser elbiler som den fremtidige løsning i Danmark,
+      ellers vil bilproducenterne sandsynligvis ikke bringe nok el- og
+      hybridbiler på markedet i Danmark. Der er i modellen taget højde for
+      omkostninger til udbygning af infrastruktur til el- og gasbiler og
+      modellen bygger automatisk denne infrastruktur og dermed er det implicit
+      antaget at der er politisk opbakning til en sådan udbygning. Der er i
+      modellen antaget en maksimal udbygning af 6200 MW landvind, 50000 MW
+      havvind, 3000 MW bølgeenergi, 12000 MW tag solceller og 3000 MW mark
+      solcelleanlæg - det sidste svarende til et areal på ca. halvdelen af
+      Langeland. Scenariet inkluderer international bunkering fra shipping
+      industrien og international flytransport. Dvs. det inkluderer den danske
+      del af den internationale skibs- og flytrafik og tilhørende energiforbrug
+      og emissioner. Det er vigtigt at betragte hele den danske udledning af
+      drivhusgasser i forbindelse med dansk ansvar i en global klimaaftale.
+    </AboutBody>
+
+    <AboutHeader4>Målsætninger:</AboutHeader4>
+    <AboutBody>
+      <AboutList>
+        <li>55 % VE andel i 2030</li>
+        <li>Et grønt baseret el system i 2030</li>
+        <li>
+          Fjernvarmesektoren højst 10% af produktionen baseret på fossile
+          brændsler
+        </li>
+      </AboutList>
+    </AboutBody>
+
+    <AboutHeader4>Politikker:</AboutHeader4>
+    <AboutBody>
+      <AboutList>
+        <li>3 nye havvindmølle parker (estimeret til at bliver 2,6 GW).</li>
+        <li>
+          Landvind begrænses til et maksimalt antal møller (lineær reduktion fra
+          XX til 1850 møller i 2030)
+        </li>
+        <li>
+          4.2 Mia. DKK i teknologi neutral støtte i alt mellem 2020 og 2024
+        </li>
+        <li>
+          Statsstøtten til biomasse-kraftvarmeanlæg fjernes for nye anlæg fra
+          april 2019. Eksisterende ikke afskrevne anlæg modtager forsat støtte i
+          resterende levetid max 15/20 år.
+        </li>
+        <li>Støtte til biogas forlænges frem til 2032</li>
+        <li>Afgiftslempelse på elafgift</li>
+        <ul>
+          <li>El-varmeafgift sænkes til 15,5 øre/kWh</li>
+          <li>
+            Den almindelige elafgift sænkes med 4 øre/kWh i 2019-2022, 7 øre/kWh
+            i 2023, 8 øre/kWh i 2024 og 14 øre/kWh i 2025 (2018-priser). Som
+            følge af aftalen vil elafgiften således udgøre 77,4 øre/kWh i 2025
+            (2018-priser).
+          </li>
+          <li>Elafgift til liberale erhverv sænkes til proces sats</li>
+        </ul>
+        <li>
+          Udfasning af kul i el-produktion (giver en åbning for de centrale
+          kraftvarmeværker at fortsætte kul forbrænding til varmeproduktion)
+        </li>
+      </AboutList>
+    </AboutBody>
+    <AboutHeader4>Politikker endnu ikke implementeret i modellen:</AboutHeader4>
+    <AboutBody>
+      <AboutList>
+        <li>
+          500 mio. årligt til energibesparelser i industrien i perioden
+          2020-2024
+        </li>
+        <ul>
+          <li>200 mio. er øremærket til energibesparelser i bygninger</li>
+        </ul>
+        <li>
+          Fuld genopbygning af Thyra-anlæggene i Nordsøen, sikrer at de
+          resterende ressourcer hentes op fra undergrunden
+        </li>
+      </AboutList>
+    </AboutBody>
+
+    <AboutHeader3>Lav vækst scenario</AboutHeader3>
+    <AboutBody>
+      Er identisk med Frozen policy scenariet udover at den økonomiske aktivitet
+      i alle danske erhverv antages at stagnere fra 2030 og derefter have
+      nulvækst frem til 2050. Transportarbejdet antages ligeledes at stagnere
+      fra 2030. Scenariet er tænkt som illustration af hvor meget væksten i
+      økonomisk aktivitet betyder for energiforbrug og CO2 udledning.
+    </AboutBody>
+    <AboutHeader3>
+      Målsætnings-scenarier (Carbon budget 1.5C og Carbon budget 1.5C (bio))
+    </AboutHeader3>
+    <AboutBody>
+      Disse to scenarier adskiller sig fra de andre ved at være
+      målsætningsstyrede scenarier. Det eneste som styrer modellen her er et
+      krav om at Danmark ikke må udlede mere end 500 Mt CO2 frem til 2050,
+      hvilket svarer til hvad Danmark kan tillade sig at udlede under
+      Paris-aftalen. I scenariet med tilføjelsen (bio) er der desuden tilføjet
+      en restriktion om at Danmark ikke netto må importere biomasse efter 2030.
+      I disse scenarier inkluderer vi ikke skatter og afgifter og det er derfor
+      en ren samfundsøkonomisk optimering – dermed viser de den billigste
+      løsning for hvordan Danmark kan holde sig under de 500 Mt CO2 frem til
+      2050. Disse scenarier kan således bruges til at måle de andre såkaldte
+      politikscenarier mod.
+    </AboutBody>
+    <AboutHeader2 name="enhedslisten" href="#scenariodescriptions-top">
+      Enhedslisten
+    </AboutHeader2>
     <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
+    <AboutBody>
+      På nedenstående figur ses en reduktionskurve baseret på Enhedslistens
+      foreslåede tiltag frem til 2040.
+    </AboutBody>
     <AboutImage
       src="images/Enhedslisten_CO2.png"
       alt="SF´s reduktionskurve"
@@ -248,13 +384,13 @@ export default () => (
     </AboutBody>
     <AboutHeader4>
       Med henblik på at understøtte udfasningen af dieselbiler og benzinbiler
-      samt fremme eldrevne køretøjer
+      samt fremme eldrevne køretøjer ønsker Enhedslisten
     </AboutHeader4>
     <AboutBody>
       <AboutListB>
         <li>
-          At indføre et forbud mod salg af nye diesel i 2022. Brugte dieselbiler
-          skal fortsat kunne handles.
+          At indføre et forbud mod salg af nye dieselbiler i 2022. Brugte
+          dieselbiler skal fortsat kunne handles.
         </li>
         <li>
           At indføre et forbud mod salg af nye benzinbiler i 2025. Brugte
@@ -293,10 +429,10 @@ export default () => (
         </li>
         <li>
           At indfase elbiler i afgiftssystemet på lige fod med benzinbiler. De
-          undtages dog fra minimumsafgiften, og batterifradraget fast- holdes.
+          undtages dog fra minimumsafgiften, og batterifradraget fastholdes.
           Sammen med deres høje fradrag for god brændstoføkonomi betyder det, at
           der ikke skal betales registreringsafgift for langt de fleste små og
-          mellemstore elbiler. Fra 2026-2030 vil el- biler gradvist få udfaset
+          mellemstore elbiler. Fra 2026-2030 vil el-biler gradvist få udfaset
           batterifradraget og indfaset minimumssatsen. Dog vil mikro-elbiler
           fortsat være fritaget for minimumssatsen.
         </li>
@@ -331,8 +467,8 @@ export default () => (
       </AboutListB>
       <AboutList>
         <li>
-          At oprette en pulje på 250 millioner kr. over fem år gå til at
-          etablere gastanke bl.a. til lastbiler.
+          At oprette en pulje på 250 millioner kr. over fem år til at etablere
+          gastankstationer bl.a. til lastbiler.
         </li>
         <li>At sætte et krav om, at alle nye færger er eldrevne fra 2025. </li>
         <li>
@@ -359,14 +495,15 @@ export default () => (
       </AboutList>
       <AboutListB>
         <li>
-          At forbedre cykelinfrastrukturen skal forbedres, så det bliver mere
-          attraktivt at tage cyklen frem for bilen. Derfor afsættes en pulje på
-          en milliard kr. over fem år, som regioner og kommuner kan søge til
-          cykelprojekter.
+          At forbedre cykelinfrastrukturen, så det bliver mere attraktivt at
+          tage cyklen frem for bilen. Derfor afsættes en pulje på en milliard
+          kr. over fem år, som regioner og kommuner kan søge til cykelprojekter.
         </li>
       </AboutListB>
     </AboutBody>
-    <AboutHeader4>Med henblik på at fremme offetnlig transpoort</AboutHeader4>
+    <AboutHeader4>
+      Med henblik på at fremme offentlig transpoort ønsker Enhedslisten
+    </AboutHeader4>
     <AboutBody>
       <AboutListB>
         <li>
@@ -445,8 +582,8 @@ export default () => (
       </AboutList>
     </AboutBody>
     <AboutHeader4>
-      For at nå ovenstående målsætning foreslår Enhedslisten foreslår
-      enhedslisten at indføre en CO2 afgift{" "}
+      For at nå ovenstående målsætning foreslår enhedslisten at indføre en CO2
+      afgift{" "}
     </AboutHeader4>
     <AboutBody>
       <AboutList>
@@ -460,7 +597,7 @@ export default () => (
           foreslår Enhedslisten at oprette en pulje på 100 millioner kr., der
           skal gå til at omskoling og videreuddannelse til dem, som skal finde
           et andet erhverv. Provenuet fra afgiften føres tilbage til landmanden
-          med det formal at fremme bæredygtighed i produktionen. Det sker ud fra
+          med det formål at fremme bæredygtighed i produktionen. Det sker ud fra
           en fordelingsnøgle beregnet på baggrund af, hvor meget den enkelte
           bedrift udledte før indførelsen af afgiften. Jo mere man har mindsket,
           desto større kompensation. Provenuet fra afgiften vil falde i takt med
@@ -469,14 +606,15 @@ export default () => (
           sænket.
         </li>
         <li>
-          At udtage 108.000 hektar jorde med særligt høje kulstofindhold af
+          At udtage 108.000 hektar jorde med særligt højt kulstofindhold af
           drift frem mod 2030. Jordejerne skal kompenseres økonomisk for den
           tabte indtægt fra jorden.
         </li>
         <li>
-          Inklusiv de særligt klimabelastende jorde skal der udtages og omlægges
-          508.000 hektar landbrugsjord. Det svarer til 21 pct. af det danske
-          landbrugsareal eller et område godt halvanden gange større end Fyn.
+          Inklusiv de særligt klimabelastende jorde, skal der udtages og
+          omlægges 508.000 hektar landbrugsjord. Det svarer til 21 pct. af det
+          danske landbrugsareal eller et område godt halvanden gange større end
+          Fyn.
         </li>
         <li>
           At 100.000 hektar landbrugsjord omlægges til skov frem mod 2030. På
@@ -496,8 +634,8 @@ export default () => (
         <li>
           At tilbyde et årligt klimatjek til landmanden, der kortlægger
           bedriftens nuværende udledninger og hjælper med at lave en
-          klimahandlingsplan for, hvordan landmanden kan gøre sit land- brug
-          mere klimavenligt. Den grønne omstilling er et fælles ansvar, som den
+          klimahandlingsplan for, hvordan landmanden kan gøre sit landbrug mere
+          klimavenligt. Den grønne omstilling er et fælles ansvar, som den
           enkelte landmand ikke skal stå alene med. Det vil sammen med andre
           indsatser fremme klimavenlig markdrift og landbrugsudvikling, såsom
           biokul, permakultur og flere træer på landbrugsarealerne.
@@ -538,7 +676,7 @@ export default () => (
       <AboutList>
         <li>
           At fjerne det nuværende krav om at kommuner skal oprette et separat
-          selskab for hver bygning, hvor der etablere solceller. Samtidig
+          selskab for hver bygning, hvor der etableres solceller. Samtidig
           undtages kommunale energieffektiviseringer og udbygning af vedvarende
           energi fra budgetlovens begrænsning af kommunernes årlige
           anlægsudgifter.
@@ -546,10 +684,10 @@ export default () => (
         <li>
           At ligestille solceller med varmepumper, så det bliver muligt for
           private hjem at abonnere på solceller, som en ejer virksomhed og for
-          et månedligt beløb driver og vedligeholder.{" "}
+          et månedligt beløb driver og vedligeholder.
         </li>
         <li>
-          At undtaged store varmepumper for elafgiftsstigningen til 1 øre/kWh.{" "}
+          At undtage store varmepumper for elafgiftsstigningen til 1 øre/kWh.{" "}
         </li>
       </AboutList>
       <AboutListB>
@@ -567,14 +705,14 @@ export default () => (
           boliger i yderområderne.
         </li>
         <li>
-          At der udarbejdes en plan for, hvordan mængden af træ kan for- øges i
+          At der udarbejdes en plan for, hvordan mængden af træ kan forøges i
           offentlige byggerier.
         </li>
         <li>
           At bygningsreglementet opdateres, så bæredygtigt byggeri tilgodeses.
         </li>
         <li>
-          At der stille krav om livscyklusanalyse for alle større byggerier
+          At der stille krav om livscyklusanalyse for alle større byggerier.
         </li>
         <li>
           At der stilles krav om genanvendelse og livscyklusberegninger ved
@@ -601,7 +739,7 @@ export default () => (
     </AboutBody>
     <AboutHeader4>
       Med henblik på at udfase udvindingen af olie- og gasudvinding i Nordsøen
-      forslår Socialdemokratiet
+      forslår Enhedslisten
     </AboutHeader4>
     <AboutBody>
       <AboutList>
@@ -610,7 +748,7 @@ export default () => (
           gennemføres ikke flere udbudsrunder. Dermed lukker raffinaderierne på
           længere sigt. Indtil dette sker, skal selskaberne fra 2020 betale for
           deres CO2-kvoter, som de hidtil har fået gratis. Indtægten indgår i en
-          statslig skovfond til skovrejsning i det globale syd, som kan op- tage
+          statslig skovfond til skovrejsning i det globale syd, som kan optage
           CO2.{" "}
         </li>
       </AboutList>
@@ -698,7 +836,7 @@ export default () => (
       <AboutListB>
         <li>
           Øjeblikkeligt anlægsstop for nye fossile anlæg i virksomhederne.
-          Stoppet gælder også større renovationer, der vil forlænge levetiden af
+          Stoppet gælder også større renoveringer, der vil forlænge levetiden af
           fossile anlæg.
         </li>
         <li>
@@ -708,7 +846,12 @@ export default () => (
       </AboutListB>
     </AboutBody>
 
-    <AboutHeader2 name="socialistisk-folkeparti" href="#scenariodescriptions-top">Socialistisk Folkeparti</AboutHeader2>
+    <AboutHeader2
+      name="socialistisk-folkeparti"
+      href="#scenariodescriptions-top"
+    >
+      Socialistisk Folkeparti
+    </AboutHeader2>
     <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af SFs konkrete
@@ -717,7 +860,7 @@ export default () => (
     </AboutBody>
     <AboutBody>
       <AboutList>
-        <li>Transportens CO2-Udslip Skal – Og Vi Starter Nu</li>
+        <li>Transportens CO2-Udslip Skal Ned – Og Vi Starter Nu</li>
         <li>En Grøn Investeringsplan For Transportsektoren i 2020’erne</li>
         <li>En Ægte Klimaindsats i Landbruget</li>
       </AboutList>
@@ -775,8 +918,8 @@ export default () => (
           end 25 km/liter – opgjort efter EU’s nye målemetoder, jfr. Ovenfor.{" "}
         </li>
         <li>
-          Etablering af hurtigstandere ved bl.a. motorveje, centrale steder i
-          byerne, udvalgte tankstationer, hvoraf Staten finansierer 50% af en
+          Etablering af hurtigladestandere ved bl.a. motorveje, centrale steder
+          i byerne, udvalgte tankstationer, hvoraf Staten finansierer 50% af en
           årlig ramme på 40 mio. Kr. (For dette beløb vil der årligt kunne
           etableres 25-40 anlæg á 4-6 hurtigladestandere (150kW)). SF foreslår
           derudover at oprette p-pladser decideret til elbiler og samtidig
@@ -828,7 +971,7 @@ export default () => (
           Alle tunge køretøjer (varebiler og lastbiler) der ejes eller leases af
           eller udfører kontraktmæssige opgaver for det offentlige, skal være
           elektriske, køre på grøn gas el.lign. Der afsættes et beløb på 5.000
-          kr. pr. år pr. Køretøj.
+          kr. pr. år pr. køretøj.
         </li>
       </AboutList>
     </AboutBody>
@@ -1055,7 +1198,7 @@ export default () => (
           fødevare.{" "}
         </li>
         <li>
-          At nedsætte en fødevareklimakommission, der indenfor et år skal komme
+          At nedsætte en fødevareklimakommission, der inden for et år skal komme
           med forslag til, hvordan det klimavenlige valg gøres til det oplagte –
           dvs. lettilgængelige og ikke for dyre – valg, herunder hvordan man ad
           den vej kan øge indtaget af vegetabilsk kost.{" "}
@@ -1100,7 +1243,9 @@ export default () => (
       drivhusgasser omregnet til CO2-udledning)
     </AboutBody>
 
-    <AboutHeader2 name="radikale-venstre" href="#scenariodescriptions-top">Radikale Venstre</AboutHeader2>
+    <AboutHeader2 name="radikale-venstre" href="#scenariodescriptions-top">
+      Radikale Venstre
+    </AboutHeader2>
     <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af Radikale Venstres
@@ -1108,7 +1253,7 @@ export default () => (
       baseret på klimaudspillet ’Klimaet Kalder. Fremad’, samt deres udspil
       ’Klima 2030 – et grønt Danmark, der leder verden’.
     </AboutBody>
-    <AboutHeader3>Målsætninger for transport sektoren</AboutHeader3>
+    <AboutHeader3>Målsætninger for transportsektoren</AboutHeader3>
     <AboutBody>
       <AboutList>
         <li>
@@ -1170,7 +1315,7 @@ export default () => (
           eksempel kunne være gravkøer).{" "}
         </li>
         <li>
-          Fjerne storebæltstakten for elbiler og rene brintbiler indtil 2023.
+          Fjerne storebæltstaksten for elbiler og rene brintbiler indtil 2023.
           Desuden bør Danmark indlede en drøftelse med Sverige om at gøre det
           samme for Øresundsbroen.
         </li>
@@ -1309,7 +1454,7 @@ export default () => (
         </li>
         <li>
           At gøre installation af nye oliefyr forbudt fra 2020 og indføre et
-          forbud mod oliefyre i 2030. Installation af individuelle naturgasfyr
+          forbud mod oliefyr i 2030. Installation af individuelle naturgasfyr
           forbydes fra 2025.
         </li>
       </AboutListB>
@@ -1456,8 +1601,8 @@ export default () => (
       <AboutList>
         <li>CO2-aftrykket fra nybyggeri af huse skal halveres i 2030.</li>
         <li>
-          Henholdsvis 25 pct. og 50 pct. af nyt lavt byggeri og etetages byggeri
-          skal i 2030 opføres i træ.
+          Henholdsvis 25 pct. og 50 pct. af nyt lavt byggeri og et-etages
+          byggeri skal i 2030 opføres i træ.
         </li>
         <li>
           Halvdelen af cement til beton i huse skal have et 30 pct. lavere
@@ -1507,7 +1652,7 @@ export default () => (
       </AboutList>
     </AboutBody>
     <AboutHeader4>
-      Herunder foreslår de en række forslag for at må deres målsætninger om at
+      Herunder foreslår de en række forslag for at nå deres målsætninger om at
       fremme træ som byggemateriale
     </AboutHeader4>
     <AboutBody>
@@ -1593,14 +1738,16 @@ export default () => (
       </AboutList>
     </AboutBody>
 
-    <AboutHeader2 name="socialdemokratiet" href="#scenariodescriptions-top" >Socialdemokratiet</AboutHeader2>
+    <AboutHeader2 name="socialdemokratiet" href="#scenariodescriptions-top">
+      Socialdemokratiet
+    </AboutHeader2>
     <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       I nedenstående findes en mere uddybet beskrivelse af Socialdemokraterne
       konkrete målsætninger og virkemidler inden for klimaområdet. Det er
       baseret på klimaudspillet ’Danmark Skal Igen Være En Grøn Stormagt’.
     </AboutBody>
-    <AboutHeader3>Målsætninger for transport sektoren</AboutHeader3>
+    <AboutHeader3>Målsætninger for transportsektoren</AboutHeader3>
     <AboutBody>
       <AboutList>
         <li>
@@ -1621,30 +1768,38 @@ export default () => (
     <AboutBody>
       <AboutList>
         <li>
-          At den særligt lave elafgift ved opladning forlænges yderligere for al
-          vejtransport. Dermed sidestilles elbiler og eldrevne lastbiler med
-          elbusser, der i dag er tildelt den særligt lave afgift i en længere
-          periode.
+          <b>
+            At den særligt lave elafgift ved opladning forlænges yderligere for
+            al vejtransport. Dermed sidestilles elbiler og eldrevne lastbiler
+            med elbusser, der i dag er tildelt den særligt lave afgift i en
+            længere periode.
+          </b>
         </li>
         <li>
-          At staten finansierer tilslutningsbidrag for nye, hurtige
-          ladestandere, hvor elbiler kan lade nok på ti minutter til at køre
-          150-350 km.
+          <b>
+            At staten finansierer tilslutningsbidrag for nye, hurtige
+            ladestandere, hvor elbiler kan lade nok på ti minutter til at køre
+            150-350 km.
+          </b>
         </li>
         <li>
           Med inspiration fra Holland og Storbritannien at sænke
           firmabilbeskatningen for el- og opladningshybridbiler til hhv. 10 pct.
           og 15 pct.{" "}
         </li>
-        <li>At udskyde indfasningen af registreringsafgift på elbiler. </li>
+        <li>
+          <b>At udskyde indfasningen af registreringsafgift på elbiler.</b>
+        </li>
         <li>
           At give kommuner ret til et tilskud på 10.000 kr. til hver el- eller
           brintbil, de indkøber.
         </li>
         <li>
-          At stoppe for salg af nye dieselbiler fra 2030 og udfasning af
-          nuværende dieselbiler. På kort sigt ønskes gennemførsel af afgifter,
-          der vil gøre det mindre fordelagtigt at køre i dieselbil.{" "}
+          <b>
+            At stoppe for salg af nye dieselbiler fra 2030 og udfasning af
+            nuværende dieselbiler. På kort sigt ønskes gennemførsel af afgifter,
+            der vil gøre det mindre fordelagtigt at køre i dieselbil.{" "}
+          </b>
         </li>
         <li>
           At evaluere og stramme af eksisterende miljøregler, så de tager højde
@@ -1660,9 +1815,11 @@ export default () => (
     <AboutBody>
       <AboutList>
         <li>
-          At gennemføre den fulde elektrificering af jernbanestrækningerne, som
-          tidligere har været aftalt med Togfonden DK. Potentialet for
-          CO2­reduktion er ca. 170.000 ton pr. år.
+          <b>
+            At gennemføre den fulde elektrificering af jernbanestrækningerne,
+            som tidligere har været aftalt med Togfonden DK. Potentialet for
+            CO2­reduktion er ca. 170.000 ton pr. år.
+          </b>
         </li>
       </AboutList>
     </AboutBody>
@@ -1691,13 +1848,17 @@ export default () => (
     <AboutBody>
       <AboutList>
         <li>
-          Opførsel af to ekstra havvindmølleparker frem mod 2030, ud over de tre
-          der blev vedtaget med energiforliget 2018.{" "}
+          <b>
+            Opførsel af to ekstra havvindmølleparker frem mod 2030, ud over de
+            tre der blev vedtaget med energiforliget 2018.{" "}
+          </b>
         </li>
         <li>
-          Årlige udbud for landvind og solceller på 250 MW fra 2020-2030 for at
-          sikre en markant udbygning på land, hvor den vedvarende energi stadig
-          er billigst.{" "}
+          <b>
+            Årlige udbud for landvind og solceller på 250 MW fra 2020-2030 for
+            at sikre en markant udbygning på land, hvor den vedvarende energi
+            stadig er billigst.{" "}
+          </b>
         </li>
         <li>
           En ny udbudsmodel for vind- og solenergi der giver mere vedvarende
@@ -1865,15 +2026,17 @@ export default () => (
       </AboutList>
     </AboutBody>
 
-    <AboutHeader2 name="alternativet" href="#scenariodescriptions-top">Alternativet</AboutHeader2>
+    <AboutHeader2 name="alternativet" href="#scenariodescriptions-top">
+      Alternativet
+    </AboutHeader2>
     <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
-      I nedenstående findes en mere uddybet beskrivelse af Alternativets
+      I nedenstående findes en mere uddybende beskrivelse af Alternativets
       konkrete målsætninger og virkemidler inden for klimaområdet. Der er taget
       udgangspunkt i ’Alternativets Klimaplan 2030’ samt deres klimaudspil ’God
       Energi – Alternativets ambitioner for fremtidens bedste energipolitik’.
     </AboutBody>
-    <AboutHeader3>Målsætninger for transport sektoren</AboutHeader3>
+    <AboutHeader3>Målsætninger for transportsektoren</AboutHeader3>
     <AboutBody>
       <AboutList>
         <li>Fossilbiler skal udfases inden 2025.</li>
@@ -1914,16 +2077,16 @@ export default () => (
         <li>
           At indføre højere fradragsgrænse for benzin- og dieselbiler indtil der
           er indført en teknisk afgift, hvor man betaler for bilens forurening.
-          Konkret forslået det at man i første omgang bør hæve grænsen for,
-          hvornår biler kan få fradrag i registreringsafgiften, således at den
-          kun omfatter biler, der som minimum er i energiklasse A++. Samtidig
-          hæves tillægget for biler, der kører under grænsen, til 6.000 kr. pr.
-          km. under grænsen. Ændringen af grænsen forventes at medføre et
-          merprovenu på omkring 1 mia. kr. om året.
+          Konkret foreslås at man i første omgang bør hæve grænsen for, hvornår
+          biler kan få fradrag i registreringsafgiften, således at den kun
+          omfatter biler, der som minimum er i energiklasse A++. Samtidig hæves
+          tillægget for biler, der kører under grænsen, til 6.000 kr. pr. km.
+          under grænsen. Ændringen af grænsen forventes at medføre et merprovenu
+          på omkring 1 mia. kr. om året.
         </li>
         <li>
           At hæve brændstofafgifterne således at benzinafgift hæves fra 4,61
-          kr./lt. Til 6 kr./lt. mens dieselafgift hæves fra 3,5 kr./lt. til 4,32
+          kr./lt. til 6 kr./lt. mens dieselafgift hæves fra 3,5 kr./lt. til 4,32
           kr./lt.
         </li>
       </AboutListB>
@@ -1932,7 +2095,7 @@ export default () => (
       <AboutList>
         <li>
           I forlængelse heraf foreslår Alternativet også at oprette en pulje på
-          30 mio. kr., til at finansiere det nuværende tilsutningbidrag for
+          30 mio. kr., til at finansiere det nuværende tilslutningbidrag for
           opsætning af ladestationer. Generelt ønsker Alternativet at arbejde
           for bedre forhold for elbilsejere, fx ved at tilbyde gratis parkering
           til elbiler i byområder.
@@ -1978,10 +2141,9 @@ export default () => (
     <AboutBody>
       <AboutListB>
         <li>
-          Desuden ønskes det at gøre cykelpuljen permanent fra 2020 og de
-          kommende årtier frem, og samtidig udvide den med 50 millioner kr.
-          ekstra årligt. Dette vil betyde en investering på 200 mio. Kr. årligt
-          til cykelstier mm.
+          Cykelpuljen skal gøres permanent fra 2020 og de kommende årtier frem,
+          og samtidig udvide den med 50 millioner kr. ekstra årligt. Dette vil
+          betyde en investering på 200 mio. Kr. årligt til cykelstier mm.
         </li>
       </AboutListB>
     </AboutBody>
@@ -2009,22 +2171,22 @@ export default () => (
         <li>
           Med inspiration fra Sverige, at indføre en klimaafgift. Den svendske
           model kræver, at flyselskaber betaler:60 svenske kroner i gebyr pr.
-          passager ved rejser inden for Europa,250 svenske kroner i gebyr pr.
+          passager ved rejser inden for Europa, 250 svenske kroner i gebyr pr.
           passager ved mellemlange rejser, 400 svenske kroner i gebyr pr.
           passager ved oversøiske rejser.
+        </li>
+        <li>
+          Samtidig foreslås det at indføre en klimaafgift på flyrejser på 80 kr.
+          pr. flyvning fra danske lufthavne, fordi billige flyrejser er dyrt for
+          klimaet og giver et stort minus på den bundlinje. Flyskatten vil være
+          progressiv, således at den fordobles ved anden rejse på et år,
+          tredobles ved tredje rejse osv. Der ønskes dog en øvre grænse for
+          afgiftens størrelse.
         </li>
       </AboutListB>
     </AboutBody>
     <AboutBody>
       <AboutList>
-        <li>
-          Samtidig foreslås det at indføre en klimaafgift på flyrejser på 80 kr.
-          pr. flyvning fra danske lufthavne, fordi billige grønne flyrejser er
-          dyrt for klimaet og giver et stort minus på den bundlinje. Flyskatten
-          vil være progressiv, således at den fordobles ved anden rejse på et
-          år, tredobles ved tredje rejse osv. Der ønskes dog en øvre grænse for
-          afgiftens størrelse.
-        </li>
         <li>
           Det foreslås desuden, at der stilles krav om at alle
           indenrigsflyvninger skal være eldrevne fra 2040.
@@ -2036,7 +2198,7 @@ export default () => (
       <AboutList>
         <li>Dansk byggeri skal energieffektivisere med 40 procent i 2030.</li>
         <li>
-          Desuden foreslår alternativet en række forslag med henblik på at sikre
+          Desuden foreslår Alternativet en række forslag med henblik på at sikre
           at flere bygninger forsynes med vedvarende energi, udfase brugen af
           brændeovne, samt fremme brugen af træ som bæredygtigt materiale i nyt
           byggeri
@@ -2098,7 +2260,7 @@ export default () => (
       </AboutList>
     </AboutBody>
     <AboutHeader4>
-      Alternativet foreslår en række konkrete forslag, der skal sikre, at flere
+      Alternativet har en række konkrete forslag, der skal sikre, at flere
       bygninger forsynes med vedvarende energi
     </AboutHeader4>
     <AboutBody>
@@ -2174,7 +2336,7 @@ export default () => (
         </li>
       </AboutList>
     </AboutBody>
-    <AboutHeader4>Målsætninger indenfor landbrugssektoren</AboutHeader4>
+    <AboutHeader4>Tiltag inden for landbrugssektoren</AboutHeader4>
     <AboutBody>
       <AboutList>
         <li>
@@ -2240,9 +2402,9 @@ export default () => (
           udelukkende benytte avancerede biobrændsler.{" "}
         </li>
         <li>
-          Desuden foreslå Alternativet en række forslår, der skal fremme
-          vedvarende energi, samt en række forslag med henblik på bedre
-          udnyttelsen af overskudsvarme.
+          Desuden har Alternativet en række forslag, der skal fremme vedvarende
+          energi, samt en række forslag med henblik på bedre udnyttelsen af
+          overskudsvarme.
         </li>
       </AboutList>
     </AboutBody>
@@ -2295,8 +2457,7 @@ export default () => (
       </AboutList>
     </AboutBody>
     <AboutHeader4>
-      Alternativet foreslår desuden en række forslag med henblik på at fremme
-      vedvarende energi
+      Alternativet foreslår med henblik på at fremme vedvarende energi
     </AboutHeader4>
     <AboutBody>
       <AboutListB>
@@ -2326,21 +2487,22 @@ export default () => (
           i fem år.{" "}
         </li>
         <li>
-          Fremme geometri ved at fjerne kraftvarmekravet, ligestille geometri og
-          biomasse og give geometri forrang for affald og fossilenergi i
-          varmeområdet.{" "}
+          Fremme geotermi ved at fjerne kraftvarmekravet, ligestille geotermi og
+          biomasse og give geotermi forrang for affald og fossilenergi i
+          varmeområdet.
         </li>
         <li>
           Udbygge biogasanlæg så gylle og grønt affald kan omdannes til biogas
-          og jordforbedringsmiddel frem for at blive spredt direkte eller blive
-          forbrændt. Tilmed foreslås naturgas gradvist udfaset{" "}
+          og jordforbedringsmiddel frem for at blive spredt direkte eller gå til
+          forbrænding.
         </li>
+        <li>Naturgas foreslås gradvist udfaset.</li>
         <li>
           Derudover foreslår Alternativet at fjerne dobbeltbeskatningen af
           overskudsvarme, fritage overskudsvarmen fra varmeforsyningslovens
-          prisbestemmelser samt sikre afgiftsfrihed for de virksomheder, der vil
-          forære varmen væk. Alternativet forslår konkret at der afsættes knap
-          en milliard i perioden 2018 – 2021 til implementeringen af
+          prisbestemmelser, samt sikre afgiftsfrihed for de virksomheder, der
+          vil forære varmen væk. Alternativet forslår konkret at der afsættes
+          knap en milliard i perioden 2018 – 2021 til implementeringen af
           individuelle og kollektive varmepumper. Desuden forslår Alternativet
           at gøre eltariffer for fjernvarmen omkostningsægte, således at
           betaling for transport og levering af energien komme til at afspejle
@@ -2349,8 +2511,8 @@ export default () => (
       </AboutList>
     </AboutBody>
     <AboutHeader4>
-      Alternativet foreslår en række forslag, der tilsammen skal forbedre
-      udnyttelsen af overskudsvarme
+      Alternativet har en række forslag, der tilsammen skal forbedre udnyttelsen
+      af overskudsvarme
     </AboutHeader4>
     <AboutBody>
       <AboutList>
@@ -2383,13 +2545,13 @@ export default () => (
           At oprettelse af en energitestzone på Bornholm, hvor det er muligt at
           teste energiløsninger.{" "}
         </li>
-        <li>At genindførsel af PSO-afgiften.</li>
+        <li>At genindføre PSO-afgiften.</li>
         <li>
-          At genindførsel af en forsimplet udgave af Grønne Regnskaber, der
-          fokuserer på virksomhedens drivhusgasudledning. Den brede offentlighed
-          skal have adgang til information om virksomhedernes samlede
-          klimabelastning, og større virksomheder skal forpligtes til at
-          udarbejde grønne regnskaber.
+          At genindføre en forsimplet udgave af Grønne Regnskaber, der fokuserer
+          på virksomhedens drivhusgasudledning. Den brede offentlighed skal have
+          adgang til information om virksomhedernes samlede klimabelastning, og
+          større virksomheder skal forpligtes til at udarbejde grønne
+          regnskaber.
         </li>
         <li>
           Indførsel af en CO2e-skat for at implementere princippet om, at
@@ -2461,16 +2623,17 @@ export default () => (
       </AboutList>
     </AboutBody>
 
-    <AboutHeader2 name="regeringen" href="#scenariodescriptions-top">Regeringen</AboutHeader2>
+    <AboutHeader2 name="regeringen" href="#scenariodescriptions-top">
+      Regeringen
+    </AboutHeader2>
     <AboutBackToTop href="#scenariodescriptions-top">Tilbage</AboutBackToTop>
     <AboutBody>
       Nedenfor findes en mere uddybet beskrivelse af Regeringens konkrete
       målsætninger og virkemidler inden for klimaområdet. Der er taget
       udgangspunkt i Klima- og luftudspillet ’Sammen om en grønnere fremtid’,
-      samt energiaftalen 2018. Nederst findes der en oversigt over regeringens
-      nylige transportudspil.{" "}
+      Energiaftalen 2018 samt regeringens seneste transportudspil.
     </AboutBody>
-    <AboutHeader3>Målsætninger for transport sektoren</AboutHeader3>
+    <AboutHeader3>Målsætninger for transportsektoren</AboutHeader3>
     <AboutBody>
       <AboutList>
         <li>
@@ -2483,11 +2646,9 @@ export default () => (
         </li>
       </AboutList>
     </AboutBody>
-    <AboutHeader4>
-      For at nå denne målsætning vil regeringen ønsker regeringen at
-    </AboutHeader4>
+    <AboutHeader4>For at nå denne målsætning ønsker regeringen at</AboutHeader4>
     <AboutBody>
-      <AboutList>
+      <AboutListB>
         <li>
           Stoppe for salg af nye benzin- og dieselbiler fra 2030. Samtidig er
           det regeringens mål, at der fra 2035 heller ikke længere sælges
@@ -2500,18 +2661,24 @@ export default () => (
           udgør 40.000 kr. og 77.500 kr. i 2020. Regeringen vil samtidig udskyde
           indfasningen af registreringsafgiften med ét år.
         </li>
+      </AboutListB>
+      <AboutList>
         <li>
           For at gøre grønne biler (fx el- eller plug-in hybridbiler) mere
           attraktive som firmabil og styrke markedet for brugte biler vil
           regeringen i en periode indføre et fradrag i beskatningsgrundlaget for
           de grønne biler på 30.000 kr.{" "}
         </li>
+      </AboutList>
+      <AboutListB>
         <li>
           Afsætte en pulje på i alt 80 mio. kr. til hurtigladestandere, hvoraf
           20 mio. kr. øremærkes hurtigladestandere på statsvejnettet, og 60 mio.
           kr. øremærkes til det kommunale vejnet med særligt fokus på trafikale
           knudepunkter.
         </li>
+      </AboutListB>
+      <AboutList>
         <li>
           Give kommunerne friere rammer til selv at give rabat til nul- og
           lavemissionsbiler.
@@ -2539,11 +2706,15 @@ export default () => (
           skrotpræmien for ældre dieselbiler. Ejere af gamle dieselbiler fra før
           2006 vil således kunne få en skrotpræmie på 5000 kr.
         </li>
+      </AboutList>
+      <AboutListB>
         <li>
           Forhøje kravet for iblanding af biobrændstoffer i benzin og diesel til
           8 pct. Det bidrager også̊ til, at Danmark kan opfylde sit EU-mål for
           vedvarende energi i transportsektoren i 2020.{" "}
         </li>
+      </AboutListB>
+      <AboutList>
         <li>
           For at skabe renere luft til danskerne vil regeringen give de fem
           største danske byer mulighed for at indføre miljøzoner med skærpede
@@ -2586,7 +2757,7 @@ export default () => (
     <AboutBody>
       <AboutList>
         <li>
-          Styrke dem forsatte reducering af drivhusgasudledningen fra
+          Styrke den forsatte reducering af drivhusgasudledningen fra
           landbruget.
         </li>
         <li>
@@ -2611,7 +2782,7 @@ export default () => (
           Blandt andet skal udvalget undersøge, hvordan ammoniakreducerende
           teknologi kan fremmes via støttemodeller, pilotordninger eller
           lignende. Allerede nu afsættes en pulje til konkrete tiltag, der skal
-          anvendes til at følge op på udvalgets arbejde. I alt afsættes 160 mio.
+          anvendes til at følge op på udvalgets arbejde. Ialt afsættes 160 mio.
           kr. til indsatsen.
         </li>
         <li>
@@ -2625,9 +2796,7 @@ export default () => (
         </li>
       </AboutList>
     </AboutBody>
-    <AboutHeader4>
-      For at nå denne målsætning vil regeringen ønsker regeringen at
-    </AboutHeader4>
+    <AboutHeader4>For at nå denne målsætning ønsker regeringen at</AboutHeader4>
     <AboutBody>
       <AboutList>
         <li>
@@ -2710,7 +2879,7 @@ export default () => (
           adfærds- og forbrugereksperter og i dialog med erhvervslivet. Desuden
           vil regeringen brede klimaengagementet ud til danskere i alle
           aldersgrupper gennem undervisningsinitiativer og folkelige
-          aktiviteter. Regeringen vil lancere KLIMA-ETS PRIS, der årligt skal
+          aktiviteter. Regeringen vil lancere KLIMAETS PRIS, der årligt skal
           gives til det bedste danske klimainitiativ.
         </li>
         <li>
@@ -2724,7 +2893,6 @@ export default () => (
         </li>
       </AboutList>
     </AboutBody>
-    <AboutHeader3>Regeringens transportudspillet</AboutHeader3>
     <AboutBody>
       De tiltag som regeringen har fremlagt i deres klima- og luftudspil ”Sammen
       om en grønnere fremtid”, vil, ifølge regeringen beregninger, reducere
@@ -2739,10 +2907,10 @@ export default () => (
     <AboutBody>
       Ud over ovenstående, er dele af den nylige aftale om et sammenhængende
       Danmark også medtaget i scenarierne. Med aftalen opnåede Regeringen og
-      Dansk Folkeparti enige om en samlet og fuldt finansieret investeringsplan
-      for transportsektoren i perioden 2021-2030. Aftalen forventes at resultere
-      i, at der samlet set investeres i alt 112,7 mia. kr. på
-      transportinfrastrukturområdet. I aftalen omfatter investering i ny
+      Dansk Folkeparti enighed om en samlet og fuldt finansieret
+      investeringsplan for transportsektoren i perioden 2021-2030. Aftalen
+      forventes at resultere i, at der samlet investeres i alt 112,7 mia. kr. på
+      transportinfrastrukturområdet. Aftalen omfatter investering i ny
       infrastruktur, udbygning af eksisterende infrastruktur, vedligeholdelse
       samt en række puljer.
     </AboutBody>
@@ -2811,7 +2979,7 @@ export default () => (
         </li>
       </AboutList>
     </AboutBody>
-    <AboutHeader4>Regeringen planlægger desuden at</AboutHeader4>
+    <AboutHeader4>Regeringen planlægger desuden:</AboutHeader4>
     <AboutBody>
       <AboutList>
         <li>
@@ -2901,7 +3069,7 @@ export default () => (
       </AboutList>
     </AboutBody>
     <AboutHeader4>
-      Regeringen og Dansk Folkeparti opnåede desuden enige om at iværksætte
+      Regeringen og Dansk Folkeparti opnåede desuden enighed om at iværksætte
       konkrete projekter, som sigter på at styrke den regionale opkobling på
       hovedstrækningerne. Aftaleparterne har således besluttet at igangsætte en
       række konkrete projekter på de øvrige statsveje i perioden 2021-2030. Der

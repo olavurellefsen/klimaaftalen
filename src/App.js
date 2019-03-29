@@ -170,7 +170,7 @@ export class App extends React.Component {
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>
-				<Route path='/tab6' render={()=><ChartsTab5 
+				<Route path='/tab6' render={()=><ChartsTab6 
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>

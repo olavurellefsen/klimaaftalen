@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { VictoryChart, VictoryLabel, VictoryLegend, VictoryGroup, VictoryStack, VictoryTheme, VictoryAxis, VictoryBar, VictoryLine, VictoryTooltip } from 'victory';
 import stackedBar from '../data/stackedBarTab2';
-import line from '../data/line';
+import line from '../data/lineTab2';
 
 const ChartHeader = styled(VictoryLabel) `
   text-anchor: start;

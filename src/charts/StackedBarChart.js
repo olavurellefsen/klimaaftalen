@@ -84,7 +84,7 @@ class StackedBarChart extends React.Component {
             axisLabelComponent={<VictoryLabel dx={120} />}
             key={2}
             offsetX={80}
-            tickFormat={(t) => (t * this.props.maxY / this.props.divideValues)}
+            tickFormat={(t) => `${this.props.YPercentage === false ? (t * this.props.maxY / this.props.divideValues) : (t * 100 / this.props.divideValues) + '%'}`}
             tickValues={[0, 0.25, 0.5, 0.75]}
             label={this.props.label}
           />
@@ -241,6 +241,7 @@ StackedBarChart.propTypes = {
   label: PropTypes.string.isRequired,
   divideValues: PropTypes.number,
   label2: PropTypes.string,
+  YPercentage: PropTypes.bool,
   Y2Percentage: PropTypes.bool
 }
 

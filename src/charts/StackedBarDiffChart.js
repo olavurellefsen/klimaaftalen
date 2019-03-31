@@ -149,6 +149,9 @@ class StackedBarChart extends React.Component {
                 if(isNaN(maxValue)) {
                   return 0;
                 }
+                if(this.props.YPercentage) {
+                  return Math.round(t*maxValue*100/this.props.divideValues,0)+"%"
+                }
                 return Math.round(t*maxValue/this.props.divideValues,0)
               }
             }
@@ -199,7 +202,7 @@ class StackedBarChart extends React.Component {
                       chartGroupValue => (
                         {...chartGroupValue, 
                           label: 'Difference: ' + chartGroup.indicatorGroup + ': ' +
-                          (chartGroupValue.total/this.props.divideValues).toFixed(2) }
+                          this.props.YPercentage===true ? (chartGroupValue.total*100/this.props.divideValues).toFixed(0) + "%" : (chartGroupValue.total/this.props.divideValues).toFixed(2) }
                       )
                     )}
                     x='year'
@@ -241,7 +244,8 @@ class StackedBarChart extends React.Component {
 }
 
 StackedBarChart.defaultProps = {
-  divideValues: 1
+  divideValues: 1,
+  YPercentage: false
 }
 
 StackedBarChart.propTypes = {
@@ -257,6 +261,7 @@ StackedBarChart.propTypes = {
   label: PropTypes.string.isRequired,
   divideValues: PropTypes.number,
   label2: PropTypes.string,
+  YPercentage: PropTypes.bool,
   Y2Percentage: PropTypes.bool
 }
 

@@ -3,13 +3,13 @@
 exports[`should render correctly 1`] = `
 <div>
   <div
-    class="sc-kIPQKe fPsEcM"
+    class="sc-ibxdXY gnXAhe"
   >
     <div
-      class="sc-eXEjpC kQBkuZ"
+      class="sc-RefOD gjJyDu"
     >
       <div
-        class="sc-ibxdXY ezoZge"
+        class="sc-iQKALj kNDlhH"
       >
         <div
           class="sc-htoDjs bLeWKd"
@@ -193,17 +193,22 @@ exports[`should render correctly 1`] = `
               Scenarie difference
             </div>
           </div>
+          <div
+            class="sc-kgoBCf fGrdys"
+          >
+            (rød minus grøn)
+          </div>
           <hr
             class="sc-jTzLTM jHbkL"
           />
           <div
-            class="sc-kgoBCf vjNnD"
+            class="sc-kGXeez bkErUK"
           >
             <div
-              class="sc-kGXeez kpGRfT"
+              class="sc-kpOJdX cuyqUm"
             >
               <a
-                class="sc-kpOJdX bTclEz"
+                class="sc-dxgOiQ ifDKzk"
                 href="http://www.tokni.com"
               >
                 Online version by Tokni
@@ -212,39 +217,39 @@ exports[`should render correctly 1`] = `
           </div>
         </div>
         <div
-          class="sc-dxgOiQ aOZsx"
+          class="sc-ckVGcZ ktdxLt"
         >
           <div
-            class="sc-jKJlTe bVrMRu"
+            class="sc-eNQAEJ hJaTUO"
           >
             <img
               alt="logo"
-              class="sc-ckVGcZ eBNTSI"
+              class="sc-jKJlTe hyNJgo"
               src="./images/dtulogo_white.png"
             />
             <div
-              class="sc-hMqMXs kVlzTC"
+              class="sc-kEYyzF jeZPim"
             >
               <a
-                class="sc-kEYyzF chuCrC"
+                class="sc-kkGfuU egOWIJ"
                 href="/about"
               >
                 Om
               </a>
               <a
-                class="sc-kEYyzF chuCrC"
+                class="sc-kkGfuU egOWIJ"
                 href="/beskrivelser"
               >
                 Beskrivelse
               </a>
               <a
-                class="sc-kEYyzF chuCrC"
+                class="sc-kkGfuU egOWIJ"
                 href="/forudsaetninger"
               >
                 Forudsætn.
               </a>
               <a
-                class="sc-kEYyzF chuCrC"
+                class="sc-kkGfuU egOWIJ"
                 href="/abonner"
               >
                 Abonnér
@@ -252,10 +257,10 @@ exports[`should render correctly 1`] = `
             </div>
           </div>
           <hr
-            class="sc-eNQAEJ bzHtPI"
+            class="sc-hMqMXs ViLCD"
           />
           <div
-            class="sc-kkGfuU cyKhUy"
+            class="sc-iAyFgw gPDhun"
           >
             <div
               class="sc-bdVaJa donHvk"
@@ -334,10 +339,10 @@ exports[`should render correctly 1`] = `
             </div>
           </div>
           <hr
-            class="sc-eNQAEJ bzHtPI"
+            class="sc-hMqMXs ViLCD"
           />
           <div
-            class="sc-iAyFgw bCXNOn"
+            class="sc-hSdWYo jSOGuA"
           >
             <label
               class="sc-EHOje ehlzez"
@@ -351,13 +356,13 @@ exports[`should render correctly 1`] = `
               />
             </label>
             <div
-              class="sc-hSdWYo hMmyvM"
+              class="sc-eHgmQL gZovTX"
             >
               CCS
             </div>
           </div>
           <div
-            class="sc-iAyFgw bCXNOn"
+            class="sc-hSdWYo jSOGuA"
           >
             <label
               class="sc-EHOje ehlzez"
@@ -371,22 +376,27 @@ exports[`should render correctly 1`] = `
               />
             </label>
             <div
-              class="sc-hSdWYo ECTtu"
+              class="sc-eHgmQL gNzVLZ"
             >
               Scenarie difference
             </div>
           </div>
+          <div
+            class="sc-cvbbAY gLXdSs"
+          >
+            (rød minus grøn)
+          </div>
           <hr
-            class="sc-eNQAEJ bzHtPI"
+            class="sc-hMqMXs ViLCD"
           />
           <div
-            class="sc-eHgmQL klZHEp"
+            class="sc-jWBwVP bvHFIs"
           >
             <div
-              class="sc-cvbbAY bTGJWn"
+              class="sc-brqgnP hRQGAY"
             >
               <a
-                class="sc-jWBwVP leZXIg"
+                class="sc-cMljjf jlqEdc"
                 href="http://www.tokni.com"
               >
                 Developed by Tokni
@@ -397,113 +407,113 @@ exports[`should render correctly 1`] = `
       </div>
     </div>
     <div
-      class="sc-eXEjpC kQBkuZ"
+      class="sc-RefOD gjJyDu"
     >
       <div
-        class="sc-ibxdXY ezoZge"
+        class="sc-iQKALj kNDlhH"
       >
         <div
-          class="sc-brqgnP gaLkNO"
+          class="sc-jAaTju cFXzWC"
         >
           <a
-            class="sc-cMljjf fEuXyz"
+            class="sc-jDwBTQ hwbYoV"
             href="/"
           >
             Overblik
           </a>
           <a
-            class="sc-cMljjf bfdaYR"
+            class="sc-jDwBTQ fLGBEF"
             href="/tab2"
           >
             Hovedresultater
           </a>
           <a
-            class="sc-cMljjf bfdaYR"
+            class="sc-jDwBTQ fLGBEF"
             href="/tab3"
           >
             Forsyningssektoren
           </a>
           <a
-            class="sc-cMljjf bfdaYR"
+            class="sc-jDwBTQ fLGBEF"
             href="/tab4"
           >
             Transportsektoren
           </a>
           <a
-            class="sc-cMljjf bfdaYR"
+            class="sc-jDwBTQ fLGBEF"
             href="/tab5"
           >
             Industri
           </a>
           <a
-            class="sc-cMljjf bfdaYR"
+            class="sc-jDwBTQ fLGBEF"
             href="/tab6"
           >
             Husholdninger
           </a>
         </div>
         <div
-          class="sc-jAaTju fIaQsr"
+          class="sc-gPEVay cTCudI"
         >
           <a
-            class="sc-jDwBTQ fBKydN"
+            class="sc-iRbamj fRDynO"
             href="/"
           >
             Overblik
           </a>
           <a
-            class="sc-jDwBTQ kCNSMn"
+            class="sc-iRbamj ehXWjA"
             href="/tab2"
           >
             Resultater
           </a>
           <a
-            class="sc-jDwBTQ kCNSMn"
+            class="sc-iRbamj ehXWjA"
             href="/tab3"
           >
             Forsyning
           </a>
           <a
-            class="sc-jDwBTQ kCNSMn"
+            class="sc-iRbamj ehXWjA"
             href="/tab4"
           >
             Transport
           </a>
           <a
-            class="sc-jDwBTQ kCNSMn"
+            class="sc-iRbamj ehXWjA"
             href="/tab5"
           >
             Industri
           </a>
           <a
-            class="sc-jDwBTQ kCNSMn"
+            class="sc-iRbamj ehXWjA"
             href="/tab6"
           >
             Husholdninger
           </a>
         </div>
         <div
-          class="sc-bRBYWo huVFTE"
+          class="sc-jhAzac qKGkI"
         >
           <div
-            class="sc-gPEVay dFhEZa"
+            class="sc-jlyJG dSudxf"
           >
             <div
-              class="sc-iRbamj gysduW"
+              class="sc-gipzik gguhBx"
             >
               <p
-                class="sc-jlyJG fOsVYL"
+                class="sc-csuQGl OWiJr"
               >
                 Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2019. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.
               </p>
               <p
-                class="sc-jlyJG fOsVYL"
+                class="sc-csuQGl OWiJr"
               >
                 De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Scenario beskrivelserne og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op.
               </p>
             </div>
             <div
-              class="sc-gipzik hjmemh"
+              class="sc-Rmtcm cVQeSV"
             >
               <span
                 class="octicon octicon-x"
@@ -511,7 +521,7 @@ exports[`should render correctly 1`] = `
             </div>
           </div>
           <div
-            class="sc-hzDkRC bbmcQr"
+            class="sc-fBuWsC hQUzLg"
           >
             <div>
               <div
@@ -527,7 +537,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-csuQGl jUTWGK"
+                    class="sc-bRBYWo bhbhaz"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -2733,7 +2743,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-csuQGl jUTWGK"
+                    class="sc-bRBYWo bhbhaz"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -6619,7 +6629,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-csuQGl jUTWGK"
+                    class="sc-bRBYWo bhbhaz"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -7329,7 +7339,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-csuQGl jUTWGK"
+                    class="sc-bRBYWo bhbhaz"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -8319,7 +8329,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-csuQGl jUTWGK"
+                    class="sc-bRBYWo bhbhaz"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -8724,7 +8734,7 @@ exports[`should render correctly 1`] = `
                           text-anchor="end"
                           x="67"
                         >
-                          0
+                          0%
                         </tspan>
                       </text>
                     </g>
@@ -8763,7 +8773,7 @@ exports[`should render correctly 1`] = `
                           text-anchor="end"
                           x="67"
                         >
-                          0.25
+                          25%
                         </tspan>
                       </text>
                     </g>
@@ -8802,7 +8812,7 @@ exports[`should render correctly 1`] = `
                           text-anchor="end"
                           x="67"
                         >
-                          0.5
+                          50%
                         </tspan>
                       </text>
                     </g>
@@ -8841,7 +8851,7 @@ exports[`should render correctly 1`] = `
                           text-anchor="end"
                           x="67"
                         >
-                          0.75
+                          75%
                         </tspan>
                       </text>
                     </g>

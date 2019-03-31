@@ -12,6 +12,7 @@ import ChartsTab2 from './charts/ChartsTab2'
 import ChartsTab3 from './charts/ChartsTab3'
 import ChartsTab4 from './charts/ChartsTab4'
 import ChartsTab5 from './charts/ChartsTab5'
+import ChartsTab6 from './charts/ChartsTab6'
 import About from './pages/About'
 import ScenarioDescriptions from './pages/ScenarioDescriptions'
 import Prerequisites from './pages/Prerequisites'
@@ -166,6 +167,10 @@ export class App extends React.Component {
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>
                 <Route path='/tab5' render={()=><ChartsTab5 
+                  scenarioSelection={this.state}
+                  closeWelcome={this.CloseWelcomeWidget}
+                />}/>
+				<Route path='/tab6' render={()=><ChartsTab6 
                   scenarioSelection={this.state}
                   closeWelcome={this.CloseWelcomeWidget}
                 />}/>

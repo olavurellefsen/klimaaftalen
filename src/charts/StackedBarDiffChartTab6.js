@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import {VictoryChart, VictoryLabel, VictoryLegend, VictoryGroup, VictoryStack, VictoryTheme, VictoryAxis, VictoryBar, VictoryLine, VictoryTooltip} from 'victory';
-import stackedBar from '../data/stackedBarTab2';
-import line from '../data/lineTab2';
+import stackedBar from '../data/stackedBarTab6';
+import line from '../data/line';
 
 const ChartHeader = styled(VictoryLabel)`
   text-anchor: start;

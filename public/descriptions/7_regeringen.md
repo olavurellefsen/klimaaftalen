@@ -101,7 +101,7 @@ De tiltag som regeringen har fremlagt i deres klima- og luftudspil &quot;Sammen 
 - ** Parterne er enige om at prioritere 251 mio. kr. (2019-pl) til etablering af 2 perronspor på Glostrup station. Projektet igangsættes i fase 2.**
 - ** Parterne er enige om at afsætte 52 mio. kr. (2019-pl) i 2022 som tilskud til etablering af Ny Ellebjerg Station.**
 
-#### Regeringen og Dansk Folkeparti opnåede desuden enighed om at iværksætte konkrete projekter, som sigter på at styrke den regionale opkobling på hovedstrækningerneAftaleparterne har således besluttet at igangsætte en række konkrete projekter på de øvrige statsveje i perioden 2021-2030. Der investeres et samlet beløb på 50,2-51,9 mia. kr. Aftalepartnerne er enige om følgende**
+#### Regeringen og Dansk Folkeparti opnåede desuden enighed om at iværksætte konkrete projekter, som sigter på at styrke den regionale opkobling på hovedstrækningerne. Aftaleparterne har således besluttet at igangsætte en række konkrete projekter på de øvrige statsveje i perioden 2021-2030. Der investeres et samlet beløb på 50,2-51,9 mia. kr. Aftalepartnerne er enige om følgende
 
 - ** Aftaleparterne er enige om at afsætte 139 mio. kr. (2019-pl) til at udbygge de resterende ca. 12 km af strækningen til 2+1 vej. Projektet igangsættes i 2021.**
 - ** Aftaleparterne er enige om at afsætte 377 mio. kr. (2019-pl) til anlæg af en omfartsvej ved Mariager. Projektet igangsættes i 2022.**
@@ -114,7 +114,7 @@ De tiltag som regeringen har fremlagt i deres klima- og luftudspil &quot;Sammen 
 - ** Aftaleparterne er enige om at afsætte 450 mio. kr. (2019-pl) til udbygning af E55 mellem Sydmotorvejen og Nykøbing Falster til 2+2 vej. Projektet igangsættes i 2021.**
 - ** Aftaleparterne er enige om at prioritere 926 mio. kr. (2019-pl) til at anlægge en ny bane mellem Vejle og Billund. Parterne mødes snarest for at fastlægge linjeføringen. Projektet igangsættes i 2023. Aftaleparterne er enige om at sikre finansiering til den efterfølgende togdrift inden banen åbner. Parterne er desuden enige om, at den samlede fremtidige kollektive betjening af Vejle-Billund Lufthavn og økonomien heri drøftes med de lokale parter med ansvar for den kollektive bustrafik ved anlæg af projektet.**
 
-#### Aftalepartnerne opnåede desuden enighed om at investere 18,2 mia. kr. til oprettelse af en række puljer, samt vedligeholdelse af veje og baner.**  **De 18,2 mia. kr. er fordesåledes:**
+#### Aftalepartnerne opnåede desuden enighed om at investere 18,2 mia. kr. til oprettelse af en række puljer, samt vedligeholdelse af veje og baner. De 18,2 mia. kr. er fordeles således:
 
 - ** Aftaleparterne er enige om at etablere en pulje på i alt 5,6 mia. kr. (2019-pl) til opgradering af øvrige statsveje.**
 - ** Aftaleparterne er enige om at etablere en pulje på i alt 1,5 mia. kr. (2019-pl) til bedre fremkommelighed, tilgængelighed og trafiksikkerhed som udmøntes løbende.**

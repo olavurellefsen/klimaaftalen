@@ -7,13 +7,13 @@ På nedenstående figur ses en reduktionskurve baseret på Enhedslistens foresl�
 
 I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete målsætninger og virkemidler inden for klimaområdet, primært baseret på klimaudspillet &#39;En Social Retfærdig Vej Til Det Grønne Samfund&#39;.
 
-### **Målsætninger inden for transportsektoren**
+### Målsætninger inden for transportsektoren
 
 - Udfasning af hhv. dieselbiler og benzinbiler i 2022 og 2025, samt at fremme elbiler.
 - Fremme cyklisme samt offentlig transport.
 - Mindske drivhusgasudledningen fra flytransport.
 
-#### **Med henblik på at understøtte udfasningen af dieselbiler og benzinbiler samt fremme eldrevne køretøjer ønsker Enhedslisten**
+#### Med henblik på at understøtte udfasningen af dieselbiler og benzinbiler samt fremme eldrevne køretøjer ønsker Enhedslisten
 
 - ** At indføre et forbud mod salg af nye dieselbiler i 2022. Brugte dieselbiler skal fortsat kunne handles.**
 - ** At indføre et forbud mod salg af nye benzinbiler i 2025. Brugte benzinbiler skal fortsat kunne handles.**
@@ -35,7 +35,7 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - At afsættes en pulje på ti millioner kr. årligt i fem år til hurtige ladestandere til taxaer, og de mest centrale taxa-parkerings- pladser prioriteres til nulemissionstaxa allerede fra 2020.
 - ** At forbedre cykelinfrastrukturen, så det bliver mere attraktivt at tage cyklen frem for bilen. Derfor afsættes en pulje på en milliard kr. over fem år, som regioner og kommuner kan søge til cykelprojekter.**
 
-#### **Med henblik på at fremme offentlig transport ønsker Enhedslisten**
+#### Med henblik på at fremme offentlig transport ønsker Enhedslisten
 
 - ** Der afsættes 15 milliarder kr. over ti år til at gennemføre anden fase af Togfonden DK.**
 - ** En pulje på to milliarder kr. over fem år skal sikre bedre trafik i yderområderne, bedre busser og tog samt understøtte tiltag som flextrafik, teletaxi og delebilsordninger i de områder, hvor den kollektive trafik er dårligst.**
@@ -45,17 +45,17 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - ** Det offentlige indkøb af trafik skal være bæredygtigt. Det betyder, at fra 2020 skal alle offentlige nye indkøb og kontrakter vedr. trafik være såkaldte nul-emissionskøretøjer som el- og brintbiler, og fra 2030 skal alle busser, taxi, biler og varebiler, der kører for det offentlige, være nul-emission.**
 - ** Overordnet at afsætte i alt 40 milliarder kr. til den kollektive trafik, fordel på ovenstående forslag.**
 
-#### **For at reducere drivhusgasudledning fra flytransport**
+#### For at reducere drivhusgasudledning fra flytransport
 
 - ** At indføre en flyafgift, der stiger med antallet af flyvninger, rejsens længde, og hvor meget plads man optager i flyet. Afgiftsniveauet er her fastsat, så det for flertallet af de rejsende er dyrere at tage til et naboland med lavere afgift og flyve derfra. Afgiften pålægges ved afrejse, og det betyder, at den skal betales to gange for flyvning tur-retur indenrigs, men kun én gang for afgangen fra Danmark ved flyvning udenrigs. Afgiften på indenrigsflyvninger indfases samtidig med, at time-modellen for togtrafik mellem landsdelene udrulles. Flyrejser, der baserer sig på 2. generations biobrændstof, el eller electrofuels, fritages for afgiften. Antages at gennemsnitsafgift er afgiftsbelagt som flyvning nummer 2**
 
 ![Enhedslistens flyafgifter](images/Enhedslisten_Fly.png)
 
-### **Målsætninger inden for landbrug**
+### Målsætninger inden for landbrug
 
 - Drivhusgasudledningen fra landbruget bør reduceres til mindst en tredjedel i 2030. Dette skal ske samtidig med, at landbruget gøres bæredygtigt og økologisk
 
-#### **For at nå ovenstående målsætning foreslår Enhedslisten at indføre en CO2 afgift**
+#### For at nå ovenstående målsætning foreslår Enhedslisten at indføre en CO2 afgift
 
 - At indføre en afgift, hvor hver landbrugsbedrift skal betale 700 kr. pr. udledt ton CO2e fra 2027. I praksis betyder det afgift på husdyr, afgrødedyrkning samt kunstgødning. I takt med at bedrifterne reducerer CO2-udledningen ved f.eks. at omlægge til mindre klimabelastende produktion, vil landbruget blive mindre belastet af afgiften. Da afgiften kan føre til et tab af arbejdspladser i landbrugsklyngen, foreslår Enhedslisten at oprette en pulje på 100 millioner kr., der skal gå til at omskoling og videreuddannelse til dem, som skal finde et andet erhverv. Provenuet fra afgiften føres tilbage til landmanden med det formål at fremme bæredygtighed i produktionen. Det sker ud fra en fordelingsnøgle beregnet på baggrund af, hvor meget den enkelte bedrift udledte før indførelsen af afgiften. Jo mere man har mindsket, desto større kompensation. Provenuet fra afgiften vil falde i takt med omstillingen og nedgangen i udledningen af CO2. I takt med, at der kommer færre penge ind fra afgiften, bliver kompensationen også sænket.
 - At udtage 108.000 hektar jorde med særligt højt kulstofindhold af drift frem mod 2030. Jordejerne skal kompenseres økonomisk for den tabte indtægt fra jorden.
@@ -66,13 +66,13 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - At tilbyde et årligt klimatjek til landmanden, der kortlægger bedriftens nuværende udledninger og hjælper med at lave en klimahandlingsplan for, hvordan landmanden kan gøre sit landbrug mere klimavenligt. Den grønne omstilling er et fælles ansvar, som den enkelte landmand ikke skal stå alene med. Det vil sammen med andre indsatser fremme klimavenlig markdrift og landbrugsudvikling, såsom biokul, permakultur og flere træer på landbrugsarealerne.
 - Der skal arbejdes for at EU&#39;s landbrugsstøtte, indtil den er afviklet, understøtter omlægningen til et klimavenligt, bæredygtigt landbrug.
 
-### **Målsætninger for Energisektoren**
+### Målsætninger for Energisektoren
 
 - I 2030 skal vi ikke importerer mere el, end vi gør i dag, hvilket kræver flere havvindmøller end hidtil planlagt.
 - Alle fossile energikilder (kul, olie, naturgas) skal udfases i 2040
 - Danmark skal udfase udvindingen af olie- og gasudvinding i Nordsøen
 
-#### **For at imødekomme målsætningen om, at vi ikke importere mere el i 2030 ift. i dag**
+#### For at imødekomme målsætningen om, at vi ikke importere mere el i 2030 ift. i dag
 
 - ** At der opføres flere havvindmøller frem mod 2030 end aftalt i Energiaftalen. Helt konkret to ekstra havmølleparker svarende til strømforbruget fra 1,7 millioner husstande.**
 - At fjerne det nuværende krav om at kommuner skal oprette et separat selskab for hver bygning, hvor der etableres solceller. Samtidig undtages kommunale energieffektiviseringer og udbygning af vedvarende energi fra budgetlovens begrænsning af kommunernes årlige anlægsudgifter.
@@ -90,15 +90,15 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - Ud over den eksisterende pulje til energibesparelser i erhverv forøges Danmarks Grønne Investeringsfond med 100 millioner kr. pr. år fra 2021-2024, hvilket giver en ekstra låneramme på ti milliarder kr.
 - Ud over den eksisterende pulje til energibesparelser i erhverv forøges Danmarks Grønne Investeringsfond med 100 millioner kr. pr. år fra 2021-2024, hvilket giver en ekstra låneramme på ti milliarder kr.
 
-#### **Med henblik på at udfase udvindingen af olie- og gasudvinding i Nordsøen forslår Enhedslisten**
+#### Med henblik på at udfase udvindingen af olie- og gasudvinding i Nordsøen forslår Enhedslisten
 
 - ** At udvindingstilladelser stoppes i takt med, at de udløber, og der gennemføres ikke flere udbudsrunder. Dermed lukker raffinaderierne på længere sigt. Indtil dette sker, skal selskaberne fra 2020 betale for deres CO2-kvoter, som de hidtil har fået gratis. Indtægten indgår i en statslig skovfond til skovrejsning i det globale syd, som kan optage CO2.**
 
-### **Enhedslisten formulerer desuden en række tiltag med henblik på at reducere afbrændingen af plast. De har en målsætning om**
+### Enhedslisten formulerer desuden en række tiltag med henblik på at reducere afbrændingen af plast. De har en målsætning om
 
 - At reducere afbrændingen af plast med mindst 80 procent i 2030
 
-#### **For at opnå denne målsætning forslås følgende**
+#### For at opnå denne målsætning forslås følgende
 
 - At Danmark skal arbejde for et forbud mod at eksportere plast ud af EU, så Danmark og de øvrige europæiske lande selv må håndtere eget affald og på den måde bliver presset til at udvikle genanvendelsesløsninger.
 - At der fra 2030 skal det være forbudt mod at importere plastaffald, så man ikke kan tjene penge på at brænde det af og producere energi.
@@ -107,7 +107,7 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - At brugen af pantsystemer udvides til at omfatte plastflasker og Tetrapak.
 - At igangsætte en målrettet indsats for at reducere plastaffald i husholdninger bl.a. gennem forlængelse af reklamationsretten.
 
-### **Enhedslisten formulerer desuden en række virkemidler med henblik på at støtte den grønne omstilling af industrien**
+### Enhedslisten formulerer desuden en række virkemidler med henblik på at støtte den grønne omstilling af industrien
 
 - De gratis CO2-kvoter gøres gradvist betalingspligtige fra 2021. I 2021 betales for ti pct. af kvoterne, i 2030 for 100 pct. Pengene føres som udgangspunkt tilbage til virksomhederne som støtte til grøn omstilling. Ubrugte midler skal gå til en statslig skovfond til skovrejsning i det globale syd, som kan optage CO2.
 - Ligesom i landbruget tilbydes et klimatjek, der kortlægger virksomhedens drivhusgasudledninger, og en klimahandlingsplan, der hjælper med at planlægge omstilling til en mere klimavenlig produktion.

@@ -1,5 +1,6 @@
 <a name="enhedslisten"></a>
 ## Enhedslisten
+[Gå tilbage](#scenariebeskrivelser)
 
 På nedenstående figur ses en reduktionskurve baseret på Enhedslistens foreslåede tiltag frem til 2040.
 

@@ -1,5 +1,6 @@
 <a name="socialistisk-folkeparti"></a>
 ## Socialistisk Folkeparti
+[Gå tilbage](#scenariebeskrivelser)
 
 I nedenstående findes en mere uddybet beskrivelse af SFs konkrete målsætninger og virkemidler inden for klimaområdet. Der er taget udgangspunkt i følgende udspil:
 

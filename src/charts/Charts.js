@@ -29,18 +29,18 @@ const Charts = (props) => {
           <Flex>
             <StackedBarChart chartName='_CO2 emissioner' chartTitle='CO2 emissioner og %-reduktion' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label='Kt' minY={0} maxY={40000} minY2={0} maxY2={1} label2="CO2 reduktion" Y2Percentage={true} />
             <StackedBarChart chartName='_Energi forbrug i Danmark' chartTitle='Energiforbrug og VE-andel' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label='PJ' minY={0} maxY={1600} minY2={0} maxY2={1} label2="Vedvarende energi andel" Y2Percentage={true} />
-            <StackedBarChart chartName='_Antal_havvindmølleparker' chartTitle='Antal havmølleparker (á 800MW)' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='stk' minY={0} maxY={24} />
-            <StackedBarChart chartName='_Solcelle_areal' chartTitle='Solcelle areal' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='km2' minY={0} maxY={2000} />
-		    <StackedBarChart chartName='_Andel importeret biomasse' chartTitle='Andel importeret Biomasse' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='Andel' minY={0} maxY={1} YPercentage={true} />
+            <StackedBarChart chartName='_Wind_OFF_cap' chartTitle='Antal havmølleparker (á 800MW)' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='stk' minY={0} maxY={24} />
+            <StackedBarChart chartName='_Solcelle_cap' chartTitle='Solcelle areal' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='km2' minY={0} maxY={2000} />
+		    <StackedBarChart chartName='_Andel_importeret_Biomasse' chartTitle='Andel importeret Biomasse' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='Andel' minY={0} maxY={1} YPercentage={true} />
 		  </Flex>
         }
         {(props.scenarioSelection.showDifference===true && selectedScenario2!=="") && 
           <Flex>
             <StackedBarDiffChart chartName='_CO2 emissioner' chartTitle='CO2 emissioner og %-reduktion' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label='Kt' minY={-16000} maxY={16000} minY2={-1} maxY2={1} label2="CO2 reduktion" Y2Percentage={true} />
             <StackedBarDiffChart chartName='_Energi forbrug i Danmark' chartTitle='Energiforbrug og VE-andel' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={true} label='PJ' minY={-400} maxY={400} minY2={-1} maxY2={1} label2="Vedvarende energi andel" Y2Percentage={true} />
-            <StackedBarDiffChart chartName='_Antal_havvindmølleparker' chartTitle='Antal havmølleparker (á 800MW)' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='stk' minY={-24} maxY={24} />
-            <StackedBarDiffChart chartName='_Solcelle_areal' chartTitle='Solcelle areal' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='km2' minY={-1000} maxY={1000} />
-		    <StackedBarDiffChart chartName='_Andel importeret biomasse' chartTitle='Andel importeret Biomasse' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='Andel' minY={-1} maxY={1} YPercentage={true} />
+            <StackedBarDiffChart chartName='_Wind_OFF_cap' chartTitle='Antal havmølleparker (á 800MW)' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='stk' minY={-24} maxY={24} />
+            <StackedBarDiffChart chartName='_Solcelle_cap' chartTitle='Solcelle areal' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='km2' minY={-1000} maxY={1000} />
+		    <StackedBarDiffChart chartName='_Andel_importeret_Biomasse' chartTitle='Andel importeret Biomasse' selectedScenario={selectedScenario} selectedScenario2={selectedScenario2} combinedChart={false} label='Andel' minY={-1} maxY={1} YPercentage={true} />
 		  </Flex>
         }        
     </MainArea>

@@ -1,0 +1,28 @@
+{
+  "title": "Klimaaftalen",
+  "menu": {
+    "mobile" : {
+      "about" : "About"
+    }
+  },
+  "tabs": {
+    "overview": "Overview",
+    "mainresults": "Main results",
+    "supplysector": "Supply sector",
+    "transportsector": "Transport sector",
+    "industry": "Industry",
+    "households": "Households",
+    "mobile": {
+      "overview": "Overview",
+      "mainresults": "Results",
+      "supplysector": "Supply",
+      "transportsector": "Transport",
+      "industry": "Industry",
+      "households": "Households"
+    }
+  },
+  "welcome-text": {
+    "welcome-1": "With this tool you can explore a number of scenarios related to the Danish Klimaaftalen 2019. Select a scenario in the left hand menu and review the results in the charts below.",
+    "welcome-2": "De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Scenario beskrivelserne og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op."
+  }
+}

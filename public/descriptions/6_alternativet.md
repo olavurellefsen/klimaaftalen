@@ -1,5 +1,6 @@
 <a name="alternativet"></a>
 ## Alternativet
+[Gå tilbage](#scenariebeskrivelser)
 
 I nedenstående findes en mere uddybende beskrivelse af Alternativets konkrete målsætninger og virkemidler inden for klimaområdet. Der er taget udgangspunkt i &#39;Alternativets Klimaplan 2030&#39; samt deres klimaudspil &#39;God Energi – Alternativets ambitioner for fremtidens bedste energipolitik&#39;.
 

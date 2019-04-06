@@ -2,7 +2,16 @@
   "title": "Klimaaftalen",
   "menu": {
     "mobile": {
-      "about": "Om"
+      "about": "Om",
+      "descriptions": "Beskrivelse",
+      "preconditions": "Forudsætn.",
+      "subscribe": "Abbonér"
+    },
+    "desktop": {
+      "about": "Om værktøjet",
+      "descriptions": "Beskrivelser af scenarier",
+      "preconditions": "Forudsætninger",
+      "subscribe": "Abbonér på opdateringer"
     }
   },
   "tabs": {

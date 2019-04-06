@@ -2,7 +2,16 @@
   "title": "Klimaaftalen",
   "menu": {
     "mobile": {
-      "about": "About"
+      "about": "About",
+      "descriptions": "Description",
+      "preconditions": "Precond.",
+      "subscribe": "Subscribe"
+    },
+    "desktop": {
+      "about": "About the tool",
+      "descriptions": "Descriptions of scenarios",
+      "preconditions": "Preconditions",
+      "subscribe": "Subscribe to updates"
     }
   },
   "tabs": {

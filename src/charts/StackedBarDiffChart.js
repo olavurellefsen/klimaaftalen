@@ -31,7 +31,7 @@ const StackedBarChart = props => {
   const scenario = props.selectedScenario;
   const scenario2 = props.selectedScenario2;
   const chartName = props.chartName;
-  const chartTitle = props.chartTitle;
+  const chartTitle = t("chartTitle."+props.chartTitle);
   const combinedChart = props.combinedChart;
   const periods = [2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050];
   let gutter, rowGutter;

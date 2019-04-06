@@ -1,8 +1,8 @@
 {
   "title": "Klimaaftalen",
   "menu": {
-    "mobile" : {
-      "about" : "About"
+    "mobile": {
+      "about": "About"
     }
   },
   "tabs": {
@@ -25,7 +25,7 @@
     "welcome-1": "With this tool you can explore a number of scenarios related to the Danish Klimaaftalen 2019. Select a scenario in the left hand menu and review the results in the charts below.",
     "welcome-2": "De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Scenario beskrivelserne og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op."
   },
-    "legend": {
+  "legend": {
     "Biomasse andel": "Biomasse andel",
     "Lattergas": "Lattergas",
     "Methan": "Methan",
@@ -192,5 +192,5 @@
     "Ethanoel (Elektro fuel)": "Ethanoel (Elektro fuel)",
     "Kerosen (Elektro fuel)": "Kerosen (Elektro fuel)",
     "VE andel": "VE andel"
-
+  }
 }

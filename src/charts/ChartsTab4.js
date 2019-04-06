@@ -171,7 +171,7 @@ const Charts = props => {
             />
             <StackedBarDiffChart
               chartName="_Transport sektorens energifor"
-              charttTitle="Transport sektorens energiforbrug"
+              chartTitle="Transport sektorens energiforbrug"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}
@@ -195,7 +195,7 @@ const Charts = props => {
             />
             <StackedBarDiffChart
               chartName="_Transport investering i lades"
-              charttTitle="Investering i ladestander"
+              chartTitle="Investering i ladestander"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}
@@ -231,17 +231,19 @@ const Charts = props => {
             />
             <StackedBarDiffChart
               chartName="_Transport brændslesforbrug lu"
-              charttTitle="Brændselsforbrug luftfart"
+              chartTitle="Brændselsforbrug luftfart"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}
               label="PJ"
               minY={-50}
               maxY={50}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Transport brændselsforbrug sø"
-              charttTitle="Brændselsforbrug søfart"
+              chartTitle="Brændselsforbrug søfart"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}
@@ -253,17 +255,19 @@ const Charts = props => {
             />
             <StackedBarDiffChart
               chartName="_Transport brændselsforbrug bi"
-              charttTitle="Brændselsforbrug biler"
+              chartTitle="Brændselsforbrug biler"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}
               label="PJ"
               minY={-50}
               maxY={50}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Transport brændselsforbrug øv"
-              charttTitle="Brændselsforbrug øvrig land"
+              chartTitle="Brændselsforbrug øvrig land"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}

@@ -130,6 +130,8 @@ const Charts = props => {
               label="PJ"
               minY={-10}
               maxY={10}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Decentrale bygningers energib"
@@ -140,6 +142,8 @@ const Charts = props => {
               label="PJ"
               minY={-10}
               maxY={10}
+              stackedBar={stackedBar}
+              line={line}              
             />
             <StackedBarDiffChart
               chartName="_Husholdninger solcelle kapaci"
@@ -150,6 +154,8 @@ const Charts = props => {
               label="MW"
               minY={-2000}
               maxY={2000}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Husholdningers elapparater"
@@ -160,6 +166,8 @@ const Charts = props => {
               label="PJ"
               minY={-5}
               maxY={5}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Husholdningers netto energi f"
@@ -170,6 +178,8 @@ const Charts = props => {
               label="PJ"
               minY={-10}
               maxY={10}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Husholdningers varmeforbrug"
@@ -180,6 +190,8 @@ const Charts = props => {
               label="PJ"
               minY={-10}
               maxY={10}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Husholdnings omkostninger"
@@ -190,6 +202,8 @@ const Charts = props => {
               label="MKr"
               minY={-2500}
               maxY={10000}
+              stackedBar={stackedBar}
+              line={line}
             />
             <StackedBarDiffChart
               chartName="_Individuelle bygningers opvar"
@@ -200,6 +214,8 @@ const Charts = props => {
               label="PJ"
               minY={-1}
               maxY={1}
+              stackedBar={stackedBar}
+              line={line}
             />
           </Flex>
         )}

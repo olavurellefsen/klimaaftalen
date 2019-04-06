@@ -51,7 +51,7 @@ exports[`should render correctly 1`] = `
                   class="sc-jzJRlG ixPgTR"
                   href="/abonner"
                 >
-                  Abonnér på opdateringer
+                  Abbonér på opdateringer
                 </a>
               </div>
             </div>
@@ -298,7 +298,7 @@ exports[`should render correctly 1`] = `
                 class="sc-iAyFgw cojSpE"
                 href="/abonner"
               >
-                Abonnér
+                Abbonér
               </a>
             </div>
           </div>

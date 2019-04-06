@@ -14,6 +14,31 @@
       "subscribe": "Abbonér på opdateringer"
     }
   },
+  "general": {
+    "scenarios": "Scenarier",
+    "CCS": "CCS",
+    "scenario-difference": "Scenarie difference",
+    "red-minus-green": "(rød minus grøn)",
+    "developed-by-Tokni": "Udviklet af Tokni"
+  },
+  "scenario": {
+    "Frozen policy": "Frozen policy",
+    "FP_NO_WIN": "FP_NO_WIN",
+    "Lav vækst": "Lav vækst",
+    "DGSB": "DGSB",
+    "Regeringens udspil": "Regeringens udspil",
+    "Alternativet": "Alternativet",
+    "Enhedslisten": "Enhedslisten",
+    "LA": "LA",
+    "Radikale": "Radikale",
+    "SF": "SF",
+    "Socialdemokratiet": "Socialdemokratiet",
+    "Carbon budget": "Carbon budget 1.5°C",
+    "Carbon budget (bio)": "Carbon budget 1.5°C (bio)",
+    "Regeringen": "Regeringen",
+    "CB": "CB 1½°C",
+    "CB (bio)": "CB 1½°C (bio)"
+  },
   "tabs": {
     "overview": "Overblik",
     "mainresults": "Hovedresultater",

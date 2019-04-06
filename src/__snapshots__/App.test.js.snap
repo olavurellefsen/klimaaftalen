@@ -72,93 +72,93 @@ exports[`should render correctly 1`] = `
             class="sc-cSHVUG bybmNH"
           >
             <div
-              class="sc-bdVaJa donHvk"
+              class="sc-bdVaJa erSRMf"
             >
               <div
-                class="sc-bwzfXH hIZeCe"
+                class="sc-bwzfXH dWdUMF"
               />
               <div
-                class="sc-htpNat bJJgKZ"
+                class="sc-htpNat iILNAI"
               >
                 Scenarier
               </div>
               <div
-                class="sc-bxivhb dxXQSr"
+                class="sc-bxivhb iMdMiF"
                 value="Frozen_policy_INT"
               >
                 Frozen policy
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="FP_NO_WIN_INT"
               >
                 FP_NO_WIN
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="low_growth_INT"
               >
                 Lav vækst
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="DGSB_INT"
               >
                 DGSB
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Regeringen_INT"
               >
                 Regeringens udspil
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Alternativet_INT"
               >
                 Alternativet
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Enhedslisten_INT"
               >
                 Enhedslisten
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="LA_INT"
               >
                 LA
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Radikale_INT"
               >
                 Radikale
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="SF_INT"
               >
                 SF
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Socialdemokratiet_INT"
               >
                 Socialdemokratiet
               </div>
               <hr
-                class="sc-ifAKCX dMqCcT"
+                class="sc-ifAKCX hmriKC"
               />
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Carbon_scenario_1-5_degree_INT"
               >
                 Carbon budget 1.5°C
               </div>
               <div
-                class="sc-bxivhb kTDhsF"
+                class="sc-bxivhb cfCnoV"
                 value="Carbon_scenario_1-5_degree_bio_INT"
               >
                 Carbon budget 1.5°C (bio)
@@ -257,7 +257,7 @@ exports[`should render correctly 1`] = `
                 class="sc-ckVGcZ fVRzlZ"
                 href="http://www.tokni.com"
               >
-                Online version by Tokni
+                Udviklet af Tokni
               </a>
             </div>
           </div>
@@ -309,93 +309,93 @@ exports[`should render correctly 1`] = `
             class="sc-hSdWYo hnVnmz"
           >
             <div
-              class="sc-bdVaJa donHvk"
+              class="sc-bdVaJa erSRMf"
             >
               <div
-                class="sc-bwzfXH hIZeCe"
+                class="sc-bwzfXH dWdUMF"
               />
               <div
-                class="sc-htpNat fZoHuG"
+                class="sc-htpNat kDXsHz"
               >
                 Scenarier
               </div>
               <div
-                class="sc-bxivhb cNVLxH"
+                class="sc-bxivhb idTADQ"
                 value="Frozen_policy_INT"
               >
                 Frozen policy
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="FP_NO_WIN_INT"
               >
                 FP_NO_WIN
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="low_growth_INT"
               >
                 Lav vækst
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="DGSB_INT"
               >
                 DGSB
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Regeringen_INT"
               >
                 Regeringen
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Alternativet_INT"
               >
                 Alternativet
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Enhedslisten_INT"
               >
                 Enhedslisten
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="LA_INT"
               >
                 LA
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Radikale_INT"
               >
                 Radikale
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="SF_INT"
               >
                 SF
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Socialdemokratiet_INT"
               >
                 Socialdemokratiet
               </div>
               <hr
-                class="sc-ifAKCX dMqCcT"
+                class="sc-ifAKCX hmriKC"
               />
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Carbon_scenario_1-5_degree_INT"
               >
                 CB 1½°C
               </div>
               <div
-                class="sc-bxivhb jazOiW"
+                class="sc-bxivhb cGEKnc"
                 value="Carbon_scenario_1-5_degree_bio_INT"
               >
                 CB 1½°C (bio)
@@ -422,7 +422,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-cvbbAY dxcdfd"
             >
-              CCS
+              Scenarier
             </div>
           </div>
           <div
@@ -488,7 +488,7 @@ exports[`should render correctly 1`] = `
                 class="sc-jDwBTQ gQDQSf"
                 href="http://www.tokni.com"
               >
-                Developed by Tokni
+                Udviklet af Tokni
               </a>
             </div>
           </div>

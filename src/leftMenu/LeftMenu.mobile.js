@@ -157,19 +157,19 @@ function ScenarioSelectionMenu(props) {
               to="/beskrivelser"
               selected={props.selectedChartgroup === "/beskrivelser"}
             >
-              Beskrivelse
+              {t("menu.mobile.descriptions")}
             </MenuItem>
             <MenuItem
               to="/forudsaetninger"
               selected={props.selectedChartgroup === "/forudsaetninger"}
             >
-              Forudsætn.
+              {t("menu.mobile.preconditions")}
             </MenuItem>
             <MenuItem
               to="/abonner"
               selected={props.selectedChartgroup === "/abonner"}
             >
-              Abonnér
+              {t("menu.mobile.subscribe")}
             </MenuItem>
           </MenuRoutes>
         </MenuHeader>

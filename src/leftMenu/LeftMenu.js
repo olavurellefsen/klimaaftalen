@@ -180,25 +180,25 @@ function ScenarioSelectionMenu(props) {
               to="/about"
               selected={props.selectedChartgroup === "/about"}
             >
-              Om værktøjet
+              {t("menu.desktop.about")}
             </MenuItem>
             <MenuItem
               to="/beskrivelser"
               selected={props.selectedChartgroup === "/beskrivelser"}
             >
-              Beskrivelser af scenarier
+              {t("menu.desktop.descriptions")}
             </MenuItem>
             <MenuItem
               to="/forudsaetninger"
               selected={props.selectedChartgroup === "/forudsaetninger"}
             >
-              Forudsætninger
+              {t("menu.desktop.preconditions")}
             </MenuItem>
             <MenuItem
               to="/abonner"
               selected={props.selectedChartgroup === "/abonner"}
             >
-              Abonnér på opdateringer
+              {t("menu.desktop.subscribe")}
             </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>

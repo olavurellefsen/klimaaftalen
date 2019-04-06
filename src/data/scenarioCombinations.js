@@ -24,9 +24,9 @@
 { "id": 21, "name": "Socialdemokratiet_INT_With_CCS", "short_description": "Socialdemokratiet", "ultra_short_description": "Socialdemokratiet", "css": true },
 { "id": 22, "name": "division_line", "short_description": "_______________", "ultra_short_description": "_____", "css": false },
 { "id": 23, "name": "division_line", "short_description": "_______________", "ultra_short_description": "_____", "css": true },
-{ "id": 24, "name": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 1.5°C", "ultra_short_description": "CB 1½°C", "css": false },
-{ "id": 25, "name": "Carbon_scenario_1-5_degree_INT_With_CCS", "short_description": "Carbon budget 1.5°C", "ultra_short_description": "CB 1½°C", "css": true },
-{ "id": 26, "name": "Carbon_scenario_1-5_degree_bio_INT", "short_description": "Carbon budget 1.5°C (bio)", "ultra_short_description": "CB 1½°C (bio)", "css": false },
-{ "id": 27, "name": "Carbon_scenario_1-5_degree_bio_INT_With_CCS", "short_description": "Carbon budget 1.5°C (bio)", "ultra_short_description": "CB 1½°C bio", "css": true }
+{ "id": 24, "name": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget", "ultra_short_description": "CB", "css": false },
+{ "id": 25, "name": "Carbon_scenario_1-5_degree_INT_With_CCS", "short_description": "Carbon budget", "ultra_short_description": "CB", "css": true },
+{ "id": 26, "name": "Carbon_scenario_1-5_degree_bio_INT", "short_description": "Carbon budget (bio)", "ultra_short_description": "CB (bio)", "css": false },
+{ "id": 27, "name": "Carbon_scenario_1-5_degree_bio_INT_With_CCS", "short_description": "Carbon budget (bio)", "ultra_short_description": "CB (bio)", "css": true }
 ]}
 };

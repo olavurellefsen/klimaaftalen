@@ -99,7 +99,7 @@ const Charts = props => {
             combinedChart={false}
             label="km2"
             minY={0}
-            maxY={2000}
+            maxY={300}
             stackedBar={stackedBar}
             line={line}
           />

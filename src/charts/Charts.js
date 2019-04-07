@@ -36,6 +36,33 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
+		  <StackedBarChart
+            chartName="_Anden drivhusgas udledning"
+            chartTitle="Anden drivhusgas udledning"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={false}
+            label="kt CO2e"
+            minY={0}
+            maxY={40000}
+            stackedBar={stackedBar}
+            line={line}
+          />
+		  <StackedBarChart
+            chartName="_CO2 emissioner_akkumuleret"
+            chartTitle="Akkumuleret CO2 emissioner"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={true}
+            label="Kt"
+            minY={0}
+            maxY={800000}
+			minY2={0}
+            maxY2={800000}
+			Y2Percentage={false}
+            stackedBar={stackedBar}
+            line={line}
+          />
           <StackedBarChart
             chartName="_Energi forbrug i Danmark"
             chartTitle="Energiforbrug og VE-andel"
@@ -107,6 +134,30 @@ const Charts = props => {
               maxY2={1}
               label2="CO2 reduktion (1990)"
               Y2Percentage={true}
+              stackedBar={stackedBar}
+              line={line}
+            />
+			<StackedBarDiffChart
+              chartName="_Anden drivhusgas udledning"
+              chartTitle="Anden drivhusgas udledning"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={false}
+              label="kt CO2e"
+              minY={-16000}
+              maxY={16000}
+              stackedBar={stackedBar}
+              line={line}
+            />
+			<StackedBarDiffChart
+              chartName="_CO2 emissioner_akkumuleret"
+              chartTitle="Akkumuleret CO2 emissioner"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={true}
+              label="Kt"
+              minY={-16000}
+              maxY={16000}
               stackedBar={stackedBar}
               line={line}
             />

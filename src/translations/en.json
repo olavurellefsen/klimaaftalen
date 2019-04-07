@@ -60,6 +60,8 @@
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissions and %-reduction",
+	"Anden drivhusgas udledning": "Other GHG emissions",
+	"Akkumuleret CO2 emissioner": "Accumulated CO2 emissions",
     "Energiforbrug og VE-andel": "Energyconsumpution and RE-share",
     "Antal havmølleparker (á 800MW)": "Number of offshore wind energy parks (at 800MW)",
     "Solcelle areal": "Solarcell area",

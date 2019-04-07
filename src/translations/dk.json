@@ -60,6 +60,8 @@
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissioner og %-reduktion",
+	"Anden drivhusgas udledning": "Anden drivhusgas udledning",
+	"Akkumuleret CO2 emissioner": "Akkumuleret CO2 emissioner",
     "Energiforbrug og VE-andel": "Energiforbrug og VE-andel",
     "Antal havmølleparker (á 800MW)": "Antal havmølleparker (á 800MW)",
     "Solcelle areal": "Solcelle areal",

@@ -49,7 +49,7 @@ export const changeScenario = (name, value) => ({
   [name]: value
 });
 
-const default_scenario = "Frozen_policy_INT"; 
+const default_scenario = "FP_NO_WIN_INT"; 
 
 export class App extends React.Component {
   constructor(props) {

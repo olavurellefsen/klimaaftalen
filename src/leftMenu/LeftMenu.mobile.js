@@ -181,7 +181,7 @@ function ScenarioSelectionMenu(props) {
             selectedValue={props.scenarioSelection.scenarioSelection}
             selectedValue2={props.scenarioSelection.scenarioSelection2}
             dimensionOptions={props.scenarioCombinations.scenarioOptions}
-            dimensionTitle="Scenarier"
+            dimensionTitle={t("general.scenarios")}
             narrowVersion={true}
             showCCS={props.scenarioSelection.showCCS}
           />
@@ -193,7 +193,7 @@ function ScenarioSelectionMenu(props) {
             checked={props.scenarioSelection.showCCS}
           />
           <ToggleSwitchText selected={props.scenarioSelection.showCCS}>
-            CCS
+            {t("general.scenarios")}
           </ToggleSwitchText>
         </ToggleDifference>
         <ToggleDifference onClick={e => props.toggleDifference(e)}>
@@ -205,14 +205,14 @@ function ScenarioSelectionMenu(props) {
             singleMode={props.scenarioSelection.scenarioSelection2 === ""}
             selected={props.scenarioSelection.showDifference}
           >
-            Scenarie difference
+            {t("general.scenario-difference")}
           </ToggleSwitchText>
         </ToggleDifference>
         <ScenarioDifferenceText
           singleMode={props.scenarioSelection.scenarioSelection2 === ""}
           selected={props.scenarioSelection.showDifference}
         >
-          (rød minus grøn)
+          {t("general.red-minus-green")}
         </ScenarioDifferenceText>
         <MenuSeparatorLine />
         <ToggleDifference onClick={e => toggleLanguage(e)}>
@@ -227,7 +227,7 @@ function ScenarioSelectionMenu(props) {
         <MenuFooter>
           <CopyrightNotice>
             <ExternalLink href="http://www.tokni.com">
-              Developed by Tokni
+              {t("general.developed-by-Tokni")}
             </ExternalLink>
           </CopyrightNotice>
         </MenuFooter>

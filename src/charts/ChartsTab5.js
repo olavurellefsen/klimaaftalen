@@ -80,6 +80,18 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
+		  <StackedBarChart 
+		    chartName="_Industriens energiforbrug"
+		    chartTitle="Industriens energiforbrug"
+		    selectedScenario={selectedScenario}
+		    selectedScenario2={selectedScenario2}
+		    combinedChart={false}
+		    label="PJ"
+		    minY={0}
+		    maxY={500}
+		    stackedBar={stackedBar}
+            line={line}
+		  />
           <StackedBarChart
             chartName="_Industriens energiforbrug per"
             chartTitle="Industriens energiforbrug per sektor"
@@ -182,6 +194,18 @@ const Charts = props => {
               line={line}
             />
             <StackedBarDiffChart
+			  chartName="_Industriens energiforbrug"
+			  chartTitle="Industriens energiforbrug"
+			  selectedScenario={selectedScenario}
+			  selectedScenario2={selectedScenario2}
+			  combinedChart={false}
+			  label="PJ"
+			  minY={-30}
+			  maxY={130}
+			  stackedBar={stackedBar}
+              line={line}
+			/>
+			<StackedBarDiffChart
               chartName="_Industriens energiforbrug per"
               chartTitle="Industriens energiforbrug per sektor"
               selectedScenario={selectedScenario}

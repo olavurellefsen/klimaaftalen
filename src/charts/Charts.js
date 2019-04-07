@@ -31,7 +31,7 @@ const Charts = props => {
             maxY={40000}
             minY2={0}
             maxY2={1}
-            label2="CO2 reduktion"
+            label2="CO2 reduktion (1990)"
             Y2Percentage={true}
             stackedBar={stackedBar}
             line={line}
@@ -44,7 +44,7 @@ const Charts = props => {
             combinedChart={true}
             label="PJ"
             minY={0}
-            maxY={1600}
+            maxY={1000}
             minY2={0}
             maxY2={1}
             label2="Vedvarende energi andel"
@@ -105,7 +105,7 @@ const Charts = props => {
               maxY={16000}
               minY2={-1}
               maxY2={1}
-              label2="CO2 reduktion"
+              label2="CO2 reduktion (1990)"
               Y2Percentage={true}
               stackedBar={stackedBar}
               line={line}

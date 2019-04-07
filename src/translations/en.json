@@ -111,7 +111,8 @@
     "Husholdningers elapparater": "Husholdningers elapparater",
     "Husholdningers netto energi forbrug": "Husholdningers netto energi forbrug",
     "Husholdnings omkostninger": "Husholdnings omkostninger",
-    "Individuelle bygningers opvarmningsbehov": "Individuelle bygningers opvarmningsbehov"
+    "Individuelle bygningers opvarmningsbehov": "Individuelle bygningers opvarmningsbehov",
+	"CO2":"CO2"
   },
   "legend": {
     "Biomasse andel": "Biomasse andel",
@@ -279,6 +280,14 @@
     "Brint": "Brint",
     "Ethanoel (Elektro fuel)": "Ethanoel (Elektro fuel)",
     "Kerosen (Elektro fuel)": "Kerosen (Elektro fuel)",
-    "VE andel": "VE andel"
+    "VE andel": "RE share",
+	"Import andel":"Import share",
+	"Anden produktion":"Anden produktion",
+    "Andre commercielle":"Andre commercielle",
+    "Maskine":"Maskine",
+    "Offentlig service":"Offentlig service",
+    "Private service":"Private service",
+    "Transportmidler (eksl. goods transport)":"Transportmidler (eksl. goods transport)",
+	"Transport (elsk. lastbiler)": "Transportmidler (eksl. lastbiler)"
   }
 }

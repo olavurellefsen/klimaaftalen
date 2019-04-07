@@ -279,6 +279,15 @@
     "Brint": "Brint",
     "Ethanoel (Elektro fuel)": "Ethanoel (Elektro fuel)",
     "Kerosen (Elektro fuel)": "Kerosen (Elektro fuel)",
-    "VE andel": "VE andel"
+    "VE andel": "VE andel",
+	"CO2": "CO2",
+	"Import andel": "Import andel",
+	"Anden produktion": "Anden produktion",
+    "Andre commercielle": "Andre commercielle",
+    "Maskine": "Maskine",
+    "Offentlig service": "Offentlig service",
+    "Private service": "Private service",
+    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)",
+    "Transport (elsk. lastbiler)": "Transportmidler (eksl. lastbiler)"
   }  
 }

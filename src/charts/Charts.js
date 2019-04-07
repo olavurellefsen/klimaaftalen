@@ -37,7 +37,7 @@ const Charts = props => {
             line={line}
           />
 		  <StackedBarChart
-            chartName="_Anden drivhusgas udledning"
+            chartName="_Anden_drivhusgas_udledning"
             chartTitle="Anden drivhusgas udledning"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
@@ -49,7 +49,7 @@ const Charts = props => {
             line={line}
           />
 		  <StackedBarChart
-            chartName="_CO2 emissioner_akkumuleret"
+            chartName="_CO2 emissioner akkumuleret"
             chartTitle="Akkumuleret CO2 emissioner"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
@@ -138,7 +138,7 @@ const Charts = props => {
               line={line}
             />
 			<StackedBarDiffChart
-              chartName="_Anden drivhusgas udledning"
+              chartName="_Anden_drivhusgas_udledning"
               chartTitle="Anden drivhusgas udledning"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
@@ -150,7 +150,7 @@ const Charts = props => {
               line={line}
             />
 			<StackedBarDiffChart
-              chartName="_CO2 emissioner_akkumuleret"
+              chartName="_CO2 emissioner akkumuleret"
               chartTitle="Akkumuleret CO2 emissioner"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}

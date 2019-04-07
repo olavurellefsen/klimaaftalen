@@ -8,7 +8,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -47,7 +47,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -139,7 +139,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -178,7 +178,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -270,7 +270,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -309,7 +309,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -401,7 +401,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -440,7 +440,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -532,7 +532,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -571,7 +571,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -663,7 +663,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -702,7 +702,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -794,7 +794,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -833,7 +833,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -890,27 +890,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5737288931
+                    "total": 0.5623921468
                   },
                   {
                     "year": 2030,
-                    "total": 0.6942110208
+                    "total": 0.690581944
                   },
                   {
                     "year": 2035,
-                    "total": 0.7740173128
+                    "total": 0.793110355
                   },
                   {
                     "year": 2040,
-                    "total": 0.8120527801
+                    "total": 0.8575585756
                   },
                   {
                     "year": 2045,
-                    "total": 0.8661844198
+                    "total": 0.8992452795
                   },
                   {
                     "year": 2050,
-                    "total": 0.9672537917
+                    "total": 0.9757434593
                   }
                 ]
               }
@@ -925,7 +925,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -964,7 +964,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1021,27 +1021,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5736930649
+                    "total": 0.5622460198
                   },
                   {
                     "year": 2030,
-                    "total": 0.6942162098
+                    "total": 0.690516339
                   },
                   {
                     "year": 2035,
-                    "total": 0.7745737366
+                    "total": 0.7935270338
                   },
                   {
                     "year": 2040,
-                    "total": 0.8130122344
+                    "total": 0.8579778048
                   },
                   {
                     "year": 2045,
-                    "total": 0.8668868799
+                    "total": 0.8998061547
                   },
                   {
                     "year": 2050,
-                    "total": 0.9637077187
+                    "total": 0.9752355213
                   }
                 ]
               }
@@ -1056,7 +1056,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1095,7 +1095,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1187,7 +1187,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1226,7 +1226,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1318,7 +1318,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1357,7 +1357,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1414,27 +1414,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4142914203
+                    "total": 0.4147170086
                   },
                   {
                     "year": 2030,
-                    "total": 0.5060393217
+                    "total": 0.505470971
                   },
                   {
                     "year": 2035,
-                    "total": 0.5059990597
+                    "total": 0.5397642079
                   },
                   {
                     "year": 2040,
-                    "total": 0.4575928377
+                    "total": 0.5344827699
                   },
                   {
                     "year": 2045,
-                    "total": 0.4533344014
+                    "total": 0.5456715296
                   },
                   {
                     "year": 2050,
-                    "total": 0.588717133
+                    "total": 0.6423557125
                   }
                 ]
               }
@@ -1449,7 +1449,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1488,7 +1488,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1545,27 +1545,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4143164417
+                    "total": 0.4146459383
                   },
                   {
                     "year": 2030,
-                    "total": 0.5060493609
+                    "total": 0.5052892397
                   },
                   {
                     "year": 2035,
-                    "total": 0.5055879661
+                    "total": 0.5405782352
                   },
                   {
                     "year": 2040,
-                    "total": 0.45508573
+                    "total": 0.5320883856
                   },
                   {
                     "year": 2045,
-                    "total": 0.4512402792
+                    "total": 0.5429390552
                   },
                   {
                     "year": 2050,
-                    "total": 0.5869625354
+                    "total": 0.6402336745
                   }
                 ]
               }
@@ -1580,7 +1580,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1619,7 +1619,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1711,7 +1711,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1750,7 +1750,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1842,7 +1842,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1881,7 +1881,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -1973,7 +1973,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2012,7 +2012,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2104,7 +2104,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2143,7 +2143,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2235,7 +2235,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2274,7 +2274,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2366,7 +2366,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2405,7 +2405,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2497,7 +2497,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2536,7 +2536,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2628,7 +2628,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2667,7 +2667,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2759,7 +2759,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2798,7 +2798,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -2890,7 +2890,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2929,7 +2929,7 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",
@@ -3021,7 +3021,7 @@ export default {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3041,26 +3041,26 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 0.7196976217
+                    "total": 0.7026745421
                   },
                   {
                     "year": 2040,
-                    "total": 0.7721837308
+                    "total": 0.7559476767
                   },
                   {
                     "year": 2045,
-                    "total": 0.793197645
+                    "total": 0.7781408016
                   },
                   {
                     "year": 2050,
-                    "total": 0.8401289703
+                    "total": 0.8251960573
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "_CO2 emissioner_akkumuleret",
+            "indicator": "_CO2 emissioner akkumuleret",
             "indicatorGroups": [
               {
                 "indicatorGroup": "CO2",

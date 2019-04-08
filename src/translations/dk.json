@@ -60,8 +60,8 @@
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissioner og %-reduktion",
-	"Anden drivhusgas udledning": "Anden drivhusgas udledning",
-	"Akkumuleret CO2 emissioner": "Akkumuleret CO2 emissioner",
+    "Anden drivhusgas udledning": "Anden drivhusgas udledning",
+    "Akkumuleret CO2 emissioner": "Akkumuleret CO2 emissioner",
     "Energiforbrug og VE-andel": "Energiforbrug og VE-andel",
     "Antal havmølleparker (á 800MW)": "Antal havmølleparker (á 800MW)",
     "Solcelle areal": "Solcelle areal",
@@ -280,14 +280,13 @@
     "Ethanoel (Elektro fuel)": "Ethanoel (Elektro fuel)",
     "Kerosen (Elektro fuel)": "Kerosen (Elektro fuel)",
     "VE andel": "VE andel",
-	"CO2": "CO2",
-	"Import andel": "Import andel",
-	"Anden produktion": "Anden produktion",
+    "CO2": "CO2",
+    "Import andel": "Import andel",
+    "Anden produktion": "Anden produktion",
     "Andre commercielle": "Andre commercielle",
     "Maskine": "Maskine",
     "Offentlig service": "Offentlig service",
     "Private service": "Private service",
-    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)",
-    "Transport (elsk. lastbiler)": "Transportmidler (eksl. lastbiler)"
-  }  
+    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)"
+  }
 }

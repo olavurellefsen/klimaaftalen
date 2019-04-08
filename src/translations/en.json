@@ -37,7 +37,7 @@
     "Regeringen": "Government",
     "CB": "CB 1½°C",
     "CB (bio)": "CB 1½°C (bio)"
-  },  
+  },
   "tabs": {
     "overview": "Overview",
     "mainresults": "Main results",
@@ -60,8 +60,8 @@
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissions and %-reduction",
-	"Anden drivhusgas udledning": "Other GHG emissions",
-	"Akkumuleret CO2 emissioner": "Accumulated CO2 emissions",
+    "Anden drivhusgas udledning": "Other GHG emissions",
+    "Akkumuleret CO2 emissioner": "Accumulated CO2 emissions",
     "Energiforbrug og VE-andel": "Energyconsumpution and RE-share",
     "Antal havmølleparker (á 800MW)": "Number of offshore wind energy parks (at 800MW)",
     "Solcelle areal": "Solarcell area",
@@ -112,7 +112,7 @@
     "Husholdningers netto energi forbrug": "Husholdningers netto energi forbrug",
     "Husholdnings omkostninger": "Husholdnings omkostninger",
     "Individuelle bygningers opvarmningsbehov": "Individuelle bygningers opvarmningsbehov",
-	"CO2":"CO2"
+    "CO2": "CO2"
   },
   "legend": {
     "Biomasse andel": "Biomasse andel",
@@ -281,13 +281,12 @@
     "Ethanoel (Elektro fuel)": "Ethanoel (Elektro fuel)",
     "Kerosen (Elektro fuel)": "Kerosen (Elektro fuel)",
     "VE andel": "RE share",
-	"Import andel":"Import share",
-	"Anden produktion":"Anden produktion",
-    "Andre commercielle":"Andre commercielle",
-    "Maskine":"Maskine",
-    "Offentlig service":"Offentlig service",
-    "Private service":"Private service",
-    "Transportmidler (eksl. goods transport)":"Transportmidler (eksl. goods transport)",
-	"Transport (elsk. lastbiler)": "Transportmidler (eksl. lastbiler)"
+    "Import andel": "Import share",
+    "Anden produktion": "Anden produktion",
+    "Andre commercielle": "Andre commercielle",
+    "Maskine": "Maskine",
+    "Offentlig service": "Offentlig service",
+    "Private service": "Private service",
+    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)"
   }
 }

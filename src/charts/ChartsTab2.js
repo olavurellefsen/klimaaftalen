@@ -77,13 +77,13 @@ const Charts = props => {
             chartTitle="El-netto-eksport"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
-            combinedChart={false}
+            combinedChart={true}
             label="PJ"
             label2="Netto eksport (PJ)"
             minY={-100}
             maxY={240}
-            minY2={-100}
-            maxY2={160}
+            minY2={-50}
+            maxY2={120}
             Y2Percentage={false}
             stackedBar={stackedBar}
             line={line}            
@@ -244,7 +244,7 @@ const Charts = props => {
               chartTitle="El-netto-eksport"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
-              combinedChart={false}
+              combinedChart={true}
               label="PJ"
               label2="Netto eksport (PJ)"
               minY={-200}

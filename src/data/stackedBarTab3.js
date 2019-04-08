@@ -3040,39 +3040,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 255.9040726391
+                    "total": 83.1653234537
                   },
                   {
                     "year": 2030,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2035,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2040,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2045,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 172.7387491854
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -6943,39 +6980,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 255.9040726391
+                    "total": 83.1653234537
                   },
                   {
                     "year": 2030,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2035,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2040,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2045,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 172.7387491854
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -10846,39 +10920,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -14749,39 +14860,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -18652,39 +18800,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -22555,39 +22740,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -26458,39 +26680,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -30361,39 +30620,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -34264,39 +34560,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 255.9040726391
+                    "total": 83.1653234537
                   },
                   {
                     "year": 2030,
-                    "total": 134.5470885562
+                    "total": 36.6009825865
                   },
                   {
                     "year": 2035,
-                    "total": 71.7713496288
+                    "total": 8.7361544992
                   },
                   {
                     "year": 2040,
-                    "total": 47.4534253452
+                    "total": 4.2868271676
                   },
                   {
                     "year": 2045,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 172.7387491854
+                  },
+                  {
+                    "year": 2030,
+                    "total": 97.9461059696
+                  },
+                  {
+                    "year": 2035,
+                    "total": 63.0351951296
+                  },
+                  {
+                    "year": 2040,
+                    "total": 43.1665981776
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -38167,39 +38500,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 255.9040726391
+                    "total": 83.1653234537
                   },
                   {
                     "year": 2030,
-                    "total": 134.5470885562
+                    "total": 36.6009825865
                   },
                   {
                     "year": 2035,
-                    "total": 71.7713496288
+                    "total": 8.7361544992
                   },
                   {
                     "year": 2040,
-                    "total": 47.4534253452
+                    "total": 4.2868271676
                   },
                   {
                     "year": 2045,
-                    "total": 0.002
+                    "total": 0.001
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 172.7387491854
+                  },
+                  {
+                    "year": 2030,
+                    "total": 97.9461059696
+                  },
+                  {
+                    "year": 2035,
+                    "total": 63.0351951296
+                  },
+                  {
+                    "year": 2040,
+                    "total": 43.1665981776
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.001
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -42070,39 +42440,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -45973,39 +46380,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -49876,39 +50320,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -53779,39 +54260,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -57682,39 +58200,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -61585,39 +62140,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -65488,39 +66080,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -69391,39 +70020,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -73294,39 +73960,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -77197,39 +77900,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -81100,39 +81840,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -85003,39 +85780,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -88906,39 +89720,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }
@@ -92809,39 +93660,76 @@ export default {
             "indicator": "_Olie og gas produktion",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Olie og gas",
+                "indicatorGroup": "Naturgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 500.2342730703
+                    "total": 151.1473479129
                   },
                   {
                     "year": 2020,
-                    "total": 223.486
+                    "total": 33.426
                   },
                   {
                     "year": 2025,
-                    "total": 455.6978125
+                    "total": 141.59625
                   },
                   {
                     "year": 2030,
-                    "total": 346.636875
+                    "total": 106.7775
                   },
                   {
                     "year": 2035,
-                    "total": 237.5759375
+                    "total": 71.95875
                   },
                   {
                     "year": 2040,
-                    "total": 128.515
+                    "total": 37.14
                   },
                   {
                     "year": 2045,
-                    "total": 19.4540625
+                    "total": 2.32125
                   },
                   {
                     "year": 2050,
-                    "total": 0.002
+                    "total": 0.001
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "R\u00e5olie",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 349.0869251574
+                  },
+                  {
+                    "year": 2020,
+                    "total": 190.06
+                  },
+                  {
+                    "year": 2025,
+                    "total": 314.1015625
+                  },
+                  {
+                    "year": 2030,
+                    "total": 239.859375
+                  },
+                  {
+                    "year": 2035,
+                    "total": 165.6171875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 91.375
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1328125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.001
                   }
                 ]
               }

@@ -20,37 +20,37 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4228042248
+                    "total": 0.405517022
                   },
                   {
                     "year": 2030,
-                    "total": 0.6961852907
+                    "total": 0.6517119479
                   },
                   {
                     "year": 2035,
-                    "total": 0.8057195146
+                    "total": 0.772206262
                   },
                   {
                     "year": 2040,
-                    "total": 0.8079054928
+                    "total": 0.7779911487
                   },
                   {
                     "year": 2045,
-                    "total": 0.8127470653
+                    "total": 0.7830652732
                   },
                   {
                     "year": 2050,
-                    "total": 0.9157769529
+                    "total": 0.8820590232
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -220,10 +220,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -393,10 +393,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -566,10 +566,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -739,10 +739,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -912,10 +912,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1058,37 +1058,37 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5623921468
+                    "total": 0.5642038331
                   },
                   {
                     "year": 2030,
-                    "total": 0.690581944
+                    "total": 0.6927397867
                   },
                   {
                     "year": 2035,
-                    "total": 0.793110355
+                    "total": 0.7967081338
                   },
                   {
                     "year": 2040,
-                    "total": 0.8575585756
+                    "total": 0.8595793683
                   },
                   {
                     "year": 2045,
-                    "total": 0.8992452795
+                    "total": 0.9004265229
                   },
                   {
                     "year": 2050,
-                    "total": 0.9757434593
+                    "total": 0.9758447629
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1120,7 +1120,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 9.6354524433
+                    "total": 9.4601515259
                   }
                 ]
               }
@@ -1146,23 +1146,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 16.5395658015
+                    "total": 16.0669026718
                   },
                   {
                     "year": 2035,
-                    "total": 16.5395658015
+                    "total": 16.5052890522
                   },
                   {
                     "year": 2040,
-                    "total": 17.3357025175
+                    "total": 16.9855903538
                   },
                   {
                     "year": 2045,
-                    "total": 17.3357025175
+                    "total": 16.9855903538
                   },
                   {
                     "year": 2050,
-                    "total": 17.3357025175
+                    "total": 16.9855903538
                   }
                 ]
               }
@@ -1184,11 +1184,11 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 31.1484986568
+                    "total": 31.1334006663
                   },
                   {
                     "year": 2030,
-                    "total": 35.3456288285
+                    "total": 35.2237512393
                   },
                   {
                     "year": 2035,
@@ -1196,15 +1196,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 46.5683587703
+                    "total": 46.5816194303
                   },
                   {
                     "year": 2045,
-                    "total": 54.6578338391
+                    "total": 54.6561764188
                   },
                   {
                     "year": 2050,
-                    "total": 57.5188349825
+                    "total": 57.519367091
                   }
                 ]
               }
@@ -1231,37 +1231,37 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5622460198
+                    "total": 0.5638143866
                   },
                   {
                     "year": 2030,
-                    "total": 0.690516339
+                    "total": 0.692362025
                   },
                   {
                     "year": 2035,
-                    "total": 0.7935270338
+                    "total": 0.7966626977
                   },
                   {
                     "year": 2040,
-                    "total": 0.8579778048
+                    "total": 0.8594247878
                   },
                   {
                     "year": 2045,
-                    "total": 0.8998061547
+                    "total": 0.8999549905
                   },
                   {
                     "year": 2050,
-                    "total": 0.9752355213
+                    "total": 0.9745085788
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1293,7 +1293,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 9.0226436454
+                    "total": 8.9804195227
                   }
                 ]
               }
@@ -1319,23 +1319,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 16.9335417549
+                    "total": 16.0669025944
                   },
                   {
                     "year": 2035,
-                    "total": 16.9335417549
+                    "total": 16.5052889748
                   },
                   {
                     "year": 2040,
-                    "total": 17.729678471
+                    "total": 17.0205121863
                   },
                   {
                     "year": 2045,
-                    "total": 17.729678471
+                    "total": 17.0205121863
                   },
                   {
                     "year": 2050,
-                    "total": 17.729678471
+                    "total": 17.0205121863
                   }
                 ]
               }
@@ -1357,11 +1357,11 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 31.1484986568
+                    "total": 31.1334006663
                   },
                   {
                     "year": 2030,
-                    "total": 35.3456288285
+                    "total": 35.2558493107
                   },
                   {
                     "year": 2035,
@@ -1369,11 +1369,11 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 46.5683587703
+                    "total": 46.5798172531
                   },
                   {
                     "year": 2045,
-                    "total": 54.6578338391
+                    "total": 54.6561764188
                   },
                   {
                     "year": 2050,
@@ -1431,10 +1431,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1604,10 +1604,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1777,10 +1777,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1950,10 +1950,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2123,10 +2123,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2296,10 +2296,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2469,10 +2469,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2642,10 +2642,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2815,10 +2815,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2988,10 +2988,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3161,10 +3161,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3334,10 +3334,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3507,10 +3507,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3680,10 +3680,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3853,10 +3853,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -4026,10 +4026,10 @@ export default {
             ]
           },
           {
-            "indicator": "_El netto eksport line",
+            "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Net eksport",
+                "indicatorGroup": "Netto eksport",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,

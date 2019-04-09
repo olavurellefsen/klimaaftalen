@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from "prop-types";
 import { render } from "react-testing-library";
 import { BrowserRouter } from 'react-router-dom';
+import '../i18n';
 
 const AllTheProviders = ({ children }) => (
   <BrowserRouter>{children}</BrowserRouter>

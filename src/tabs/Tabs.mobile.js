@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import breakpoint from 'styled-components-breakpoint'
 import { Link } from 'react-router-dom'
+import { useTranslation } from "react-i18next";
 
 const TabLayout = styled.div`
   display: none;
@@ -40,21 +41,20 @@ const TabItem  = styled(Link)`
   `;
   TabItem.displayName = 'TabItem';
 
-class Tabs extends React.Component {
-
-  render() {
-    return (
+function Tabs(props) {
+  const { t } = useTranslation();
+  
+  return (
       <TabLayout>
-          <TabItem to='/' selected={this.props.selectedChartgroup==='/'}>Overblik</TabItem>
-          <TabItem to='/tab2' selected={this.props.selectedChartgroup==='/tab2'}>Resultater</TabItem>
-          <TabItem to='/tab3' selected={this.props.selectedChartgroup==='/tab3'}>Forsyning</TabItem>
-          <TabItem to='/tab4' selected={this.props.selectedChartgroup==='/tab4'}>Transport</TabItem>
-		  <TabItem to='/tab5' selected={this.props.selectedChartgroup==='/tab5'}>Industri</TabItem>
-		  <TabItem to='/tab6' selected={this.props.selectedChartgroup==='/tab6'}>Husholdninger</TabItem>
+          <TabItem to='/' selected={props.selectedChartgroup==='/'}>{t("tabs.mobile.overview")}</TabItem>
+          <TabItem to='/tab2' selected={props.selectedChartgroup==='/tab2'}>{t("tabs.mobile.mainresults")}</TabItem>
+          <TabItem to='/tab3' selected={props.selectedChartgroup==='/tab3'}>{t("tabs.mobile.supplysector")}</TabItem>
+          <TabItem to='/tab4' selected={props.selectedChartgroup==='/tab4'}>{t("tabs.mobile.transportsector")}</TabItem>
+		  <TabItem to='/tab5' selected={props.selectedChartgroup==='/tab5'}>{t("tabs.mobile.industry")}</TabItem>
+		  <TabItem to='/tab6' selected={props.selectedChartgroup==='/tab6'}>{t("tabs.mobile.households")}</TabItem>
       </TabLayout>
     );
   }
-}
 
 Tabs.propTypes = {
   selectedChartgroup: PropTypes.string.isRequired

@@ -12,35 +12,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4030903201
+                    "total": 0.405517022
                   },
                   {
                     "year": 2030,
-                    "total": 0.5447891475
+                    "total": 0.6517119479
                   },
                   {
                     "year": 2035,
-                    "total": 0.6522076131
+                    "total": 0.772206262
                   },
                   {
                     "year": 2040,
-                    "total": 0.6527288563
+                    "total": 0.7779911487
                   },
                   {
                     "year": 2045,
-                    "total": 0.6750542075
+                    "total": 0.7830652732
                   },
                   {
                     "year": 2050,
-                    "total": 0.8585859793
+                    "total": 0.8820590232
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -5.1011121786
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -8.2457390832
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9.7123468726
                   }
                 ]
               }
@@ -66,11 +108,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 15.9594826543
+                    "total": 15.5741463094
                   },
                   {
                     "year": 2035,
-                    "total": 15.9594826543
+                    "total": 15.852972939
                   },
                   {
                     "year": 2040,
@@ -100,31 +142,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.0564824949
+                    "total": 26.4202592313
                   },
                   {
                     "year": 2030,
-                    "total": 32.0274405149
+                    "total": 34.6307663364
                   },
                   {
                     "year": 2035,
-                    "total": 36.9182006148
+                    "total": 39.7204271681
                   },
                   {
                     "year": 2040,
-                    "total": 44.6751772174
+                    "total": 46.5692075344
                   },
                   {
                     "year": 2045,
-                    "total": 53.677140462
+                    "total": 55.0640530039
                   },
                   {
                     "year": 2050,
-                    "total": 58.847922967
+                    "total": 59.1927107672
                   }
                 ]
               }
@@ -143,35 +185,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4041360084
+                    "total": 0.423752191
                   },
                   {
                     "year": 2030,
-                    "total": 0.5446187985
+                    "total": 0.6976726933
                   },
                   {
                     "year": 2035,
-                    "total": 0.6519146276
+                    "total": 0.8056846726
                   },
                   {
                     "year": 2040,
-                    "total": 0.6538907441
+                    "total": 0.8051578517
                   },
                   {
                     "year": 2045,
-                    "total": 0.67498516
+                    "total": 0.811613488
                   },
                   {
                     "year": 2050,
-                    "total": 0.858018207
+                    "total": 0.9144044761
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -4.0569937932
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -10.142565798
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8.7734478942
                   }
                 ]
               }
@@ -197,11 +281,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 15.9450192344
+                    "total": 15.5847754174
                   },
                   {
                     "year": 2035,
-                    "total": 15.9450192344
+                    "total": 15.8636701715
                   },
                   {
                     "year": 2040,
@@ -231,31 +315,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.0564824949
+                    "total": 26.4576164092
                   },
                   {
                     "year": 2030,
-                    "total": 32.0458812219
+                    "total": 34.7259755011
                   },
                   {
                     "year": 2035,
-                    "total": 36.9535213963
+                    "total": 39.8233724413
                   },
                   {
                     "year": 2040,
-                    "total": 45.0637581636
+                    "total": 46.6709278325
                   },
                   {
                     "year": 2045,
-                    "total": 54.0408075378
+                    "total": 55.4451780062
                   },
                   {
                     "year": 2050,
-                    "total": 58.9402379871
+                    "total": 59.3240596109
                   }
                 ]
               }
@@ -274,35 +358,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.460739602
+                    "total": 0.4635526823
                   },
                   {
                     "year": 2030,
-                    "total": 0.5622655485
+                    "total": 0.5886788081
                   },
                   {
                     "year": 2035,
-                    "total": 0.7088488618
+                    "total": 0.756100607
                   },
                   {
                     "year": 2040,
-                    "total": 0.8292742024
+                    "total": 0.8639618619
                   },
                   {
                     "year": 2045,
-                    "total": 0.9087416152
+                    "total": 0.9347729975
                   },
                   {
                     "year": 2050,
-                    "total": 0.9876683842
+                    "total": 0.9928740441
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -362,31 +488,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.8032673004
+                    "total": 25.3866689587
                   },
                   {
                     "year": 2030,
-                    "total": 32.0281944365
+                    "total": 32.6042534598
                   },
                   {
                     "year": 2035,
-                    "total": 39.1672783777
+                    "total": 40.0145178279
                   },
                   {
                     "year": 2040,
-                    "total": 46.4718000851
+                    "total": 46.5342692377
                   },
                   {
                     "year": 2045,
-                    "total": 55.0846169017
+                    "total": 55.1364818747
                   },
                   {
                     "year": 2050,
-                    "total": 57.9486821805
+                    "total": 57.9779808693
                   }
                 ]
               }
@@ -405,35 +531,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4537300541
+                    "total": 0.455241236
                   },
                   {
                     "year": 2030,
-                    "total": 0.5540097917
+                    "total": 0.5555286498
                   },
                   {
                     "year": 2035,
-                    "total": 0.612037054
+                    "total": 0.6154907777
                   },
                   {
                     "year": 2040,
-                    "total": 0.7144402126
+                    "total": 0.7315441073
                   },
                   {
                     "year": 2045,
-                    "total": 0.8741078081
+                    "total": 0.8694971267
                   },
                   {
                     "year": 2050,
-                    "total": 0.9361891125
+                    "total": 0.9376645374
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -493,31 +661,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.1614766485
+                    "total": 24.2666633153
                   },
                   {
                     "year": 2030,
-                    "total": 29.9186287121
+                    "total": 30.4542142187
                   },
                   {
                     "year": 2035,
-                    "total": 37.7227480722
+                    "total": 37.9761814832
                   },
                   {
                     "year": 2040,
-                    "total": 44.9559989
+                    "total": 45.5230719623
                   },
                   {
                     "year": 2045,
-                    "total": 54.6221822709
+                    "total": 54.4097915644
                   },
                   {
                     "year": 2050,
-                    "total": 58.0497238762
+                    "total": 58.0374754941
                   }
                 ]
               }
@@ -536,35 +704,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4607835849
+                    "total": 0.4647350623
                   },
                   {
                     "year": 2030,
-                    "total": 0.5989053842
+                    "total": 0.6098478227
                   },
                   {
                     "year": 2035,
-                    "total": 0.717668346
+                    "total": 0.7738069713
                   },
                   {
                     "year": 2040,
-                    "total": 0.8252135828
+                    "total": 0.8615380254
                   },
                   {
                     "year": 2045,
-                    "total": 0.9238784124
+                    "total": 0.9269807313
                   },
                   {
                     "year": 2050,
-                    "total": 0.9789764102
+                    "total": 0.9789670597
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -624,31 +834,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.8955216381
+                    "total": 25.9283240003
                   },
                   {
                     "year": 2030,
-                    "total": 32.2011707468
+                    "total": 33.0962643993
                   },
                   {
                     "year": 2035,
-                    "total": 39.4964476258
+                    "total": 40.0287691846
                   },
                   {
                     "year": 2040,
-                    "total": 46.4523375258
+                    "total": 46.3125174673
                   },
                   {
                     "year": 2045,
-                    "total": 54.5275813146
+                    "total": 54.2556424244
                   },
                   {
                     "year": 2050,
-                    "total": 62.742848235
+                    "total": 62.9998305168
                   }
                 ]
               }
@@ -667,35 +877,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4545246647
+                    "total": 0.4567790523
                   },
                   {
                     "year": 2030,
-                    "total": 0.5545998027
+                    "total": 0.5563855422
                   },
                   {
                     "year": 2035,
-                    "total": 0.6144079628
+                    "total": 0.6217947368
                   },
                   {
                     "year": 2040,
-                    "total": 0.7243490099
+                    "total": 0.7355955387
                   },
                   {
                     "year": 2045,
-                    "total": 0.8775348998
+                    "total": 0.8751573707
                   },
                   {
                     "year": 2050,
-                    "total": 0.9358025689
+                    "total": 0.9371648369
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -755,31 +1007,377 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.2058567137
+                    "total": 24.3115010027
                   },
                   {
                     "year": 2030,
-                    "total": 30.3214902696
+                    "total": 31.0987089265
                   },
                   {
                     "year": 2035,
-                    "total": 38.3301375914
+                    "total": 38.9360192598
                   },
                   {
                     "year": 2040,
-                    "total": 45.4618060145
+                    "total": 46.1420873652
                   },
                   {
                     "year": 2045,
-                    "total": 54.4571410005
+                    "total": 54.4591444138
                   },
                   {
                     "year": 2050,
-                    "total": 62.2174010483
+                    "total": 62.3212912391
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "DGSB_INT",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5642038331
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6927397867
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7967081338
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8595793683
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9004265229
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9758447629
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9.4601515259
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.0669026718
+                  },
+                  {
+                    "year": 2035,
+                    "total": 16.5052890522
+                  },
+                  {
+                    "year": 2040,
+                    "total": 16.9855903538
+                  },
+                  {
+                    "year": 2045,
+                    "total": 16.9855903538
+                  },
+                  {
+                    "year": 2050,
+                    "total": 16.9855903538
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.7878764845
+                  },
+                  {
+                    "year": 2025,
+                    "total": 31.1334006663
+                  },
+                  {
+                    "year": 2030,
+                    "total": 35.2237512393
+                  },
+                  {
+                    "year": 2035,
+                    "total": 40.03297438
+                  },
+                  {
+                    "year": 2040,
+                    "total": 46.5816194303
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.6561764188
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.519367091
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "DGSB_INT_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5638143866
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.692362025
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7966626977
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8594247878
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8999549905
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9745085788
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8.9804195227
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.0669025944
+                  },
+                  {
+                    "year": 2035,
+                    "total": 16.5052889748
+                  },
+                  {
+                    "year": 2040,
+                    "total": 17.0205121863
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.0205121863
+                  },
+                  {
+                    "year": 2050,
+                    "total": 17.0205121863
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.7878764845
+                  },
+                  {
+                    "year": 2025,
+                    "total": 31.1334006663
+                  },
+                  {
+                    "year": 2030,
+                    "total": 35.2558493107
+                  },
+                  {
+                    "year": 2035,
+                    "total": 40.03297438
+                  },
+                  {
+                    "year": 2040,
+                    "total": 46.5798172531
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.6561764188
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.5188349825
                   }
                 ]
               }
@@ -798,35 +1396,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4182880555
+                    "total": 0.4169302243
                   },
                   {
                     "year": 2030,
-                    "total": 0.5203287877
+                    "total": 0.5185802884
                   },
                   {
                     "year": 2035,
-                    "total": 0.5876064703
+                    "total": 0.5874589304
                   },
                   {
                     "year": 2040,
-                    "total": 0.6454571554
+                    "total": 0.6054410687
                   },
                   {
                     "year": 2045,
-                    "total": 0.7016264076
+                    "total": 0.6359701239
                   },
                   {
                     "year": 2050,
-                    "total": 0.8811891019
+                    "total": 0.8640881542
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -6.207125682
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.4180097407
                   }
                 ]
               }
@@ -852,23 +1492,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 16.026432716
+                    "total": 16.0295536083
                   },
                   {
                     "year": 2035,
-                    "total": 16.026432716
+                    "total": 16.0295536083
                   },
                   {
                     "year": 2040,
-                    "total": 16.3043161824
+                    "total": 16.305459581
                   },
                   {
                     "year": 2045,
-                    "total": 16.3043161824
+                    "total": 16.305459581
                   },
                   {
                     "year": 2050,
-                    "total": 16.3043161824
+                    "total": 16.305459581
                   }
                 ]
               }
@@ -886,31 +1526,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.932270391
+                    "total": 25.9578429996
                   },
                   {
                     "year": 2030,
-                    "total": 32.2030655484
+                    "total": 32.2835020408
                   },
                   {
                     "year": 2035,
-                    "total": 38.9571818495
+                    "total": 38.692040049
                   },
                   {
                     "year": 2040,
-                    "total": 47.0487141555
+                    "total": 47.0511062249
                   },
                   {
                     "year": 2045,
-                    "total": 55.5374454282
+                    "total": 55.5087872316
                   },
                   {
                     "year": 2050,
-                    "total": 59.2282625167
+                    "total": 59.21993136
                   }
                 ]
               }
@@ -929,35 +1569,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4180961906
+                    "total": 0.4169151548
                   },
                   {
                     "year": 2030,
-                    "total": 0.5196944544
+                    "total": 0.5186986769
                   },
                   {
                     "year": 2035,
-                    "total": 0.5869172597
+                    "total": 0.5868792473
                   },
                   {
                     "year": 2040,
-                    "total": 0.6471949355
+                    "total": 0.607421683
                   },
                   {
                     "year": 2045,
-                    "total": 0.7030658715
+                    "total": 0.6379316518
                   },
                   {
                     "year": 2050,
-                    "total": 0.8822401041
+                    "total": 0.8658063137
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -7.2072632128
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.0991886137
                   }
                 ]
               }
@@ -983,11 +1665,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 16.0275761146
+                    "total": 16.0295536083
                   },
                   {
                     "year": 2035,
-                    "total": 16.0275761146
+                    "total": 16.0295536083
                   },
                   {
                     "year": 2040,
@@ -1017,31 +1699,377 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.9416310565
+                    "total": 25.9583120515
                   },
                   {
                     "year": 2030,
-                    "total": 32.2383456196
+                    "total": 32.2839710927
                   },
                   {
                     "year": 2035,
-                    "total": 38.9790913903
+                    "total": 38.692509101
                   },
                   {
                     "year": 2040,
-                    "total": 47.0552671245
+                    "total": 47.1052091439
                   },
                   {
                     "year": 2045,
-                    "total": 55.5415570775
+                    "total": 55.5251930674
                   },
                   {
                     "year": 2050,
-                    "total": 59.2282625167
+                    "total": 59.2287714299
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "FP_NO_WIN_INT",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4147170086
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.505470971
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5397642079
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5344827699
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5456715296
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6423557125
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -12.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.6250001864
+                  },
+                  {
+                    "year": 2035,
+                    "total": 18.01801728
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.3844526253
+                  },
+                  {
+                    "year": 2045,
+                    "total": 18.3844526253
+                  },
+                  {
+                    "year": 2050,
+                    "total": 18.3844526253
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.7878764845
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25.3640133298
+                  },
+                  {
+                    "year": 2030,
+                    "total": 32.2407749236
+                  },
+                  {
+                    "year": 2035,
+                    "total": 41.656374829
+                  },
+                  {
+                    "year": 2040,
+                    "total": 54.3271302721
+                  },
+                  {
+                    "year": 2045,
+                    "total": 78.6930652851
+                  },
+                  {
+                    "year": 2050,
+                    "total": 78.4265539375
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "FP_NO_WIN_INT_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4146459383
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5052892397
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5405782352
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5320883856
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5429390552
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6402336745
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -12.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.6022750174
+                  },
+                  {
+                    "year": 2035,
+                    "total": 18.01801728
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.3844413072
+                  },
+                  {
+                    "year": 2045,
+                    "total": 18.3844413072
+                  },
+                  {
+                    "year": 2050,
+                    "total": 18.3844413072
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.7878764845
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25.3640133298
+                  },
+                  {
+                    "year": 2030,
+                    "total": 32.2101060961
+                  },
+                  {
+                    "year": 2035,
+                    "total": 41.6643705228
+                  },
+                  {
+                    "year": 2040,
+                    "total": 54.2785110481
+                  },
+                  {
+                    "year": 2045,
+                    "total": 78.7784989782
+                  },
+                  {
+                    "year": 2050,
+                    "total": 78.485875064
                   }
                 ]
               }
@@ -1060,35 +2088,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4136529184
+                    "total": 0.4107711868
                   },
                   {
                     "year": 2030,
-                    "total": 0.5164405301
+                    "total": 0.5154828057
                   },
                   {
                     "year": 2035,
-                    "total": 0.5641058383
+                    "total": 0.5638033379
                   },
                   {
                     "year": 2040,
-                    "total": 0.5937799395
+                    "total": 0.5933487425
                   },
                   {
                     "year": 2045,
-                    "total": 0.6267615194
+                    "total": 0.6296736366
                   },
                   {
                     "year": 2050,
-                    "total": 0.7586729837
+                    "total": 0.7558699427
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.9751498421
                   }
                 ]
               }
@@ -1114,11 +2184,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 17.1601672948
+                    "total": 17.1193069505
                   },
                   {
                     "year": 2035,
-                    "total": 17.1601672948
+                    "total": 17.1193069505
                   },
                   {
                     "year": 2040,
@@ -1148,31 +2218,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.2655292182
+                    "total": 25.2390465288
                   },
                   {
                     "year": 2030,
-                    "total": 31.5157198111
+                    "total": 31.5014349723
                   },
                   {
                     "year": 2035,
-                    "total": 38.3055876907
+                    "total": 38.1695159997
                   },
                   {
                     "year": 2040,
-                    "total": 46.0721800333
+                    "total": 46.2256982461
                   },
                   {
                     "year": 2045,
-                    "total": 54.7404987684
+                    "total": 54.8797033814
                   },
                   {
                     "year": 2050,
-                    "total": 59.3187270937
+                    "total": 59.3598411147
                   }
                 ]
               }
@@ -1191,35 +2261,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4131969764
+                    "total": 0.4106279474
                   },
                   {
                     "year": 2030,
-                    "total": 0.5160408076
+                    "total": 0.5154823893
                   },
                   {
                     "year": 2035,
-                    "total": 0.5654096547
+                    "total": 0.5651523322
                   },
                   {
                     "year": 2040,
-                    "total": 0.5960729839
+                    "total": 0.5956141944
                   },
                   {
                     "year": 2045,
-                    "total": 0.6288686424
+                    "total": 0.6317717167
                   },
                   {
                     "year": 2050,
-                    "total": 0.7594863795
+                    "total": 0.7554834468
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.0054523571
                   }
                 ]
               }
@@ -1245,11 +2357,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 17.1643291589
+                    "total": 17.1194544755
                   },
                   {
                     "year": 2035,
-                    "total": 17.1643291589
+                    "total": 17.1194544755
                   },
                   {
                     "year": 2040,
@@ -1279,31 +2391,377 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.2655292182
+                    "total": 25.2390465288
                   },
                   {
                     "year": 2030,
-                    "total": 31.5354858553
+                    "total": 31.5014349723
                   },
                   {
                     "year": 2035,
-                    "total": 38.3153167461
+                    "total": 38.1695159997
                   },
                   {
                     "year": 2040,
-                    "total": 46.0721800333
+                    "total": 46.2256982461
                   },
                   {
                     "year": 2045,
-                    "total": 54.7491362015
+                    "total": 54.8797033814
                   },
                   {
                     "year": 2050,
-                    "total": 59.3220687694
+                    "total": 59.3598411147
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "LA_INT",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4109159231
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5367788144
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5797883722
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5947064353
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6156958219
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7154755674
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -3.0167042809
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.1010186288
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.1010186288
+                  },
+                  {
+                    "year": 2040,
+                    "total": 17.1653053733
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1653053733
+                  },
+                  {
+                    "year": 2050,
+                    "total": 17.1653053733
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.7878764845
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25.2390465288
+                  },
+                  {
+                    "year": 2030,
+                    "total": 31.5146519371
+                  },
+                  {
+                    "year": 2035,
+                    "total": 38.1760215292
+                  },
+                  {
+                    "year": 2040,
+                    "total": 46.2270540322
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.9107430101
+                  },
+                  {
+                    "year": 2050,
+                    "total": 59.3857200434
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "LA_INT_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4108883235
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5361988321
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5810975328
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5969042681
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6177818569
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7161805315
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -3.4685546642
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2737221052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.1010186288
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.1010186288
+                  },
+                  {
+                    "year": 2040,
+                    "total": 17.1653053733
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.1653053733
+                  },
+                  {
+                    "year": 2050,
+                    "total": 17.1653053733
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.7878764845
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25.2390465288
+                  },
+                  {
+                    "year": 2030,
+                    "total": 31.5404685334
+                  },
+                  {
+                    "year": 2035,
+                    "total": 38.18872873
+                  },
+                  {
+                    "year": 2040,
+                    "total": 46.2392443975
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.9164073355
+                  },
+                  {
+                    "year": 2050,
+                    "total": 59.3857200434
                   }
                 ]
               }
@@ -1322,35 +2780,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4185591605
+                    "total": 0.4134945507
                   },
                   {
                     "year": 2030,
-                    "total": 0.5337718656
+                    "total": 0.5342561144
                   },
                   {
                     "year": 2035,
-                    "total": 0.6217468897
+                    "total": 0.6219687396
                   },
                   {
                     "year": 2040,
-                    "total": 0.6306340883
+                    "total": 0.6295320172
                   },
                   {
                     "year": 2045,
-                    "total": 0.6323850587
+                    "total": 0.6333598827
                   },
                   {
                     "year": 2050,
-                    "total": 0.7659552535
+                    "total": 0.7659438222
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -3.430841848
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.594851685
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -1376,11 +2876,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 15.7504201488
+                    "total": 15.8135612946
                   },
                   {
                     "year": 2035,
-                    "total": 15.7504201488
+                    "total": 15.8614757932
                   },
                   {
                     "year": 2040,
@@ -1410,31 +2910,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.8553223353
+                    "total": 24.9037643525
                   },
                   {
                     "year": 2030,
-                    "total": 30.3747657002
+                    "total": 30.4404248907
                   },
                   {
                     "year": 2035,
-                    "total": 36.643674725
+                    "total": 36.3622486351
                   },
                   {
                     "year": 2040,
-                    "total": 44.564899101
+                    "total": 44.6406083896
                   },
                   {
                     "year": 2045,
-                    "total": 53.4845109988
+                    "total": 53.710682606
                   },
                   {
                     "year": 2050,
-                    "total": 58.9452500961
+                    "total": 59.0187551641
                   }
                 ]
               }
@@ -1453,35 +2953,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4185495257
+                    "total": 0.4135890401
                   },
                   {
                     "year": 2030,
-                    "total": 0.5353241396
+                    "total": 0.5357965894
                   },
                   {
                     "year": 2035,
-                    "total": 0.6227797712
+                    "total": 0.6229929226
                   },
                   {
                     "year": 2040,
-                    "total": 0.6283242058
+                    "total": 0.6271557171
                   },
                   {
                     "year": 2045,
-                    "total": 0.6338118992
+                    "total": 0.6349263414
                   },
                   {
                     "year": 2050,
-                    "total": 0.7670450659
+                    "total": 0.7670184723
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -2.6446780384
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1.5756305229
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -1507,11 +3049,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 15.7504201488
+                    "total": 15.8135612946
                   },
                   {
                     "year": 2035,
-                    "total": 15.7504201488
+                    "total": 15.8614757932
                   },
                   {
                     "year": 2040,
@@ -1541,31 +3083,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.8553223353
+                    "total": 24.9037643525
                   },
                   {
                     "year": 2030,
-                    "total": 30.3747657002
+                    "total": 30.4425357091
                   },
                   {
                     "year": 2035,
-                    "total": 36.643674725
+                    "total": 36.3643594535
                   },
                   {
                     "year": 2040,
-                    "total": 44.5668847663
+                    "total": 44.642719208
                   },
                   {
                     "year": 2045,
-                    "total": 53.6666772577
+                    "total": 53.711300147
                   },
                   {
                     "year": 2050,
-                    "total": 59.0309577413
+                    "total": 59.1363280295
                   }
                 ]
               }
@@ -1584,35 +3126,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4149548471
+                    "total": 0.4131956854
                   },
                   {
                     "year": 2030,
-                    "total": 0.517227878
+                    "total": 0.5164052956
                   },
                   {
                     "year": 2035,
-                    "total": 0.5640429084
+                    "total": 0.563697171
                   },
                   {
                     "year": 2040,
-                    "total": 0.5937360376
+                    "total": 0.5933502029
                   },
                   {
                     "year": 2045,
-                    "total": 0.6267443776
+                    "total": 0.6296812344
                   },
                   {
                     "year": 2050,
-                    "total": 0.7585891778
+                    "total": 0.7558266893
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.9562794071
                   }
                 ]
               }
@@ -1638,11 +3222,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 17.140759924
+                    "total": 17.122112218
                   },
                   {
                     "year": 2035,
-                    "total": 17.140759924
+                    "total": 17.122112218
                   },
                   {
                     "year": 2040,
@@ -1672,31 +3256,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.2655292182
+                    "total": 25.2390465288
                   },
                   {
                     "year": 2030,
-                    "total": 31.5157198111
+                    "total": 31.481668928
                   },
                   {
                     "year": 2035,
-                    "total": 38.3055876907
+                    "total": 38.1597869443
                   },
                   {
                     "year": 2040,
-                    "total": 46.0721800333
+                    "total": 46.2256982461
                   },
                   {
                     "year": 2045,
-                    "total": 54.7404987684
+                    "total": 54.8797033814
                   },
                   {
                     "year": 2050,
-                    "total": 59.3187270937
+                    "total": 59.3598411147
                   }
                 ]
               }
@@ -1715,35 +3299,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4149793094
+                    "total": 0.4126078326
                   },
                   {
                     "year": 2030,
-                    "total": 0.5170208929
+                    "total": 0.5163716282
                   },
                   {
                     "year": 2035,
-                    "total": 0.5653365448
+                    "total": 0.5650390509
                   },
                   {
                     "year": 2040,
-                    "total": 0.5960505199
+                    "total": 0.5955775536
                   },
                   {
                     "year": 2045,
-                    "total": 0.6288525396
+                    "total": 0.6317868404
                   },
                   {
                     "year": 2050,
-                    "total": 0.7595403456
+                    "total": 0.7554663545
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.9988812314
                   }
                 ]
               }
@@ -1769,11 +3395,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 17.1557069517
+                    "total": 17.1221120426
                   },
                   {
                     "year": 2035,
-                    "total": 17.1557069517
+                    "total": 17.1221120426
                   },
                   {
                     "year": 2040,
@@ -1803,31 +3429,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.2655292182
+                    "total": 25.2390465288
                   },
                   {
                     "year": 2030,
-                    "total": 31.5354858553
+                    "total": 31.5014349723
                   },
                   {
                     "year": 2035,
-                    "total": 38.3153167461
+                    "total": 38.1695159997
                   },
                   {
                     "year": 2040,
-                    "total": 46.0721800333
+                    "total": 46.2256982461
                   },
                   {
                     "year": 2045,
-                    "total": 54.7491362015
+                    "total": 54.8797033814
                   },
                   {
                     "year": 2050,
-                    "total": 59.3220687694
+                    "total": 59.3598411147
                   }
                 ]
               }
@@ -1846,35 +3472,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2947794772
+                    "total": 0.2945978023
                   },
                   {
                     "year": 2020,
-                    "total": 0.3485724965
+                    "total": 0.3527551178
                   },
                   {
                     "year": 2025,
-                    "total": 0.4177747366
+                    "total": 0.4163014576
                   },
                   {
                     "year": 2030,
-                    "total": 0.5595155323
+                    "total": 0.5255943852
                   },
                   {
                     "year": 2035,
-                    "total": 0.6361345839
+                    "total": 0.6078140048
                   },
                   {
                     "year": 2040,
-                    "total": 0.6654817146
+                    "total": 0.6653832272
                   },
                   {
                     "year": 2045,
-                    "total": 0.6971624605
+                    "total": 0.6974097968
                   },
                   {
                     "year": 2050,
-                    "total": 0.8655584566
+                    "total": 0.8545361185
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5836578023
+                  },
+                  {
+                    "year": 2020,
+                    "total": -3.263513755
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9.9330933193
                   }
                 ]
               }
@@ -1900,23 +3568,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 17.0055086882
+                    "total": 17.1847125153
                   },
                   {
                     "year": 2035,
-                    "total": 17.0055086882
+                    "total": 17.1847125153
                   },
                   {
                     "year": 2040,
-                    "total": 17.1829896758
+                    "total": 17.2177020571
                   },
                   {
                     "year": 2045,
-                    "total": 17.1829896758
+                    "total": 17.2177020571
                   },
                   {
                     "year": 2050,
-                    "total": 17.1829896758
+                    "total": 17.2177020571
                   }
                 ]
               }
@@ -1934,31 +3602,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0204592103
+                    "total": 18.7924593305
                   },
                   {
                     "year": 2025,
-                    "total": 25.2655292182
+                    "total": 25.2436293747
                   },
                   {
                     "year": 2030,
-                    "total": 31.4907105667
+                    "total": 31.5091840457
                   },
                   {
                     "year": 2035,
-                    "total": 37.9209521998
+                    "total": 38.1741276494
                   },
                   {
                     "year": 2040,
-                    "total": 46.0271403146
+                    "total": 46.2288644737
                   },
                   {
                     "year": 2045,
-                    "total": 54.6927004084
+                    "total": 54.8720252164
                   },
                   {
                     "year": 2050,
-                    "total": 59.2907340932
+                    "total": 59.356499439
                   }
                 ]
               }
@@ -1977,35 +3645,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4161570492
+                    "total": 0.4130950479
                   },
                   {
                     "year": 2030,
-                    "total": 0.5555161239
+                    "total": 0.517165627
                   },
                   {
                     "year": 2035,
-                    "total": 0.6370110878
+                    "total": 0.6070562954
                   },
                   {
                     "year": 2040,
-                    "total": 0.66766005
+                    "total": 0.667121832
                   },
                   {
                     "year": 2045,
-                    "total": 0.6962848971
+                    "total": 0.6988112384
                   },
                   {
                     "year": 2050,
-                    "total": 0.8658446011
+                    "total": 0.8540072322
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9.1346081514
                   }
                 ]
               }
@@ -2031,11 +3741,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 17.1490591517
+                    "total": 17.1223758396
                   },
                   {
                     "year": 2035,
-                    "total": 17.1490591517
+                    "total": 17.1223758396
                   },
                   {
                     "year": 2040,
@@ -2065,31 +3775,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 25.2655292182
+                    "total": 25.2390465288
                   },
                   {
                     "year": 2030,
-                    "total": 31.5109298055
+                    "total": 31.5014349723
                   },
                   {
                     "year": 2035,
-                    "total": 38.3032299994
+                    "total": 38.1695159997
                   },
                   {
                     "year": 2040,
-                    "total": 46.0721800333
+                    "total": 46.2256982461
                   },
                   {
                     "year": 2045,
-                    "total": 54.7404987684
+                    "total": 54.8710659483
                   },
                   {
                     "year": 2050,
-                    "total": 59.3187270937
+                    "total": 59.356499439
                   }
                 ]
               }
@@ -2108,35 +3818,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4160896104
+                    "total": 0.4123418911
                   },
                   {
                     "year": 2030,
-                    "total": 0.5302402024
+                    "total": 0.5295622985
                   },
                   {
                     "year": 2035,
-                    "total": 0.6164941958
+                    "total": 0.6154229133
                   },
                   {
                     "year": 2040,
-                    "total": 0.6275630922
+                    "total": 0.6258724343
                   },
                   {
                     "year": 2045,
-                    "total": 0.6309806138
+                    "total": 0.6308634325
                   },
                   {
                     "year": 2050,
-                    "total": 0.7646195559
+                    "total": 0.7648776427
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -2.7978154631
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1.3902085129
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -2162,11 +3914,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 15.6679793617
+                    "total": 15.7465278963
                   },
                   {
                     "year": 2035,
-                    "total": 15.6679793617
+                    "total": 15.7771752092
                   },
                   {
                     "year": 2040,
@@ -2196,31 +3948,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.9473184586
+                    "total": 24.9037643525
                   },
                   {
                     "year": 2030,
-                    "total": 30.4225515906
+                    "total": 30.4404248907
                   },
                   {
                     "year": 2035,
-                    "total": 36.6459167603
+                    "total": 36.3603655671
                   },
                   {
                     "year": 2040,
-                    "total": 44.564899101
+                    "total": 44.6387253215
                   },
                   {
                     "year": 2045,
-                    "total": 53.4845109988
+                    "total": 53.695435432
                   },
                   {
                     "year": 2050,
-                    "total": 58.9070006973
+                    "total": 59.0844779612
                   }
                 ]
               }
@@ -2239,35 +3991,77 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.2945543548
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3469911158
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4156737189
+                    "total": 0.4123548355
                   },
                   {
                     "year": 2030,
-                    "total": 0.5316232614
+                    "total": 0.530801699
                   },
                   {
                     "year": 2035,
-                    "total": 0.6177027394
+                    "total": 0.6166057065
                   },
                   {
                     "year": 2040,
-                    "total": 0.6247132142
+                    "total": 0.6230022705
                   },
                   {
                     "year": 2045,
-                    "total": 0.6316510499
+                    "total": 0.6325319401
                   },
                   {
                     "year": 2050,
-                    "total": 0.765759015
+                    "total": 0.7661088299
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Netto eksport",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -7.5681671437
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.7115120009
+                  },
+                  {
+                    "year": 2025,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -2.1653968624
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1.2235907758
+                  },
+                  {
+                    "year": 2045,
+                    "total": -12.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0
                   }
                 ]
               }
@@ -2293,11 +4087,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 15.6679793617
+                    "total": 15.7465278963
                   },
                   {
                     "year": 2035,
-                    "total": 15.6679793617
+                    "total": 15.7771752092
                   },
                   {
                     "year": 2040,
@@ -2327,293 +4121,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.0143512483
+                    "total": 18.7878764845
                   },
                   {
                     "year": 2025,
-                    "total": 24.9473184586
+                    "total": 24.9037643525
                   },
                   {
                     "year": 2030,
-                    "total": 30.4225515906
+                    "total": 30.4404248907
                   },
                   {
                     "year": 2035,
-                    "total": 36.6459167603
+                    "total": 36.3622486351
                   },
                   {
                     "year": 2040,
-                    "total": 44.5668847663
+                    "total": 44.6406083896
                   },
                   {
                     "year": 2045,
-                    "total": 53.6666772577
+                    "total": 53.710682606
                   },
                   {
                     "year": 2050,
-                    "total": 59.1485306067
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "low_growth_INT",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2945543548
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3469911158
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4096280422
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.4874842169
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.562083373
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5946652078
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.625652877
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7641179603
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers varmeforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.9560249635
-                  },
-                  {
-                    "year": 2020,
-                    "total": 9.6148735343
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2737221052
-                  },
-                  {
-                    "year": 2030,
-                    "total": 15.4210651247
-                  },
-                  {
-                    "year": 2035,
-                    "total": 15.6760759944
-                  },
-                  {
-                    "year": 2040,
-                    "total": 16.2717231852
-                  },
-                  {
-                    "year": 2045,
-                    "total": 16.2717231852
-                  },
-                  {
-                    "year": 2050,
-                    "total": 16.2717231852
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Industriens energiforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 18.0143512483
-                  },
-                  {
-                    "year": 2025,
-                    "total": 24.9432480316
-                  },
-                  {
-                    "year": 2030,
-                    "total": 30.6995543263
-                  },
-                  {
-                    "year": 2035,
-                    "total": 34.6726052712
-                  },
-                  {
-                    "year": 2040,
-                    "total": 38.3713638706
-                  },
-                  {
-                    "year": 2045,
-                    "total": 42.293485345
-                  },
-                  {
-                    "year": 2050,
-                    "total": 43.0892857233
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "low_growth_INT_With_CCS",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2945543548
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3469911158
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4096928565
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.487361307
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.56145784
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5911608072
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.621590317
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7656828034
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers varmeforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.9560249635
-                  },
-                  {
-                    "year": 2020,
-                    "total": 9.6148735343
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2737221052
-                  },
-                  {
-                    "year": 2030,
-                    "total": 15.4210651247
-                  },
-                  {
-                    "year": 2035,
-                    "total": 15.6424616174
-                  },
-                  {
-                    "year": 2040,
-                    "total": 16.2717231852
-                  },
-                  {
-                    "year": 2045,
-                    "total": 16.2717231852
-                  },
-                  {
-                    "year": 2050,
-                    "total": 16.2717231852
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Industriens energiforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 18.0143512483
-                  },
-                  {
-                    "year": 2025,
-                    "total": 24.9432480316
-                  },
-                  {
-                    "year": 2030,
-                    "total": 30.6995543263
-                  },
-                  {
-                    "year": 2035,
-                    "total": 34.6727407655
-                  },
-                  {
-                    "year": 2040,
-                    "total": 38.4993328767
-                  },
-                  {
-                    "year": 2045,
-                    "total": 42.3530194375
-                  },
-                  {
-                    "year": 2050,
-                    "total": 43.0892857233
+                    "total": 59.1363280295
                   }
                 ]
               }

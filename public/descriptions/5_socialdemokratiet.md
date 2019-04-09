@@ -1,5 +1,6 @@
 <a name="socialdemokratiet"></a>
 ## Socialdemokratiet
+[Gå tilbage](#scenariebeskrivelser)
 
 I nedenstående findes en mere uddybet beskrivelse af Socialdemokraterne konkrete målsætninger og virkemidler inden for klimaområdet. Det er baseret på klimaudspillet &#39;Danmark Skal Igen Være En Grøn Stormagt&#39;.
 

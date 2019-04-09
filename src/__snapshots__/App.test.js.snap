@@ -3961,11 +3961,26 @@ exports[`should render correctly 1`] = `
                       shape-rendering="auto"
                       style="stroke: #90A4AE; fill: transparent; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"
                       vector-effect="non-scaling-stroke"
-                      x1="80"
+                      x1="55"
                       x2="330"
-                      y1="330"
-                      y2="330"
+                      y1="325"
+                      y2="325"
                     />
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      x="192.5"
+                      y="333"
+                    >
+                      <tspan
+                        dx="0"
+                        style="text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="middle"
+                        x="192.5"
+                      >
+                        Scenarios
+                      </tspan>
+                    </text>
                     <g
                       role="presentation"
                     >
@@ -3974,9 +3989,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="99.56815114709876"
-                        x2="99.56815114709876"
-                        y1="330"
+                        x1="55"
+                        x2="55"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -3984,25 +3999,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="99.56815114709876"
-                        x2="99.56815114709876"
-                        y1="330"
-                        y2="335"
+                        x1="55"
+                        x2="55"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="99.56815114709876"
-                        y="343"
+                        x="55"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="99.56815114709876"
-                        >
-                          2015
-                        </tspan>
+                          x="55"
+                        />
                       </text>
                     </g>
                     <g
@@ -4013,9 +4026,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="129.69153653364197"
-                        x2="129.69153653364197"
-                        y1="330"
+                        x1="82.5"
+                        x2="82.5"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4023,25 +4036,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="129.69153653364197"
-                        x2="129.69153653364197"
-                        y1="330"
-                        y2="335"
+                        x1="82.5"
+                        x2="82.5"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="129.69153653364197"
-                        y="343"
+                        x="82.5"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="129.69153653364197"
-                        >
-                          2020
-                        </tspan>
+                          x="82.5"
+                        />
                       </text>
                     </g>
                     <g
@@ -4052,9 +4063,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="159.81492192018516"
-                        x2="159.81492192018516"
-                        y1="330"
+                        x1="110"
+                        x2="110"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4062,25 +4073,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="159.81492192018516"
-                        x2="159.81492192018516"
-                        y1="330"
-                        y2="335"
+                        x1="110"
+                        x2="110"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="159.81492192018516"
-                        y="343"
+                        x="110"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="159.81492192018516"
-                        >
-                          2025
-                        </tspan>
+                          x="110"
+                        />
                       </text>
                     </g>
                     <g
@@ -4091,9 +4100,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="189.9383073067284"
-                        x2="189.9383073067284"
-                        y1="330"
+                        x1="137.5"
+                        x2="137.5"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4101,25 +4110,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="189.9383073067284"
-                        x2="189.9383073067284"
-                        y1="330"
-                        y2="335"
+                        x1="137.5"
+                        x2="137.5"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="189.9383073067284"
-                        y="343"
+                        x="137.5"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="189.9383073067284"
-                        >
-                          2030
-                        </tspan>
+                          x="137.5"
+                        />
                       </text>
                     </g>
                     <g
@@ -4130,9 +4137,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="220.0616926932716"
-                        x2="220.0616926932716"
-                        y1="330"
+                        x1="165"
+                        x2="165"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4140,25 +4147,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="220.0616926932716"
-                        x2="220.0616926932716"
-                        y1="330"
-                        y2="335"
+                        x1="165"
+                        x2="165"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="220.0616926932716"
-                        y="343"
+                        x="165"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="220.0616926932716"
-                        >
-                          2035
-                        </tspan>
+                          x="165"
+                        />
                       </text>
                     </g>
                     <g
@@ -4169,9 +4174,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="250.18507807981482"
-                        x2="250.18507807981482"
-                        y1="330"
+                        x1="192.5"
+                        x2="192.5"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4179,25 +4184,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="250.18507807981482"
-                        x2="250.18507807981482"
-                        y1="330"
-                        y2="335"
+                        x1="192.5"
+                        x2="192.5"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="250.18507807981482"
-                        y="343"
+                        x="192.5"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="250.18507807981482"
-                        >
-                          2040
-                        </tspan>
+                          x="192.5"
+                        />
                       </text>
                     </g>
                     <g
@@ -4208,9 +4211,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="280.30846346635803"
-                        x2="280.30846346635803"
-                        y1="330"
+                        x1="220"
+                        x2="220"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4218,25 +4221,23 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="280.30846346635803"
-                        x2="280.30846346635803"
-                        y1="330"
-                        y2="335"
+                        x1="220"
+                        x2="220"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="280.30846346635803"
-                        y="343"
+                        x="220"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="280.30846346635803"
-                        >
-                          2045
-                        </tspan>
+                          x="220"
+                        />
                       </text>
                     </g>
                     <g
@@ -4247,9 +4248,9 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="310.4318488529012"
-                        x2="310.4318488529012"
-                        y1="330"
+                        x1="247.5"
+                        x2="247.5"
+                        y1="325"
                         y2="50"
                       />
                       <line
@@ -4257,25 +4258,134 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="310.4318488529012"
-                        x2="310.4318488529012"
-                        y1="330"
-                        y2="335"
+                        x1="247.5"
+                        x2="247.5"
+                        y1="325"
+                        y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="310.4318488529012"
-                        y="343"
+                        x="247.5"
+                        y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="310.4318488529012"
-                        >
-                          2050
-                        </tspan>
+                          x="247.5"
+                        />
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="275"
+                        x2="275"
+                        y1="325"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="275"
+                        x2="275"
+                        y1="325"
+                        y2="330"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="275"
+                        y="338"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="275"
+                        />
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="302.5"
+                        x2="302.5"
+                        y1="325"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="302.5"
+                        x2="302.5"
+                        y1="325"
+                        y2="330"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="302.5"
+                        y="338"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="302.5"
+                        />
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="330"
+                        x2="330"
+                        y1="325"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="330"
+                        x2="330"
+                        y1="325"
+                        y2="330"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="330"
+                        y="338"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="330"
+                        />
                       </text>
                     </g>
                   </g>
@@ -4287,25 +4397,25 @@ exports[`should render correctly 1`] = `
                       shape-rendering="auto"
                       style="stroke: #90A4AE; fill: transparent; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"
                       vector-effect="non-scaling-stroke"
-                      x1="80"
-                      x2="80"
+                      x1="50"
+                      x2="50"
                       y1="50"
-                      y2="330"
+                      y2="325"
                     />
                     <text
                       dx="120"
                       dy="-1.7400000000000002"
-                      transform=" rotate(-90,72,190)"
-                      x="72"
-                      y="190"
+                      transform=" rotate(-90,42,187.5)"
+                      x="42"
+                      y="187.5"
                     >
                       <tspan
                         dx="120"
                         style="text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="middle"
-                        x="72"
+                        x="42"
                       >
-                        Kt
+                        Mt
                       </tspan>
                     </text>
                     <g
@@ -4316,34 +4426,34 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
+                        x1="55"
                         x2="330"
-                        y1="330"
-                        y2="330"
+                        y1="279.1666666666667"
+                        y2="279.1666666666667"
                       />
                       <line
                         role="presentation"
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="75"
-                        y1="330"
-                        y2="330"
+                        x1="50"
+                        x2="45"
+                        y1="279.1666666666667"
+                        y2="279.1666666666667"
                       />
                       <text
                         dx="0"
                         dy="4.26"
-                        x="67"
-                        y="330"
+                        x="37"
+                        y="279.1666666666667"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="end"
-                          x="67"
+                          x="37"
                         >
-                          0
+                          200
                         </tspan>
                       </text>
                     </g>
@@ -4355,34 +4465,34 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
+                        x1="55"
                         x2="330"
-                        y1="264.97630331753555"
-                        y2="264.97630331753555"
+                        y1="233.33333333333334"
+                        y2="233.33333333333334"
                       />
                       <line
                         role="presentation"
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="75"
-                        y1="264.97630331753555"
-                        y2="264.97630331753555"
+                        x1="50"
+                        x2="45"
+                        y1="233.33333333333334"
+                        y2="233.33333333333334"
                       />
                       <text
                         dx="0"
                         dy="4.26"
-                        x="67"
-                        y="264.97630331753555"
+                        x="37"
+                        y="233.33333333333334"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="end"
-                          x="67"
+                          x="37"
                         >
-                          200000
+                          400
                         </tspan>
                       </text>
                     </g>
@@ -4394,34 +4504,34 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
+                        x1="55"
                         x2="330"
-                        y1="199.95260663507108"
-                        y2="199.95260663507108"
+                        y1="187.5"
+                        y2="187.5"
                       />
                       <line
                         role="presentation"
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="75"
-                        y1="199.95260663507108"
-                        y2="199.95260663507108"
+                        x1="50"
+                        x2="45"
+                        y1="187.5"
+                        y2="187.5"
                       />
                       <text
                         dx="0"
                         dy="4.26"
-                        x="67"
-                        y="199.95260663507108"
+                        x="37"
+                        y="187.5"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="end"
-                          x="67"
+                          x="37"
                         >
-                          400000
+                          600
                         </tspan>
                       </text>
                     </g>
@@ -4433,34 +4543,112 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
+                        x1="55"
                         x2="330"
-                        y1="134.9289099526066"
-                        y2="134.9289099526066"
+                        y1="141.66666666666669"
+                        y2="141.66666666666669"
                       />
                       <line
                         role="presentation"
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="75"
-                        y1="134.9289099526066"
-                        y2="134.9289099526066"
+                        x1="50"
+                        x2="45"
+                        y1="141.66666666666669"
+                        y2="141.66666666666669"
                       />
                       <text
                         dx="0"
                         dy="4.26"
-                        x="67"
-                        y="134.9289099526066"
+                        x="37"
+                        y="141.66666666666669"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="end"
-                          x="67"
+                          x="37"
                         >
-                          600000
+                          800
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="55"
+                        x2="330"
+                        y1="95.83333333333331"
+                        y2="95.83333333333331"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="50"
+                        x2="45"
+                        y1="95.83333333333331"
+                        y2="95.83333333333331"
+                      />
+                      <text
+                        dx="0"
+                        dy="4.26"
+                        x="37"
+                        y="95.83333333333331"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="end"
+                          x="37"
+                        >
+                          1000
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="55"
+                        x2="330"
+                        y1="50"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="50"
+                        x2="45"
+                        y1="50"
+                        y2="50"
+                      />
+                      <text
+                        dx="0"
+                        dy="4.26"
+                        x="37"
+                        y="50"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="end"
+                          x="37"
+                        >
+                          1200
                         </tspan>
                       </text>
                     </g>
@@ -4468,517 +4656,364 @@ exports[`should render correctly 1`] = `
                   <g
                     role="presentation"
                   >
-                    <line
+                    <path
+                      d="M 55, 325
+      A 0 0 0 0 1, 55, 325
+      L 55, 162.3503012881892
+      A 0 0 0 0 1, 55, 162.3503012881892
+      L 65.57692307692308, 162.3503012881892
+      A 0 0 0 0 1, 65.57692307692308, 162.3503012881892
+      L 65.57692307692308, 325
+      A 0 0 0 0 1, 65.57692307692308, 325
+      z"
                       role="presentation"
                       shape-rendering="auto"
-                      style="stroke: gray; fill: transparent; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"
-                      vector-effect="non-scaling-stroke"
-                      x1="330"
-                      x2="330"
-                      y1="50"
-                      y2="330"
-                    />
-                    <g
-                      role="presentation"
-                    >
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
-                        vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="330"
-                        y1="330"
-                        y2="330"
-                      />
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #90A4AE; padding: -25px; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
-                        vector-effect="non-scaling-stroke"
-                        x1="330"
-                        x2="325"
-                        y1="330"
-                        y2="330"
-                      />
-                      <text
-                        dx="0"
-                        dy="4.26"
-                        x="342"
-                        y="330"
-                      >
-                        <tspan
-                          dx="0"
-                          style="fill: gray; text-anchor: start; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; stroke: transparent; stroke-width: 0;"
-                          text-anchor="start"
-                          x="342"
-                        >
-                          0
-                        </tspan>
-                      </text>
-                    </g>
-                    <g
-                      role="presentation"
-                    >
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
-                        vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="330"
-                        y1="264.97630331753555"
-                        y2="264.97630331753555"
-                      />
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #90A4AE; padding: -25px; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
-                        vector-effect="non-scaling-stroke"
-                        x1="330"
-                        x2="325"
-                        y1="264.97630331753555"
-                        y2="264.97630331753555"
-                      />
-                      <text
-                        dx="0"
-                        dy="4.26"
-                        x="342"
-                        y="264.97630331753555"
-                      >
-                        <tspan
-                          dx="0"
-                          style="fill: gray; text-anchor: start; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; stroke: transparent; stroke-width: 0;"
-                          text-anchor="start"
-                          x="342"
-                        >
-                          200000
-                        </tspan>
-                      </text>
-                    </g>
-                    <g
-                      role="presentation"
-                    >
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
-                        vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="330"
-                        y1="199.95260663507108"
-                        y2="199.95260663507108"
-                      />
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #90A4AE; padding: -25px; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
-                        vector-effect="non-scaling-stroke"
-                        x1="330"
-                        x2="325"
-                        y1="199.95260663507108"
-                        y2="199.95260663507108"
-                      />
-                      <text
-                        dx="0"
-                        dy="4.26"
-                        x="342"
-                        y="199.95260663507108"
-                      >
-                        <tspan
-                          dx="0"
-                          style="fill: gray; text-anchor: start; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; stroke: transparent; stroke-width: 0;"
-                          text-anchor="start"
-                          x="342"
-                        >
-                          400000
-                        </tspan>
-                      </text>
-                    </g>
-                    <g
-                      role="presentation"
-                    >
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
-                        vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="330"
-                        y1="134.9289099526066"
-                        y2="134.9289099526066"
-                      />
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #90A4AE; padding: -25px; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
-                        vector-effect="non-scaling-stroke"
-                        x1="330"
-                        x2="325"
-                        y1="134.9289099526066"
-                        y2="134.9289099526066"
-                      />
-                      <text
-                        dx="0"
-                        dy="4.26"
-                        x="342"
-                        y="134.9289099526066"
-                      >
-                        <tspan
-                          dx="0"
-                          style="fill: gray; text-anchor: start; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; stroke: transparent; stroke-width: 0;"
-                          text-anchor="start"
-                          x="342"
-                        >
-                          600000
-                        </tspan>
-                      </text>
-                    </g>
-                    <g
-                      role="presentation"
-                    >
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
-                        vector-effect="non-scaling-stroke"
-                        x1="80"
-                        x2="330"
-                        y1="69.90521327014216"
-                        y2="69.90521327014216"
-                      />
-                      <line
-                        role="presentation"
-                        shape-rendering="auto"
-                        style="stroke: #90A4AE; padding: -25px; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
-                        vector-effect="non-scaling-stroke"
-                        x1="330"
-                        x2="325"
-                        y1="69.90521327014216"
-                        y2="69.90521327014216"
-                      />
-                      <text
-                        dx="0"
-                        dy="4.26"
-                        x="342"
-                        y="69.90521327014216"
-                      >
-                        <tspan
-                          dx="0"
-                          style="fill: gray; text-anchor: start; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; stroke: transparent; stroke-width: 0;"
-                          text-anchor="start"
-                          x="342"
-                        >
-                          800000
-                        </tspan>
-                      </text>
-                    </g>
-                  </g>
-                  <g>
-                    <rect
-                      height="18.490000000000002"
-                      role="presentation"
-                      shape-rendering="auto"
-                      style="fill: none;"
-                      vector-effect="non-scaling-stroke"
-                      width="84.92456747404844"
-                      x="90"
-                      y="50"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 94, 54
-      m -4.8, 0
-      a 4.8, 4.8 0 1,0 9.6,0
-      a 4.8, 4.8 0 1,0 -9.6,0"
+                      d="M 82.5, 325
+      A 0 0 0 0 1, 82.5, 325
+      L 82.5, 229.65526278481656
+      A 0 0 0 0 1, 82.5, 229.65526278481656
+      L 93.07692307692308, 229.65526278481656
+      A 0 0 0 0 1, 93.07692307692308, 229.65526278481656
+      L 93.07692307692308, 325
+      A 0 0 0 0 1, 93.07692307692308, 325
+      z"
                       role="presentation"
                       shape-rendering="auto"
-                      style="fill: #5cbae6;"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 110, 325
+      A 0 0 0 0 1, 110, 325
+      L 110, 174.94331392341286
+      A 0 0 0 0 1, 110, 174.94331392341286
+      L 120.57692307692308, 174.94331392341286
+      A 0 0 0 0 1, 120.57692307692308, 174.94331392341286
+      L 120.57692307692308, 325
+      A 0 0 0 0 1, 120.57692307692308, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 137.5, 325
+      A 0 0 0 0 1, 137.5, 325
+      L 137.5, 214.12874595568258
+      A 0 0 0 0 1, 137.5, 214.12874595568258
+      L 148.07692307692307, 214.12874595568258
+      A 0 0 0 0 1, 148.07692307692307, 214.12874595568258
+      L 148.07692307692307, 325
+      A 0 0 0 0 1, 148.07692307692307, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 165, 325
+      A 0 0 0 0 1, 165, 325
+      L 165, 187.70085789834044
+      A 0 0 0 0 1, 165, 187.70085789834044
+      L 175.57692307692307, 187.70085789834044
+      A 0 0 0 0 1, 175.57692307692307, 187.70085789834044
+      L 175.57692307692307, 325
+      A 0 0 0 0 1, 175.57692307692307, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 192.5, 325
+      A 0 0 0 0 1, 192.5, 325
+      L 192.5, 176.1127259826085
+      A 0 0 0 0 1, 192.5, 176.1127259826085
+      L 203.07692307692307, 176.1127259826085
+      A 0 0 0 0 1, 203.07692307692307, 176.1127259826085
+      L 203.07692307692307, 325
+      A 0 0 0 0 1, 203.07692307692307, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 220, 325
+      A 0 0 0 0 1, 220, 325
+      L 220, 176.97005789884835
+      A 0 0 0 0 1, 220, 176.97005789884835
+      L 230.57692307692307, 176.97005789884835
+      A 0 0 0 0 1, 230.57692307692307, 176.97005789884835
+      L 230.57692307692307, 325
+      A 0 0 0 0 1, 230.57692307692307, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 247.5, 325
+      A 0 0 0 0 1, 247.5, 325
+      L 247.5, 182.94427910445987
+      A 0 0 0 0 1, 247.5, 182.94427910445987
+      L 258.0769230769231, 182.94427910445987
+      A 0 0 0 0 1, 258.0769230769231, 182.94427910445987
+      L 258.0769230769231, 325
+      A 0 0 0 0 1, 258.0769230769231, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 275, 325
+      A 0 0 0 0 1, 275, 325
+      L 275, 175.6154208260538
+      A 0 0 0 0 1, 275, 175.6154208260538
+      L 285.5769230769231, 175.6154208260538
+      A 0 0 0 0 1, 285.5769230769231, 175.6154208260538
+      L 285.5769230769231, 325
+      A 0 0 0 0 1, 285.5769230769231, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 302.5, 325
+      A 0 0 0 0 1, 302.5, 325
+      L 302.5, 213.5087689809128
+      A 0 0 0 0 1, 302.5, 213.5087689809128
+      L 313.0769230769231, 213.5087689809128
+      A 0 0 0 0 1, 313.0769230769231, 213.5087689809128
+      L 313.0769230769231, 325
+      A 0 0 0 0 1, 313.0769230769231, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 330, 325
+      A 0 0 0 0 1, 330, 325
+      L 330, 214.38170797976397
+      A 0 0 0 0 1, 330, 214.38170797976397
+      L 340.5769230769231, 214.38170797976397
+      A 0 0 0 0 1, 340.5769230769231, 214.38170797976397
+      L 340.5769230769231, 325
+      A 0 0 0 0 1, 340.5769230769231, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <text
                       dx="0"
-                      dy="3.195"
-                      x="100.4"
-                      y="54"
+                      dy="10.26"
+                      transform=" rotate(270,55,154.3503012881892)"
+                      x="55"
+                      y="154.3503012881892"
                     >
                       <tspan
                         dx="0"
-                        style="font-size: 9px; fill: #252525; font-family: 'Gill Sans', 'Gill Sans MT', 'Ser­avek', 'Trebuchet MS', sans-serif; stroke: transparent;"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="100.4"
+                        x="55"
                       >
-                        CO2        
+                        Frozen policy
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,82.5,221.65526278481656)"
+                      x="82.5"
+                      y="221.65526278481656"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="82.5"
+                      >
+                        DGSB
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,110,166.94331392341286)"
+                      x="110"
+                      y="166.94331392341286"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="110"
+                      >
+                        Regeringens udspil
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,137.5,206.12874595568258)"
+                      x="137.5"
+                      y="206.12874595568258"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="137.5"
+                      >
+                        Alternativet
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,165,179.70085789834044)"
+                      x="165"
+                      y="179.70085789834044"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="165"
+                      >
+                        Enhedslisten
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,192.5,168.1127259826085)"
+                      x="192.5"
+                      y="168.1127259826085"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="192.5"
+                      >
+                        Liberal Alliance
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,220,168.97005789884835)"
+                      x="220"
+                      y="168.97005789884835"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="220"
+                      >
+                        Radikale Venstre
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,247.5,174.94427910445987)"
+                      x="247.5"
+                      y="174.94427910445987"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="247.5"
+                      >
+                        Socialistisk Folkeparti
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,275,167.6154208260538)"
+                      x="275"
+                      y="167.6154208260538"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="275"
+                      >
+                        Socialdemokratiet
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,302.5,205.5087689809128)"
+                      x="302.5"
+                      y="205.5087689809128"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="302.5"
+                      >
+                        Carbon budget 1.5°C
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,330,206.38170797976397)"
+                      x="330"
+                      y="206.38170797976397"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="330"
+                      >
+                        Carbon budget 1.5°C
                       </tspan>
                     </text>
                   </g>
-                  <g>
-                    <g>
-                      <g
-                        role="presentation"
+                  <g
+                    style="height: 100%; width: 100%; user-select: none;"
+                  >
+                    <defs>
+                      <clippath
+                        id="victory-clip-5"
                       >
-                        <path
-                          d="M 94.56815114709876, 330
-      A 0 0 0 0 0, 94.56815114709876, 330
-      L 94.56815114709876, 330
-      A 0 0 0 0 0, 94.56815114709876, 330
-      L 104.56815114709876, 330
-      A 0 0 0 0 0, 104.56815114709876, 330
-      L 104.56815114709876, 330
-      A 0 0 0 0 0, 104.56815114709876, 330
-      z"
+                        <rect
+                          height="275"
                           role="presentation"
                           shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                          vector-effect="non-scaling-stroke"
+                          width="275"
+                          x="55"
+                          y="50"
                         />
-                        <path
-                          d="M 124.69153653364197, 330
-      A 0 0 0 0 0, 124.69153653364197, 330
-      L 124.69153653364197, 330
-      A 0 0 0 0 0, 124.69153653364197, 330
-      L 134.69153653364197, 330
-      A 0 0 0 0 0, 134.69153653364197, 330
-      L 134.69153653364197, 330
-      A 0 0 0 0 0, 134.69153653364197, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                        <path
-                          d="M 154.81492192018516, 330
-      A 0 0 0 0 0, 154.81492192018516, 330
-      L 154.81492192018516, 330
-      A 0 0 0 0 0, 154.81492192018516, 330
-      L 164.81492192018516, 330
-      A 0 0 0 0 0, 164.81492192018516, 330
-      L 164.81492192018516, 330
-      A 0 0 0 0 0, 164.81492192018516, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                        <path
-                          d="M 184.9383073067284, 330
-      A 0 0 0 0 0, 184.9383073067284, 330
-      L 184.9383073067284, 330
-      A 0 0 0 0 0, 184.9383073067284, 330
-      L 194.9383073067284, 330
-      A 0 0 0 0 0, 194.9383073067284, 330
-      L 194.9383073067284, 330
-      A 0 0 0 0 0, 194.9383073067284, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                        <path
-                          d="M 215.0616926932716, 330
-      A 0 0 0 0 0, 215.0616926932716, 330
-      L 215.0616926932716, 330
-      A 0 0 0 0 0, 215.0616926932716, 330
-      L 225.0616926932716, 330
-      A 0 0 0 0 0, 225.0616926932716, 330
-      L 225.0616926932716, 330
-      A 0 0 0 0 0, 225.0616926932716, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                        <path
-                          d="M 245.18507807981482, 330
-      A 0 0 0 0 0, 245.18507807981482, 330
-      L 245.18507807981482, 330
-      A 0 0 0 0 0, 245.18507807981482, 330
-      L 255.18507807981482, 330
-      A 0 0 0 0 0, 255.18507807981482, 330
-      L 255.18507807981482, 330
-      A 0 0 0 0 0, 255.18507807981482, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                        <path
-                          d="M 275.30846346635803, 330
-      A 0 0 0 0 0, 275.30846346635803, 330
-      L 275.30846346635803, 330
-      A 0 0 0 0 0, 275.30846346635803, 330
-      L 285.30846346635803, 330
-      A 0 0 0 0 0, 285.30846346635803, 330
-      L 285.30846346635803, 330
-      A 0 0 0 0 0, 285.30846346635803, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                        <path
-                          d="M 305.4318488529012, 330
-      A 0 0 0 0 1, 305.4318488529012, 330
-      L 305.4318488529012, 99.24906164659606
-      A 0 0 0 0 1, 305.4318488529012, 99.24906164659606
-      L 315.4318488529012, 99.24906164659606
-      A 0 0 0 0 1, 315.4318488529012, 99.24906164659606
-      L 315.4318488529012, 330
-      A 0 0 0 0 1, 315.4318488529012, 330
-      z"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
-                        />
-                      </g>
-                    </g>
-                  </g>
-                  <g>
+                      </clippath>
+                    </defs>
                     <g
-                      style="height: 100%; width: 100%; user-select: none;"
+                      clip-path="url(#victory-clip-5)"
                     >
-                      <defs>
-                        <clippath
-                          id="victory-clip-5"
-                        >
-                          <rect
-                            height="280"
-                            role="presentation"
-                            shape-rendering="auto"
-                            vector-effect="non-scaling-stroke"
-                            width="0"
-                            x="80"
-                            y="50"
-                          />
-                        </clippath>
-                      </defs>
-                      <g
-                        clip-path="url(#victory-clip-5)"
-                      >
-                        <path
-                          d="M99.56815114709876,330L129.69153653364197,330L159.81492192018516,330L189.9383073067284,330L220.0616926932716,330L250.18507807981482,330L280.30846346635803,330L310.4318488529012,170.69194312796205"
-                          role="presentation"
-                          shape-rendering="auto"
-                          style="fill: none; stroke: red; width: 13px; opacity: 1; stroke-width: 2;"
-                        />
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="99.56815114709876"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="99.56815114709876"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="129.69153653364197"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="129.69153653364197"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="159.81492192018516"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="159.81492192018516"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="189.9383073067284"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="189.9383073067284"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="220.0616926932716"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="220.0616926932716"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="250.18507807981482"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="250.18507807981482"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="280.30846346635803"
-                          y="322"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="280.30846346635803"
-                          >
-                            0
-                          </tspan>
-                        </text>
-                        <text
-                          dx="0"
-                          dy="5.84"
-                          x="310.4318488529012"
-                          y="162.69194312796205"
-                        >
-                          <tspan
-                            dx="0"
-                            style="font-size: 8px; text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
-                            text-anchor="middle"
-                            x="310.4318488529012"
-                          >
-                            490000
-                          </tspan>
-                        </text>
-                      </g>
+                      <path
+                        d="M55,207.66666666666666L330,207.66666666666666"
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="fill: transparent; stroke: red; opacity: 1; stroke-width: 2;"
+                      />
                     </g>
                   </g>
                 </svg>

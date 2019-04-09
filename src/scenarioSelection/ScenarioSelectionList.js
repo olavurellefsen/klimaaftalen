@@ -19,7 +19,7 @@ const ScenarioSelectionList = props => {
   let stringValue = props.selectedValue.toString();
   let stringValue2 = props.selectedValue2.toString();
   let scenarioOptions = dimensionOptions
-    .filter(option => option.css === props.showCCS)
+    .filter(option => option.ccs === props.showCCS)
     .map(option => {
       let optionValue = option.name;
       if (optionValue === "division_line") {

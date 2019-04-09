@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import Welcome from "../alert/Welcome";
 import StackedBarChart from "./StackedBarChart";
 import StackedBarDiffChart from "./StackedBarDiffChart";
-import ComparisonChart from "./ComparisonChart.1";
+import ComparisonChart from "./ComparisonChart";
 import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBar";
 import line from "../data/line";
@@ -52,6 +52,7 @@ const Charts = props => {
           <ComparisonChart
             chartName="_CO2 emissioner akkumuleret"
             chartTitle="Akkumuleret CO2 emissioner"
+            showCCS={props.scenarioSelection.showCCS}
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}

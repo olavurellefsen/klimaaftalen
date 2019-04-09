@@ -9,7 +9,7 @@ import {
   VictoryAxis,
   VictoryLine
 } from "victory";
-//import scenarioCombinations from "../data/scenarioCombinations";
+import scenarioCombinations from "../data/scenarioCombinations";
 import { useTranslation } from "react-i18next";
 
 const ChartHeader = styled(VictoryLabel)`
@@ -22,15 +22,15 @@ const ChartHeader = styled(VictoryLabel)`
 
 const StackedBarChart = props => {
   const { t } = useTranslation();
-  //const stackedBar = props.stackedBar;
-  //const chartName = props.chartName;
+  const stackedBar = props.stackedBar;
+  const chartName = props.chartName;
   const chartTitle = t("chartTitle." + props.chartTitle);
-  //const scenarios = scenarioCombinations.scenarioCombinations.scenarioOptions
-  //  .filter(o => o.css === false)
-  //  .map(scenario => scenario.name);
+  const scenarios = scenarioCombinations.scenarioCombinations.scenarioOptions
+    .filter(o => o.ccs === props.showCCS)
+    .map(scenario => scenario.name);
 
-  /* const chartValues = stackedBar.data.scenarios
-    .filter(o => scenarios.includes(o.scenario))
+    const chartValues0 = stackedBar.data.scenarios
+    .filter(o => scenarios.indexOf(o.scenario) > -1)
     .map(scenario =>
       scenario.indicators
         .find(o => o.indicator === chartName)
@@ -42,21 +42,11 @@ const StackedBarChart = props => {
               total: chartGroupValue.total
             }))
         )
-    ); */
-
-  const chartValues2 = [
-    { scenario: "Frozen policy", total: 709744 },
-    { scenario: "DGSB", total: 416050 },
-    { scenario: "Regeringens udspil", total: 654793 },
-    { scenario: "Alternativet", total: 483802 },
-    { scenario: "Enhedslisten", total: 599123 },
-    { scenario: "Liberal Alliance", total: 649690 },
-    { scenario: "Radikale Venstre", total: 645949 },
-    { scenario: "Socialistisk Folkeparti", total: 619880 },
-    { scenario: "Socialdemokratiet", total: 654860 },
-    { scenario: "Carbon budget 1.5°C", total: 486507 },
-    { scenario: "Carbon budget 1.5°C (bio)", total: 482698 }
-  ];
+    );
+    let chartValues1 = [].concat(...chartValues0)
+    let chartValues = [].concat(...chartValues1).sort(function(a, b){
+      return scenarios.indexOf(a.scenario) - scenarios.indexOf(b.scenario);
+    });
 
   return (
     <div>
@@ -67,7 +57,7 @@ const StackedBarChart = props => {
         theme={VictoryTheme.material}
       >
         <ChartHeader x={90} y={24} text={chartTitle} />
-        <VictoryAxis label="Scenarios" tickFormat={(t) => ``} />
+        <VictoryAxis label="Scenarios" tickFormat={t => ``} />
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<VictoryLabel dx={120} />}
@@ -79,16 +69,15 @@ const StackedBarChart = props => {
         />
         <VictoryBar
           style={{ data: { fill: "#5cbae6" } }}
-          data={chartValues2}
+          data={chartValues}
           x="scenario"
           y="total"
           alignment="start"
-          barWidth={25}
-          labels={d => `${d.scenario}`}
+          labels={d => `${t("scenario_code."+d.scenario)}`}
           labelComponent={
             <VictoryLabel
               dx={0}
-              dy={8}
+              dy={0}
               angle={270}
               textAnchor="start"
               verticalAnchor="start"
@@ -96,7 +85,7 @@ const StackedBarChart = props => {
           }
         />
         <VictoryLine
-          y={() => 470000}
+          y={() => 512000}
           samples={1}
           style={{ data: { stroke: "red" } }}
         />
@@ -112,6 +101,7 @@ StackedBarChart.defaultProps = {
 };
 
 StackedBarChart.propTypes = {
+  showCCS: PropTypes.bool,
   stackedBar: PropTypes.object,
   line: PropTypes.object,
   selectedScenario: PropTypes.string.isRequired,

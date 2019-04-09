@@ -111,7 +111,7 @@ const StackedBarChart = props => {
           }
         />
         <VictoryLine
-          y={() => 470000}
+          y={() => 512000}
           samples={1}
           style={{ data: { stroke: "red" } }}
         />

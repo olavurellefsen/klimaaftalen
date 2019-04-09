@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import Welcome from "../alert/Welcome";
 import StackedBarChart from "./StackedBarChart";
 import StackedBarDiffChart from "./StackedBarDiffChart";
+import ComparisonChart from "./ComparisonChart.1";
 import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBar";
 import line from "../data/line";
@@ -36,7 +37,7 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-		  <StackedBarChart
+          <StackedBarChart
             chartName="_Anden_drivhusgas_udledning"
             chartTitle="Anden drivhusgas udledning"
             selectedScenario={selectedScenario}
@@ -48,18 +49,18 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-		  <StackedBarChart
+          <ComparisonChart
             chartName="_CO2 emissioner akkumuleret"
             chartTitle="Akkumuleret CO2 emissioner"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}
-            label="Kt"
+            label="Mt"
             minY={0}
-            maxY={800000}
-			minY2={0}
-            maxY2={800000}
-			Y2Percentage={false}
+            maxY={1200000}
+            minY2={0}
+            maxY2={1200000}
+            Y2Percentage={false}
             stackedBar={stackedBar}
             line={line}
           />
@@ -137,7 +138,7 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
-			<StackedBarDiffChart
+            <StackedBarDiffChart
               chartName="_Anden_drivhusgas_udledning"
               chartTitle="Anden drivhusgas udledning"
               selectedScenario={selectedScenario}
@@ -149,15 +150,18 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
-			<StackedBarDiffChart
+            <ComparisonChart
               chartName="_CO2 emissioner akkumuleret"
               chartTitle="Akkumuleret CO2 emissioner"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={true}
-              label="Kt"
-              minY={-16000}
-              maxY={16000}
+              label="Mt"
+              minY={0}
+              maxY={1200000}
+              minY2={0}
+              maxY2={1200000}
+              Y2Percentage={false}
               stackedBar={stackedBar}
               line={line}
             />

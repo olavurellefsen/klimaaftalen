@@ -26,7 +26,7 @@ const StackedBarChart = props => {
   const chartName = props.chartName;
   const chartTitle = t("chartTitle." + props.chartTitle);
   const scenarios = scenarioCombinations.scenarioCombinations.scenarioOptions
-    .filter(o => o.css === false)
+    .filter(o => o.ccs === false)
     .map(scenario => scenario.name);
 
   const chartValues = stackedBar.data.scenarios

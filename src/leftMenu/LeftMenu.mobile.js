@@ -193,7 +193,7 @@ function ScenarioSelectionMenu(props) {
             checked={props.scenarioSelection.showCCS}
           />
           <ToggleSwitchText selected={props.scenarioSelection.showCCS}>
-            {t("general.scenarios")}
+            {t("general.CCS")}
           </ToggleSwitchText>
         </ToggleDifference>
         <ToggleDifference onClick={e => props.toggleDifference(e)}>

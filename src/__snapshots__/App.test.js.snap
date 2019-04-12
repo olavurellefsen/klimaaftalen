@@ -202,7 +202,7 @@ exports[`should render correctly 1`] = `
           <div
             class="sc-kGXeez vWbLO"
           >
-            (rød minus grøn)
+            (grøn minus rød)
           </div>
           <hr
             class="sc-jTzLTM eBQVTV"
@@ -341,19 +341,19 @@ exports[`should render correctly 1`] = `
                 class="sc-bxivhb cGEKnc"
                 value="LA_INT"
               >
-                scenario.LA
+                LA
               </div>
               <div
                 class="sc-bxivhb cGEKnc"
                 value="Radikale_INT"
               >
-                scenario.Radikale
+                Radikale
               </div>
               <div
                 class="sc-bxivhb cGEKnc"
                 value="SF_INT"
               >
-                scenario.SF
+                SF
               </div>
               <div
                 class="sc-bxivhb cGEKnc"
@@ -398,7 +398,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-cvbbAY dxcdfd"
             >
-              Scenarier
+              CCS
             </div>
           </div>
           <div
@@ -424,7 +424,7 @@ exports[`should render correctly 1`] = `
           <div
             class="sc-brqgnP dWIsTX"
           >
-            (rød minus grøn)
+            (grøn minus rød)
           </div>
           <hr
             class="sc-kEYyzF lLBqv"
@@ -569,12 +569,32 @@ exports[`should render correctly 1`] = `
               <p
                 class="sc-bRBYWo ccSRck"
               >
+                Energisystemanalysegruppen på DTU inviterer til debat om klima- og energipolitik med vores værktøj.
+              </p>
+              <p
+                class="sc-bRBYWo ccSRck"
+              >
                 Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2019. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.
               </p>
               <p
                 class="sc-bRBYWo ccSRck"
               >
-                De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Scenario beskrivelserne og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op.
+                Værktøjet er udviklet til yderligere at åbne debatten om klima- og energi politik og gøre et kompleks system lettere at forstå. De scenarier der fremvises, skal forstås som tekno-økonomiske potentialer for udviklingen mod 2050, baseret på fuldt fremsyn. Resultater kan ikke konkluderes som den endelige eller korrekte retning for at opnå fossil frihed, men skal derimod vise os hvor langt vi kan nå, hvis teknikken og økonomien fungerer optimalt. Der er derfor behov for yderligere politikker til eksempelvis at håndtere adfærd, der ikke er økonomisk rationel og uperfekte markeder.
+              </p>
+              <p
+                class="sc-bRBYWo ccSRck"
+              >
+                En model er altid en simplificering af den virkelige verden. Ved sammenligning af scenarier skal der derfor tages hensyn til, at det kun er tekno-økonomiske virkemidler (tilskud, afgifter, forbud etc) der kan sammenlignes. Politikker målrettet fx adfærd inddrages ikke.
+              </p>
+              <p
+                class="sc-bRBYWo ccSRck"
+              >
+                De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafik modellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under forudsætninger.
+              </p>
+              <p
+                class="sc-bRBYWo ccSRck"
+              >
+                Scenario beskrivelserne og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op.
               </p>
             </div>
             <div

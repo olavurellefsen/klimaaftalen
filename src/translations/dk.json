@@ -22,6 +22,7 @@
     "developed-by-Tokni": "Udviklet af Tokni"
   },
   "scenario": {
+	"Reference": "Reference",
     "Frozen policy": "Frozen policy",
     "Lav vækst": "Lav vækst",
     "DGSB": "DGSB",
@@ -43,6 +44,7 @@
   },
   "scenario_code": {
     "FP_NO_WIN_INT": "Frozen policy",
+	"Frozen_policy_INT": "Reference",
     "DGSB_INT": "DGSB",
     "Regeringen_INT": "Regeringens udspil",
     "Alternativet_INT": "Alternativet",
@@ -97,6 +99,7 @@
     "Antal havmølleparker (á 800MW)": "Antal havmølleparker (á 800MW)",
     "Solcelle areal": "Solcelle areal",
     "Andel importeret Biomasse": "Andel importeret Biomasse",
+	"Omkostninger per person": "Omkostninger per person",
     "CO2-emissioner og VE-andel": "CO2-emissioner og VE-andel",
     "Biobrændsels-forbrug": "Biobrændsels-forbrug",
     "El-produktion": "El-produktion",
@@ -318,6 +321,7 @@
     "Maskine": "Maskine",
     "Offentlig service": "Offentlig service",
     "Private service": "Private service",
-    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)"
+    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)",
+	"Omkostninger per person": "Omkostninger per person"
   }
 }

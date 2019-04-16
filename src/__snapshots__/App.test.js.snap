@@ -90,6 +90,12 @@ exports[`should render correctly 1`] = `
               </div>
               <div
                 class="sc-bxivhb cfCnoV"
+                value="Frozen_policy_INT"
+              >
+                Reference
+              </div>
+              <div
+                class="sc-bxivhb cfCnoV"
                 value="DGSB_INT"
               >
                 DGSB
@@ -312,6 +318,12 @@ exports[`should render correctly 1`] = `
                 value="FP_NO_WIN_INT"
               >
                 Frozen policy
+              </div>
+              <div
+                class="sc-bxivhb cGEKnc"
+                value="Frozen_policy_INT"
+              >
+                Reference
               </div>
               <div
                 class="sc-bxivhb cGEKnc"
@@ -4046,8 +4058,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="82.5"
-                        x2="82.5"
+                        x1="80"
+                        x2="80"
                         y1="325"
                         y2="50"
                       />
@@ -4056,22 +4068,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="82.5"
-                        x2="82.5"
+                        x1="80"
+                        x2="80"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="82.5"
+                        x="80"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="82.5"
+                          x="80"
                         />
                       </text>
                     </g>
@@ -4083,8 +4095,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="110"
-                        x2="110"
+                        x1="105"
+                        x2="105"
                         y1="325"
                         y2="50"
                       />
@@ -4093,22 +4105,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="110"
-                        x2="110"
+                        x1="105"
+                        x2="105"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="110"
+                        x="105"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="110"
+                          x="105"
                         />
                       </text>
                     </g>
@@ -4120,8 +4132,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="137.5"
-                        x2="137.5"
+                        x1="130"
+                        x2="130"
                         y1="325"
                         y2="50"
                       />
@@ -4130,22 +4142,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="137.5"
-                        x2="137.5"
+                        x1="130"
+                        x2="130"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="137.5"
+                        x="130"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="137.5"
+                          x="130"
                         />
                       </text>
                     </g>
@@ -4157,8 +4169,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="165"
-                        x2="165"
+                        x1="155"
+                        x2="155"
                         y1="325"
                         y2="50"
                       />
@@ -4167,22 +4179,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="165"
-                        x2="165"
+                        x1="155"
+                        x2="155"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="165"
+                        x="155"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="165"
+                          x="155"
                         />
                       </text>
                     </g>
@@ -4194,8 +4206,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="192.5"
-                        x2="192.5"
+                        x1="180"
+                        x2="180"
                         y1="325"
                         y2="50"
                       />
@@ -4204,22 +4216,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="192.5"
-                        x2="192.5"
+                        x1="180"
+                        x2="180"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="192.5"
+                        x="180"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="192.5"
+                          x="180"
                         />
                       </text>
                     </g>
@@ -4231,8 +4243,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="220"
-                        x2="220"
+                        x1="205"
+                        x2="205"
                         y1="325"
                         y2="50"
                       />
@@ -4241,22 +4253,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="220"
-                        x2="220"
+                        x1="205"
+                        x2="205"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="220"
+                        x="205"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="220"
+                          x="205"
                         />
                       </text>
                     </g>
@@ -4268,8 +4280,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="247.5"
-                        x2="247.5"
+                        x1="230"
+                        x2="230"
                         y1="325"
                         y2="50"
                       />
@@ -4278,22 +4290,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="247.5"
-                        x2="247.5"
+                        x1="230"
+                        x2="230"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="247.5"
+                        x="230"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="247.5"
+                          x="230"
                         />
                       </text>
                     </g>
@@ -4305,8 +4317,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="275"
-                        x2="275"
+                        x1="255"
+                        x2="255"
                         y1="325"
                         y2="50"
                       />
@@ -4315,22 +4327,22 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="275"
-                        x2="275"
+                        x1="255"
+                        x2="255"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="275"
+                        x="255"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="275"
+                          x="255"
                         />
                       </text>
                     </g>
@@ -4342,8 +4354,8 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
                         vector-effect="non-scaling-stroke"
-                        x1="302.5"
-                        x2="302.5"
+                        x1="280"
+                        x2="280"
                         y1="325"
                         y2="50"
                       />
@@ -4352,22 +4364,59 @@ exports[`should render correctly 1`] = `
                         shape-rendering="auto"
                         style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
                         vector-effect="non-scaling-stroke"
-                        x1="302.5"
-                        x2="302.5"
+                        x1="280"
+                        x2="280"
                         y1="325"
                         y2="330"
                       />
                       <text
                         dx="0"
                         dy="10.26"
-                        x="302.5"
+                        x="280"
                         y="338"
                       >
                         <tspan
                           dx="0"
                           style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                           text-anchor="middle"
-                          x="302.5"
+                          x="280"
+                        />
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="305"
+                        x2="305"
+                        y1="325"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="305"
+                        x2="305"
+                        y1="325"
+                        y2="330"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="305"
+                        y="338"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="305"
                         />
                       </text>
                     </g>
@@ -4679,138 +4728,152 @@ exports[`should render correctly 1`] = `
                     <path
                       d="M 55, 325
       A 0 0 0 0 1, 55, 325
-      L 55, 162.3503012881892
-      A 0 0 0 0 1, 55, 162.3503012881892
-      L 65.57692307692308, 162.3503012881892
-      A 0 0 0 0 1, 65.57692307692308, 162.3503012881892
-      L 65.57692307692308, 325
-      A 0 0 0 0 1, 65.57692307692308, 325
+      L 55, 162.35030128818926
+      A 0 0 0 0 1, 55, 162.35030128818926
+      L 64.82142857142857, 162.35030128818926
+      A 0 0 0 0 1, 64.82142857142857, 162.35030128818926
+      L 64.82142857142857, 325
+      A 0 0 0 0 1, 64.82142857142857, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 82.5, 325
-      A 0 0 0 0 1, 82.5, 325
-      L 82.5, 229.65526278481656
-      A 0 0 0 0 1, 82.5, 229.65526278481656
-      L 93.07692307692308, 229.65526278481656
-      A 0 0 0 0 1, 93.07692307692308, 229.65526278481656
-      L 93.07692307692308, 325
-      A 0 0 0 0 1, 93.07692307692308, 325
+                      d="M 80, 325
+      A 0 0 0 0 1, 80, 325
+      L 80, 174.72764235643217
+      A 0 0 0 0 1, 80, 174.72764235643217
+      L 89.82142857142857, 174.72764235643217
+      A 0 0 0 0 1, 89.82142857142857, 174.72764235643217
+      L 89.82142857142857, 325
+      A 0 0 0 0 1, 89.82142857142857, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 110, 325
-      A 0 0 0 0 1, 110, 325
-      L 110, 174.94331392341286
-      A 0 0 0 0 1, 110, 174.94331392341286
-      L 120.57692307692308, 174.94331392341286
-      A 0 0 0 0 1, 120.57692307692308, 174.94331392341286
-      L 120.57692307692308, 325
-      A 0 0 0 0 1, 120.57692307692308, 325
+                      d="M 105, 325
+      A 0 0 0 0 1, 105, 325
+      L 105, 229.65526278481656
+      A 0 0 0 0 1, 105, 229.65526278481656
+      L 114.82142857142857, 229.65526278481656
+      A 0 0 0 0 1, 114.82142857142857, 229.65526278481656
+      L 114.82142857142857, 325
+      A 0 0 0 0 1, 114.82142857142857, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 137.5, 325
-      A 0 0 0 0 1, 137.5, 325
-      L 137.5, 214.12874595568258
-      A 0 0 0 0 1, 137.5, 214.12874595568258
-      L 148.07692307692307, 214.12874595568258
-      A 0 0 0 0 1, 148.07692307692307, 214.12874595568258
-      L 148.07692307692307, 325
-      A 0 0 0 0 1, 148.07692307692307, 325
+                      d="M 130, 325
+      A 0 0 0 0 1, 130, 325
+      L 130, 174.94331392341286
+      A 0 0 0 0 1, 130, 174.94331392341286
+      L 139.82142857142858, 174.94331392341286
+      A 0 0 0 0 1, 139.82142857142858, 174.94331392341286
+      L 139.82142857142858, 325
+      A 0 0 0 0 1, 139.82142857142858, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 165, 325
-      A 0 0 0 0 1, 165, 325
-      L 165, 187.70085789834044
-      A 0 0 0 0 1, 165, 187.70085789834044
-      L 175.57692307692307, 187.70085789834044
-      A 0 0 0 0 1, 175.57692307692307, 187.70085789834044
-      L 175.57692307692307, 325
-      A 0 0 0 0 1, 175.57692307692307, 325
+                      d="M 155, 325
+      A 0 0 0 0 1, 155, 325
+      L 155, 214.12874595568258
+      A 0 0 0 0 1, 155, 214.12874595568258
+      L 164.82142857142858, 214.12874595568258
+      A 0 0 0 0 1, 164.82142857142858, 214.12874595568258
+      L 164.82142857142858, 325
+      A 0 0 0 0 1, 164.82142857142858, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 192.5, 325
-      A 0 0 0 0 1, 192.5, 325
-      L 192.5, 176.1127259826085
-      A 0 0 0 0 1, 192.5, 176.1127259826085
-      L 203.07692307692307, 176.1127259826085
-      A 0 0 0 0 1, 203.07692307692307, 176.1127259826085
-      L 203.07692307692307, 325
-      A 0 0 0 0 1, 203.07692307692307, 325
+                      d="M 180, 325
+      A 0 0 0 0 1, 180, 325
+      L 180, 189.29348239034735
+      A 0 0 0 0 1, 180, 189.29348239034735
+      L 189.82142857142858, 189.29348239034735
+      A 0 0 0 0 1, 189.82142857142858, 189.29348239034735
+      L 189.82142857142858, 325
+      A 0 0 0 0 1, 189.82142857142858, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 220, 325
-      A 0 0 0 0 1, 220, 325
-      L 220, 176.97005789884835
-      A 0 0 0 0 1, 220, 176.97005789884835
-      L 230.57692307692307, 176.97005789884835
-      A 0 0 0 0 1, 230.57692307692307, 176.97005789884835
-      L 230.57692307692307, 325
-      A 0 0 0 0 1, 230.57692307692307, 325
+                      d="M 205, 325
+      A 0 0 0 0 1, 205, 325
+      L 205, 176.1127259826085
+      A 0 0 0 0 1, 205, 176.1127259826085
+      L 214.82142857142858, 176.1127259826085
+      A 0 0 0 0 1, 214.82142857142858, 176.1127259826085
+      L 214.82142857142858, 325
+      A 0 0 0 0 1, 214.82142857142858, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 247.5, 325
-      A 0 0 0 0 1, 247.5, 325
-      L 247.5, 182.94427910445987
-      A 0 0 0 0 1, 247.5, 182.94427910445987
-      L 258.0769230769231, 182.94427910445987
-      A 0 0 0 0 1, 258.0769230769231, 182.94427910445987
-      L 258.0769230769231, 325
-      A 0 0 0 0 1, 258.0769230769231, 325
+                      d="M 230, 325
+      A 0 0 0 0 1, 230, 325
+      L 230, 178.8066027787186
+      A 0 0 0 0 1, 230, 178.8066027787186
+      L 239.82142857142858, 178.8066027787186
+      A 0 0 0 0 1, 239.82142857142858, 178.8066027787186
+      L 239.82142857142858, 325
+      A 0 0 0 0 1, 239.82142857142858, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 275, 325
-      A 0 0 0 0 1, 275, 325
-      L 275, 175.6154208260538
-      A 0 0 0 0 1, 275, 175.6154208260538
-      L 285.5769230769231, 175.6154208260538
-      A 0 0 0 0 1, 285.5769230769231, 175.6154208260538
-      L 285.5769230769231, 325
-      A 0 0 0 0 1, 285.5769230769231, 325
+                      d="M 255, 325
+      A 0 0 0 0 1, 255, 325
+      L 255, 182.9442791044599
+      A 0 0 0 0 1, 255, 182.9442791044599
+      L 264.82142857142856, 182.9442791044599
+      A 0 0 0 0 1, 264.82142857142856, 182.9442791044599
+      L 264.82142857142856, 325
+      A 0 0 0 0 1, 264.82142857142856, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
                       style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
                     />
                     <path
-                      d="M 302.5, 325
-      A 0 0 0 0 1, 302.5, 325
-      L 302.5, 213.5087689809128
-      A 0 0 0 0 1, 302.5, 213.5087689809128
-      L 313.0769230769231, 213.5087689809128
-      A 0 0 0 0 1, 313.0769230769231, 213.5087689809128
-      L 313.0769230769231, 325
-      A 0 0 0 0 1, 313.0769230769231, 325
+                      d="M 280, 325
+      A 0 0 0 0 1, 280, 325
+      L 280, 175.6154208260538
+      A 0 0 0 0 1, 280, 175.6154208260538
+      L 289.82142857142856, 175.6154208260538
+      A 0 0 0 0 1, 289.82142857142856, 175.6154208260538
+      L 289.82142857142856, 325
+      A 0 0 0 0 1, 289.82142857142856, 325
+      z"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6; stroke: #5cbae6; padding: 8px; stroke-width: 0;"
+                    />
+                    <path
+                      d="M 305, 325
+      A 0 0 0 0 1, 305, 325
+      L 305, 213.5087689809128
+      A 0 0 0 0 1, 305, 213.5087689809128
+      L 314.82142857142856, 213.5087689809128
+      A 0 0 0 0 1, 314.82142857142856, 213.5087689809128
+      L 314.82142857142856, 325
+      A 0 0 0 0 1, 314.82142857142856, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
@@ -4821,10 +4884,10 @@ exports[`should render correctly 1`] = `
       A 0 0 0 0 1, 330, 325
       L 330, 214.38170797976397
       A 0 0 0 0 1, 330, 214.38170797976397
-      L 340.5769230769231, 214.38170797976397
-      A 0 0 0 0 1, 340.5769230769231, 214.38170797976397
-      L 340.5769230769231, 325
-      A 0 0 0 0 1, 340.5769230769231, 325
+      L 339.82142857142856, 214.38170797976397
+      A 0 0 0 0 1, 339.82142857142856, 214.38170797976397
+      L 339.82142857142856, 325
+      A 0 0 0 0 1, 339.82142857142856, 325
       z"
                       role="presentation"
                       shape-rendering="auto"
@@ -4833,9 +4896,9 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,55,154.3503012881892)"
+                      transform=" rotate(270,55,154.35030128818926)"
                       x="55"
-                      y="154.3503012881892"
+                      y="154.35030128818926"
                     >
                       <tspan
                         dx="0"
@@ -4849,15 +4912,31 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,82.5,221.65526278481656)"
-                      x="82.5"
+                      transform=" rotate(270,80,166.72764235643217)"
+                      x="80"
+                      y="166.72764235643217"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="start"
+                        x="80"
+                      >
+                        Reference
+                      </tspan>
+                    </text>
+                    <text
+                      dx="0"
+                      dy="10.26"
+                      transform=" rotate(270,105,221.65526278481656)"
+                      x="105"
                       y="221.65526278481656"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="82.5"
+                        x="105"
                       >
                         DGSB
                       </tspan>
@@ -4865,15 +4944,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,110,166.94331392341286)"
-                      x="110"
+                      transform=" rotate(270,130,166.94331392341286)"
+                      x="130"
                       y="166.94331392341286"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="110"
+                        x="130"
                       >
                         Regeringens udspil
                       </tspan>
@@ -4881,15 +4960,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,137.5,206.12874595568258)"
-                      x="137.5"
+                      transform=" rotate(270,155,206.12874595568258)"
+                      x="155"
                       y="206.12874595568258"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="137.5"
+                        x="155"
                       >
                         Alternativet
                       </tspan>
@@ -4897,15 +4976,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,165,179.70085789834044)"
-                      x="165"
-                      y="179.70085789834044"
+                      transform=" rotate(270,180,181.29348239034735)"
+                      x="180"
+                      y="181.29348239034735"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="165"
+                        x="180"
                       >
                         Enhedslisten
                       </tspan>
@@ -4913,15 +4992,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,192.5,168.1127259826085)"
-                      x="192.5"
+                      transform=" rotate(270,205,168.1127259826085)"
+                      x="205"
                       y="168.1127259826085"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="192.5"
+                        x="205"
                       >
                         Liberal Alliance
                       </tspan>
@@ -4929,15 +5008,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,220,168.97005789884835)"
-                      x="220"
-                      y="168.97005789884835"
+                      transform=" rotate(270,230,170.8066027787186)"
+                      x="230"
+                      y="170.8066027787186"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="220"
+                        x="230"
                       >
                         Radikale Venstre
                       </tspan>
@@ -4945,15 +5024,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,247.5,174.94427910445987)"
-                      x="247.5"
-                      y="174.94427910445987"
+                      transform=" rotate(270,255,174.9442791044599)"
+                      x="255"
+                      y="174.9442791044599"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="247.5"
+                        x="255"
                       >
                         Socialistisk Folkeparti
                       </tspan>
@@ -4961,15 +5040,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,275,167.6154208260538)"
-                      x="275"
+                      transform=" rotate(270,280,167.6154208260538)"
+                      x="280"
                       y="167.6154208260538"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="275"
+                        x="280"
                       >
                         Socialdemokratiet
                       </tspan>
@@ -4977,15 +5056,15 @@ exports[`should render correctly 1`] = `
                     <text
                       dx="0"
                       dy="10.26"
-                      transform=" rotate(270,302.5,205.5087689809128)"
-                      x="302.5"
+                      transform=" rotate(270,305,205.5087689809128)"
+                      x="305"
                       y="205.5087689809128"
                     >
                       <tspan
                         dx="0"
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
-                        x="302.5"
+                        x="305"
                       >
                         Carbon budget 1.5°C
                       </tspan>
@@ -8794,7 +8873,7 @@ exports[`should render correctly 1`] = `
                         clip-path="url(#victory-clip-7)"
                       >
                         <path
-                          d="M99.56815114709876,251.69478512811372L129.69153653364197,238.55084254157345L159.81492192018516,218.01556776485307L189.9383073067284,193.0492008206256L220.0616926932716,183.5416437334597L250.18507807981482,184.92984776872038L280.30846346635803,181.8812351582938L310.4318488529012,156.1545290145213"
+                          d="M99.56815114709876,253.38987318157345L129.69153653364197,238.73970782202844L159.81492192018516,222.13426809493836L189.9383073067284,198.52963559962083L220.0616926932716,189.61014346183885L250.18507807981482,190.98381795207584L280.30846346635803,188.0736798841327L310.4318488529012,162.92662795260662"
                           role="presentation"
                           shape-rendering="auto"
                           style="fill: none; stroke: red; width: 13px; opacity: 1; stroke-width: 2;"
@@ -8803,7 +8882,7 @@ exports[`should render correctly 1`] = `
                           dx="0"
                           dy="5.84"
                           x="99.56815114709876"
-                          y="243.69478512811372"
+                          y="245.38987318157345"
                         >
                           <tspan
                             dx="0"
@@ -8811,14 +8890,14 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="99.56815114709876"
                           >
-                            30%
+                            29%
                           </tspan>
                         </text>
                         <text
                           dx="0"
                           dy="5.84"
                           x="129.69153653364197"
-                          y="230.55084254157345"
+                          y="230.73970782202844"
                         >
                           <tspan
                             dx="0"
@@ -8833,7 +8912,7 @@ exports[`should render correctly 1`] = `
                           dx="0"
                           dy="5.84"
                           x="159.81492192018516"
-                          y="210.01556776485307"
+                          y="214.13426809493836"
                         >
                           <tspan
                             dx="0"
@@ -8841,14 +8920,14 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="159.81492192018516"
                           >
-                            43%
+                            41%
                           </tspan>
                         </text>
                         <text
                           dx="0"
                           dy="5.84"
                           x="189.9383073067284"
-                          y="185.0492008206256"
+                          y="190.52963559962083"
                         >
                           <tspan
                             dx="0"
@@ -8856,14 +8935,14 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="189.9383073067284"
                           >
-                            53%
+                            51%
                           </tspan>
                         </text>
                         <text
                           dx="0"
                           dy="5.84"
                           x="220.0616926932716"
-                          y="175.5416437334597"
+                          y="181.61014346183885"
                         >
                           <tspan
                             dx="0"
@@ -8871,14 +8950,14 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="220.0616926932716"
                           >
-                            56%
+                            54%
                           </tspan>
                         </text>
                         <text
                           dx="0"
                           dy="5.84"
                           x="250.18507807981482"
-                          y="176.92984776872038"
+                          y="182.98381795207584"
                         >
                           <tspan
                             dx="0"
@@ -8886,14 +8965,14 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="250.18507807981482"
                           >
-                            56%
+                            53%
                           </tspan>
                         </text>
                         <text
                           dx="0"
                           dy="5.84"
                           x="280.30846346635803"
-                          y="173.8812351582938"
+                          y="180.0736798841327"
                         >
                           <tspan
                             dx="0"
@@ -8901,14 +8980,14 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="280.30846346635803"
                           >
-                            57%
+                            55%
                           </tspan>
                         </text>
                         <text
                           dx="0"
                           dy="5.84"
                           x="310.4318488529012"
-                          y="148.1545290145213"
+                          y="154.92662795260662"
                         >
                           <tspan
                             dx="0"
@@ -8916,7 +8995,7 @@ exports[`should render correctly 1`] = `
                             text-anchor="middle"
                             x="310.4318488529012"
                           >
-                            67%
+                            64%
                           </tspan>
                         </text>
                       </g>
@@ -11208,7 +11287,7 @@ exports[`should render correctly 1`] = `
                         text-anchor="start"
                         x="100.4"
                       >
-                        Import andel    
+                        legend.Importere
                       </tspan>
                     </text>
                   </g>
@@ -11322,6 +11401,716 @@ exports[`should render correctly 1`] = `
       A 0 0 0 0 1, 305.4318488529012, 185.78156141399052
       L 315.4318488529012, 185.78156141399052
       A 0 0 0 0 1, 315.4318488529012, 185.78156141399052
+      L 315.4318488529012, 330
+      A 0 0 0 0 1, 315.4318488529012, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </svg>
+                <div
+                  style="z-index: 99; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"
+                >
+                  <svg
+                    height="380"
+                    style="overflow: visible; width: 100%; height: 100%;"
+                    viewBox="0 0 380 380"
+                    width="380"
+                  />
+                </div>
+              </div>
+            </div>
+            <div>
+              <div
+                class="VictoryContainer"
+                style="height: 100%; width: 100%; user-select: none; pointer-events: none; position: relative;"
+              >
+                <svg
+                  aria-labelledby="victory-container-11-title victory-container-11-desc"
+                  height="380"
+                  role="img"
+                  style="pointer-events: all; width: 100%; height: 100%;"
+                  viewBox="0 0 380 380"
+                  width="380"
+                >
+                  <text
+                    class="sc-jhAzac ckZqLA"
+                    dx="0"
+                    dy="4.97"
+                    x="90"
+                    y="24"
+                  >
+                    <tspan
+                      dx="0"
+                      style="fill: #252525; font-size: 14px; font-family: 'Gill Sans', 'Gill Sans MT', 'Ser­avek', 'Trebuchet MS', sans-serif; stroke: transparent;"
+                      text-anchor="start"
+                      x="90"
+                    >
+                      Omkostninger per person
+                    </tspan>
+                  </text>
+                  <g
+                    role="presentation"
+                  >
+                    <line
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="stroke: #90A4AE; fill: transparent; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"
+                      vector-effect="non-scaling-stroke"
+                      x1="80"
+                      x2="330"
+                      y1="330"
+                      y2="330"
+                    />
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="99.56815114709876"
+                        x2="99.56815114709876"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="99.56815114709876"
+                        x2="99.56815114709876"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="99.56815114709876"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="99.56815114709876"
+                        >
+                          2015
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="129.69153653364197"
+                        x2="129.69153653364197"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="129.69153653364197"
+                        x2="129.69153653364197"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="129.69153653364197"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="129.69153653364197"
+                        >
+                          2020
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="159.81492192018516"
+                        x2="159.81492192018516"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="159.81492192018516"
+                        x2="159.81492192018516"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="159.81492192018516"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="159.81492192018516"
+                        >
+                          2025
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="189.9383073067284"
+                        x2="189.9383073067284"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="189.9383073067284"
+                        x2="189.9383073067284"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="189.9383073067284"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="189.9383073067284"
+                        >
+                          2030
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="220.0616926932716"
+                        x2="220.0616926932716"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="220.0616926932716"
+                        x2="220.0616926932716"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="220.0616926932716"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="220.0616926932716"
+                        >
+                          2035
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="250.18507807981482"
+                        x2="250.18507807981482"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="250.18507807981482"
+                        x2="250.18507807981482"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="250.18507807981482"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="250.18507807981482"
+                        >
+                          2040
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="280.30846346635803"
+                        x2="280.30846346635803"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="280.30846346635803"
+                        x2="280.30846346635803"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="280.30846346635803"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="280.30846346635803"
+                        >
+                          2045
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="310.4318488529012"
+                        x2="310.4318488529012"
+                        y1="330"
+                        y2="50"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="310.4318488529012"
+                        x2="310.4318488529012"
+                        y1="330"
+                        y2="335"
+                      />
+                      <text
+                        dx="0"
+                        dy="10.26"
+                        x="310.4318488529012"
+                        y="343"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="middle"
+                          x="310.4318488529012"
+                        >
+                          2050
+                        </tspan>
+                      </text>
+                    </g>
+                  </g>
+                  <g
+                    role="presentation"
+                  >
+                    <line
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="stroke: #90A4AE; fill: transparent; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"
+                      vector-effect="non-scaling-stroke"
+                      x1="80"
+                      x2="80"
+                      y1="50"
+                      y2="330"
+                    />
+                    <text
+                      dx="120"
+                      dy="-1.7400000000000002"
+                      transform=" rotate(-90,72,190)"
+                      x="72"
+                      y="190"
+                    >
+                      <tspan
+                        dx="120"
+                        style="text-anchor: middle; font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                        text-anchor="middle"
+                        x="72"
+                      >
+                        DKK/person
+                      </tspan>
+                    </text>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="330"
+                        y1="330"
+                        y2="330"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="75"
+                        y1="330"
+                        y2="330"
+                      />
+                      <text
+                        dx="0"
+                        dy="4.26"
+                        x="67"
+                        y="330"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="end"
+                          x="67"
+                        >
+                          0
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="330"
+                        y1="264.97630331753555"
+                        y2="264.97630331753555"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="75"
+                        y1="264.97630331753555"
+                        y2="264.97630331753555"
+                      />
+                      <text
+                        dx="0"
+                        dy="4.26"
+                        x="67"
+                        y="264.97630331753555"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="end"
+                          x="67"
+                        >
+                          750
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="330"
+                        y1="199.95260663507108"
+                        y2="199.95260663507108"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="75"
+                        y1="199.95260663507108"
+                        y2="199.95260663507108"
+                      />
+                      <text
+                        dx="0"
+                        dy="4.26"
+                        x="67"
+                        y="199.95260663507108"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="end"
+                          x="67"
+                        >
+                          1500
+                        </tspan>
+                      </text>
+                    </g>
+                    <g
+                      role="presentation"
+                    >
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #ECEFF1; fill: none; stroke-dasharray: 10, 5; stroke-linecap: round; stroke-linejoin: round; pointer-events: painted;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="330"
+                        y1="134.9289099526066"
+                        y2="134.9289099526066"
+                      />
+                      <line
+                        role="presentation"
+                        shape-rendering="auto"
+                        style="stroke: #90A4AE; fill: transparent; size: 5px; stroke-width: 1; stroke-linecap: round; stroke-linejoin: round;"
+                        vector-effect="non-scaling-stroke"
+                        x1="80"
+                        x2="75"
+                        y1="134.9289099526066"
+                        y2="134.9289099526066"
+                      />
+                      <text
+                        dx="0"
+                        dy="4.26"
+                        x="67"
+                        y="134.9289099526066"
+                      >
+                        <tspan
+                          dx="0"
+                          style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
+                          text-anchor="end"
+                          x="67"
+                        >
+                          2250
+                        </tspan>
+                      </text>
+                    </g>
+                  </g>
+                  <g>
+                    <rect
+                      height="18.490000000000002"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: none;"
+                      vector-effect="non-scaling-stroke"
+                      width="119.52664359861592"
+                      x="90"
+                      y="50"
+                    />
+                    <path
+                      d="M 94, 54
+      m -4.8, 0
+      a 4.8, 4.8 0 1,0 9.6,0
+      a 4.8, 4.8 0 1,0 -9.6,0"
+                      role="presentation"
+                      shape-rendering="auto"
+                      style="fill: #5cbae6;"
+                    />
+                    <text
+                      dx="0"
+                      dy="3.195"
+                      x="100.4"
+                      y="54"
+                    >
+                      <tspan
+                        dx="0"
+                        style="font-size: 9px; fill: #252525; font-family: 'Gill Sans', 'Gill Sans MT', 'Ser­avek', 'Trebuchet MS', sans-serif; stroke: transparent;"
+                        text-anchor="start"
+                        x="100.4"
+                      >
+                        Omkostninger per
+                      </tspan>
+                    </text>
+                  </g>
+                  <g>
+                    <g>
+                      <g
+                        role="presentation"
+                      >
+                        <path
+                          d="M 94.56815114709876, 330
+      A 0 0 0 0 0, 94.56815114709876, 330
+      L 94.56815114709876, 330
+      A 0 0 0 0 0, 94.56815114709876, 330
+      L 104.56815114709876, 330
+      A 0 0 0 0 0, 104.56815114709876, 330
+      L 104.56815114709876, 330
+      A 0 0 0 0 0, 104.56815114709876, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 124.69153653364197, 330
+      A 0 0 0 0 0, 124.69153653364197, 330
+      L 124.69153653364197, 330.78070177463457
+      A 0 0 0 0 0, 124.69153653364197, 330.78070177463457
+      L 134.69153653364197, 330.78070177463457
+      A 0 0 0 0 0, 134.69153653364197, 330.78070177463457
+      L 134.69153653364197, 330
+      A 0 0 0 0 0, 134.69153653364197, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 154.81492192018516, 330
+      A 0 0 0 0 1, 154.81492192018516, 330
+      L 154.81492192018516, 314.9882010607191
+      A 0 0 0 0 1, 154.81492192018516, 314.9882010607191
+      L 164.81492192018516, 314.9882010607191
+      A 0 0 0 0 1, 164.81492192018516, 314.9882010607191
+      L 164.81492192018516, 330
+      A 0 0 0 0 1, 164.81492192018516, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 184.9383073067284, 330
+      A 0 0 0 0 0, 184.9383073067284, 330
+      L 184.9383073067284, 344.40588651518254
+      A 0 0 0 0 0, 184.9383073067284, 344.40588651518254
+      L 194.9383073067284, 344.40588651518254
+      A 0 0 0 0 0, 194.9383073067284, 344.40588651518254
+      L 194.9383073067284, 330
+      A 0 0 0 0 0, 194.9383073067284, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 215.0616926932716, 330
+      A 0 0 0 0 1, 215.0616926932716, 330
+      L 215.0616926932716, 245.79673031168994
+      A 0 0 0 0 1, 215.0616926932716, 245.79673031168994
+      L 225.0616926932716, 245.79673031168994
+      A 0 0 0 0 1, 225.0616926932716, 245.79673031168994
+      L 225.0616926932716, 330
+      A 0 0 0 0 1, 225.0616926932716, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 245.18507807981482, 330
+      A 0 0 0 0 1, 245.18507807981482, 330
+      L 245.18507807981482, 221.39522077329872
+      A 0 0 0 0 1, 245.18507807981482, 221.39522077329872
+      L 255.18507807981482, 221.39522077329872
+      A 0 0 0 0 1, 255.18507807981482, 221.39522077329872
+      L 255.18507807981482, 330
+      A 0 0 0 0 1, 255.18507807981482, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 275.30846346635803, 330
+      A 0 0 0 0 1, 275.30846346635803, 330
+      L 275.30846346635803, 111.37426559998488
+      A 0 0 0 0 1, 275.30846346635803, 111.37426559998488
+      L 285.30846346635803, 111.37426559998488
+      A 0 0 0 0 1, 285.30846346635803, 111.37426559998488
+      L 285.30846346635803, 330
+      A 0 0 0 0 1, 285.30846346635803, 330
+      z"
+                          role="presentation"
+                          shape-rendering="auto"
+                          style="fill: #5cbae6; stroke: #5cbae6; width: 10px; padding: 8px; stroke-width: 0;"
+                        />
+                        <path
+                          d="M 305.4318488529012, 330
+      A 0 0 0 0 1, 305.4318488529012, 330
+      L 305.4318488529012, 119.58145414054519
+      A 0 0 0 0 1, 305.4318488529012, 119.58145414054519
+      L 315.4318488529012, 119.58145414054519
+      A 0 0 0 0 1, 315.4318488529012, 119.58145414054519
       L 315.4318488529012, 330
       A 0 0 0 0 1, 315.4318488529012, 330
       z"

@@ -40,7 +40,7 @@ const Charts = props => {
             combinedChart={false}
             label="PJ"
             minY={0}
-            maxY={240}
+            maxY={32}
             stackedBar={stackedBar}
             line={line}
           />

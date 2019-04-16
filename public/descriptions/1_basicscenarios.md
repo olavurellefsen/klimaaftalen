@@ -27,9 +27,9 @@ DTU Frozen Policy scenario er som Energistyrelsens basisfremskrivning. Det indeh
   - 200 mio. er øremærket til energibesparelser i bygninger
 - Fuld genopbygning af Thyra-anlæggene i Nordsøen, sikrer at de resterende ressourcer hentes op fra undergrunden
 
-## Lav vækst scenario
+## Reference scenariet
 
-Er identisk med Frozen policy scenariet udover at den økonomiske aktivitet i alle danske erhverv antages at stagnere fra 2030 og derefter have nulvækst frem til 2050. Transportarbejdet antages ligeledes at stagnere fra 2030. Scenariet er tænkt som illustration af hvor meget væksten i økonomisk aktivitet betyder for energiforbrug og CO2 udledning.
+Er identisk med Frozen policy scenariet udover at overskudsvarme problematikkerne løses og der fortsat givers tilladelser til udbygning af havvindmølleparker. Scenariet er desuden brugt som reference til beregning af ekstra omkostningstabellen.
 
 ## Målsætnings-scenarier (Carbon budget 1.5C og Carbon budget 1.5C (bio))
 

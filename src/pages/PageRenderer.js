@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import ReactMarkdown from "react-markdown";
 import styled from "styled-components";
 
@@ -11,32 +12,28 @@ const AboutContainer = styled.div`
   flex-direction: column;
 `;
 
-const markdownFiles = [
-  'descriptions/0_intro.md',
-  'descriptions/1_basicscenarios.md',
-  'descriptions/2_enhedslisten.md',
-  'descriptions/3_socialistiskfolkeparti.md',
-  'descriptions/4_radikalevenstre.md',
-  'descriptions/5_socialdemokratiet.md',
-  'descriptions/6_alternativet.md',
-  'descriptions/7_regeringen.md',
-]
-
 class ScenarioDescriptions extends Component {
   state = {
     posts: []
   };
 
-  async componentDidMount() {
+  async updateContent() {
     const posts = await Promise.all(
-      markdownFiles.map(file => fetch(file).then(res => res.text()))
+      this.props.markdownFiles.map(file => fetch(file).then(res => res.text()))
     ).catch(err => console.error(err));
 
     this.setState(state => ({ ...state, posts }));
   }
 
+  componentDidMount() {
+    this.updateContent();
+  }
+
+  componentDidUpdate() {
+    this.updateContent();
+  }
+
   render() {
-    /* eslint-disable react/no-array-index-key */
     const { posts } = this.state;
 
     return (
@@ -48,8 +45,11 @@ class ScenarioDescriptions extends Component {
         ))}
       </AboutContainer>
     );
-    /* eslint-enable react/no-array-index-key */
   }
 }
+
+ScenarioDescriptions.propTypes = {
+  markdownFiles: PropTypes.array.isRequired
+};
 
 export default ScenarioDescriptions;

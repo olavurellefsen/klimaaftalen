@@ -118,6 +118,18 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
+		  <StackedBarChart 
+		    chartName='_Omkostninger per person'
+			chartTitle='Omkostninger per person'
+			selectedScenario={selectedScenario}
+			selectedScenario2={selectedScenario2}
+			combinedChart={false}
+			label='DKK/person' 
+			minY={0} 
+			maxY={3000} 
+			stackedBar={stackedBar}
+            line={line}
+		   />
         </Flex>
       )}
       {props.scenarioSelection.showDifference === true &&
@@ -219,6 +231,18 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
+		    <StackedBarChart 
+		      chartName='_Omkostninger per person'
+			  chartTitle='Omkostninger per person i forhold til reference'
+			  selectedScenario={selectedScenario}
+			  selectedScenario2={selectedScenario2}
+			  combinedChart={false}
+			  label='DKK/person' 
+			  minY={-1} 
+			  maxY={1} 
+              stackedBar={stackedBar}
+              line={line}
+		   />
           </Flex>
         )}
     </MainArea>

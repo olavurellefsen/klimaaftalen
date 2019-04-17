@@ -47,48 +47,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -96,35 +54,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4395727584
+                    "total": 0.4228042248
                   },
                   {
                     "year": 2030,
-                    "total": 0.7079362925
+                    "total": 0.6961852907
                   },
                   {
                     "year": 2035,
-                    "total": 0.7741511499
+                    "total": 0.8057195146
                   },
                   {
                     "year": 2040,
-                    "total": 0.8312567085
+                    "total": 0.8079054928
                   },
                   {
                     "year": 2045,
-                    "total": 0.8467225366
+                    "total": 0.8127470653
                   },
                   {
                     "year": 2050,
-                    "total": 0.8909448768
+                    "total": 0.9157769529
                   }
                 ]
               }
@@ -178,48 +136,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -227,35 +143,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4405667595
+                    "total": 0.423752191
                   },
                   {
                     "year": 2030,
-                    "total": 0.7070007632
+                    "total": 0.6976726933
                   },
                   {
                     "year": 2035,
-                    "total": 0.7742375656
+                    "total": 0.8056846726
                   },
                   {
                     "year": 2040,
-                    "total": 0.8338178688
+                    "total": 0.8051578517
                   },
                   {
                     "year": 2045,
-                    "total": 0.8453447704
+                    "total": 0.811613488
                   },
                   {
                     "year": 2050,
-                    "total": 0.892031301
+                    "total": 0.9144044761
                   }
                 ]
               }
@@ -309,48 +225,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -358,35 +232,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4829013293
+                    "total": 0.4635526823
                   },
                   {
                     "year": 2030,
-                    "total": 0.5650786446
+                    "total": 0.5886788081
                   },
                   {
                     "year": 2035,
-                    "total": 0.7254968451
+                    "total": 0.756100607
                   },
                   {
                     "year": 2040,
-                    "total": 0.8299310387
+                    "total": 0.8639618619
                   },
                   {
                     "year": 2045,
-                    "total": 0.9017081113
+                    "total": 0.9347729975
                   },
                   {
                     "year": 2050,
-                    "total": 0.96263109
+                    "total": 0.9928740441
                   }
                 ]
               }
@@ -440,48 +314,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -489,35 +321,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4741002194
+                    "total": 0.455241236
                   },
                   {
                     "year": 2030,
-                    "total": 0.5327979038
+                    "total": 0.5555286498
                   },
                   {
                     "year": 2035,
-                    "total": 0.5886749798
+                    "total": 0.6154907777
                   },
                   {
                     "year": 2040,
-                    "total": 0.7005520648
+                    "total": 0.7315441073
                   },
                   {
                     "year": 2045,
-                    "total": 0.8358745155
+                    "total": 0.8694971267
                   },
                   {
                     "year": 2050,
-                    "total": 0.906881134
+                    "total": 0.9376645374
                   }
                 ]
               }
@@ -571,48 +403,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -620,35 +410,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4841744575
+                    "total": 0.4647350623
                   },
                   {
                     "year": 2030,
-                    "total": 0.5858513899
+                    "total": 0.6098478227
                   },
                   {
                     "year": 2035,
-                    "total": 0.7422819892
+                    "total": 0.7738069713
                   },
                   {
                     "year": 2040,
-                    "total": 0.82701008
+                    "total": 0.8615380254
                   },
                   {
                     "year": 2045,
-                    "total": 0.8935632476
+                    "total": 0.9269807313
                   },
                   {
                     "year": 2050,
-                    "total": 0.947644493
+                    "total": 0.9789670597
                   }
                 ]
               }
@@ -702,42 +492,89 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
+            "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
-                "indicatorGroup": "CO2",
+                "indicatorGroup": "VE andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.0
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.4567790523
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 0.5563855422
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 0.6217947368
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 0.7355955387
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 0.8751573707
                   },
                   {
                     "year": 2050,
-                    "total": 490000.0
+                    "total": 0.9371648369
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Climate_agreement_INT",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3364578549
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4108951936
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5096820776
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6351514423
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7035247782
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7365953721
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7605274517
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8066832462
                   }
                 ]
               }
@@ -751,35 +588,124 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4757271222
+                    "total": 0.4131956854
                   },
                   {
                     "year": 2030,
-                    "total": 0.5335933377
+                    "total": 0.5164052956
                   },
                   {
                     "year": 2035,
-                    "total": 0.5946435747
+                    "total": 0.563697171
                   },
                   {
                     "year": 2040,
-                    "total": 0.7041378637
+                    "total": 0.5933502029
                   },
                   {
                     "year": 2045,
-                    "total": 0.8421446638
+                    "total": 0.6296812344
                   },
                   {
                     "year": 2050,
-                    "total": 0.9068970468
+                    "total": 0.7558266893
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Climate_agreement_INT_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3364578549
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4108951936
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5104859445
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6626489531
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7297088442
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7653457041
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7796038704
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.822517163
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2945469526
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3508732079
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4147013533
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.541479389
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5743000273
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.588278438
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6128672094
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7364497787
                   }
                 ]
               }
@@ -833,48 +759,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -882,35 +766,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.5856608613
+                    "total": 0.5642038331
                   },
                   {
                     "year": 2030,
-                    "total": 0.7203984531
+                    "total": 0.6927397867
                   },
                   {
                     "year": 2035,
-                    "total": 0.8287226329
+                    "total": 0.7967081338
                   },
                   {
                     "year": 2040,
-                    "total": 0.892624843
+                    "total": 0.8595793683
                   },
                   {
                     "year": 2045,
-                    "total": 0.9330038084
+                    "total": 0.9004265229
                   },
                   {
                     "year": 2050,
-                    "total": 0.9524116926
+                    "total": 0.9758447629
                   }
                 ]
               }
@@ -964,48 +848,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -1013,35 +855,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.5852503239
+                    "total": 0.5638143866
                   },
                   {
                     "year": 2030,
-                    "total": 0.7199900398
+                    "total": 0.692362025
                   },
                   {
                     "year": 2035,
-                    "total": 0.8285158389
+                    "total": 0.7966626977
                   },
                   {
                     "year": 2040,
-                    "total": 0.8923407129
+                    "total": 0.8594247878
                   },
                   {
                     "year": 2045,
-                    "total": 0.9324589567
+                    "total": 0.8999549905
                   },
                   {
                     "year": 2050,
-                    "total": 0.9523167129
+                    "total": 0.9745085788
                   }
                 ]
               }
@@ -1068,69 +910,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5436770088
+                    "total": 0.5443312576
                   },
                   {
                     "year": 2030,
-                    "total": 0.6727646006
+                    "total": 0.6816219963
                   },
                   {
                     "year": 2035,
-                    "total": 0.7391817947
+                    "total": 0.7480013411
                   },
                   {
                     "year": 2040,
-                    "total": 0.7659894751
+                    "total": 0.770917665
                   },
                   {
                     "year": 2045,
-                    "total": 0.7821906169
+                    "total": 0.783760285
                   },
                   {
                     "year": 2050,
-                    "total": 0.8771626691
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
+                    "total": 0.8775204656
                   }
                 ]
               }
@@ -1144,35 +944,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4331437545
+                    "total": 0.4195820979
                   },
                   {
                     "year": 2030,
-                    "total": 0.541315367
+                    "total": 0.5319576224
                   },
                   {
                     "year": 2035,
-                    "total": 0.6013970783
+                    "total": 0.5905794014
                   },
                   {
                     "year": 2040,
-                    "total": 0.6342527656
+                    "total": 0.612371633
                   },
                   {
                     "year": 2045,
-                    "total": 0.6657317576
+                    "total": 0.6383793457
                   },
                   {
                     "year": 2050,
-                    "total": 0.836832497
+                    "total": 0.8650551763
                   }
                 ]
               }
@@ -1199,69 +999,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5438877237
+                    "total": 0.5446378806
                   },
                   {
                     "year": 2030,
-                    "total": 0.6743695607
+                    "total": 0.6832269564
                   },
                   {
                     "year": 2035,
-                    "total": 0.7525758467
+                    "total": 0.7614165384
                   },
                   {
                     "year": 2040,
-                    "total": 0.7984325576
+                    "total": 0.8033640665
                   },
                   {
                     "year": 2045,
-                    "total": 0.8146848122
+                    "total": 0.8162544816
                   },
                   {
                     "year": 2050,
-                    "total": 0.9105679742
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
+                    "total": 0.9109270147
                   }
                 ]
               }
@@ -1275,35 +1033,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4331341116
+                    "total": 0.4199806081
                   },
                   {
                     "year": 2030,
-                    "total": 0.5414331084
+                    "total": 0.5319576224
                   },
                   {
                     "year": 2035,
-                    "total": 0.6030353811
+                    "total": 0.5898899639
                   },
                   {
                     "year": 2040,
-                    "total": 0.6361751947
+                    "total": 0.6143162427
                   },
                   {
                     "year": 2045,
-                    "total": 0.6676167326
+                    "total": 0.6403363867
                   },
                   {
                     "year": 2050,
-                    "total": 0.8369070782
+                    "total": 0.8669812267
                   }
                 ]
               }
@@ -1357,48 +1115,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -1406,35 +1122,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4305523907
+                    "total": 0.4147170086
                   },
                   {
                     "year": 2030,
-                    "total": 0.5265418846
+                    "total": 0.505470971
                   },
                   {
                     "year": 2035,
-                    "total": 0.5630960855
+                    "total": 0.5397642079
                   },
                   {
                     "year": 2040,
-                    "total": 0.557758785
+                    "total": 0.5344827699
                   },
                   {
                     "year": 2045,
-                    "total": 0.569479945
+                    "total": 0.5456715296
                   },
                   {
                     "year": 2050,
-                    "total": 0.6683927547
+                    "total": 0.6423557125
                   }
                 ]
               }
@@ -1488,48 +1204,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -1537,35 +1211,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4304756592
+                    "total": 0.4146459383
                   },
                   {
                     "year": 2030,
-                    "total": 0.5263491714
+                    "total": 0.5052892397
                   },
                   {
                     "year": 2035,
-                    "total": 0.5638774351
+                    "total": 0.5405782352
                   },
                   {
                     "year": 2040,
-                    "total": 0.5551265621
+                    "total": 0.5320883856
                   },
                   {
                     "year": 2045,
-                    "total": 0.5665044755
+                    "total": 0.5429390552
                   },
                   {
                     "year": 2050,
-                    "total": 0.6660537841
+                    "total": 0.6402336745
                   }
                 ]
               }
@@ -1619,48 +1293,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -1668,35 +1300,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4265153304
+                    "total": 0.4107711868
                   },
                   {
                     "year": 2030,
-                    "total": 0.5374274893
+                    "total": 0.5154828057
                   },
                   {
                     "year": 2035,
-                    "total": 0.5899927771
+                    "total": 0.5638033379
                   },
                   {
                     "year": 2040,
-                    "total": 0.6213371292
+                    "total": 0.5933487425
                   },
                   {
                     "year": 2045,
-                    "total": 0.6589127031
+                    "total": 0.6296736366
                   },
                   {
                     "year": 2050,
-                    "total": 0.7377783894
+                    "total": 0.7558699427
                   }
                 ]
               }
@@ -1750,48 +1382,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -1799,35 +1389,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.426366786
+                    "total": 0.4106279474
                   },
                   {
                     "year": 2030,
-                    "total": 0.5374270701
+                    "total": 0.5154823893
                   },
                   {
                     "year": 2035,
-                    "total": 0.5912970797
+                    "total": 0.5651523322
                   },
                   {
                     "year": 2040,
-                    "total": 0.6235455857
+                    "total": 0.5956141944
                   },
                   {
                     "year": 2045,
-                    "total": 0.6609343305
+                    "total": 0.6317717167
                   },
                   {
                     "year": 2050,
-                    "total": 0.7399450267
+                    "total": 0.7554834468
                   }
                 ]
               }
@@ -1881,48 +1471,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -1930,35 +1478,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4267174215
+                    "total": 0.4109159231
                   },
                   {
                     "year": 2030,
-                    "total": 0.5599550893
+                    "total": 0.5367788144
                   },
                   {
                     "year": 2035,
-                    "total": 0.6069445488
+                    "total": 0.5797883722
                   },
                   {
                     "year": 2040,
-                    "total": 0.62270893
+                    "total": 0.5947064353
                   },
                   {
                     "year": 2045,
-                    "total": 0.6439961835
+                    "total": 0.6156958219
                   },
                   {
                     "year": 2050,
-                    "total": 0.7230464062
+                    "total": 0.7154755674
                   }
                 ]
               }
@@ -2012,48 +1560,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -2061,35 +1567,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4266894354
+                    "total": 0.4108883235
                   },
                   {
                     "year": 2030,
-                    "total": 0.5593791793
+                    "total": 0.5361988321
                   },
                   {
                     "year": 2035,
-                    "total": 0.6082007191
+                    "total": 0.5810975328
                   },
                   {
                     "year": 2040,
-                    "total": 0.6248495464
+                    "total": 0.5969042681
                   },
                   {
                     "year": 2045,
-                    "total": 0.6460156206
+                    "total": 0.6177818569
                   },
                   {
                     "year": 2050,
-                    "total": 0.7248616472
+                    "total": 0.7161805315
                   }
                 ]
               }
@@ -2116,69 +1622,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5151215662
+                    "total": 0.5244025646
                   },
                   {
                     "year": 2030,
-                    "total": 0.6434830702
+                    "total": 0.6506883995
                   },
                   {
                     "year": 2035,
-                    "total": 0.711791265
+                    "total": 0.7165943923
                   },
                   {
                     "year": 2040,
-                    "total": 0.7436100136
+                    "total": 0.7464129093
                   },
                   {
                     "year": 2045,
-                    "total": 0.7627944387
+                    "total": 0.7657316996
                   },
                   {
                     "year": 2050,
-                    "total": 0.8076014856
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
+                    "total": 0.8106843492
                   }
                 ]
               }
@@ -2192,35 +1656,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4295481374
+                    "total": 0.4238185075
                   },
                   {
                     "year": 2030,
-                    "total": 0.540740731
+                    "total": 0.5472465008
                   },
                   {
                     "year": 2035,
-                    "total": 0.5954860273
+                    "total": 0.6327598152
                   },
                   {
                     "year": 2040,
-                    "total": 0.6281295071
+                    "total": 0.6395934588
                   },
                   {
                     "year": 2045,
-                    "total": 0.6627974501
+                    "total": 0.6429048635
                   },
                   {
                     "year": 2050,
-                    "total": 0.7349036487
+                    "total": 0.7733713165
                   }
                 ]
               }
@@ -2247,69 +1711,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5149138493
+                    "total": 0.5242538148
                   },
                   {
                     "year": 2030,
-                    "total": 0.6452966804
+                    "total": 0.6525073388
                   },
                   {
                     "year": 2035,
-                    "total": 0.7255180106
+                    "total": 0.7303492276
                   },
                   {
                     "year": 2040,
-                    "total": 0.7708881144
+                    "total": 0.773696407
                   },
                   {
                     "year": 2045,
-                    "total": 0.7902949833
+                    "total": 0.7932372853
                   },
                   {
                     "year": 2050,
-                    "total": 0.8376034954
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
+                    "total": 0.8406899383
                   }
                 ]
               }
@@ -2323,35 +1745,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4296383859
+                    "total": 0.4237204048
                   },
                   {
                     "year": 2030,
-                    "total": 0.5407939816
+                    "total": 0.5488055365
                   },
                   {
                     "year": 2035,
-                    "total": 0.5965354163
+                    "total": 0.6337488695
                   },
                   {
                     "year": 2040,
-                    "total": 0.630869956
+                    "total": 0.6372373137
                   },
                   {
                     "year": 2045,
-                    "total": 0.6643047992
+                    "total": 0.6444184883
                   },
                   {
                     "year": 2050,
-                    "total": 0.7360717084
+                    "total": 0.7743932323
                   }
                 ]
               }
@@ -2405,48 +1827,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -2454,35 +1834,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4290571656
+                    "total": 0.4131956854
                   },
                   {
                     "year": 2030,
-                    "total": 0.5383918933
+                    "total": 0.5164052956
                   },
                   {
                     "year": 2035,
-                    "total": 0.5898752002
+                    "total": 0.563697171
                   },
                   {
                     "year": 2040,
-                    "total": 0.6213320117
+                    "total": 0.5933502029
                   },
                   {
                     "year": 2045,
-                    "total": 0.6589151581
+                    "total": 0.6296812344
                   },
                   {
                     "year": 2050,
-                    "total": 0.737787041
+                    "total": 0.7558266893
                   }
                 ]
               }
@@ -2536,48 +1916,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -2585,35 +1923,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4284477429
+                    "total": 0.4126078326
                   },
                   {
                     "year": 2030,
-                    "total": 0.5383583881
+                    "total": 0.5163716282
                   },
                   {
                     "year": 2035,
-                    "total": 0.5911724046
+                    "total": 0.5650390509
                   },
                   {
                     "year": 2040,
-                    "total": 0.623503348
+                    "total": 0.5955775536
                   },
                   {
                     "year": 2045,
-                    "total": 0.6609440452
+                    "total": 0.6317868404
                   },
                   {
                     "year": 2050,
-                    "total": 0.7399478679
+                    "total": 0.7554663545
                   }
                 ]
               }
@@ -2667,48 +2005,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -2716,35 +2012,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3011308996
+                    "total": 0.2945978023
                   },
                   {
                     "year": 2020,
-                    "total": 0.3561470669
+                    "total": 0.3527551178
                   },
                   {
                     "year": 2025,
-                    "total": 0.4323570139
+                    "total": 0.4163014576
                   },
                   {
                     "year": 2030,
-                    "total": 0.548085477
+                    "total": 0.5255943852
                   },
                   {
                     "year": 2035,
-                    "total": 0.6346609217
+                    "total": 0.6078140048
                   },
                   {
                     "year": 2040,
-                    "total": 0.6938830618
+                    "total": 0.6653832272
                   },
                   {
                     "year": 2045,
-                    "total": 0.7268873452
+                    "total": 0.6974097968
                   },
                   {
                     "year": 2050,
-                    "total": 0.8297201436
+                    "total": 0.8545361185
                   }
                 ]
               }
@@ -2798,48 +2094,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -2847,35 +2101,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4290065888
+                    "total": 0.4130950479
                   },
                   {
                     "year": 2030,
-                    "total": 0.5391981871
+                    "total": 0.517165627
                   },
                   {
                     "year": 2035,
-                    "total": 0.6337024883
+                    "total": 0.6070562954
                   },
                   {
                     "year": 2040,
-                    "total": 0.695538971
+                    "total": 0.667121832
                   },
                   {
                     "year": 2045,
-                    "total": 0.7281898472
+                    "total": 0.6988112384
                   },
                   {
                     "year": 2050,
-                    "total": 0.8312485333
+                    "total": 0.8540072322
                   }
                 ]
               }
@@ -2929,48 +2183,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -2978,35 +2190,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4282500378
+                    "total": 0.4123418911
                   },
                   {
                     "year": 2030,
-                    "total": 0.5347363817
+                    "total": 0.5295622985
                   },
                   {
                     "year": 2035,
-                    "total": 0.5894229496
+                    "total": 0.6154229133
                   },
                   {
                     "year": 2040,
-                    "total": 0.6226384591
+                    "total": 0.6258724343
                   },
                   {
                     "year": 2045,
-                    "total": 0.6601007467
+                    "total": 0.6308634325
                   },
                   {
                     "year": 2050,
-                    "total": 0.7339374027
+                    "total": 0.7648776427
                   }
                 ]
               }
@@ -3060,48 +2272,6 @@ export default {
             ]
           },
           {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 490000.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_Energi forbrug i Danmark",
             "indicatorGroups": [
               {
@@ -3109,35 +2279,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3010641461
+                    "total": 0.2945469526
                   },
                   {
                     "year": 2020,
-                    "total": 0.3515993481
+                    "total": 0.3508732079
                   },
                   {
                     "year": 2025,
-                    "total": 0.4282635874
+                    "total": 0.4123548355
                   },
                   {
                     "year": 2030,
-                    "total": 0.534805487
+                    "total": 0.530801699
                   },
                   {
                     "year": 2035,
-                    "total": 0.5906688103
+                    "total": 0.6166057065
                   },
                   {
                     "year": 2040,
-                    "total": 0.6258481315
+                    "total": 0.6230022705
                   },
                   {
                     "year": 2045,
-                    "total": 0.6616867498
+                    "total": 0.6325319401
                   },
                   {
                     "year": 2050,
-                    "total": 0.7352744807
+                    "total": 0.7661088299
                   }
                 ]
               }

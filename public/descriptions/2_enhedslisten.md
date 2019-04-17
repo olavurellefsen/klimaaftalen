@@ -32,7 +32,7 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - At sætte et krav om, at alle nye færger er eldrevne fra 2025.
 - Desuden foreslår Enhedslisten at afsættes 250 millioner kr. til en forskningspulje for grøn transport, der primært fokuseres på omstilling af luftfart og tung transport.
 - Kommunerne skal have lov til at lave skærpede miljø- og nul-emissionszoner, hvor kommunerne selv bestemmer krav til udledninger. Miljøzonerne skal ikke, som nu, kun omfatte varebiler og lastbiler, men også personbiler og motorcykler.
-- Fra 2025 skal der kun gives taxalicenser til nul-emissionskøretøjer. Inden 2025 skal taxalicenser prioriteres til nul-emissionskøretøjer som elbiler og brintbiler.
+- ** Fra 2025 skal der kun gives taxalicenser til nul-emissionskøretøjer. Inden 2025 skal taxalicenser prioriteres til nul-emissionskøretøjer som elbiler og brintbiler.**
 - At afsættes en pulje på ti millioner kr. årligt i fem år til hurtige ladestandere til taxaer, og de mest centrale taxa-parkerings- pladser prioriteres til nulemissionstaxa allerede fra 2020.
 - ** At forbedre cykelinfrastrukturen, så det bliver mere attraktivt at tage cyklen frem for bilen. Derfor afsættes en pulje på en milliard kr. over fem år, som regioner og kommuner kan søge til cykelprojekter.**
 
@@ -90,6 +90,7 @@ I nedenstående findes en mere uddybet beskrivelse af Enhedslistens konkrete må
 - At indføre et centralt register over brugte byggematerialer oprettes.
 - Ud over den eksisterende pulje til energibesparelser i erhverv forøges Danmarks Grønne Investeringsfond med 100 millioner kr. pr. år fra 2021-2024, hvilket giver en ekstra låneramme på ti milliarder kr.
 - Ud over den eksisterende pulje til energibesparelser i erhverv forøges Danmarks Grønne Investeringsfond med 100 millioner kr. pr. år fra 2021-2024, hvilket giver en ekstra låneramme på ti milliarder kr.
+- ** Det eksisterende forbud mod installation af oliefyr udvides til hele landet og til at gælde gas- og træpillefyr.**
 
 #### Med henblik på at udfase udvindingen af olie- og gasudvinding i Nordsøen forslår Enhedslisten
 

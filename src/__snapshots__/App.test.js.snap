@@ -3,13 +3,13 @@
 exports[`should render correctly 1`] = `
 <div>
   <div
-    class="sc-jnlKLf POZnM"
+    class="sc-jqCOkK eZIEzi"
   >
     <div
-      class="sc-fYxtnH gnnjBs"
+      class="sc-uJMKN gdHkAg"
     >
       <div
-        class="sc-tilXH ebtRWI"
+        class="sc-bbmXgH lnrfdk"
       >
         <div
           class="sc-htoDjs jofOpB"
@@ -484,10 +484,10 @@ exports[`should render correctly 1`] = `
       </div>
     </div>
     <div
-      class="sc-fYxtnH gnnjBs"
+      class="sc-uJMKN gdHkAg"
     >
       <div
-        class="sc-tilXH ebtRWI"
+        class="sc-bbmXgH lnrfdk"
       >
         <div
           class="sc-gPEVay hhTqci"
@@ -11287,7 +11287,7 @@ exports[`should render correctly 1`] = `
                         text-anchor="start"
                         x="100.4"
                       >
-                        legend.Importere
+                        Importeret bioma
                       </tspan>
                     </text>
                   </g>

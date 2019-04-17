@@ -22,7 +22,7 @@
     "developed-by-Tokni": "Udviklet af Tokni"
   },
   "scenario": {
-	"Reference": "Reference",
+    "Reference": "Reference",
     "Frozen policy": "Frozen policy",
     "Lav vækst": "Lav vækst",
     "DGSB": "DGSB",
@@ -30,11 +30,11 @@
     "Alternativet": "Alternativet",
     "Enhedslisten": "Enhedslisten",
     "Liberal Alliance": "Liberal Alliance",
-	"LA": "LA",
+    "LA": "LA",
     "Radikale Venstre": "Radikale Venstre",
-	"Radikale": "Radikale",
+    "Radikale": "Radikale",
     "Socialistisk Folkeparti": "Socialistisk Folkeparti",
-	"SF": "SF",
+    "SF": "SF",
     "Socialdemokratiet": "Socialdemokratiet",
     "Carbon budget": "Carbon budget 1.5°C",
     "Carbon budget (bio)": "Carbon budget 1.5°C (bio)",
@@ -44,7 +44,7 @@
   },
   "scenario_code": {
     "FP_NO_WIN_INT": "Frozen policy",
-	"Frozen_policy_INT": "Reference",
+    "Frozen_policy_INT": "Reference",
     "DGSB_INT": "DGSB",
     "Regeringen_INT": "Regeringens udspil",
     "Alternativet_INT": "Alternativet",
@@ -65,7 +65,7 @@
     "SF_INT_With_CCS": "Socialistisk Folkeparti",
     "Socialdemokratiet_INT_With_CCS": "Socialdemokratiet",
     "Carbon_scenario_1-5_degree_INT_With_CCS": "Carbon budget 1.5°C",
-    "Carbon_scenario_1-5_degree_bio_INT_With_CCS": "Carbon budget 1.5°C"    
+    "Carbon_scenario_1-5_degree_bio_INT_With_CCS": "Carbon budget 1.5°C"
   },
   "tabs": {
     "overview": "Overblik",
@@ -99,7 +99,7 @@
     "Antal havmølleparker (á 800MW)": "Antal havmølleparker (á 800MW)",
     "Solcelle areal": "Solcelle areal",
     "Andel importeret Biomasse": "Andel importeret Biomasse",
-	"Omkostninger per person": "Omkostninger per person",
+    "Omkostninger per person": "Omkostninger per person",
     "CO2-emissioner og VE-andel": "CO2-emissioner og VE-andel",
     "Biobrændsels-forbrug": "Biobrændsels-forbrug",
     "El-produktion": "El-produktion",
@@ -192,7 +192,7 @@
     "Heavy Fuel oil": "Heavy Fuel oil",
     "Kul": "Kul",
     "Naturgas": "Naturgas",
-	"Råolie": "Råolie",
+    "Råolie": "Råolie",
     "Sol": "Sol",
     "Træflis": "Træflis",
     "Vind": "Vind",
@@ -266,7 +266,6 @@
     "Elektricitet til datacentre": "Elektricitet til datacentre",
     "Ethanoel og methanoel": "Ethanoel og methanoel",
     "Syntetisk naturgas": "Syntetisk naturgas",
-    "Transport (elsk. lastbiler)": "Transport (elsk. lastbiler)",
     "Afgifts reduktion solceller": "Afgifts reduktion solceller",
     "Fast biomasse": "Fast biomasse",
     "Kerosen": "Kerosen",
@@ -321,9 +320,9 @@
     "Andre commercielle": "Andre commercielle",
     "Maskine": "Maskine",
     "Offentlig service": "Offentlig service",
-	"Transport (elsk. lastbiler)": "Transport (eksl. lastbiler)",
+    "Transport (eksl lastbiler)": "Transport (eksl. lastbiler)",
     "Private service": "Private service",
-    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)",
-	"Omkostninger per person": "Omkostninger per person"
+    "Transportmidler (eksl gods transport)": "Transportmidler (eksl gods transport)",
+    "Omkostninger per person": "Omkostninger per person"
   }
 }

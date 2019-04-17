@@ -44,7 +44,7 @@
   },
   "scenario_code": {
     "FP_NO_WIN_INT": "Frozen policy",
-	"Frozen_policy_INT": "Reference",
+    "Frozen_policy_INT": "Reference",
     "DGSB_INT": "DGSB",
     "Regeringen_INT": "The Government",
     "Alternativet_INT": "The Alternative",
@@ -99,7 +99,7 @@
     "Antal havmølleparker (á 800MW)": "Number of offshore wind energy parks (at 800MW)",
     "Solcelle areal": "Solarcell area",
     "Andel importeret Biomasse": "Share of imported biomass",
-	"Omkostninger per person": "Omkostninger per person",
+    "Omkostninger per person": "Omkostninger per person",
     "CO2-emissioner og VE-andel": "CO2-emissioner og VE-andel",
     "Biobrændsels-forbrug": "Biobrændsels-forbrug",
     "El-produktion": "El-produktion",
@@ -193,7 +193,7 @@
     "Heavy Fuel oil": "Heavy Fuel oil",
     "Kul": "Coal",
     "Naturgas": "Natural gas",
-	"Råolie": "Crude oil",
+    "Råolie": "Crude oil",
     "Sol": "Sol",
     "Træflis": "Træflis",
     "Vind": "Vind",
@@ -267,7 +267,6 @@
     "Elektricitet til datacentre": "Elektricitet til datacentre",
     "Ethanoel og methanoel": "Ethanoel og methanoel",
     "Syntetisk naturgas": "Syntetisk naturgas",
-    "Transport (elsk. lastbiler)": "Transport (elsk. lastbiler)",
     "Afgifts reduktion solceller": "Afgifts reduktion solceller",
     "Fast biomasse": "Fast biomasse",
     "Kerosen": "Kerosen",
@@ -321,9 +320,9 @@
     "Andre commercielle": "Andre commercielle",
     "Maskine": "Maskine",
     "Offentlig service": "Offentlig service",
-    "Transport (elsk. lastbiler)": "Transport (eksl. lastbiler)",
+    "Transport (eksl lastbiler)": "Transport (eksl. lastbiler)",
     "Private service": "Private service",
-    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl. goods transport)",
-	"Omkostninger per person": "Omkostninger per person"
+    "Transportmidler (eksl gods transport)": "Transportmidler (eksl. gods transport)",
+    "Omkostninger per person": "Omkostninger per person"
   }
 }

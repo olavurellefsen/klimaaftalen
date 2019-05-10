@@ -5,6 +5,48 @@ export default {
         "scenario": "Alternativet_INT",
         "indicators": [
           {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2726839576
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3162108207
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4132901316
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7001195361
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7882141661
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8197690734
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8294871264
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9029723756
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -129,9 +171,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Alternativet_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -146,37 +193,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4132901316
+                    "total": 0.4134683376
                   },
                   {
                     "year": 2030,
-                    "total": 0.7001195361
+                    "total": 0.6975965492
                   },
                   {
                     "year": 2035,
-                    "total": 0.7882141661
+                    "total": 0.7868747061
                   },
                   {
                     "year": 2040,
-                    "total": 0.8197690734
+                    "total": 0.8180588932
                   },
                   {
                     "year": 2045,
-                    "total": 0.8294871264
+                    "total": 0.827144714
                   },
                   {
                     "year": 2050,
-                    "total": 0.9029723756
+                    "total": 0.9030386605
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Alternativet_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -302,9 +344,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -319,37 +366,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4134683376
+                    "total": 0.4410517053
                   },
                   {
                     "year": 2030,
-                    "total": 0.6975965492
+                    "total": 0.5626711725
                   },
                   {
                     "year": 2035,
-                    "total": 0.7868747061
+                    "total": 0.7433227007
                   },
                   {
                     "year": 2040,
-                    "total": 0.8180588932
+                    "total": 0.8384951312
                   },
                   {
                     "year": 2045,
-                    "total": 0.827144714
+                    "total": 0.9295405186
                   },
                   {
                     "year": 2050,
-                    "total": 0.9030386605
+                    "total": 0.9737937864
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -475,9 +517,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -492,37 +539,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4410517053
+                    "total": 0.431032032
                   },
                   {
                     "year": 2030,
-                    "total": 0.5626711725
+                    "total": 0.5190374169
                   },
                   {
                     "year": 2035,
-                    "total": 0.7433227007
+                    "total": 0.5864170501
                   },
                   {
                     "year": 2040,
-                    "total": 0.8384951312
+                    "total": 0.7331587197
                   },
                   {
                     "year": 2045,
-                    "total": 0.9295405186
+                    "total": 0.843061362
                   },
                   {
                     "year": 2050,
-                    "total": 0.9737937864
+                    "total": 0.9153905359
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -648,9 +690,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -665,37 +712,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.431032032
+                    "total": 0.443566924
                   },
                   {
                     "year": 2030,
-                    "total": 0.5190374169
+                    "total": 0.5830313724
                   },
                   {
                     "year": 2035,
-                    "total": 0.5864170501
+                    "total": 0.7554624959
                   },
                   {
                     "year": 2040,
-                    "total": 0.7331587197
+                    "total": 0.8617861068
                   },
                   {
                     "year": 2045,
-                    "total": 0.843061362
+                    "total": 0.9091829822
                   },
                   {
                     "year": 2050,
-                    "total": 0.9153905359
+                    "total": 0.9589415377
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_bio_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -821,9 +863,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -838,37 +885,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.443566924
+                    "total": 0.4345911194
                   },
                   {
                     "year": 2030,
-                    "total": 0.5830313724
+                    "total": 0.5204175313
                   },
                   {
                     "year": 2035,
-                    "total": 0.7554624959
+                    "total": 0.5941923701
                   },
                   {
                     "year": 2040,
-                    "total": 0.8617861068
+                    "total": 0.7171419801
                   },
                   {
                     "year": 2045,
-                    "total": 0.9091829822
+                    "total": 0.8477071433
                   },
                   {
                     "year": 2050,
-                    "total": 0.9589415377
+                    "total": 0.9166947691
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_bio_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -994,9 +1036,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "DGSB_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -1011,37 +1058,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4345911194
+                    "total": 0.569024177
                   },
                   {
                     "year": 2030,
-                    "total": 0.5204175313
+                    "total": 0.7082408712
                   },
                   {
                     "year": 2035,
-                    "total": 0.5941923701
+                    "total": 0.8121550061
                   },
                   {
                     "year": 2040,
-                    "total": 0.7171419801
+                    "total": 0.8729177131
                   },
                   {
                     "year": 2045,
-                    "total": 0.8477071433
+                    "total": 0.9159161538
                   },
                   {
                     "year": 2050,
-                    "total": 0.9166947691
+                    "total": 0.9620547372
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "DGSB_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1167,9 +1209,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "DGSB_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -1184,37 +1231,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.569024177
+                    "total": 0.5685205058
                   },
                   {
                     "year": 2030,
-                    "total": 0.7082408712
+                    "total": 0.7077945834
                   },
                   {
                     "year": 2035,
-                    "total": 0.8121550061
+                    "total": 0.8119233384
                   },
                   {
                     "year": 2040,
-                    "total": 0.8729177131
+                    "total": 0.8728539416
                   },
                   {
                     "year": 2045,
-                    "total": 0.9159161538
+                    "total": 0.9161657175
                   },
                   {
                     "year": 2050,
-                    "total": 0.9620547372
+                    "total": 0.9621564096
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "DGSB_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1340,9 +1382,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Enhedslisten_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -1357,37 +1404,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5685205058
+                    "total": 0.4165104774
                   },
                   {
                     "year": 2030,
-                    "total": 0.7077945834
+                    "total": 0.5259057946
                   },
                   {
                     "year": 2035,
-                    "total": 0.8119233384
+                    "total": 0.781680834
                   },
                   {
                     "year": 2040,
-                    "total": 0.8728539416
+                    "total": 0.8175549254
                   },
                   {
                     "year": 2045,
-                    "total": 0.9161657175
+                    "total": 0.8274461613
                   },
                   {
                     "year": 2050,
-                    "total": 0.9621564096
+                    "total": 0.9130432184
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Enhedslisten_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1513,9 +1555,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Enhedslisten_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -1530,37 +1577,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4165104774
+                    "total": 0.4166733785
                   },
                   {
                     "year": 2030,
-                    "total": 0.5259057946
+                    "total": 0.5296614144
                   },
                   {
                     "year": 2035,
-                    "total": 0.781680834
+                    "total": 0.7807024219
                   },
                   {
                     "year": 2040,
-                    "total": 0.8175549254
+                    "total": 0.8172390556
                   },
                   {
                     "year": 2045,
-                    "total": 0.8274461613
+                    "total": 0.8274120372
                   },
                   {
                     "year": 2050,
-                    "total": 0.9130432184
+                    "total": 0.9139222889
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Enhedslisten_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1686,9 +1728,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "FP_NO_WIN_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -1703,37 +1750,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4166733785
+                    "total": 0.3677427927
                   },
                   {
                     "year": 2030,
-                    "total": 0.5296614144
+                    "total": 0.4669228862
                   },
                   {
                     "year": 2035,
-                    "total": 0.7807024219
+                    "total": 0.5116515789
                   },
                   {
                     "year": 2040,
-                    "total": 0.8172390556
+                    "total": 0.5156121192
                   },
                   {
                     "year": 2045,
-                    "total": 0.8274120372
+                    "total": 0.5223446973
                   },
                   {
                     "year": 2050,
-                    "total": 0.9139222889
+                    "total": 0.6276901668
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "FP_NO_WIN_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1859,9 +1901,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "FP_NO_WIN_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -1876,37 +1923,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3677427927
+                    "total": 0.3676719219
                   },
                   {
                     "year": 2030,
-                    "total": 0.4669228862
+                    "total": 0.4666945726
                   },
                   {
                     "year": 2035,
-                    "total": 0.5116515789
+                    "total": 0.5121902099
                   },
                   {
                     "year": 2040,
-                    "total": 0.5156121192
+                    "total": 0.5126162572
                   },
                   {
                     "year": 2045,
-                    "total": 0.5223446973
+                    "total": 0.5195841011
                   },
                   {
                     "year": 2050,
-                    "total": 0.6276901668
+                    "total": 0.6257515285
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "FP_NO_WIN_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2032,9 +2074,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Frozen_policy_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -2049,37 +2096,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3676719219
+                    "total": 0.3703907583
                   },
                   {
                     "year": 2030,
-                    "total": 0.4666945726
+                    "total": 0.4833731718
                   },
                   {
                     "year": 2035,
-                    "total": 0.5121902099
+                    "total": 0.5416902578
                   },
                   {
                     "year": 2040,
-                    "total": 0.5126162572
+                    "total": 0.5907758885
                   },
                   {
                     "year": 2045,
-                    "total": 0.5195841011
+                    "total": 0.6195405726
                   },
                   {
                     "year": 2050,
-                    "total": 0.6257515285
+                    "total": 0.7284445932
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Frozen_policy_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2205,9 +2247,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Frozen_policy_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -2222,37 +2269,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3703907583
+                    "total": 0.3703022574
                   },
                   {
                     "year": 2030,
-                    "total": 0.4833731718
+                    "total": 0.483670545
                   },
                   {
                     "year": 2035,
-                    "total": 0.5416902578
+                    "total": 0.5436030004
                   },
                   {
                     "year": 2040,
-                    "total": 0.5907758885
+                    "total": 0.5936940203
                   },
                   {
                     "year": 2045,
-                    "total": 0.6195405726
+                    "total": 0.6227052288
                   },
                   {
                     "year": 2050,
-                    "total": 0.7284445932
+                    "total": 0.7223276842
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Frozen_policy_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2378,9 +2420,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "LA_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -2395,37 +2442,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3703022574
+                    "total": 0.3669097668
                   },
                   {
                     "year": 2030,
-                    "total": 0.483670545
+                    "total": 0.5017237368
                   },
                   {
                     "year": 2035,
-                    "total": 0.5436030004
+                    "total": 0.5549873746
                   },
                   {
                     "year": 2040,
-                    "total": 0.5936940203
+                    "total": 0.5889564177
                   },
                   {
                     "year": 2045,
-                    "total": 0.6227052288
+                    "total": 0.6049228864
                   },
                   {
                     "year": 2050,
-                    "total": 0.7223276842
+                    "total": 0.6999282804
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "LA_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2551,9 +2593,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "LA_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -2568,37 +2615,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3669097668
+                    "total": 0.3666958669
                   },
                   {
                     "year": 2030,
-                    "total": 0.5017237368
+                    "total": 0.5019241316
                   },
                   {
                     "year": 2035,
-                    "total": 0.5549873746
+                    "total": 0.5568683519
                   },
                   {
                     "year": 2040,
-                    "total": 0.5889564177
+                    "total": 0.5918464684
                   },
                   {
                     "year": 2045,
-                    "total": 0.6049228864
+                    "total": 0.6081019817
                   },
                   {
                     "year": 2050,
-                    "total": 0.6999282804
+                    "total": 0.6947383385
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "LA_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2724,9 +2766,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Radikale_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -2741,37 +2788,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3666958669
+                    "total": 0.3841608638
                   },
                   {
                     "year": 2030,
-                    "total": 0.5019241316
+                    "total": 0.5062134947
                   },
                   {
                     "year": 2035,
-                    "total": 0.5568683519
+                    "total": 0.5845011658
                   },
                   {
                     "year": 2040,
-                    "total": 0.5918464684
+                    "total": 0.6207566202
                   },
                   {
                     "year": 2045,
-                    "total": 0.6081019817
+                    "total": 0.6332068837
                   },
                   {
                     "year": 2050,
-                    "total": 0.6947383385
+                    "total": 0.7399821029
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Radikale_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2897,9 +2939,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Radikale_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -2914,37 +2961,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3841608638
+                    "total": 0.3841564775
                   },
                   {
                     "year": 2030,
-                    "total": 0.5062134947
+                    "total": 0.507479582
                   },
                   {
                     "year": 2035,
-                    "total": 0.5845011658
+                    "total": 0.5860443534
                   },
                   {
                     "year": 2040,
-                    "total": 0.6207566202
+                    "total": 0.6211352293
                   },
                   {
                     "year": 2045,
-                    "total": 0.6332068837
+                    "total": 0.6354147136
                   },
                   {
                     "year": 2050,
-                    "total": 0.7399821029
+                    "total": 0.7343014124
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Radikale_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3070,9 +3112,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Regeringen_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -3087,37 +3134,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3841564775
+                    "total": 0.3729256143
                   },
                   {
                     "year": 2030,
-                    "total": 0.507479582
+                    "total": 0.4841283351
                   },
                   {
                     "year": 2035,
-                    "total": 0.5860443534
+                    "total": 0.5417493658
                   },
                   {
                     "year": 2040,
-                    "total": 0.6211352293
+                    "total": 0.5909479319
                   },
                   {
                     "year": 2045,
-                    "total": 0.6354147136
+                    "total": 0.6195468572
                   },
                   {
                     "year": 2050,
-                    "total": 0.7343014124
+                    "total": 0.728425304
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Regeringen_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3243,9 +3285,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Regeringen_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -3260,37 +3307,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3729256143
+                    "total": 0.3727643663
                   },
                   {
                     "year": 2030,
-                    "total": 0.4841283351
+                    "total": 0.4844227014
                   },
                   {
                     "year": 2035,
-                    "total": 0.5417493658
+                    "total": 0.5436605285
                   },
                   {
                     "year": 2040,
-                    "total": 0.5909479319
+                    "total": 0.5938441815
                   },
                   {
                     "year": 2045,
-                    "total": 0.6195468572
+                    "total": 0.6227136171
                   },
                   {
                     "year": 2050,
-                    "total": 0.728425304
+                    "total": 0.7223251498
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Regeringen_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3416,54 +3458,54 @@ export default {
                 ]
               }
             ]
-          },
-          {
-            "indicator": "_Vedvarende energi andel",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2726839576
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3162108207
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.3727643663
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.4844227014
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5436605285
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5938441815
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6227136171
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7223251498
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
       {
         "scenario": "SF_INT",
         "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2727903084
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3191961072
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.375679443
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4919928086
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5758772318
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6454610022
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6732709785
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8228337014
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3589,54 +3631,54 @@ export default {
                 ]
               }
             ]
-          },
-          {
-            "indicator": "_Vedvarende energi andel",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2727903084
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3191961072
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.375679443
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.4919928086
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5758772318
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6454610022
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6732709785
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8228337014
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
       {
         "scenario": "SF_INT_With_CCS",
         "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2726839576
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3162108207
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3709322691
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4838570765
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5756356554
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.647956964
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6755298643
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169765137
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3762,9 +3804,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Socialdemokratiet_INT",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -3779,37 +3826,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3709322691
+                    "total": 0.3732634055
                   },
                   {
                     "year": 2030,
-                    "total": 0.4838570765
+                    "total": 0.490871361
                   },
                   {
                     "year": 2035,
-                    "total": 0.5756356554
+                    "total": 0.5706569669
                   },
                   {
                     "year": 2040,
-                    "total": 0.647956964
+                    "total": 0.6088720816
                   },
                   {
                     "year": 2045,
-                    "total": 0.6755298643
+                    "total": 0.6206926658
                   },
                   {
                     "year": 2050,
-                    "total": 0.8169765137
+                    "total": 0.7310158156
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Socialdemokratiet_INT",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3935,9 +3977,14 @@ export default {
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "scenario": "Socialdemokratiet_INT_With_CCS",
+        "indicators": [
           {
-            "indicator": "_Vedvarende energi andel",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
                 "indicatorGroup": "VE andel",
@@ -3952,37 +3999,32 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3732634055
+                    "total": 0.3731510922
                   },
                   {
                     "year": 2030,
-                    "total": 0.490871361
+                    "total": 0.4921197702
                   },
                   {
                     "year": 2035,
-                    "total": 0.5706569669
+                    "total": 0.572789644
                   },
                   {
                     "year": 2040,
-                    "total": 0.6088720816
+                    "total": 0.6094550978
                   },
                   {
                     "year": 2045,
-                    "total": 0.6206926658
+                    "total": 0.6235974971
                   },
                   {
                     "year": 2050,
-                    "total": 0.7310158156
+                    "total": 0.7256466773
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "scenario": "Socialdemokratiet_INT_With_CCS",
-        "indicators": [
+          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -4104,48 +4146,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 58.5284549141
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Vedvarende energi andel",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.2726839576
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3162108207
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.3731510922
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.4921197702
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.572789644
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6094550978
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6235974971
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7256466773
                   }
                 ]
               }

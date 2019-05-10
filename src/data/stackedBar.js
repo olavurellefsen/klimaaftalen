@@ -1402,7 +1402,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3001,7 +3001,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -4600,7 +4600,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -6199,7 +6199,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -7798,7 +7798,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -9397,7 +9397,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -10996,7 +10996,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -12595,7 +12595,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -14194,7 +14194,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -15793,7 +15793,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -17392,7 +17392,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -18991,7 +18991,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -20590,7 +20590,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -22189,7 +22189,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -23788,7 +23788,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -25387,7 +25387,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -26986,7 +26986,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -28585,7 +28585,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -30184,7 +30184,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -31783,7 +31783,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -33382,7 +33382,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -34981,7 +34981,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -36580,7 +36580,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -38179,7 +38179,7 @@ export default {
             "indicator": "_Omkostninger per person",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Omkostninger",
+                "indicatorGroup": "Omkostninger per person",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,

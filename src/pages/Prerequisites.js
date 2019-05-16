@@ -304,6 +304,28 @@ export default () => (
       svarende til 55-110 PJ biomasse forbrug i Danmark, altså mindre end det som anses som et realistisk 
       potentiale for Danmark.
     </AboutBody>    
+    </AboutBody>
+      Metode til beregning reduktioner i landbruget
+      DTU har forsøgt at beregne landbrugets bidrag til at sikre Danmarks reduktionen af drivhusgasser.
+      Der antages en grundlæggende udvikling i henhold til folketingets beslutning i 1989 om at øge Danmarks skove 
+      til 20-25 % af det samlede areal i Danmark i 2100. I dag har vi nået en del af vejen, nemlig skov på omkring 
+      14 % af vores areal, hvilket vil betyde vi i gennemsnit skal beplante mellem 3000-4500 ha skov årligt frem mod 2100.
+      Ved beregningen af skovens CO2 optag bruger vi en gennemsnit antagelse på: CO2 optag på ny skov er svarende til 10 t 
+      CO2/ha/år i 100 år efter beplantningen. Denne værdi er dog utrolig varierende og derfor relativ grov antagelse. 
+      Afhængigt af træsort vil optaget kunne være op til 50 % højere per år, men så med optag over en kortere periode. 
+      Der er dog langt flere hensyn at tage når der plantes skov end blot CO2, f.eks vil nåletræer have bedst klimavirkning, 
+       mens løvtræer har bedre egenskaber i forhold til grundvand og skovgæster foretrækker løvskov.
+      Konkret ved udtag af landbrugsjorde til natur: Baseret på nuværende forhold mellem åben natur og skove i Danmark, antages 
+      samme opdeling i fremtiden, da der også tages hensyn til miljø og biodiversitet. Dette betyder at ca. 2/3 af landbrugsjorde 
+      omstilles til skov og 1/3 omstilles til åben natur.
+      Konkret for de kulstofrige/organogene jorde antager vi at der findes et maximalt potentiale for CO2 reduktion/optag 
+      svarende til 1,3 mio t CO2e ved total omstilling af alle 108.000 ha af disse jorde til skov og moser. Der kan kun plantes 
+      skov på ca. halvdelen af disse jorde da resten er moser og våde enge.
+      De 1,3 mio. t CO2e er en netto antagelse, da der ved omstilling af jorderne både sker et øget metan udslip, men også en 
+      reduktion i lattergas. Følgende med ovenstående antagelser, antages det at netto optaget for de samlede 108.000 ha bliver 
+      ca. 0.8 mio t COe. 
+      Vi tager ikke højde for den typiske forsinkelse mellem landbrugsjorde udtages og etableringstid for naturområderne.
+
     <AboutBody><Link to='/'>Tilbage til forsiden</Link></AboutBody>
   </AboutContainer>
 )

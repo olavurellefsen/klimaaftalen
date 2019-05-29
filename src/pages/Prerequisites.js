@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import breakpoint from 'styled-components-breakpoint';
@@ -304,7 +304,7 @@ export default () => (
       svarende til 55-110 PJ biomasse forbrug i Danmark, altså mindre end det som anses som et realistisk 
       potentiale for Danmark.
     </AboutBody>    
-    </AboutBody>
+    <AboutBody>
       Metode til beregning reduktioner i landbruget
       DTU har forsøgt at beregne landbrugets bidrag til at sikre Danmarks reduktionen af drivhusgasser.
       Der antages en grundlæggende udvikling i henhold til folketingets beslutning i 1989 om at øge Danmarks skove 
@@ -325,7 +325,7 @@ export default () => (
       reduktion i lattergas. Følgende med ovenstående antagelser, antages det at netto optaget for de samlede 108.000 ha bliver 
       ca. 0.8 mio t COe. 
       Vi tager ikke højde for den typiske forsinkelse mellem landbrugsjorde udtages og etableringstid for naturområderne.
-
+    </AboutBody> 
     <AboutBody><Link to='/'>Tilbage til forsiden</Link></AboutBody>
   </AboutContainer>
 )

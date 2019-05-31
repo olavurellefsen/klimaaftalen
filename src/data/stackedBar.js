@@ -8,7 +8,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -120,6 +120,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3983.0179350529
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5317.3662124119
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5150.3219797045
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5158.4234285085
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5166.5248773125
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5166.5248773125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5166.5248773125
                   }
                 ]
               },
@@ -1570,7 +1607,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1682,6 +1719,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3983.0179350529
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5317.3662124119
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5150.3219797045
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5158.4234285085
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5166.5248773125
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5166.5248773125
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5166.5248773125
                   }
                 ]
               },
@@ -3132,7 +3206,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3244,6 +3318,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3047.9990547326
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5107.3078417763
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4720.5549009408
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4421.960060257
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4122.4813673999
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3816.5297571557
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3510.5781469115
                   }
                 ]
               },
@@ -4694,7 +4805,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -4806,6 +4917,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3047.9990547326
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5107.3078417763
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4720.5549009408
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4421.960060257
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4122.4813673999
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3816.5297571557
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3510.5781469115
                   }
                 ]
               },
@@ -6256,7 +6404,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -6368,6 +6516,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3047.9990547326
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5107.3078417763
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4720.5549009408
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4421.960060257
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4122.4813673999
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3816.5297571557
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3510.5781469115
                   }
                 ]
               },
@@ -7818,7 +8003,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -7930,6 +8115,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3047.9990547326
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5107.3078417763
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4720.5549009408
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4421.960060257
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4122.4813673999
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3816.5297571557
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3510.5781469115
                   }
                 ]
               },
@@ -9380,7 +9602,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -9492,6 +9714,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 2879.4600342384
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4915.4556761927
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4334.3159816256
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3841.4566586408
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3346.9501350538
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3259.1342042828
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3171.3182735118
                   }
                 ]
               },
@@ -10942,7 +11201,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -11054,6 +11313,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 2879.4600342384
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4915.4556761927
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4334.3159816256
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3841.4566586408
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3346.9501350538
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3259.1342042828
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3171.3182735118
                   }
                 ]
               },
@@ -12504,7 +12800,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -12616,6 +12912,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4291.7402595004
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5690.7751595033
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5900.400121309
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5891.4559982028
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5882.4782160906
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5872.4346407598
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5862.391065429
                   }
                 ]
               },
@@ -14066,7 +14399,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -14178,6 +14511,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4291.7402595004
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5690.7751595033
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5900.400121309
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5891.4559982028
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5882.4782160906
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5872.4346407598
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5862.391065429
                   }
                 ]
               },
@@ -15628,7 +15998,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -15740,6 +16110,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -17190,7 +17597,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -17302,6 +17709,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -17755,7 +18199,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 696850.2224702144
+                    "total": 696850.2224702145
                   }
                 ]
               }
@@ -18752,7 +19196,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -18864,6 +19308,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -20314,7 +20795,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -20426,6 +20907,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -21876,7 +22394,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -21930,27 +22448,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 3603.1692527023
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 3594.5545723952
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 3589.40187464
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3584.2491447904
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3579.096430988
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 3573.9437171856
                   }
                 ]
               },
@@ -21967,27 +22485,64 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 4788.398853108
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 4753.9436869505
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4658.5416848757
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 4563.1733739011
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4479.7082173764
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -22004,27 +22559,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 189.3725745895
+                    "total": 1545.8562109532
                   },
                   {
                     "year": 2030,
-                    "total": 189.3725745895
+                    "total": 1719.0834836804
                   },
                   {
                     "year": 2035,
-                    "total": 46.4647566258
+                    "total": 1749.402938444
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1876.1654545455
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 2049.3927272727
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 2222.62
                   }
                 ]
               },
@@ -23438,7 +23993,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -23492,27 +24047,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 3603.1692527023
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 3594.5545723952
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 3589.40187464
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3584.2491447904
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3579.096430988
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 3573.9437171856
                   }
                 ]
               },
@@ -23529,27 +24084,64 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 4788.398853108
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 4753.9436869505
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4658.5416848757
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 4563.1733739011
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4479.7082173764
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -23566,27 +24158,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 189.3725745895
+                    "total": 1545.8562109532
                   },
                   {
                     "year": 2030,
-                    "total": 189.3725745895
+                    "total": 1719.0834836804
                   },
                   {
                     "year": 2035,
-                    "total": 46.4647566258
+                    "total": 1749.402938444
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1876.1654545455
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 2049.3927272727
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 2222.62
                   }
                 ]
               },
@@ -25000,7 +25592,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -25112,6 +25704,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3951.0532429991
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5765.4458707526
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6044.9041274275
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5958.5977912726
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5872.2577961119
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5784.8520077326
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5697.4462193532
                   }
                 ]
               },
@@ -26562,7 +27191,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -26674,6 +27303,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 3951.0532429991
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5765.4458707526
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6044.9041274275
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5958.5977912726
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5872.2577961119
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5784.8520077326
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5697.4462193532
                   }
                 ]
               },
@@ -28124,7 +28790,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -28178,27 +28844,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 3603.1692527023
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 3594.5545723952
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 3589.40187464
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3584.2491447904
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3579.096430988
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 3573.9437171856
                   }
                 ]
               },
@@ -28215,27 +28881,64 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 4788.398853108
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 4753.9436869505
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4658.5416848757
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 4563.1733739011
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4479.7082173764
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -28252,27 +28955,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 189.3725745895
+                    "total": 1545.8562109532
                   },
                   {
                     "year": 2030,
-                    "total": 189.3725745895
+                    "total": 1719.0834836804
                   },
                   {
                     "year": 2035,
-                    "total": 46.4647566258
+                    "total": 1749.402938444
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1876.1654545455
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 2049.3927272727
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 2222.62
                   }
                 ]
               },
@@ -29686,7 +30389,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -29740,27 +30443,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 3603.1692527023
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 3594.5545723952
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 3589.40187464
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3584.2491447904
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3579.096430988
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 3573.9437171856
                   }
                 ]
               },
@@ -29777,27 +30480,64 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 4788.398853108
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 4753.9436869505
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4658.5416848757
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 4563.1733739011
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4479.7082173764
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 4396.2430608516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5568.1180677185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5641.8100877119
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5601.4169610707
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5560.9901754237
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5520.5802192797
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5480.1702631356
                   }
                 ]
               },
@@ -29814,27 +30554,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 189.3725745895
+                    "total": 1545.8562109532
                   },
                   {
                     "year": 2030,
-                    "total": 189.3725745895
+                    "total": 1719.0834836804
                   },
                   {
                     "year": 2035,
-                    "total": 46.4647566258
+                    "total": 1749.402938444
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1876.1654545455
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 2049.3927272727
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 2222.62
                   }
                 ]
               },
@@ -31248,7 +31988,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -31360,6 +32100,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4234.4674908749
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5759.3487965242
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6033.1049676649
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5984.052428668
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5934.9662306652
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5884.8142394438
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5834.6622482223
                   }
                 ]
               },
@@ -32810,7 +33587,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -32922,6 +33699,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4234.4674908749
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5759.3487965242
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6033.1049676649
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5984.052428668
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5934.9662306652
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5884.8142394438
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5834.6622482223
                   }
                 ]
               },
@@ -34372,7 +35186,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -34484,6 +35298,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4349.4186760402
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5700.0058147129
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5910.2041779901
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5864.4932000766
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5818.7485631574
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5772.3492698694
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5725.9499765814
                   }
                 ]
               },
@@ -35934,7 +36785,7 @@ export default {
             "indicator": "_Andel_importeret_Biomasse",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biomass import",
+                "indicatorGroup": "Biomasse andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -36046,6 +36897,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 4349.4186760402
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5700.0058147129
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5910.2041779901
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5864.4932000766
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5818.7485631574
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5772.3492698694
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5725.9499765814
                   }
                 ]
               },

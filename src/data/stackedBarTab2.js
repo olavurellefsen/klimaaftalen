@@ -3267,43 +3267,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 6099.5827947041
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6301.8334462401
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6583.7817237346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 6755.8800120255
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6928.708213563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7204.3065287438
-                  },
-                  {
-                    "year": 2050,
-                    "total": 4124.043139249
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -7846,43 +7809,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 6099.5827947041
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6301.8334462401
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6583.7817237346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 6755.8800120255
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6928.708213563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7204.3065287438
-                  },
-                  {
-                    "year": 2050,
-                    "total": 4124.043139249
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -12389,43 +12315,6 @@ export default {
               },
               {
                 "indicatorGroup": "Elektricitet",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -17004,43 +16893,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -21547,43 +21399,6 @@ export default {
               },
               {
                 "indicatorGroup": "Elektricitet",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -26162,43 +25977,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -30737,43 +30515,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 13506.5144885107
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4779.2889719991
-                  },
-                  {
-                    "year": 2025,
-                    "total": 4939.7129694307
-                  },
-                  {
-                    "year": 2030,
-                    "total": 4703.0957121032
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3730.6768063238
-                  },
-                  {
-                    "year": 2040,
-                    "total": 2761.7052265885
-                  },
-                  {
-                    "year": 2045,
-                    "total": 1802.6060709287
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
                   }
                 ]
               },
@@ -35320,43 +35061,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4779.2889719991
-                  },
-                  {
-                    "year": 2025,
-                    "total": 4939.7129694307
-                  },
-                  {
-                    "year": 2030,
-                    "total": 4703.0957121032
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3730.6768063238
-                  },
-                  {
-                    "year": 2040,
-                    "total": 2761.7052265885
-                  },
-                  {
-                    "year": 2045,
-                    "total": 1802.6060709287
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -39895,43 +39599,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 24972.1332689919
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4293.3200530175
-                  },
-                  {
-                    "year": 2025,
-                    "total": 4433.7803876349
-                  },
-                  {
-                    "year": 2030,
-                    "total": 24647.6250882694
-                  },
-                  {
-                    "year": 2035,
-                    "total": 25710.1298575585
-                  },
-                  {
-                    "year": 2040,
-                    "total": 26228.0627126505
-                  },
-                  {
-                    "year": 2045,
-                    "total": 26703.5208913457
-                  },
-                  {
-                    "year": 2050,
-                    "total": 23914.4844450984
                   }
                 ]
               },
@@ -44478,43 +44145,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4293.3200530175
-                  },
-                  {
-                    "year": 2025,
-                    "total": 4433.7803876349
-                  },
-                  {
-                    "year": 2030,
-                    "total": 24647.6250882694
-                  },
-                  {
-                    "year": 2035,
-                    "total": 25710.1298575585
-                  },
-                  {
-                    "year": 2040,
-                    "total": 26228.0627126505
-                  },
-                  {
-                    "year": 2045,
-                    "total": 26703.5208913456
-                  },
-                  {
-                    "year": 2050,
-                    "total": 23888.4008195843
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -49053,43 +48683,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 13851.4419742567
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
                   }
                 ]
               },
@@ -53636,43 +53229,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -58211,43 +57767,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 20660.8153832768
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
                   }
                 ]
               },
@@ -62794,43 +62313,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -67369,43 +66851,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 21591.8226546507
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
                   }
                 ]
               },
@@ -71952,43 +71397,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -76527,43 +75935,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 25532.0132770196
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1338.2760634722
-                  },
-                  {
-                    "year": 2030,
-                    "total": 1424.4754611236
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1516.2652147627
-                  },
-                  {
-                    "year": 2040,
-                    "total": 1597.3410020696
-                  },
-                  {
-                    "year": 2045,
-                    "total": 1656.2680897839
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1722.9982447504
                   }
                 ]
               },
@@ -81110,43 +80481,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1338.2760634722
-                  },
-                  {
-                    "year": 2030,
-                    "total": 1424.4754611236
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1516.2652147627
-                  },
-                  {
-                    "year": 2040,
-                    "total": 1597.3410020696
-                  },
-                  {
-                    "year": 2045,
-                    "total": 1656.2680897839
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1722.9982447504
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -85685,43 +85019,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 20656.3312934182
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
                   }
                 ]
               },
@@ -90268,43 +89565,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -94847,43 +94107,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 5633.1551930607
-                  },
-                  {
-                    "year": 2025,
-                    "total": 5846.7845695728
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6100.5186137891
-                  },
-                  {
-                    "year": 2035,
-                    "total": 6244.7881801337
-                  },
-                  {
-                    "year": 2040,
-                    "total": 5700.8600402617
-                  },
-                  {
-                    "year": 2045,
-                    "total": 5362.7992119012
-                  },
-                  {
-                    "year": 2050,
-                    "total": 3249.6263710017
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -99397,7 +98620,7 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 11658.9236690816
+                    "total": 11658.9236690815
                   },
                   {
                     "year": 2025,
@@ -99422,43 +98645,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 24219.0646130478
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 5633.5630774268
-                  },
-                  {
-                    "year": 2025,
-                    "total": 5846.7845695728
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6100.5186137891
-                  },
-                  {
-                    "year": 2035,
-                    "total": 6244.7881801337
-                  },
-                  {
-                    "year": 2040,
-                    "total": 5702.1894157756
-                  },
-                  {
-                    "year": 2045,
-                    "total": 5363.6747970538
-                  },
-                  {
-                    "year": 2050,
-                    "total": 3249.562127504
                   }
                 ]
               },
@@ -104005,43 +103191,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Fast biomasse",
                 "indicatorGroupValues": [
                   {
@@ -108580,43 +107729,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 20661.5532379618
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Energibesparelser og Registreringsafgifter",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
                   }
                 ]
               },

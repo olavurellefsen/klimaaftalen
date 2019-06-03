@@ -151,9 +151,10 @@
   "legend": {
     "Biomasse andel": "Biomasse andel",
     "Lattergas": "Lattergas",
-    "Methan": "Methan",
-    "Optag i skov": "Optag i skov",
-    "Strålingseffekt fly": "Strålingseffekt fly",
+    "Metan": "Metan",
+    "Skov": "Skov",
+	"LULUCF": "LULUCF",
+    "Strålingseffekt": "Strålingseffekt",
     "Biobrændstoffer": "Biobrændstoffer",
     "Brænde": "Brænde",
     "Energimajs": "Energimajs",
@@ -209,6 +210,7 @@
     "Kul og Biomasse": "Kul og Biomasse",
     "Raffinaderi": "Raffinaderi",
     "Solceller Industri": "Solceller Industri",
+	"Solceller Mark": "Solceller Mark",
     "Solceller husholdninger": "Solceller husholdninger",
     "Benzin": "Benzin",
     "Bølgeenergi": "Bølgeenergi",
@@ -324,6 +326,7 @@
     "Transport (eksl lastbiler)": "Transport (eksl. lastbiler)",
     "Private service": "Private service",
     "Transportmidler (eksl gods transport)": "Transportmidler (eksl gods transport)",
-    "Omkostninger per person": "Omkostninger per person"
+    "Omkostninger per person": "Omkostninger per person",
+	"DKK/person/år": "DKK/person/år"
   }
 }

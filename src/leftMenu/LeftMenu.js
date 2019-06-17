@@ -39,32 +39,10 @@ const MenuHeaderLeft = styled.div`
   align-items: left;
 `;
 
-const MenuHeaderRight = styled.div`
-  padding: 0 12px 5px 0px;
-  margin: 0;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: right;
-`;
-
 const AppLogo = styled.img`
   width: 100%;
-  height: 100%;
   margin-left: 12px;
   border: 0;
-`;
-
-const MenuTitle = styled(Link)`
-  font-weight: bold;
-  font-size: 1.25em;
-  padding: 0px 0px 5px 15px;
-  margin: 0;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  color: white;
-  text-decoration: none;
 `;
 
 const MenuSeparatorLine = styled.hr`
@@ -174,7 +152,7 @@ function ScenarioSelectionMenu(props) {
     <MenuLayout>
       <MenuHeader>
         <MenuHeaderLeft>
-		  <AppLogo src="./images/logo_comets.png" alt="logo" />
+          <AppLogo src="./images/logo_comets.png" alt="logo" />
           <MenuRoutes>
             <MenuItem
               to="/about"
@@ -259,7 +237,7 @@ function ScenarioSelectionMenu(props) {
       <MenuFooter>
         <CopyrightNotice>
           <ExternalLink href="http://www.tokni.com">
-          {t("general.developed-by-Tokni")}
+            {t("general.developed-by-Tokni")}
           </ExternalLink>
         </CopyrightNotice>
       </MenuFooter>

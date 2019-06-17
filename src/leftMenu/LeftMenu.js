@@ -49,9 +49,9 @@ const MenuHeaderRight = styled.div`
 `;
 
 const AppLogo = styled.img`
-  width: 45px;
-  height: 67px;
-  margin-left: 5px;
+  width: 100%;
+  height: 100%;
+  margin-left: 12px;
   border: 0;
 `;
 
@@ -174,7 +174,7 @@ function ScenarioSelectionMenu(props) {
     <MenuLayout>
       <MenuHeader>
         <MenuHeaderLeft>
-          <MenuTitle to="/">{t("title")}</MenuTitle>
+		  <AppLogo src="./images/logo_comets.png" alt="logo" />
           <MenuRoutes>
             <MenuItem
               to="/about"
@@ -202,9 +202,6 @@ function ScenarioSelectionMenu(props) {
             </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>
-        <MenuHeaderRight>
-          <AppLogo src="./images/dtulogo_white.png" alt="logo" />
-        </MenuHeaderRight>
       </MenuHeader>
       <MenuSeparatorLine />
       <ScenarioSelection>

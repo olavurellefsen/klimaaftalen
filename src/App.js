@@ -48,7 +48,7 @@ export const changeScenario = (name, value) => ({
   [name]: value
 });
 
-const default_scenario = "FP_NO_WIN_INT";
+const default_scenario = "Frozen_policy_INT";
 
 export class App extends React.Component {
   constructor(props) {
@@ -214,13 +214,7 @@ export class App extends React.Component {
                     <PageRenderer
                       markdownFiles={[
                         "descriptions/0_intro.md",
-                        "descriptions/1_basicscenarios.md",
-                        "descriptions/2_enhedslisten.md",
-                        "descriptions/3_socialistiskfolkeparti.md",
-                        "descriptions/4_radikalevenstre.md",
-                        "descriptions/5_socialdemokratiet.md",
-                        "descriptions/6_alternativet.md",
-                        "descriptions/7_regeringen.md"
+                        "descriptions/1_basicscenarios.md"
                       ]}
                     />
                   );

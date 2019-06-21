@@ -11600,7 +11600,7 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_CCS",
+        "scenario": "COMETS_With_CCS",
         "indicators": [
           {
             "indicator": "_Biobr\u00e6ndsels forbrug",

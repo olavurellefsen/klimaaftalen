@@ -1520,7 +1520,7 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_CCS",
+        "scenario": "COMETS_With_CCS",
         "indicators": [
           {
             "indicator": "_CO2 emissioner",

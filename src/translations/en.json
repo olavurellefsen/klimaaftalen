@@ -23,6 +23,7 @@
   },
   "scenario": {
     "Reference": "Reference",
+	"COMETS Day 1": "COMETS Day 1",
     "Frozen policy": "Frozen policy",
     "Lav vækst": "Low growth",
     "DGSB": "DGSB",
@@ -45,6 +46,8 @@
   "scenario_code": {
     "FP_NO_WIN_INT": "Frozen policy",
     "Frozen_policy_INT": "Reference",
+    "COMETS": "COMETS Day 1",
+	"COMETS_CCS": "COMETS Day 1",
     "DGSB_INT": "DGSB",
     "Regeringen_INT": "The Government",
     "Alternativet_INT": "The Alternative",

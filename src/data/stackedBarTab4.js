@@ -652,6 +652,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -724,12 +761,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -3043,6 +3154,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -3115,12 +3263,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -5086,7 +5308,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 547.9103877473
+                    "total": 424.5620564505
                   }
                 ]
               },
@@ -5103,23 +5325,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 3404.2659920439
+                    "total": 2914.2566505
                   },
                   {
                     "year": 2030,
-                    "total": 3353.8129345825
+                    "total": 2331.097767
                   },
                   {
                     "year": 2035,
-                    "total": 3402.5853177198
+                    "total": 1747.9388835
                   },
                   {
                     "year": 2040,
-                    "total": 3463.178040301
+                    "total": 1164.78
                   },
                   {
                     "year": 2045,
-                    "total": 3583.3686857707
+                    "total": 582.39
                   },
                   {
                     "year": 2050,
@@ -5140,27 +5362,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 964.0635332616
+                    "total": 925.0
                   },
                   {
                     "year": 2030,
-                    "total": 975.8177758776
+                    "total": 740.0
                   },
                   {
                     "year": 2035,
-                    "total": 944.7809191897
+                    "total": 555.0
                   },
                   {
                     "year": 2040,
-                    "total": 901.1010011227
+                    "total": 370.0
                   },
                   {
                     "year": 2045,
-                    "total": 835.6548070358
+                    "total": 185.0
                   },
                   {
                     "year": 2050,
-                    "total": 828.7766705808
+                    "total": 0.0
                   }
                 ]
               }
@@ -5376,19 +5598,19 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.2700872032
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3165243889
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3.7156478173
                   },
                   {
                     "year": 2050,
@@ -5413,23 +5635,60 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 8.0801752748
+                    "total": 5.8100880716
                   },
                   {
                     "year": 2035,
-                    "total": 7.636573154
+                    "total": 4.5766748031
                   },
                   {
                     "year": 2040,
-                    "total": 7.2436449718
+                    "total": 2.8639097046
                   },
                   {
                     "year": 2045,
-                    "total": 6.908007968
+                    "total": 1.5855720697
                   },
                   {
                     "year": 2050,
-                    "total": 6.7880085948
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.9054971513
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.620052769
                   }
                 ]
               },
@@ -5454,19 +5713,19 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 1.4017259947
+                    "total": 0.1686751257
                   },
                   {
                     "year": 2040,
-                    "total": 2.2114428425
+                    "total": 0.1666455602
                   },
                   {
                     "year": 2045,
-                    "total": 4.1830932379
+                    "total": 0.8722107188
                   },
                   {
                     "year": 2050,
-                    "total": 4.2091115466
+                    "total": 0.0
                   }
                 ]
               },
@@ -5483,19 +5742,56 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 4.8202719516
+                    "total": 4.1239522856
                   },
                   {
                     "year": 2030,
-                    "total": 4.8202719516
+                    "total": 3.6152039637
                   },
                   {
                     "year": 2035,
-                    "total": 4.8202719516
+                    "total": 3.6152039637
                   },
                   {
                     "year": 2040,
-                    "total": 3.4435157345
+                    "total": 2.5826368009
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.696319666
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.2050679879
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.2050679879
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8608789336
                   },
                   {
                     "year": 2045,
@@ -5512,6 +5808,43 @@ export default {
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -5582,7 +5915,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 30.5573553376
+                    "total": 31.7170168692
                   }
                 ]
               },
@@ -5619,7 +5952,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 9.6632842999
+                    "total": 7.4645618169
                   }
                 ]
               },
@@ -5715,23 +6048,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 6.6603569202
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 13.8524847064
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 22.1467178691
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 31.3623759184
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 41.2482913451
                   },
                   {
                     "year": 2050,
@@ -5752,23 +6085,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 47.3151507864
+                    "total": 40.5
                   },
                   {
                     "year": 2030,
-                    "total": 46.6241330679
+                    "total": 32.4
                   },
                   {
                     "year": 2035,
-                    "total": 47.3131632019
+                    "total": 24.3
                   },
                   {
                     "year": 2040,
-                    "total": 48.1665930501
+                    "total": 16.2
                   },
                   {
                     "year": 2045,
-                    "total": 49.8382292875
+                    "total": 8.1
                   },
                   {
                     "year": 2050,
@@ -5823,7 +6156,7 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 21635.9936303851
+                    "total": 21635.993630385
                   },
                   {
                     "year": 2020,
@@ -5917,15 +6250,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 66959.4978215154
+                    "total": 66936.5435942317
                   },
                   {
                     "year": 2045,
-                    "total": 68468.3275282518
+                    "total": 68464.2552514113
                   },
                   {
                     "year": 2050,
-                    "total": 69983.2438495157
+                    "total": 69965.635487465
                   }
                 ]
               },
@@ -6041,7 +6374,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 894.8928673516
+                    "total": 912.7704253752
                   }
                 ]
               }
@@ -6071,7 +6404,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 66672.1889871863
+                    "total": 66672.1889871864
                   },
                   {
                     "year": 2040,
@@ -6256,11 +6589,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 62519.5638183362
+                    "total": 62519.5638183363
                   },
                   {
                     "year": 2040,
-                    "total": 66159.1649815569
+                    "total": 66159.1649815568
                   },
                   {
                     "year": 2045,
@@ -6405,19 +6738,19 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.2700872032
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3165243889
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3.7156478173
                   },
                   {
                     "year": 2050,
@@ -6438,23 +6771,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 6.6603569202
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 13.8524847064
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 22.1467178691
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 31.3623759184
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 41.2482913451
                   },
                   {
                     "year": 2050,
@@ -6479,23 +6812,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 46.6644492597
+                    "total": 44.3943620565
                   },
                   {
                     "year": 2035,
-                    "total": 26.4023240804
+                    "total": 23.3424257294
                   },
                   {
                     "year": 2040,
-                    "total": 10.4597826527
+                    "total": 6.0800473856
                   },
                   {
                     "year": 2045,
-                    "total": 6.9315266896
+                    "total": 1.6090907914
                   },
                   {
                     "year": 2050,
-                    "total": 6.7892097964
+                    "total": 0.0012012016
                   }
                 ]
               },
@@ -6532,7 +6865,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 51.2038733969
+                    "total": 52.3635349285
                   }
                 ]
               },
@@ -6565,11 +6898,11 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4.9054971513
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 10.620052769
                   }
                 ]
               },
@@ -6594,19 +6927,19 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 1.4017259947
+                    "total": 0.1686751257
                   },
                   {
                     "year": 2040,
-                    "total": 2.2114428425
+                    "total": 0.1666455602
                   },
                   {
                     "year": 2045,
-                    "total": 4.1830932379
+                    "total": 0.8722107188
                   },
                   {
                     "year": 2050,
-                    "total": 4.2091115466
+                    "total": 0.0
                   }
                 ]
               },
@@ -6660,23 +6993,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 47.3151507864
+                    "total": 40.5
                   },
                   {
                     "year": 2030,
-                    "total": 46.6241330679
+                    "total": 32.4
                   },
                   {
                     "year": 2035,
-                    "total": 47.3131632019
+                    "total": 24.3
                   },
                   {
                     "year": 2040,
-                    "total": 48.1665930501
+                    "total": 16.2
                   },
                   {
                     "year": 2045,
-                    "total": 49.8382292875
+                    "total": 8.1
                   },
                   {
                     "year": 2050,
@@ -6734,19 +7067,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 4.821062692
+                    "total": 4.124743026
                   },
                   {
                     "year": 2030,
-                    "total": 4.82061759
+                    "total": 3.6155496021
                   },
                   {
                     "year": 2035,
-                    "total": 4.8203714153
+                    "total": 3.6153034274
                   },
                   {
                     "year": 2040,
-                    "total": 13.0482191509
+                    "total": 12.1873402173
                   },
                   {
                     "year": 2045,
@@ -6754,7 +7087,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 9.6632842999
+                    "total": 7.4645618169
                   }
                 ]
               },
@@ -6771,19 +7104,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.696319666
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 1.2050679879
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 1.2050679879
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 0.8608789336
                   },
                   {
                     "year": 2045,
@@ -6821,7 +7154,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 55365.4876651848
+                    "total": 55365.4876651849
                   },
                   {
                     "year": 2040,
@@ -6829,7 +7162,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 53585.7980118611
+                    "total": 53585.798011861
                   },
                   {
                     "year": 2050,
@@ -7055,7 +7388,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 16578.7831685727
+                    "total": 16377.9711429684
                   }
                 ]
               },
@@ -7072,27 +7405,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 6784.2501724658
+                    "total": 6830.227295285
                   },
                   {
                     "year": 2030,
-                    "total": 7866.9466831206
+                    "total": 8042.8069688225
                   },
                   {
                     "year": 2035,
-                    "total": 9532.8543557249
+                    "total": 10103.7629938379
                   },
                   {
                     "year": 2040,
-                    "total": 11302.6146323741
+                    "total": 12636.533082082
                   },
                   {
                     "year": 2045,
-                    "total": 11073.7040179081
+                    "total": 12361.6859591483
                   },
                   {
                     "year": 2050,
-                    "total": 14805.8101836653
+                    "total": 14981.6704693672
                   }
                 ]
               },
@@ -7121,15 +7454,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 31300.787065222
+                    "total": 31427.9961270998
                   },
                   {
                     "year": 2045,
-                    "total": 33972.596717325
+                    "total": 33991.0340139688
                   },
                   {
                     "year": 2050,
-                    "total": 34830.3643385318
+                    "total": 35734.2229565246
                   }
                 ]
               },
@@ -7477,7 +7810,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 547.9103877473
+                    "total": 424.5620564505
                   }
                 ]
               },
@@ -7494,23 +7827,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 3404.2659920439
+                    "total": 2914.2566505
                   },
                   {
                     "year": 2030,
-                    "total": 3353.8129345825
+                    "total": 2331.097767
                   },
                   {
                     "year": 2035,
-                    "total": 3402.5853177198
+                    "total": 1747.9388835
                   },
                   {
                     "year": 2040,
-                    "total": 3463.178040301
+                    "total": 1164.78
                   },
                   {
                     "year": 2045,
-                    "total": 3583.3686857707
+                    "total": 582.39
                   },
                   {
                     "year": 2050,
@@ -7531,27 +7864,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 964.0635332616
+                    "total": 925.0
                   },
                   {
                     "year": 2030,
-                    "total": 975.8177758776
+                    "total": 740.0
                   },
                   {
                     "year": 2035,
-                    "total": 944.7809191897
+                    "total": 555.0
                   },
                   {
                     "year": 2040,
-                    "total": 901.1010011227
+                    "total": 370.0
                   },
                   {
                     "year": 2045,
-                    "total": 835.6548070358
+                    "total": 185.0
                   },
                   {
                     "year": 2050,
-                    "total": 828.7766705808
+                    "total": 0.0
                   }
                 ]
               }
@@ -7767,19 +8100,19 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.2700872032
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3165243889
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3.7156478173
                   },
                   {
                     "year": 2050,
@@ -7804,23 +8137,60 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 8.0801752748
+                    "total": 5.8100880716
                   },
                   {
                     "year": 2035,
-                    "total": 7.636573154
+                    "total": 4.5766748031
                   },
                   {
                     "year": 2040,
-                    "total": 7.2436449718
+                    "total": 2.8639097046
                   },
                   {
                     "year": 2045,
-                    "total": 6.908007968
+                    "total": 1.5855720697
                   },
                   {
                     "year": 2050,
-                    "total": 6.7880085948
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.9054971513
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.620052769
                   }
                 ]
               },
@@ -7845,19 +8215,19 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 1.4017259947
+                    "total": 0.1686751257
                   },
                   {
                     "year": 2040,
-                    "total": 2.2114428425
+                    "total": 0.1666455602
                   },
                   {
                     "year": 2045,
-                    "total": 4.1830932379
+                    "total": 0.8722107188
                   },
                   {
                     "year": 2050,
-                    "total": 4.2091115466
+                    "total": 0.0
                   }
                 ]
               },
@@ -7874,19 +8244,56 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 4.8202719516
+                    "total": 4.1239522856
                   },
                   {
                     "year": 2030,
-                    "total": 4.8202719516
+                    "total": 3.6152039637
                   },
                   {
                     "year": 2035,
-                    "total": 4.8202719516
+                    "total": 3.6152039637
                   },
                   {
                     "year": 2040,
-                    "total": 3.4435157345
+                    "total": 2.5826368009
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.696319666
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.2050679879
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.2050679879
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8608789336
                   },
                   {
                     "year": 2045,
@@ -7903,6 +8310,43 @@ export default {
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -7973,7 +8417,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 30.5573553376
+                    "total": 31.7170168692
                   }
                 ]
               },
@@ -8010,7 +8454,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 9.6632842999
+                    "total": 7.4645618169
                   }
                 ]
               },
@@ -8106,23 +8550,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 6.6603569202
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 13.8524847064
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 22.1467178691
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 31.3623759184
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 41.2482913451
                   },
                   {
                     "year": 2050,
@@ -8143,23 +8587,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 47.3151507864
+                    "total": 40.5
                   },
                   {
                     "year": 2030,
-                    "total": 46.6241330679
+                    "total": 32.4
                   },
                   {
                     "year": 2035,
-                    "total": 47.3131632019
+                    "total": 24.3
                   },
                   {
                     "year": 2040,
-                    "total": 48.1665930501
+                    "total": 16.2
                   },
                   {
                     "year": 2045,
-                    "total": 49.8382292875
+                    "total": 8.1
                   },
                   {
                     "year": 2050,
@@ -8308,15 +8752,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 66959.4978215154
+                    "total": 66936.5435942317
                   },
                   {
                     "year": 2045,
-                    "total": 68468.3275282518
+                    "total": 68464.2552514113
                   },
                   {
                     "year": 2050,
-                    "total": 69983.2438495157
+                    "total": 69965.635487465
                   }
                 ]
               },
@@ -8432,7 +8876,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 894.8928673516
+                    "total": 912.7704253752
                   }
                 ]
               }
@@ -8454,7 +8898,7 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 63584.4346494398
+                    "total": 63584.4346494399
                   },
                   {
                     "year": 2030,
@@ -8462,7 +8906,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 66672.1889871863
+                    "total": 66672.1889871864
                   },
                   {
                     "year": 2040,
@@ -8647,11 +9091,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 62519.5638183362
+                    "total": 62519.5638183363
                   },
                   {
                     "year": 2040,
-                    "total": 66159.1649815569
+                    "total": 66159.1649815568
                   },
                   {
                     "year": 2045,
@@ -8796,19 +9240,19 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.2700872032
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3165243889
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 3.7156478173
                   },
                   {
                     "year": 2050,
@@ -8829,23 +9273,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 6.6603569202
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 13.8524847064
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 22.1467178691
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 31.3623759184
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 41.2482913451
                   },
                   {
                     "year": 2050,
@@ -8870,23 +9314,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 46.6644492597
+                    "total": 44.3943620565
                   },
                   {
                     "year": 2035,
-                    "total": 26.4023240804
+                    "total": 23.3424257294
                   },
                   {
                     "year": 2040,
-                    "total": 10.4597826527
+                    "total": 6.0800473856
                   },
                   {
                     "year": 2045,
-                    "total": 6.9315266896
+                    "total": 1.6090907914
                   },
                   {
                     "year": 2050,
-                    "total": 6.7892097964
+                    "total": 0.0012012016
                   }
                 ]
               },
@@ -8923,7 +9367,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 51.2038733969
+                    "total": 52.3635349285
                   }
                 ]
               },
@@ -8956,11 +9400,11 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4.9054971513
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 10.620052769
                   }
                 ]
               },
@@ -8985,19 +9429,19 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 1.4017259947
+                    "total": 0.1686751257
                   },
                   {
                     "year": 2040,
-                    "total": 2.2114428425
+                    "total": 0.1666455602
                   },
                   {
                     "year": 2045,
-                    "total": 4.1830932379
+                    "total": 0.8722107188
                   },
                   {
                     "year": 2050,
-                    "total": 4.2091115466
+                    "total": 0.0
                   }
                 ]
               },
@@ -9051,23 +9495,23 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 47.3151507864
+                    "total": 40.5
                   },
                   {
                     "year": 2030,
-                    "total": 46.6241330679
+                    "total": 32.4
                   },
                   {
                     "year": 2035,
-                    "total": 47.3131632019
+                    "total": 24.3
                   },
                   {
                     "year": 2040,
-                    "total": 48.1665930501
+                    "total": 16.2
                   },
                   {
                     "year": 2045,
-                    "total": 49.8382292875
+                    "total": 8.1
                   },
                   {
                     "year": 2050,
@@ -9125,19 +9569,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 4.821062692
+                    "total": 4.124743026
                   },
                   {
                     "year": 2030,
-                    "total": 4.82061759
+                    "total": 3.6155496021
                   },
                   {
                     "year": 2035,
-                    "total": 4.8203714153
+                    "total": 3.6153034274
                   },
                   {
                     "year": 2040,
-                    "total": 13.0482191509
+                    "total": 12.1873402173
                   },
                   {
                     "year": 2045,
@@ -9145,7 +9589,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 9.6632842999
+                    "total": 7.4645618169
                   }
                 ]
               },
@@ -9162,19 +9606,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.696319666
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 1.2050679879
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 1.2050679879
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 0.8608789336
                   },
                   {
                     "year": 2045,
@@ -9212,7 +9656,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 55365.4876651848
+                    "total": 55365.4876651849
                   },
                   {
                     "year": 2040,
@@ -9220,7 +9664,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 53585.7980118611
+                    "total": 53585.798011861
                   },
                   {
                     "year": 2050,
@@ -9335,7 +9779,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 3650.9835455762
+                    "total": 3650.9835455761
                   }
                 ]
               },
@@ -9446,7 +9890,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 16578.7831685727
+                    "total": 16377.9711429684
                   }
                 ]
               },
@@ -9463,27 +9907,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 6784.2501724658
+                    "total": 6830.227295285
                   },
                   {
                     "year": 2030,
-                    "total": 7866.9466831206
+                    "total": 8042.8069688225
                   },
                   {
                     "year": 2035,
-                    "total": 9532.8543557249
+                    "total": 10103.7629938379
                   },
                   {
                     "year": 2040,
-                    "total": 11302.6146323741
+                    "total": 12636.533082082
                   },
                   {
                     "year": 2045,
-                    "total": 11073.7040179081
+                    "total": 12361.6859591483
                   },
                   {
                     "year": 2050,
-                    "total": 14805.8101836653
+                    "total": 14981.6704693672
                   }
                 ]
               },
@@ -9512,15 +9956,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 31300.787065222
+                    "total": 31427.9961270998
                   },
                   {
                     "year": 2045,
-                    "total": 33972.596717325
+                    "total": 33991.0340139688
                   },
                   {
                     "year": 2050,
-                    "total": 34830.3643385318
+                    "total": 35734.2229565246
                   }
                 ]
               },
@@ -10216,6 +10660,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -10288,12 +10769,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -10613,7 +11168,7 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 25231.687611191
+                    "total": 25231.6876111911
                   },
                   {
                     "year": 2030,
@@ -10857,7 +11412,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 71565.6507446638
+                    "total": 71565.6507446637
                   },
                   {
                     "year": 2045,
@@ -12607,6 +13162,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -12679,12 +13271,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -12996,7 +13662,7 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 21635.9936303851
+                    "total": 21635.993630385
                   },
                   {
                     "year": 2020,
@@ -14998,6 +15664,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -15070,12 +15773,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -15387,7 +16164,7 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 21635.993630385
+                    "total": 21635.9936303851
                   },
                   {
                     "year": 2020,
@@ -16739,6 +17516,10014 @@ export default {
         ]
       },
       {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_300Mt",
+        "indicators": [
+          {
+            "indicator": "_Transport - bil bestanden",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1931.2687329201
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2147.8733195658
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1683.8038388261
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1070.8574975364
+                  },
+                  {
+                    "year": 2035,
+                    "total": 245.5188478014
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.346
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.332
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.047
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 427.6204083682
+                  },
+                  {
+                    "year": 2020,
+                    "total": 304.2547151253
+                  },
+                  {
+                    "year": 2025,
+                    "total": 180.7764288044
+                  },
+                  {
+                    "year": 2030,
+                    "total": 81.3117594939
+                  },
+                  {
+                    "year": 2035,
+                    "total": 24.4969570231
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2874773609
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.372143871
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.019
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.09
+                  },
+                  {
+                    "year": 2020,
+                    "total": 97.8211560357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 811.8740585887
+                  },
+                  {
+                    "year": 2030,
+                    "total": 825.4407112306
+                  },
+                  {
+                    "year": 2035,
+                    "total": 939.643795189
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1401.588270408
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2644.9970984744
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3058.5069366099
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.037
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.026
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.016
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hybrid bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 28.9716596333
+                  },
+                  {
+                    "year": 2025,
+                    "total": 515.9741790279
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1907.1867905837
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1887.0590840193
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1520.2876841942
+                  },
+                  {
+                    "year": 2045,
+                    "total": 360.3179747137
+                  },
+                  {
+                    "year": 2050,
+                    "total": 30.8940094607
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0051820269
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0051820269
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0051820269
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0012427324
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.009
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.006
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.004
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Land transport CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 12147.1394945347
+                  },
+                  {
+                    "year": 2020,
+                    "total": 12101.0519330973
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3602.4718911432
+                  },
+                  {
+                    "year": 2030,
+                    "total": 124.1561626009
+                  },
+                  {
+                    "year": 2035,
+                    "total": 94.7549995537
+                  },
+                  {
+                    "year": 2040,
+                    "total": 21.2721546056
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3308.1171611835
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3493.1763888966
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3592.7053009274
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2559.0378205618
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1185.5715331278
+                  },
+                  {
+                    "year": 2040,
+                    "total": 806.3898380172
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7.8671034889
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1125.358572256
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1090.1393265033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 877.3297149975
+                  },
+                  {
+                    "year": 2030,
+                    "total": 657.0788821992
+                  },
+                  {
+                    "year": 2035,
+                    "total": 414.8918729349
+                  },
+                  {
+                    "year": 2040,
+                    "total": 307.5347810356
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.4402479602
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug bi",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin/ethanoel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 74.7642890421
+                  },
+                  {
+                    "year": 2020,
+                    "total": 85.5118844542
+                  },
+                  {
+                    "year": 2025,
+                    "total": 52.0008450119
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.1994728909
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8.0959756341
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.2347501032
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.4493532346
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1242689393
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 27.0239576875
+                  },
+                  {
+                    "year": 2020,
+                    "total": 19.2277226829
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.5203304894
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0028773628
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9810963169
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8.8792037156
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1859357193
+                  },
+                  {
+                    "year": 2035,
+                    "total": 14.0135014585
+                  },
+                  {
+                    "year": 2040,
+                    "total": 16.3465996953
+                  },
+                  {
+                    "year": 2045,
+                    "total": 23.0583803383
+                  },
+                  {
+                    "year": 2050,
+                    "total": 25.500127359
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.00150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0012830898
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0007907404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0001889895
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.1704968727
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.341154779
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.3753628632
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.8127120628
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.3527087388
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.620052769
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 8.7284896932
+                  },
+                  {
+                    "year": 2020,
+                    "total": 8.5666567031
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.8986860372
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.8162963849
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.8620638404
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.1949913159
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0734176513
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.300754234
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3767562171
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6152039637
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6152039637
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.5826368009
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.2050679879
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.2050679879
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8608789336
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.902347588
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.2579416852
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.5312550368
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 63.0979419481
+                  },
+                  {
+                    "year": 2020,
+                    "total": 61.0355639696
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5.4988652895
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3225866047
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.2092284602
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5245708259
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.188293578
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.6472918731
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.3171164219
+                  },
+                  {
+                    "year": 2030,
+                    "total": 20.6713893334
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.2076757021
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.742221147
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29.0555582417
+                  },
+                  {
+                    "year": 2050,
+                    "total": 32.435395107
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 10.3928573605
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.1898259057
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6376574657
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7405164465
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gasoline/ethanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.1539064786
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.2828862375
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4227000003
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3491380881
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2843383254
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.2048833158
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1405696422
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0614137388
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.3966700713
+                  },
+                  {
+                    "year": 2035,
+                    "total": 34.1463651996
+                  },
+                  {
+                    "year": 2040,
+                    "total": 41.5850751111
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.4077032603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6638112272
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 35.5916247644
+                  },
+                  {
+                    "year": 2035,
+                    "total": 16.4891729225
+                  },
+                  {
+                    "year": 2040,
+                    "total": 11.2154358556
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1094172947
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport gods km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 392.7
+                  },
+                  {
+                    "year": 2020,
+                    "total": 411.4
+                  },
+                  {
+                    "year": 2025,
+                    "total": 420.75
+                  },
+                  {
+                    "year": 2030,
+                    "total": 430.1
+                  },
+                  {
+                    "year": 2035,
+                    "total": 439.45
+                  },
+                  {
+                    "year": 2040,
+                    "total": 448.8
+                  },
+                  {
+                    "year": 2045,
+                    "total": 458.15
+                  },
+                  {
+                    "year": 2050,
+                    "total": 467.5
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 21635.993630385
+                  },
+                  {
+                    "year": 2020,
+                    "total": 23701.0435308
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25231.6876111911
+                  },
+                  {
+                    "year": 2030,
+                    "total": 26861.18266824
+                  },
+                  {
+                    "year": 2035,
+                    "total": 28595.9126260163
+                  },
+                  {
+                    "year": 2040,
+                    "total": 30442.6736906719
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32408.7009761519
+                  },
+                  {
+                    "year": 2050,
+                    "total": 34501.6968494282
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 893.9671008511
+                  },
+                  {
+                    "year": 2020,
+                    "total": 988.7583365134
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1066.8201367547
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1144.881936996
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1215.6515747766
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1286.4212125573
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1365.6188972913
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1444.8165820254
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 55662.8391511237
+                  },
+                  {
+                    "year": 2020,
+                    "total": 58319.0956795649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 60776.6781568012
+                  },
+                  {
+                    "year": 2030,
+                    "total": 63286.2674993881
+                  },
+                  {
+                    "year": 2035,
+                    "total": 65002.9977448754
+                  },
+                  {
+                    "year": 2040,
+                    "total": 66920.3281775737
+                  },
+                  {
+                    "year": 2045,
+                    "total": 68439.2296252193
+                  },
+                  {
+                    "year": 2050,
+                    "total": 69965.635487465
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3822.3346007381
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3988.6
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4029.0944392009
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4070.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4111.3208563275
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4153.0612244898
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4195.2253635995
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4237.81757601
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport investering i lades",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Ladestandere til biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.7208499178
+                  },
+                  {
+                    "year": 2020,
+                    "total": 129.8114641655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 869.7296801852
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1213.6133521048
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1268.2433661624
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1409.3465439415
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1815.2675492269
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1962.9416823226
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ladestandere til lastbiler og varevogne",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 103.0708664708
+                  },
+                  {
+                    "year": 2025,
+                    "total": 870.1525956006
+                  },
+                  {
+                    "year": 2030,
+                    "total": 956.6592069766
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1011.7315785729
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1053.0267638207
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1104.7210741595
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1157.9424248326
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport passager km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 57824.0192737355
+                  },
+                  {
+                    "year": 2020,
+                    "total": 63190.7321336163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 65096.9916967265
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66928.3463732332
+                  },
+                  {
+                    "year": 2035,
+                    "total": 69232.9916103074
+                  },
+                  {
+                    "year": 2040,
+                    "total": 71564.267226392
+                  },
+                  {
+                    "year": 2045,
+                    "total": 73607.959676625
+                  },
+                  {
+                    "year": 2050,
+                    "total": 75667.4463758794
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 7512.0640702117
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7976.4805653161
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4125.1170623067
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3690.2927761668
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3870.5081406054
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4065.8182159707
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4257.0909212934
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4451.1624848653
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3254.7716782478
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3528.9142675406
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3803.0568568335
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4077.1994461263
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4351.3420354191
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4625.484624712
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4899.6272140048
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5173.7698032977
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6872.1605279715
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7861.1850860225
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8133.5300997239
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8211.7483429978
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8234.8803256642
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8234.8803256641
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 477.7835918845
+                  },
+                  {
+                    "year": 2020,
+                    "total": 420.1214687148
+                  },
+                  {
+                    "year": 2025,
+                    "total": 337.7102612173
+                  },
+                  {
+                    "year": 2030,
+                    "total": 278.7287425019
+                  },
+                  {
+                    "year": 2035,
+                    "total": 229.9866119479
+                  },
+                  {
+                    "year": 2040,
+                    "total": 162.6513741232
+                  },
+                  {
+                    "year": 2045,
+                    "total": 113.9092435692
+                  },
+                  {
+                    "year": 2050,
+                    "total": 46.5740057445
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 52154.1297287215
+                  },
+                  {
+                    "year": 2020,
+                    "total": 57684.2598612214
+                  },
+                  {
+                    "year": 2025,
+                    "total": 62238.3930645185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66792.5262678156
+                  },
+                  {
+                    "year": 2035,
+                    "total": 70921.2339866487
+                  },
+                  {
+                    "year": 2040,
+                    "total": 75049.9417054817
+                  },
+                  {
+                    "year": 2045,
+                    "total": 79670.3425232549
+                  },
+                  {
+                    "year": 2050,
+                    "total": 84290.743341028
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1749.1488
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1832.4416
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1874.088
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1915.7344
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1957.3808
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1999.0272
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2040.6736
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2082.32
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport sektorens energifor",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Benzin",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 78.9181955207
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.7947706917
+                  },
+                  {
+                    "year": 2025,
+                    "total": 43.6000101352
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.4810002865
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.346299805
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.3069574979
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 22.2520020717
+                  },
+                  {
+                    "year": 2030,
+                    "total": 22.6313551247
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.0961915279
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.3372828887
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.3527087388
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.620052769
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.3966700713
+                  },
+                  {
+                    "year": 2035,
+                    "total": 34.1463651996
+                  },
+                  {
+                    "year": 2040,
+                    "total": 41.5850751111
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.4077032603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6638112272
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 98.8503893288
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.8299433557
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.738724205
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.1066243291
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.8817186726
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.1949913159
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0734176513
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.19116897
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.6283867813
+                  },
+                  {
+                    "year": 2025,
+                    "total": 27.1963201375
+                  },
+                  {
+                    "year": 2030,
+                    "total": 33.8573250526
+                  },
+                  {
+                    "year": 2035,
+                    "total": 37.2211771606
+                  },
+                  {
+                    "year": 2040,
+                    "total": 42.0888208423
+                  },
+                  {
+                    "year": 2045,
+                    "total": 52.1139386113
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.935522466
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8.8235348771
+                  },
+                  {
+                    "year": 2030,
+                    "total": 7.0676106925
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.0340141545
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.1326759211
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.5899228767
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1856826782
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.300754234
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8.63076e-05
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.63076e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.06979e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 35.5916247644
+                  },
+                  {
+                    "year": 2035,
+                    "total": 16.4891729225
+                  },
+                  {
+                    "year": 2040,
+                    "total": 11.2154358556
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1094172947
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.001350837
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3779109979
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.821062692
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6153740543
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6152039637
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.5826368009
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.000150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.2050868869
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.5979253484
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13.0507048393
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6376574657
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7405164465
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport systemomkostninger",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3118.713794106
+                  },
+                  {
+                    "year": 2020,
+                    "total": 10447.880735163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 24572.625643618
+                  },
+                  {
+                    "year": 2030,
+                    "total": 36264.6310568424
+                  },
+                  {
+                    "year": 2035,
+                    "total": 30911.933191794
+                  },
+                  {
+                    "year": 2040,
+                    "total": 27615.6062071617
+                  },
+                  {
+                    "year": 2045,
+                    "total": 27814.2503851683
+                  },
+                  {
+                    "year": 2050,
+                    "total": 31729.7026546581
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2703.1864989647
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3246.4720722307
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1793.8511688656
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1928.7469713379
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1883.4242046756
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1991.8213787189
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2080.7780722444
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2176.0789742351
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 946.8494167524
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1552.6336400258
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2011.0868482857
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2136.3085581393
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2286.4822159859
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2420.2867648805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2564.8298632446
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2702.3282015643
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 418.7693332425
+                  },
+                  {
+                    "year": 2020,
+                    "total": 994.8533335358
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1541.162429104
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1719.5754595831
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1968.3541201407
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2142.7865118693
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2016.8774394802
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2058.6361485039
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 49.3335076219
+                  },
+                  {
+                    "year": 2020,
+                    "total": 99.7275797857
+                  },
+                  {
+                    "year": 2025,
+                    "total": 144.3273467872
+                  },
+                  {
+                    "year": 2030,
+                    "total": 188.9271137887
+                  },
+                  {
+                    "year": 2035,
+                    "total": 233.5268807902
+                  },
+                  {
+                    "year": 2040,
+                    "total": 283.8983171564
+                  },
+                  {
+                    "year": 2045,
+                    "total": 276.113946749
+                  },
+                  {
+                    "year": 2050,
+                    "total": 289.7152581164
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 159.3375976336
+                  },
+                  {
+                    "year": 2020,
+                    "total": 330.2572595163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 467.983286795
+                  },
+                  {
+                    "year": 2030,
+                    "total": 355.845841365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 305.3165266095
+                  },
+                  {
+                    "year": 2040,
+                    "total": 221.9447847539
+                  },
+                  {
+                    "year": 2045,
+                    "total": 194.5101165389
+                  },
+                  {
+                    "year": 2050,
+                    "total": 89.7646757139
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 944.6987667693
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2572.2121667454
+                  },
+                  {
+                    "year": 2025,
+                    "total": 11040.5983026076
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11485.8199583118
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12474.6030171933
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13256.5699055017
+                  },
+                  {
+                    "year": 2045,
+                    "total": 14030.0392966573
+                  },
+                  {
+                    "year": 2050,
+                    "total": 14850.2278961287
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2079.7677502696
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3212.4278696246
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4321.4215895025
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5335.4248820034
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8135.1689295976
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9491.4149684703
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10877.3657045053
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10300.3702653441
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 506.2734466984
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6526.4213391394
+                  },
+                  {
+                    "year": 2025,
+                    "total": 20449.3129747214
+                  },
+                  {
+                    "year": 2030,
+                    "total": 21538.9773579246
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23334.3417245298
+                  },
+                  {
+                    "year": 2040,
+                    "total": 24635.726100209
+                  },
+                  {
+                    "year": 2045,
+                    "total": 27693.5825435281
+                  },
+                  {
+                    "year": 2050,
+                    "total": 27831.2160856607
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 50.9218195957
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1058.0103385357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4322.3158555069
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4306.6267410568
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3603.1998369029
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2626.9643725437
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3335.0839206942
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3298.5675745568
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_300Mt_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_Transport - bil bestanden",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1931.2687329201
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2147.8733195658
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1683.8038388261
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1070.8574975364
+                  },
+                  {
+                    "year": 2035,
+                    "total": 245.5188478014
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.346
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.332
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.047
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 427.6204083682
+                  },
+                  {
+                    "year": 2020,
+                    "total": 304.2547151253
+                  },
+                  {
+                    "year": 2025,
+                    "total": 180.7764288044
+                  },
+                  {
+                    "year": 2030,
+                    "total": 81.3117594939
+                  },
+                  {
+                    "year": 2035,
+                    "total": 24.4969570231
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2874773609
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.372143871
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.019
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.09
+                  },
+                  {
+                    "year": 2020,
+                    "total": 97.8211560357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 104.0964358305
+                  },
+                  {
+                    "year": 2030,
+                    "total": 112.1056092284
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1284.6252997967
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1898.528276885
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2775.0018120725
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3058.1970464295
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.037
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.026
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.016
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hybrid bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 28.9716596333
+                  },
+                  {
+                    "year": 2025,
+                    "total": 709.942497879
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1550.9646642766
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1541.5270244457
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1023.4041649236
+                  },
+                  {
+                    "year": 2045,
+                    "total": 229.700203602
+                  },
+                  {
+                    "year": 2050,
+                    "total": 30.8908792569
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0051820269
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0053955477
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0053955477
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0014562532
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.12057e-05
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.009
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.006
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.004
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Land transport CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 12147.1394945347
+                  },
+                  {
+                    "year": 2020,
+                    "total": 12101.0519330973
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8156.6672399371
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4538.2731674109
+                  },
+                  {
+                    "year": 2035,
+                    "total": 384.6360342788
+                  },
+                  {
+                    "year": 2040,
+                    "total": 29.4150967403
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3308.1171611835
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3493.1763888966
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3592.7053009274
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3737.9583986889
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3565.9084831358
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2060.785238167
+                  },
+                  {
+                    "year": 2045,
+                    "total": 977.3347702514
+                  },
+                  {
+                    "year": 2050,
+                    "total": 403.842672687
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1125.358572256
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1090.1393265033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 964.0635332616
+                  },
+                  {
+                    "year": 2030,
+                    "total": 975.8177758776
+                  },
+                  {
+                    "year": 2035,
+                    "total": 936.3106256853
+                  },
+                  {
+                    "year": 2040,
+                    "total": 393.8674867855
+                  },
+                  {
+                    "year": 2045,
+                    "total": 140.5292121895
+                  },
+                  {
+                    "year": 2050,
+                    "total": 76.4386310531
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug bi",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin/ethanoel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 74.7642890421
+                  },
+                  {
+                    "year": 2020,
+                    "total": 85.5118844542
+                  },
+                  {
+                    "year": 2025,
+                    "total": 70.986904944
+                  },
+                  {
+                    "year": 2030,
+                    "total": 45.1790756777
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.9045682877
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2836681563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9239526097
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1242563483
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 27.0239576875
+                  },
+                  {
+                    "year": 2020,
+                    "total": 19.2277226829
+                  },
+                  {
+                    "year": 2025,
+                    "total": 11.4243721492
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.1385892423
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0028773628
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9810963169
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.4731881729
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.0748339619
+                  },
+                  {
+                    "year": 2035,
+                    "total": 15.7260541227
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.9497761193
+                  },
+                  {
+                    "year": 2045,
+                    "total": 23.7444923702
+                  },
+                  {
+                    "year": 2050,
+                    "total": 25.4975436673
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.00150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0012830898
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0007907404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0003456384
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9.94637e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.1143089542
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.1104806409
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.1946206095
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8.2869141167
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 8.7284896932
+                  },
+                  {
+                    "year": 2020,
+                    "total": 8.5666567031
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8.0691829098
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.0801752748
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.5222641998
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.9972827163
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.8964805964
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0315604731
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.6786455516
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.3780301231
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.4017259947
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.3473244571
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3767562171
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.5826368009
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8608789336
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11.5833322572
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.7778671577
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 63.0979419481
+                  },
+                  {
+                    "year": 2020,
+                    "total": 61.0355639696
+                  },
+                  {
+                    "year": 2025,
+                    "total": 13.2779702351
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.8281984509
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.3422887371
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.122652746
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7069269377
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.188293578
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.6472918731
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.8706954725
+                  },
+                  {
+                    "year": 2030,
+                    "total": 18.0834362024
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.974132847
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.6932943465
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29.0322170329
+                  },
+                  {
+                    "year": 2050,
+                    "total": 32.4131802773
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.4969429531
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.3472141463
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7.8826869498
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7405164465
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gasoline/ethanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.1539064786
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.2828862375
+                  },
+                  {
+                    "year": 2025,
+                    "total": 20.2999537677
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.5815997772
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.1154395674
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.205182422
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.180020517
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0815613758
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6295845461
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.7306648835
+                  },
+                  {
+                    "year": 2045,
+                    "total": 42.6667645544
+                  },
+                  {
+                    "year": 2050,
+                    "total": 52.7776284969
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 51.9882948357
+                  },
+                  {
+                    "year": 2035,
+                    "total": 49.5953891952
+                  },
+                  {
+                    "year": 2040,
+                    "total": 28.6618252874
+                  },
+                  {
+                    "year": 2045,
+                    "total": 13.5929731607
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.6167270193
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport gods km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 392.7
+                  },
+                  {
+                    "year": 2020,
+                    "total": 411.4
+                  },
+                  {
+                    "year": 2025,
+                    "total": 420.75
+                  },
+                  {
+                    "year": 2030,
+                    "total": 430.1
+                  },
+                  {
+                    "year": 2035,
+                    "total": 439.45
+                  },
+                  {
+                    "year": 2040,
+                    "total": 448.8
+                  },
+                  {
+                    "year": 2045,
+                    "total": 458.15
+                  },
+                  {
+                    "year": 2050,
+                    "total": 467.5
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 21635.993630385
+                  },
+                  {
+                    "year": 2020,
+                    "total": 23701.0435308
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25231.687611191
+                  },
+                  {
+                    "year": 2030,
+                    "total": 26861.18266824
+                  },
+                  {
+                    "year": 2035,
+                    "total": 28595.9126260163
+                  },
+                  {
+                    "year": 2040,
+                    "total": 30442.6736906719
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32408.7009761519
+                  },
+                  {
+                    "year": 2050,
+                    "total": 34501.6968494282
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 893.9671008511
+                  },
+                  {
+                    "year": 2020,
+                    "total": 988.7583365134
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1066.8201367547
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1144.881936996
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1215.6515747766
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1286.4212125573
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1365.6188972913
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1444.8165820254
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 55662.8391511237
+                  },
+                  {
+                    "year": 2020,
+                    "total": 58319.0956795649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 60776.6781568012
+                  },
+                  {
+                    "year": 2030,
+                    "total": 63286.2674993881
+                  },
+                  {
+                    "year": 2035,
+                    "total": 65052.2771345872
+                  },
+                  {
+                    "year": 2040,
+                    "total": 66959.4978215154
+                  },
+                  {
+                    "year": 2045,
+                    "total": 68468.3275282518
+                  },
+                  {
+                    "year": 2050,
+                    "total": 69983.2438495157
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3822.3346007381
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3988.6
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4029.0944392009
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4070.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4111.3208563275
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4153.0612244898
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4195.2253635995
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4237.81757601
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport investering i lades",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Ladestandere til biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.7208499178
+                  },
+                  {
+                    "year": 2020,
+                    "total": 129.8114641655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 363.2780488983
+                  },
+                  {
+                    "year": 2030,
+                    "total": 571.0141017141
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1208.1191292382
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1403.0862381353
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1693.065328295
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1799.0879125675
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ladestandere til lastbiler og varevogne",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 103.0708664708
+                  },
+                  {
+                    "year": 2025,
+                    "total": 709.2512066
+                  },
+                  {
+                    "year": 2030,
+                    "total": 823.8840489292
+                  },
+                  {
+                    "year": 2035,
+                    "total": 928.026434376
+                  },
+                  {
+                    "year": 2040,
+                    "total": 970.8122970854
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1022.9010396673
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1076.1397548112
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport passager km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 57824.0192737355
+                  },
+                  {
+                    "year": 2020,
+                    "total": 63190.7321336163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 65622.0262356802
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66913.7955577956
+                  },
+                  {
+                    "year": 2035,
+                    "total": 69219.56827625
+                  },
+                  {
+                    "year": 2040,
+                    "total": 71565.6507446646
+                  },
+                  {
+                    "year": 2045,
+                    "total": 73592.9443071905
+                  },
+                  {
+                    "year": 2050,
+                    "total": 75659.779694359
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 7512.0640702117
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7976.4805653161
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4251.9333734251
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3704.8435916045
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3883.931474663
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4064.4346976982
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4242.1699750298
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4443.5440147715
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3254.7716782478
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3528.9142675406
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3803.0568568335
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4077.1994461263
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4351.3420354191
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4625.484624712
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4899.6272140048
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5173.7698032977
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6872.1605279715
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7861.1850860225
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8133.5300997239
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8211.7483429978
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8234.8803256642
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8234.8803256641
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 477.7835918845
+                  },
+                  {
+                    "year": 2020,
+                    "total": 420.1214687148
+                  },
+                  {
+                    "year": 2025,
+                    "total": 337.7102612173
+                  },
+                  {
+                    "year": 2030,
+                    "total": 278.7287425019
+                  },
+                  {
+                    "year": 2035,
+                    "total": 229.9866119479
+                  },
+                  {
+                    "year": 2040,
+                    "total": 162.6513741232
+                  },
+                  {
+                    "year": 2045,
+                    "total": 143.8455592673
+                  },
+                  {
+                    "year": 2050,
+                    "total": 61.8591573587
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 52154.1297287215
+                  },
+                  {
+                    "year": 2020,
+                    "total": 57684.2598612214
+                  },
+                  {
+                    "year": 2025,
+                    "total": 62238.3930645185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66792.5262678156
+                  },
+                  {
+                    "year": 2035,
+                    "total": 70921.2339866486
+                  },
+                  {
+                    "year": 2040,
+                    "total": 75049.9417054818
+                  },
+                  {
+                    "year": 2045,
+                    "total": 79670.3425232548
+                  },
+                  {
+                    "year": 2050,
+                    "total": 84290.743341028
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1749.1488
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1832.4416
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1874.088
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1915.7344
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1957.3808
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1999.0272
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2040.6736
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2082.32
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport sektorens energifor",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Benzin",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 78.9181955207
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.7947706917
+                  },
+                  {
+                    "year": 2025,
+                    "total": 91.2868587117
+                  },
+                  {
+                    "year": 2030,
+                    "total": 53.760675455
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.1236556099
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4244602704
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11.5833322572
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.8355218181
+                  },
+                  {
+                    "year": 2040,
+                    "total": 10.2331333869
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9015475471
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8.2869141167
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6295845461
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.7306648835
+                  },
+                  {
+                    "year": 2045,
+                    "total": 42.6667645544
+                  },
+                  {
+                    "year": 2050,
+                    "total": 52.7776284969
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 98.8503893288
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.8299433557
+                  },
+                  {
+                    "year": 2025,
+                    "total": 32.7715252941
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.046962968
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.9212072307
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.9972827163
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.8964805964
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0315604731
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.19116897
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.6283867813
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.3438836453
+                  },
+                  {
+                    "year": 2030,
+                    "total": 24.1582701643
+                  },
+                  {
+                    "year": 2035,
+                    "total": 38.7001869697
+                  },
+                  {
+                    "year": 2040,
+                    "total": 44.6430704659
+                  },
+                  {
+                    "year": 2045,
+                    "total": 52.7767094343
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.9107239446
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.8963522452
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.0643903079
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.1039731267
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.8844632757
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.3780301231
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.4017259947
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.3473244571
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2025,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.94679e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.38582e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 51.9882948357
+                  },
+                  {
+                    "year": 2035,
+                    "total": 49.5953891952
+                  },
+                  {
+                    "year": 2040,
+                    "total": 28.6618252874
+                  },
+                  {
+                    "year": 2045,
+                    "total": 13.5929731607
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.6167270193
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.001350837
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3779109979
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.821062692
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.82061759
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.8203614689
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.5826368009
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.000150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.4969528995
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.20809308
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7.8826869498
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7405164465
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport systemomkostninger",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3118.713794106
+                  },
+                  {
+                    "year": 2020,
+                    "total": 10447.880735163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18274.8403987877
+                  },
+                  {
+                    "year": 2030,
+                    "total": 24109.5698456298
+                  },
+                  {
+                    "year": 2035,
+                    "total": 29900.1199951552
+                  },
+                  {
+                    "year": 2040,
+                    "total": 28836.4276605892
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29197.1316181858
+                  },
+                  {
+                    "year": 2050,
+                    "total": 29054.1117904208
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2703.1864989647
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3246.4720722307
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1484.4373634431
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1918.7868485132
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1893.7775168179
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1988.5070159739
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2072.6056417393
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2173.4602654345
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 946.8494167524
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1552.6336400258
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2011.0868482857
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2136.3085581393
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2286.4822159859
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2420.2867648805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2564.8298632446
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2702.3282015643
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 418.7693332425
+                  },
+                  {
+                    "year": 2020,
+                    "total": 994.8533335358
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1278.6040679648
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1544.5365521569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1803.1277396536
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2142.7865118693
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2016.8774394802
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2058.6361485039
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 49.3335076219
+                  },
+                  {
+                    "year": 2020,
+                    "total": 99.7275797857
+                  },
+                  {
+                    "year": 2025,
+                    "total": 144.3273467872
+                  },
+                  {
+                    "year": 2030,
+                    "total": 188.9271137887
+                  },
+                  {
+                    "year": 2035,
+                    "total": 233.5268807902
+                  },
+                  {
+                    "year": 2040,
+                    "total": 283.8983171564
+                  },
+                  {
+                    "year": 2045,
+                    "total": 276.113946749
+                  },
+                  {
+                    "year": 2050,
+                    "total": 289.7152581164
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 159.3375976336
+                  },
+                  {
+                    "year": 2020,
+                    "total": 330.2572595163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 467.983286795
+                  },
+                  {
+                    "year": 2030,
+                    "total": 355.845841365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 305.3165266095
+                  },
+                  {
+                    "year": 2040,
+                    "total": 221.9447847539
+                  },
+                  {
+                    "year": 2045,
+                    "total": 194.5101165389
+                  },
+                  {
+                    "year": 2050,
+                    "total": 89.7646757139
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 944.6987667693
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2572.2121667454
+                  },
+                  {
+                    "year": 2025,
+                    "total": 10811.8094195524
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11426.6426444533
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12388.237258945
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13161.4753100421
+                  },
+                  {
+                    "year": 2045,
+                    "total": 14024.7529577589
+                  },
+                  {
+                    "year": 2050,
+                    "total": 14850.2278961287
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2079.7677502696
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3212.4278696246
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4321.4215895025
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5335.4248820034
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6308.1559915825
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7375.4571101152
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7436.3512301498
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8731.1004743236
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 506.2734466984
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6526.4213391394
+                  },
+                  {
+                    "year": 2025,
+                    "total": 20449.3129747214
+                  },
+                  {
+                    "year": 2030,
+                    "total": 21538.9773579246
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22676.4350668899
+                  },
+                  {
+                    "year": 2040,
+                    "total": 24229.2866653811
+                  },
+                  {
+                    "year": 2045,
+                    "total": 26475.8973857167
+                  },
+                  {
+                    "year": 2050,
+                    "total": 27142.7630389793
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 50.9218195957
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1058.0103385357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3541.0197245865
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3564.2355117715
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3524.0506048253
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2809.3313962885
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3341.8735407295
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3143.2054586453
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_400Mt",
+        "indicators": [
+          {
+            "indicator": "_Transport - bil bestanden",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1931.2687329201
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2147.8733195658
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1683.8038388261
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1070.8574975364
+                  },
+                  {
+                    "year": 2035,
+                    "total": 245.5188478014
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.346
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.332
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.047
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 427.6204083682
+                  },
+                  {
+                    "year": 2020,
+                    "total": 304.2547151253
+                  },
+                  {
+                    "year": 2025,
+                    "total": 180.7764288044
+                  },
+                  {
+                    "year": 2030,
+                    "total": 81.3117594939
+                  },
+                  {
+                    "year": 2035,
+                    "total": 24.4969570231
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2874773609
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.372143871
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.019
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.09
+                  },
+                  {
+                    "year": 2020,
+                    "total": 97.8211560357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 104.0964358305
+                  },
+                  {
+                    "year": 2030,
+                    "total": 112.4869027049
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1247.5526138427
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1861.1615161863
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2766.6475959626
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3058.5069366099
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.037
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.026
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.016
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hybrid bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 28.9716596333
+                  },
+                  {
+                    "year": 2025,
+                    "total": 709.942497879
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1588.7127184519
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1578.8967555963
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1060.7709256223
+                  },
+                  {
+                    "year": 2045,
+                    "total": 238.6674772255
+                  },
+                  {
+                    "year": 2050,
+                    "total": 30.8940094607
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0051820269
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0053955477
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0053955477
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0014562532
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.12057e-05
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.009
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.006
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.004
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Land transport CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 12147.1394945347
+                  },
+                  {
+                    "year": 2020,
+                    "total": 12101.0519330973
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8156.6672399371
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3881.531990945
+                  },
+                  {
+                    "year": 2035,
+                    "total": 166.7696631542
+                  },
+                  {
+                    "year": 2040,
+                    "total": 29.4150967403
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3308.1171611835
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3493.1763888966
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3592.7053009274
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3648.6324048027
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2840.7871031136
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2087.3262005305
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1804.2303844009
+                  },
+                  {
+                    "year": 2050,
+                    "total": 136.2030259755
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1125.358572256
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1090.1393265033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 964.0635332616
+                  },
+                  {
+                    "year": 2030,
+                    "total": 975.8177758776
+                  },
+                  {
+                    "year": 2035,
+                    "total": 609.9630410294
+                  },
+                  {
+                    "year": 2040,
+                    "total": 409.9043265661
+                  },
+                  {
+                    "year": 2045,
+                    "total": 140.5292121895
+                  },
+                  {
+                    "year": 2050,
+                    "total": 69.8954577828
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug bi",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin/ethanoel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 74.7642890421
+                  },
+                  {
+                    "year": 2020,
+                    "total": 85.5118844542
+                  },
+                  {
+                    "year": 2025,
+                    "total": 70.986904944
+                  },
+                  {
+                    "year": 2030,
+                    "total": 43.5581321173
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.0548853535
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.4339732736
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9600228253
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1242689393
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 27.0239576875
+                  },
+                  {
+                    "year": 2020,
+                    "total": 19.2277226829
+                  },
+                  {
+                    "year": 2025,
+                    "total": 11.4243721492
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.1385892423
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0028773628
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9810963169
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.4731881729
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.1918183395
+                  },
+                  {
+                    "year": 2035,
+                    "total": 15.5307680804
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.7520382455
+                  },
+                  {
+                    "year": 2045,
+                    "total": 23.7021319043
+                  },
+                  {
+                    "year": 2050,
+                    "total": 25.500127359
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.00150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0012830898
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0007907404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0003456384
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9.94637e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6069760821
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.2091059627
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.1946206095
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.0131204808
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 8.7284896932
+                  },
+                  {
+                    "year": 2020,
+                    "total": 8.5666567031
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8.0691829098
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.0801752748
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0295970719
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.095908038
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.8964805964
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9432585396
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.3780301231
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.4017259947
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1500738136
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3767562171
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6163334405
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.0103712616
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.2039385111
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4331444729
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11.5833322572
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.7778671577
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 63.0979419481
+                  },
+                  {
+                    "year": 2020,
+                    "total": 61.0355639696
+                  },
+                  {
+                    "year": 2025,
+                    "total": 13.2779702351
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3522401505
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.7603196562
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.7717027599
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5825049502
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.188293578
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.6472918731
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.8706954725
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.3289236115
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.0653319196
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.7275957604
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29.044399795
+                  },
+                  {
+                    "year": 2050,
+                    "total": 32.4152005439
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.7493619665
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.7220151024
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.0155648005
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7405164465
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gasoline/ethanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.1539064786
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.2828862375
+                  },
+                  {
+                    "year": 2025,
+                    "total": 20.2999537677
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.5815997772
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.1154395674
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.205182422
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1405696422
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0614137388
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.24236431
+                  },
+                  {
+                    "year": 2035,
+                    "total": 13.7147219595
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.3615277158
+                  },
+                  {
+                    "year": 2045,
+                    "total": 31.314926032
+                  },
+                  {
+                    "year": 2050,
+                    "total": 56.0158603831
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 50.7459305258
+                  },
+                  {
+                    "year": 2035,
+                    "total": 39.5102517818
+                  },
+                  {
+                    "year": 2040,
+                    "total": 29.0309624552
+                  },
+                  {
+                    "year": 2045,
+                    "total": 25.0936075716
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.8943397215
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport gods km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 392.7
+                  },
+                  {
+                    "year": 2020,
+                    "total": 411.4
+                  },
+                  {
+                    "year": 2025,
+                    "total": 420.75
+                  },
+                  {
+                    "year": 2030,
+                    "total": 430.1
+                  },
+                  {
+                    "year": 2035,
+                    "total": 439.45
+                  },
+                  {
+                    "year": 2040,
+                    "total": 448.8
+                  },
+                  {
+                    "year": 2045,
+                    "total": 458.15
+                  },
+                  {
+                    "year": 2050,
+                    "total": 467.5
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 21635.993630385
+                  },
+                  {
+                    "year": 2020,
+                    "total": 23701.0435308
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25231.6876111911
+                  },
+                  {
+                    "year": 2030,
+                    "total": 26861.18266824
+                  },
+                  {
+                    "year": 2035,
+                    "total": 28595.9126260163
+                  },
+                  {
+                    "year": 2040,
+                    "total": 30442.6736906719
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32408.7009761519
+                  },
+                  {
+                    "year": 2050,
+                    "total": 34501.6968494282
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 893.9671008511
+                  },
+                  {
+                    "year": 2020,
+                    "total": 988.7583365134
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1066.8201367547
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1144.881936996
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1215.6515747766
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1286.4212125573
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1365.6188972913
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1444.8165820254
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 55662.8391511237
+                  },
+                  {
+                    "year": 2020,
+                    "total": 58319.0956795649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 60776.6781568012
+                  },
+                  {
+                    "year": 2030,
+                    "total": 63286.2674993881
+                  },
+                  {
+                    "year": 2035,
+                    "total": 65052.2771345872
+                  },
+                  {
+                    "year": 2040,
+                    "total": 66959.4978215154
+                  },
+                  {
+                    "year": 2045,
+                    "total": 68468.3275282518
+                  },
+                  {
+                    "year": 2050,
+                    "total": 69969.6150802814
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3822.3346007381
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3988.6
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4029.0944392009
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4070.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4111.3208563275
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4153.0612244898
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4195.2253635995
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4237.81757601
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport investering i lades",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Ladestandere til biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.7208499178
+                  },
+                  {
+                    "year": 2020,
+                    "total": 129.8114641655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 363.2780488983
+                  },
+                  {
+                    "year": 2030,
+                    "total": 580.3550630975
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1196.846214739
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1391.6650396072
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1691.0411820102
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1799.7819387757
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ladestandere til lastbiler og varevogne",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 103.0708664708
+                  },
+                  {
+                    "year": 2025,
+                    "total": 709.2512066
+                  },
+                  {
+                    "year": 2030,
+                    "total": 867.8978826728
+                  },
+                  {
+                    "year": 2035,
+                    "total": 946.4334467806
+                  },
+                  {
+                    "year": 2040,
+                    "total": 989.2490518348
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1040.9968091637
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1094.0788573854
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport passager km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 57824.0192737355
+                  },
+                  {
+                    "year": 2020,
+                    "total": 63190.7321336163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 65622.0262356802
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66913.7955577955
+                  },
+                  {
+                    "year": 2035,
+                    "total": 69226.8436839688
+                  },
+                  {
+                    "year": 2040,
+                    "total": 71565.6507446645
+                  },
+                  {
+                    "year": 2045,
+                    "total": 73607.959676625
+                  },
+                  {
+                    "year": 2050,
+                    "total": 75667.4463758794
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 7512.0640702117
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7976.4805653161
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4251.9333734252
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3704.8435916045
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3876.6560669441
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4064.4346976982
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4257.0909212934
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4451.1624848653
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3254.7716782478
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3528.9142675406
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3803.0568568335
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4077.1994461263
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4351.3420354191
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4625.484624712
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4899.6272140048
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5173.7698032977
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6872.1605279715
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7861.1850860225
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8133.5300997239
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8211.7483429978
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8234.8803256642
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8234.8803256641
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 477.7835918845
+                  },
+                  {
+                    "year": 2020,
+                    "total": 420.1214687148
+                  },
+                  {
+                    "year": 2025,
+                    "total": 337.7102612173
+                  },
+                  {
+                    "year": 2030,
+                    "total": 278.7287425019
+                  },
+                  {
+                    "year": 2035,
+                    "total": 229.9866119479
+                  },
+                  {
+                    "year": 2040,
+                    "total": 162.6513741232
+                  },
+                  {
+                    "year": 2045,
+                    "total": 113.9092435692
+                  },
+                  {
+                    "year": 2050,
+                    "total": 46.5740057445
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 52154.1297287215
+                  },
+                  {
+                    "year": 2020,
+                    "total": 57684.2598612214
+                  },
+                  {
+                    "year": 2025,
+                    "total": 62238.3930645185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66792.5262678156
+                  },
+                  {
+                    "year": 2035,
+                    "total": 70921.2339866486
+                  },
+                  {
+                    "year": 2040,
+                    "total": 75049.9417054818
+                  },
+                  {
+                    "year": 2045,
+                    "total": 79670.3425232548
+                  },
+                  {
+                    "year": 2050,
+                    "total": 84290.7433410279
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1749.1488
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1832.4416
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1874.088
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1915.7344
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1957.3808
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1999.0272
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2040.6736
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2082.32
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport sektorens energifor",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Benzin",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 78.9181955207
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.7947706917
+                  },
+                  {
+                    "year": 2025,
+                    "total": 91.2868587117
+                  },
+                  {
+                    "year": 2030,
+                    "total": 46.9313593485
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.2511975599
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4244602704
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11.5833322572
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.9999989239
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.9808087225
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.7771255597
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.0131204808
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.24236431
+                  },
+                  {
+                    "year": 2035,
+                    "total": 13.7147219595
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.3615277158
+                  },
+                  {
+                    "year": 2045,
+                    "total": 31.314926032
+                  },
+                  {
+                    "year": 2050,
+                    "total": 56.0158603831
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 98.8503893288
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.8299433557
+                  },
+                  {
+                    "year": 2025,
+                    "total": 32.7715252941
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.5710046676
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.174761044
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.095908038
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.8964805964
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9432585396
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.19116897
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.6283867813
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.3438836453
+                  },
+                  {
+                    "year": 2030,
+                    "total": 25.520741951
+                  },
+                  {
+                    "year": 2035,
+                    "total": 38.5961
+                  },
+                  {
+                    "year": 2040,
+                    "total": 44.479634006
+                  },
+                  {
+                    "year": 2045,
+                    "total": 52.7465317306
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.9153279029
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.208372546
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.9191273611
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2146954252
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.1005924675
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1856826782
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.3780301231
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.4017259947
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1500738136
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2025,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.94679e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.38582e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 50.7459305258
+                  },
+                  {
+                    "year": 2035,
+                    "total": 39.5102517818
+                  },
+                  {
+                    "year": 2040,
+                    "total": 29.0309624552
+                  },
+                  {
+                    "year": 2045,
+                    "total": 25.0936075716
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.8943397215
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.001350837
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3779109979
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.821062692
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.820598691
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6164229578
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.0103712616
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.000150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8899e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.953310424
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.1551595753
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.0155648005
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7405164465
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport systemomkostninger",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3118.713794106
+                  },
+                  {
+                    "year": 2020,
+                    "total": 10447.880735163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18274.8403987877
+                  },
+                  {
+                    "year": 2030,
+                    "total": 24511.4320961359
+                  },
+                  {
+                    "year": 2035,
+                    "total": 29907.6210693172
+                  },
+                  {
+                    "year": 2040,
+                    "total": 28840.8323571697
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29108.2054474059
+                  },
+                  {
+                    "year": 2050,
+                    "total": 29151.9487694768
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2703.1864989647
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3246.4720722307
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1484.4373634431
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1918.7868485132
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1889.4051047042
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1989.5555898852
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2081.3214444146
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2175.9486649534
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 946.8494167524
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1552.6336400258
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2011.0868482857
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2136.3085581393
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2286.4822159859
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2420.2867648805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2564.8298632446
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2702.3282015643
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 418.7693332425
+                  },
+                  {
+                    "year": 2020,
+                    "total": 994.8533335358
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1278.6040679648
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1544.5365521569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1890.6471933667
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2142.7865118693
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2016.8774394802
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2058.6361485039
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 49.3335076219
+                  },
+                  {
+                    "year": 2020,
+                    "total": 99.7275797857
+                  },
+                  {
+                    "year": 2025,
+                    "total": 144.3273467872
+                  },
+                  {
+                    "year": 2030,
+                    "total": 188.9271137887
+                  },
+                  {
+                    "year": 2035,
+                    "total": 233.5268807902
+                  },
+                  {
+                    "year": 2040,
+                    "total": 283.8983171564
+                  },
+                  {
+                    "year": 2045,
+                    "total": 276.113946749
+                  },
+                  {
+                    "year": 2050,
+                    "total": 289.7152581164
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 159.3375976336
+                  },
+                  {
+                    "year": 2020,
+                    "total": 330.2572595163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 467.983286795
+                  },
+                  {
+                    "year": 2030,
+                    "total": 355.845841365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 305.3165266095
+                  },
+                  {
+                    "year": 2040,
+                    "total": 221.9447847539
+                  },
+                  {
+                    "year": 2045,
+                    "total": 194.5101165389
+                  },
+                  {
+                    "year": 2050,
+                    "total": 89.7646757139
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 944.6987667693
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2572.2121667454
+                  },
+                  {
+                    "year": 2025,
+                    "total": 10811.8094195524
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11426.6426444533
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12366.8100457158
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13176.1011252943
+                  },
+                  {
+                    "year": 2045,
+                    "total": 14025.6833746903
+                  },
+                  {
+                    "year": 2050,
+                    "total": 14850.2278961287
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2079.7677502696
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3212.4278696246
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4321.4215895025
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5335.4248820034
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6308.1559915825
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7375.4571101152
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7303.7768731321
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9735.5862071453
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 506.2734466984
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6526.4213391394
+                  },
+                  {
+                    "year": 2025,
+                    "total": 20449.3129747214
+                  },
+                  {
+                    "year": 2030,
+                    "total": 21538.9773579246
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22676.4350668899
+                  },
+                  {
+                    "year": 2040,
+                    "total": 24229.2866653811
+                  },
+                  {
+                    "year": 2045,
+                    "total": 26475.8973857167
+                  },
+                  {
+                    "year": 2050,
+                    "total": 27194.8257159934
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 50.9218195957
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1058.0103385357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3541.0197245865
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3959.2926137012
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3545.7286378652
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2831.0094293285
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3245.7395877836
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3230.6681983753
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_400Mt_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_Transport - bil bestanden",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1931.2687329201
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2147.8733195658
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1683.8038388261
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1070.8574975364
+                  },
+                  {
+                    "year": 2035,
+                    "total": 245.5188478014
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.346
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.332
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.047
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 427.6204083682
+                  },
+                  {
+                    "year": 2020,
+                    "total": 304.2547151253
+                  },
+                  {
+                    "year": 2025,
+                    "total": 180.7764288044
+                  },
+                  {
+                    "year": 2030,
+                    "total": 81.3117594939
+                  },
+                  {
+                    "year": 2035,
+                    "total": 24.4969570231
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2874773609
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.372143871
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.019
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.09
+                  },
+                  {
+                    "year": 2020,
+                    "total": 97.8211560357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 104.0964358305
+                  },
+                  {
+                    "year": 2030,
+                    "total": 111.270313596
+                  },
+                  {
+                    "year": 2035,
+                    "total": 680.1277661136
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1561.4417413501
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2375.6874376398
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2957.7272680015
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.037
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.026
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.016
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hybrid bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 28.9716596333
+                  },
+                  {
+                    "year": 2025,
+                    "total": 709.942497879
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1468.2703966701
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1875.9123875814
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1360.4906492528
+                  },
+                  {
+                    "year": 2045,
+                    "total": 629.0145780347
+                  },
+                  {
+                    "year": 2050,
+                    "total": 131.3606576849
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0051820269
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0053955477
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0053955477
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0014562532
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.12057e-05
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG bil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.009
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.006
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.004
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.002
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Land transport CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 12147.1394945347
+                  },
+                  {
+                    "year": 2020,
+                    "total": 12101.0519330973
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8435.0801536188
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5676.2306688576
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2483.69991228
+                  },
+                  {
+                    "year": 2040,
+                    "total": 700.2765647658
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3308.1171611835
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3493.1763888966
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3592.7053009274
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3739.8484104709
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3826.5346210394
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3602.0952462695
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2318.3154508246
+                  },
+                  {
+                    "year": 2050,
+                    "total": 848.8269741572
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1125.358572256
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1090.1393265033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 964.0635332616
+                  },
+                  {
+                    "year": 2030,
+                    "total": 975.8177758776
+                  },
+                  {
+                    "year": 2035,
+                    "total": 944.7809191897
+                  },
+                  {
+                    "year": 2040,
+                    "total": 901.1010011227
+                  },
+                  {
+                    "year": 2045,
+                    "total": 165.7542522886
+                  },
+                  {
+                    "year": 2050,
+                    "total": 76.4386310531
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug bi",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Benzin/ethanoel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 74.7642890421
+                  },
+                  {
+                    "year": 2020,
+                    "total": 85.5118844542
+                  },
+                  {
+                    "year": 2025,
+                    "total": 70.9869050177
+                  },
+                  {
+                    "year": 2030,
+                    "total": 48.7300554864
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.6397148574
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.6395743854
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2.5301660679
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5283888328
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 27.0239576875
+                  },
+                  {
+                    "year": 2020,
+                    "total": 19.2277226829
+                  },
+                  {
+                    "year": 2025,
+                    "total": 11.4243721492
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.1385892423
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.5481133431
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0028773628
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9810963169
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.4731881729
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.818557509
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.7127314203
+                  },
+                  {
+                    "year": 2040,
+                    "total": 17.1659773811
+                  },
+                  {
+                    "year": 2045,
+                    "total": 21.6313957599
+                  },
+                  {
+                    "year": 2050,
+                    "total": 24.9658764852
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas blanding",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.00150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0012830898
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0007907404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0003456384
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9.94637e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.8820426652
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9.9655596683
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 8.7284896932
+                  },
+                  {
+                    "year": 2020,
+                    "total": 8.5666567031
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8.0691829098
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.0801752748
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.636573154
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.2436449718
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.5839026521
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0315604731
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.3780301231
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.4017259947
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.2114428425
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6251558885
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3767562171
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.8202719516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.4435157345
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 63.0979419481
+                  },
+                  {
+                    "year": 2020,
+                    "total": 61.0355639696
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.7918390583
+                  },
+                  {
+                    "year": 2030,
+                    "total": 7.1505118211
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.4432700344
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1.2633251102
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.3143945224
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.002740876
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.188293578
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.6472918731
+                  },
+                  {
+                    "year": 2025,
+                    "total": 12.8738748354
+                  },
+                  {
+                    "year": 2030,
+                    "total": 18.0298610707
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.974132847
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.6932943465
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29.0322170329
+                  },
+                  {
+                    "year": 2050,
+                    "total": 32.411773578
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.3018963253
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.3018963253
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7402564044
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gasoline/ethanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.1539064786
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.2828862375
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.4216742407
+                  },
+                  {
+                    "year": 2030,
+                    "total": 20.0374609601
+                  },
+                  {
+                    "year": 2035,
+                    "total": 16.0707155048
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.1069440175
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.180020517
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0815613758
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2890654529
+                  },
+                  {
+                    "year": 2045,
+                    "total": 24.1757999391
+                  },
+                  {
+                    "year": 2050,
+                    "total": 46.8741823661
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 52.0145815086
+                  },
+                  {
+                    "year": 2035,
+                    "total": 53.2202311688
+                  },
+                  {
+                    "year": 2040,
+                    "total": 50.0986821456
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32.2436084955
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.8056602804
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport gods km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 392.7
+                  },
+                  {
+                    "year": 2020,
+                    "total": 411.4
+                  },
+                  {
+                    "year": 2025,
+                    "total": 420.75
+                  },
+                  {
+                    "year": 2030,
+                    "total": 430.1
+                  },
+                  {
+                    "year": 2035,
+                    "total": 439.45
+                  },
+                  {
+                    "year": 2040,
+                    "total": 448.8
+                  },
+                  {
+                    "year": 2045,
+                    "total": 458.15
+                  },
+                  {
+                    "year": 2050,
+                    "total": 467.5
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 21635.9936303851
+                  },
+                  {
+                    "year": 2020,
+                    "total": 23701.0435308
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25231.6876111911
+                  },
+                  {
+                    "year": 2030,
+                    "total": 26861.18266824
+                  },
+                  {
+                    "year": 2035,
+                    "total": 28595.9126260163
+                  },
+                  {
+                    "year": 2040,
+                    "total": 30442.6736906719
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32408.7009761519
+                  },
+                  {
+                    "year": 2050,
+                    "total": 34501.6968494282
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 893.9671008511
+                  },
+                  {
+                    "year": 2020,
+                    "total": 988.7583365134
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1066.8201367547
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1144.881936996
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1215.6515747766
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1286.4212125573
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1365.6188972913
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1444.8165820254
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 55662.8391511237
+                  },
+                  {
+                    "year": 2020,
+                    "total": 58319.0956795649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 60776.6781568012
+                  },
+                  {
+                    "year": 2030,
+                    "total": 63286.2674993881
+                  },
+                  {
+                    "year": 2035,
+                    "total": 65052.2771345872
+                  },
+                  {
+                    "year": 2040,
+                    "total": 66959.4978215154
+                  },
+                  {
+                    "year": 2045,
+                    "total": 68468.3275282518
+                  },
+                  {
+                    "year": 2050,
+                    "total": 69983.2438495157
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3822.3346007381
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3988.6
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4029.0944392009
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4070.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4111.3208563275
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4153.0612244898
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4195.2253635995
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4237.81757601
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport investering i lades",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Ladestandere til biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.7208499178
+                  },
+                  {
+                    "year": 2020,
+                    "total": 129.8114641655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 363.2780488983
+                  },
+                  {
+                    "year": 2030,
+                    "total": 550.5509552759
+                  },
+                  {
+                    "year": 2035,
+                    "total": 939.6424659259
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1269.4486961817
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1539.5122185128
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1741.1778898317
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ladestandere til lastbiler og varevogne",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 103.0708664708
+                  },
+                  {
+                    "year": 2025,
+                    "total": 610.2708688856
+                  },
+                  {
+                    "year": 2030,
+                    "total": 793.575368569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 898.8486348474
+                  },
+                  {
+                    "year": 2040,
+                    "total": 941.6344975569
+                  },
+                  {
+                    "year": 2045,
+                    "total": 993.7232401388
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1046.9402693436
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport passager km",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 57824.0192737355
+                  },
+                  {
+                    "year": 2020,
+                    "total": 63190.7321336163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 65622.0262356802
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66913.7955577956
+                  },
+                  {
+                    "year": 2035,
+                    "total": 69219.56827625
+                  },
+                  {
+                    "year": 2040,
+                    "total": 71565.6507446646
+                  },
+                  {
+                    "year": 2045,
+                    "total": 73592.9443071905
+                  },
+                  {
+                    "year": 2050,
+                    "total": 75659.779694359
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 7512.0640702117
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7976.4805653161
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4251.9333734252
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3704.8435916045
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3883.931474663
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4064.4346976982
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4242.1699750298
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4443.5440147715
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3254.7716782478
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3528.9142675406
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3803.0568568335
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4077.1994461263
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4351.3420354191
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4625.484624712
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4899.6272140048
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5173.7698032977
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6872.1605279715
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7861.1850860225
+                  },
+                  {
+                    "year": 2025,
+                    "total": 8133.5300997239
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8211.7483429978
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8234.8803256642
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8234.8803256641
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8234.8803256641
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 477.7835918845
+                  },
+                  {
+                    "year": 2020,
+                    "total": 420.1214687148
+                  },
+                  {
+                    "year": 2025,
+                    "total": 337.7102612173
+                  },
+                  {
+                    "year": 2030,
+                    "total": 278.7287425019
+                  },
+                  {
+                    "year": 2035,
+                    "total": 229.9866119479
+                  },
+                  {
+                    "year": 2040,
+                    "total": 162.6513741232
+                  },
+                  {
+                    "year": 2045,
+                    "total": 143.8455592673
+                  },
+                  {
+                    "year": 2050,
+                    "total": 61.8591573587
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 52154.1297287215
+                  },
+                  {
+                    "year": 2020,
+                    "total": 57684.2598612214
+                  },
+                  {
+                    "year": 2025,
+                    "total": 62238.3930645185
+                  },
+                  {
+                    "year": 2030,
+                    "total": 66792.5262678156
+                  },
+                  {
+                    "year": 2035,
+                    "total": 70921.2339866486
+                  },
+                  {
+                    "year": 2040,
+                    "total": 75049.9417054818
+                  },
+                  {
+                    "year": 2045,
+                    "total": 79670.3425232548
+                  },
+                  {
+                    "year": 2050,
+                    "total": 84290.743341028
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1749.1488
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1832.4416
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1874.088
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1915.7344
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1957.3808
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1999.0272
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2040.6736
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2082.32
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport sektorens energifor",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Avgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.055475
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0391
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Benzin",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 78.9181955207
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.7947706917
+                  },
+                  {
+                    "year": 2025,
+                    "total": 89.4085792584
+                  },
+                  {
+                    "year": 2030,
+                    "total": 68.7675164465
+                  },
+                  {
+                    "year": 2035,
+                    "total": 33.7104303622
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.7465184029
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1.2633251102
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.1964371876
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9.9683005444
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2890654529
+                  },
+                  {
+                    "year": 2045,
+                    "total": 24.1757999391
+                  },
+                  {
+                    "year": 2050,
+                    "total": 46.8741823661
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 98.8503893288
+                  },
+                  {
+                    "year": 2020,
+                    "total": 88.8299433557
+                  },
+                  {
+                    "year": 2025,
+                    "total": 38.2853941173
+                  },
+                  {
+                    "year": 2030,
+                    "total": 20.3692763382
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9.6279565315
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.2436449718
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1.5839026521
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0315604731
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.19116897
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.6283867813
+                  },
+                  {
+                    "year": 2025,
+                    "total": 16.3470630082
+                  },
+                  {
+                    "year": 2030,
+                    "total": 23.8484185796
+                  },
+                  {
+                    "year": 2035,
+                    "total": 34.6868642673
+                  },
+                  {
+                    "year": 2040,
+                    "total": 42.8592717277
+                  },
+                  {
+                    "year": 2045,
+                    "total": 50.663612824
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.3776500631
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2.7101865849
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6099502086
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Heavy fuel oil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.1831716536
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8851943285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2366902217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.3780301231
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.4017259947
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.2114428425
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6251558885
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Hydrogen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2025,
+                    "total": 9.18891e-05
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.94679e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.38582e-05
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.579e-07
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.9565054754
+                  },
+                  {
+                    "year": 2020,
+                    "total": 48.5461301655
+                  },
+                  {
+                    "year": 2025,
+                    "total": 49.968084853
+                  },
+                  {
+                    "year": 2030,
+                    "total": 52.0145815086
+                  },
+                  {
+                    "year": 2035,
+                    "total": 53.2202311688
+                  },
+                  {
+                    "year": 2040,
+                    "total": 50.0986821456
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32.2436084955
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.8056602804
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "LPG",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0004252266
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0002834844
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0001889896
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9.44948e-05
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.001350837
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3779109979
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.821062692
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.82061759
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.8203714153
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.1216412148
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.000150093
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.6237708451
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.3018963253
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.7402564044
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport systemomkostninger",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Biler",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3118.713794106
+                  },
+                  {
+                    "year": 2020,
+                    "total": 10447.880735163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18274.8403987877
+                  },
+                  {
+                    "year": 2030,
+                    "total": 23229.2144151207
+                  },
+                  {
+                    "year": 2035,
+                    "total": 27122.2809118852
+                  },
+                  {
+                    "year": 2040,
+                    "total": 28874.2177147434
+                  },
+                  {
+                    "year": 2045,
+                    "total": 29453.3806907582
+                  },
+                  {
+                    "year": 2050,
+                    "total": 29520.535369667
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Bus",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2703.1864989647
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3246.4720722307
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1484.4373634431
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1918.7868485132
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1893.7775168179
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1988.5070159739
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2072.6056417393
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2173.4602654345
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gang og Cykling",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 946.8494167524
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1552.6336400258
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2011.0868482857
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2136.3085581393
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2286.4822159859
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2420.2867648805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2564.8298632446
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2702.3282015643
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jenbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 418.7693332425
+                  },
+                  {
+                    "year": 2020,
+                    "total": 994.8533335358
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1278.6040679648
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1544.5365521569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1803.1277396536
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2142.7865118693
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2016.8774394802
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2058.6361485039
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Jernbane",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 49.3335076219
+                  },
+                  {
+                    "year": 2020,
+                    "total": 99.7275797857
+                  },
+                  {
+                    "year": 2025,
+                    "total": 144.3273467872
+                  },
+                  {
+                    "year": 2030,
+                    "total": 188.9271137887
+                  },
+                  {
+                    "year": 2035,
+                    "total": 233.5268807902
+                  },
+                  {
+                    "year": 2040,
+                    "total": 283.8983171564
+                  },
+                  {
+                    "year": 2045,
+                    "total": 276.113946749
+                  },
+                  {
+                    "year": 2050,
+                    "total": 289.7152581164
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Knallert og Motorcykel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 159.3375976336
+                  },
+                  {
+                    "year": 2020,
+                    "total": 330.2572595163
+                  },
+                  {
+                    "year": 2025,
+                    "total": 467.983286795
+                  },
+                  {
+                    "year": 2030,
+                    "total": 355.845841365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 305.3165266095
+                  },
+                  {
+                    "year": 2040,
+                    "total": 221.9447847539
+                  },
+                  {
+                    "year": 2045,
+                    "total": 194.5101165389
+                  },
+                  {
+                    "year": 2050,
+                    "total": 89.7646757139
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lastbil",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 944.6987667693
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2572.2121667454
+                  },
+                  {
+                    "year": 2025,
+                    "total": 10625.1237392818
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11315.4352137606
+                  },
+                  {
+                    "year": 2035,
+                    "total": 12030.7574960814
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13186.3749180203
+                  },
+                  {
+                    "year": 2045,
+                    "total": 14027.4694986996
+                  },
+                  {
+                    "year": 2050,
+                    "total": 14850.249236875
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2079.7677502696
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3212.4278696246
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4321.4215895025
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5332.0583164698
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6308.1559915825
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7375.4571101152
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7296.3021287422
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8198.7258522348
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 506.2734466984
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6526.4213391394
+                  },
+                  {
+                    "year": 2025,
+                    "total": 20449.3129747214
+                  },
+                  {
+                    "year": 2030,
+                    "total": 21538.9773579246
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22676.4350668899
+                  },
+                  {
+                    "year": 2040,
+                    "total": 24229.2866653811
+                  },
+                  {
+                    "year": 2045,
+                    "total": 26475.8973857167
+                  },
+                  {
+                    "year": 2050,
+                    "total": 27142.7630389793
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Varevogn",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 50.9218195957
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1058.0103385357
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3541.0197245865
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3564.2355117715
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3524.0506048253
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2809.3313962885
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3341.8735407295
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3143.2054586453
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT_With_CCS",
         "indicators": [
           {
@@ -17389,6 +28174,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -17461,12 +28283,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -18038,7 +28934,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 75659.779694359
+                    "total": 75659.7796943591
                   }
                 ]
               },
@@ -19780,6 +30676,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -19852,12 +30785,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -20169,7 +31176,7 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 21635.9936303851
+                    "total": 21635.993630385
                   },
                   {
                     "year": 2020,
@@ -22171,6 +33178,43 @@ export default {
                 ]
               },
               {
+                "indicatorGroup": "Ethanoel og Methanoel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Heavy fuel oil",
                 "indicatorGroupValues": [
                   {
@@ -22243,12 +33287,86 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "Synthetisk naturgas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
           {
             "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "Biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -22560,7 +33678,7 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 21635.9936303851
+                    "total": 21635.993630385
                   },
                   {
                     "year": 2020,
@@ -22808,7 +33926,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 66672.1889871864
+                    "total": 66672.1889871863
                   },
                   {
                     "year": 2040,

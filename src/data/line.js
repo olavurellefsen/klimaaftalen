@@ -198,27 +198,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5370213259
+                    "total": 0.547388498
                   },
                   {
                     "year": 2030,
-                    "total": 0.7058173565
+                    "total": 0.7292670744
                   },
                   {
                     "year": 2035,
-                    "total": 0.8041886948
+                    "total": 0.8351737646
                   },
                   {
                     "year": 2040,
-                    "total": 0.858773058
+                    "total": 0.9011339778
                   },
                   {
                     "year": 2045,
-                    "total": 0.8737860279
+                    "total": 0.9141827205
                   },
                   {
                     "year": 2050,
-                    "total": 0.9046918771
+                    "total": 0.9148322531
                   }
                 ]
               }
@@ -240,27 +240,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4056969574
+                    "total": 0.4335998061
                   },
                   {
                     "year": 2030,
-                    "total": 0.5602909061
+                    "total": 0.616085595
                   },
                   {
                     "year": 2035,
-                    "total": 0.678734478
+                    "total": 0.7396985619
                   },
                   {
                     "year": 2040,
-                    "total": 0.7418967335
+                    "total": 0.8248903431
                   },
                   {
                     "year": 2045,
-                    "total": 0.7735484773
+                    "total": 0.8497183177
                   },
                   {
                     "year": 2050,
-                    "total": 0.8417588338
+                    "total": 0.8555461017
                   }
                 ]
               }
@@ -287,27 +287,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.5370213259
+                    "total": 0.547388498
                   },
                   {
                     "year": 2030,
-                    "total": 0.7058173565
+                    "total": 0.7292670744
                   },
                   {
                     "year": 2035,
-                    "total": 0.8041886948
+                    "total": 0.8351737646
                   },
                   {
                     "year": 2040,
-                    "total": 0.858773058
+                    "total": 0.9011339778
                   },
                   {
                     "year": 2045,
-                    "total": 0.8737860279
+                    "total": 0.9141827205
                   },
                   {
                     "year": 2050,
-                    "total": 0.9046918771
+                    "total": 0.9148322531
                   }
                 ]
               }
@@ -329,27 +329,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.4056969574
+                    "total": 0.4335998061
                   },
                   {
                     "year": 2030,
-                    "total": 0.5602909061
+                    "total": 0.616085595
                   },
                   {
                     "year": 2035,
-                    "total": 0.678734478
+                    "total": 0.7396985619
                   },
                   {
                     "year": 2040,
-                    "total": 0.7418967335
+                    "total": 0.8248903431
                   },
                   {
                     "year": 2045,
-                    "total": 0.7735484773
+                    "total": 0.8497183177
                   },
                   {
                     "year": 2050,
-                    "total": 0.8417588338
+                    "total": 0.8555461017
                   }
                 ]
               }
@@ -617,6 +617,362 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.9749816447
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_300Mt",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3618537789
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4193965527
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.825873356
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.9181147864
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.9477554962
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9578460041
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9780602279
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9783
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3118486314
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3573065778
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.7631865336
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.9000451909
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.9392551722
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9521502822
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9773686299
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9789624983
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_300Mt_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3618537789
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4193965527
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.653781374
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.8239060843
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.9307895649
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9740830657
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9986993511
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0101893184
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3118486314
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3573065778
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5338375842
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7482614081
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8586069436
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9266245603
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9582232997
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9720488087
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_400Mt",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3618537789
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4193965527
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.6629177208
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.8195437668
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.9131194273
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9327748536
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9432592865
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9745865138
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3118486314
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3573065778
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5488555153
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7759840635
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8945697082
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9230612565
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9363130059
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9750455441
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "Carbon_scenario_1-5_degree_bio_INT_400Mt_With_CCS",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3618537789
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4193965527
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.6204240364
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.700871813
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8340311022
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9134034589
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9740900419
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0004183746
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3118486314
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3573065778
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4766651198
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5994027602
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7340781799
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8494733806
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9277074297
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9612065658
                   }
                 ]
               }

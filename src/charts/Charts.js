@@ -105,7 +105,7 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-          <StackedBarChart
+          {/* <StackedBarChart
             chartName="_Andel_importeret_Biomasse"
             chartTitle="Andel importeret Biomasse"
             selectedScenario={selectedScenario}
@@ -117,7 +117,7 @@ const Charts = props => {
             YPercentage={true}
             stackedBar={stackedBar}
             line={line}
-          />
+          /> */}
 		  <StackedBarChart 
 		    chartName='_Omkostninger per person'
 			chartTitle='Omkostninger per person'

@@ -5,6 +5,48 @@ export default {
         "scenario": "Alternativet_INT",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -1561,6 +1603,48 @@ export default {
       {
         "scenario": "Alternativet_INT_With_CCS",
         "indicators": [
+          {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
@@ -3119,6 +3203,48 @@ export default {
         "scenario": "COMETS",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4051840404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.232660473
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2412876073
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1981291954
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.195253175
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1385962395
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -3682,7 +3808,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 515651.0155992517
+                    "total": 473014.8616800417
                   }
                 ]
               }
@@ -4676,6 +4802,48 @@ export default {
         "scenario": "COMETS_With_CCS",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4051840404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.232660473
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2412876073
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1981291954
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.195253175
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.1385962395
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -5239,7 +5407,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 515651.0155992517
+                    "total": 473014.8616800417
                   }
                 ]
               }
@@ -6232,6 +6400,48 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT",
         "indicators": [
+          {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3924729294
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.19509207
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.121943875
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1403201746
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.210972693
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6963717617
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
@@ -7790,6 +8000,48 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3923510331
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.2535318873
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2669113558
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.2773875719
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.2788796957
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5914340391
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -9346,6 +9598,48 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT",
         "indicators": [
+          {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3924729294
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.1738459625
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.135614468
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.123464857
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0742764821
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0738925881
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
@@ -10904,6 +11198,48 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT_300Mt",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.295713103
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.2250648237
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2211826318
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1227556016
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1012617802
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0738925881
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -11467,7 +11803,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 268057.6675481808
                   }
                 ]
               }
@@ -12461,6 +12797,48 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT_300Mt_With_CCS",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.2915969646
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0989033533
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0820889447
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1958800789
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1350346992
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0758465439
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -13024,7 +13402,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 331121.4405084158
                   }
                 ]
               }
@@ -14018,6 +14396,48 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT_400Mt",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.2695711647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0900789888
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.1801353103
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1958800789
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0966885188
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0738925881
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -14581,7 +15001,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 367475.6242704051
                   }
                 ]
               }
@@ -15575,6 +15995,48 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT_400Mt_With_CCS",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3919356234
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.1754645127
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.1336546316
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1027477232
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1036543813
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0738925881
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -16138,7 +16600,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 426665.1217151185
                   }
                 ]
               }
@@ -17132,6 +17594,48 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_bio_INT_With_CCS",
         "indicators": [
           {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3923077647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.2527162078
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2675284523
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.2638225892
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1140099629
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0790672657
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
               {
@@ -17695,7 +18199,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 508801.3748205277
+                    "total": 508801.3748205278
                   }
                 ]
               }
@@ -18688,6 +19192,48 @@ export default {
       {
         "scenario": "Frozen_policy_INT",
         "indicators": [
+          {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4253511856
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.2000686774
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3215454878
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4438214873
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6586443119
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.846894689
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [
@@ -20245,6 +20791,48 @@ export default {
       {
         "scenario": "Frozen_policy_INT_With_CCS",
         "indicators": [
+          {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2818922183
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3668296429
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4254661909
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.2009549431
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3151998276
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4438214873
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6586443119
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8422181659
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_Anden_drivhusgas_udledning",
             "indicatorGroups": [

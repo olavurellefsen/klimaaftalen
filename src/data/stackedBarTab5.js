@@ -805,7 +805,377 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2816,7 +3186,377 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -4827,7 +5567,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -4835,31 +5575,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 29.7900984616
+                    "total": 0.4847861706
                   },
                   {
                     "year": 2030,
-                    "total": 37.5043354595
+                    "total": 0.58749817
                   },
                   {
                     "year": 2035,
-                    "total": 44.2449533752
+                    "total": 0.6564863559
                   },
                   {
                     "year": 2040,
-                    "total": 51.2467844828
+                    "total": 0.7482657545
                   },
                   {
                     "year": 2045,
-                    "total": 60.4249246235
+                    "total": 0.8664133651
                   },
                   {
                     "year": 2050,
-                    "total": 71.3663363867
+                    "total": 1.0556227345
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6735079117
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.1676347756
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4987268247
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.9270152491
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4623563373
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.0833260476
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.5612726886
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3696992853
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7526458542
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.3490368109
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.5376320658
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.2806141788
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.8436919213
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.2989603176
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.7972741546
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.2606057251
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.7392705069
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.4188656893
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.3958445986
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.7403778263
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.0619468002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.6005690111
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.425821763
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.4667257459
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5.5084623925
+                  },
+                  {
+                    "year": 2030,
+                    "total": 7.0648711494
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8.8921882448
+                  },
+                  {
+                    "year": 2040,
+                    "total": 10.3945269262
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.9409328868
+                  },
+                  {
+                    "year": 2050,
+                    "total": 14.1633983695
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.8341231082
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.2326257906
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.627173717
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.0118085017
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.5244552585
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.1509290806
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.1003508843
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.7991580954
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.2737322204
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.7713231156
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.5263156685
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.0251790107
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2661224104
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.9731167269
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.4633261171
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.940047039
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.8787879758
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.8090038987
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.6994778135
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.3736140194
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.8788482722
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.4892989626
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6.2881999737
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.1545261549
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3668269773
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4420764024
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.4825974247
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.522171185
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5802473147
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6582927255
                   }
                 ]
               }
@@ -6838,7 +7948,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -6846,31 +7956,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 29.7900984616
+                    "total": 0.4847861706
                   },
                   {
                     "year": 2030,
-                    "total": 37.5043354595
+                    "total": 0.58749817
                   },
                   {
                     "year": 2035,
-                    "total": 44.2449533752
+                    "total": 0.6564863559
                   },
                   {
                     "year": 2040,
-                    "total": 51.2467844828
+                    "total": 0.7482657545
                   },
                   {
                     "year": 2045,
-                    "total": 60.4249246235
+                    "total": 0.8664133651
                   },
                   {
                     "year": 2050,
-                    "total": 71.3663363867
+                    "total": 1.0556227345
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6735079117
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.1676347756
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4987268247
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.9270152491
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4623563373
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.0833260476
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.5612726886
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3696992853
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7526458542
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.3490368109
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.5376320658
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.2806141788
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.8436919213
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.2989603176
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.7972741546
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.2606057251
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.7392705069
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.4188656893
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.3958445986
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.7403778263
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.0619468002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.6005690111
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.425821763
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.4667257459
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5.5084623925
+                  },
+                  {
+                    "year": 2030,
+                    "total": 7.0648711494
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8.8921882448
+                  },
+                  {
+                    "year": 2040,
+                    "total": 10.3945269262
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.9409328868
+                  },
+                  {
+                    "year": 2050,
+                    "total": 14.1633983695
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.8341231082
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.2326257906
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.627173717
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.0118085017
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.5244552585
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.1509290806
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.1003508843
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.7991580954
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.2737322204
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.7713231156
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.5263156685
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.0251790107
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2661224104
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.9731167269
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.4633261171
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.940047039
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.8787879758
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.8090038987
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.6994778135
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.3736140194
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.8788482722
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.4892989626
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6.2881999737
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.1545261549
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3668269773
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4420764024
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.4825974247
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.522171185
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5802473147
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6582927255
                   }
                 ]
               }
@@ -8849,7 +10329,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -8857,31 +10337,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 25.0725025704
+                    "total": 0.4027567881
                   },
                   {
                     "year": 2030,
-                    "total": 32.9195909548
+                    "total": 0.4772849636
                   },
                   {
                     "year": 2035,
-                    "total": 40.0200044008
+                    "total": 0.551128976
                   },
                   {
                     "year": 2040,
-                    "total": 46.3979280007
+                    "total": 0.6310480673
                   },
                   {
                     "year": 2045,
-                    "total": 55.0833907907
+                    "total": 0.7342120294
                   },
                   {
                     "year": 2050,
-                    "total": 58.0011952713
+                    "total": 0.8390693325
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.4334833154
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8639664285
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3152209416
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7059037549
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.2542659634
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.3022620047
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.7860209773
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.6198635365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.9284855029
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.6877507951
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.717695058
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.7439061466
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.554027497
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.0463278989
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4970175548
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.921805144
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.5094880063
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.5677129054
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.8908140578
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.4613116422
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.8235005422
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.2267369594
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.2080487737
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.0030831736
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.4713693466
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.5660310689
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.8931721644
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.1533945638
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.9534969313
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.9626043533
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5691901191
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9334075467
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.255338896
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6166194805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1083514128
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.4133174423
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7240339258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2758340138
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7373908269
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1490335147
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.5834277742
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.8918246631
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.8054719283
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3610283604
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.798154502
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2601716479
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.8861850302
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.4967733333
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2142668497
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6245662437
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0856792439
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.5603369136
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.2105740775
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.8025177911
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3694000998
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3863972026
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4203360566
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4798198159
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -10860,7 +12710,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -10868,31 +12718,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 24.1557621742
+                    "total": 0.3952770064
                   },
                   {
                     "year": 2030,
-                    "total": 29.9465934461
+                    "total": 0.4704118902
                   },
                   {
                     "year": 2035,
-                    "total": 36.916104948
+                    "total": 0.5477367247
                   },
                   {
                     "year": 2040,
-                    "total": 45.00212534
+                    "total": 0.6317592866
                   },
                   {
                     "year": 2045,
-                    "total": 53.8037205131
+                    "total": 0.7359500037
                   },
                   {
                     "year": 2050,
-                    "total": 57.1095562635
+                    "total": 0.8395626136
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.3775724267
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.743306911
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.281668376
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7203211256
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.2542659634
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.3000422402
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2497890524
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.492644242
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.2635807219
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.7156971442
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.1942706524
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.0478908633
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5131030262
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9000400673
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3444819871
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8908539064
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3920956898
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.5254004633
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.8871949965
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.0545226155
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.5775455481
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.1857402856
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9527803441
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.9125588469
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.4665104948
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.8190775197
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.3024296199
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.9061760546
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.6654078445
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.8771475976
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5241507022
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8585176199
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.1934294252
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6185553989
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.0655484172
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.3848099527
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.6723824031
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2292006001
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.717134785
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1364931373
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.5555699637
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.890744072
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7931702118
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3465421886
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.8215364123
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2964870152
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.9122621863
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.6125364401
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.1325708097
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.5428702037
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.9961648799
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.5165343943
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.1579237138
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.7360130044
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3694000998
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3863972026
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4203360566
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4798198159
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -12871,7 +15091,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -12879,31 +15099,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 25.0740060927
+                    "total": 0.4030033596
                   },
                   {
                     "year": 2030,
-                    "total": 32.9200772476
+                    "total": 0.4772849636
                   },
                   {
                     "year": 2035,
-                    "total": 40.0314747674
+                    "total": 0.551128976
                   },
                   {
                     "year": 2040,
-                    "total": 46.4774538272
+                    "total": 0.6311326056
                   },
                   {
                     "year": 2045,
-                    "total": 54.2641502568
+                    "total": 0.7340669357
                   },
                   {
                     "year": 2050,
-                    "total": 63.0940427579
+                    "total": 0.8523557167
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.4347402661
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8644527213
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3152209416
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7203211256
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1566645301
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.7381471469
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.7860209773
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.6198635365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.9284855029
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.6877507951
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.6022225318
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.5353594311
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.554027497
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.0463278989
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4970175548
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.921805144
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3941810823
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.9967788284
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.8908140578
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.4613116422
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.8235005422
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.2267369594
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9532629895
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.7505146679
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.4713693466
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.5660310689
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.8931721644
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.2294564522
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.7556023831
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.7064387256
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5691901191
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9334075467
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.255338896
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6166194805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1048866804
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.6230535625
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7240339258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2758340138
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7488611935
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1447670233
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.5653615772
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.9809513499
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.8054719283
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3610283604
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.798154502
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2534001683
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.8784859026
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.6189493429
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2142668497
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6245662437
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0856792439
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.5603369136
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.2017699101
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.9444297911
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3694000998
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3863972026
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4203360566
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4798198159
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -14882,7 +17472,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -14890,31 +17480,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 30.1921476165
+                    "total": 0.4171980219
                   },
                   {
                     "year": 2030,
-                    "total": 34.2663663749
+                    "total": 0.4851780095
                   },
                   {
                     "year": 2035,
-                    "total": 40.2466359447
+                    "total": 0.5487118957
                   },
                   {
                     "year": 2040,
-                    "total": 45.9520355045
+                    "total": 0.6284808052
                   },
                   {
                     "year": 2045,
-                    "total": 54.305873818
+                    "total": 0.7317900113
                   },
                   {
                     "year": 2050,
-                    "total": 60.1962326333
+                    "total": 0.8453835959
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.7289541999
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.0168157952
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.319909574
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6365819369
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.195219699
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.4914167631
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.0700278178
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3350972876
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.00932736
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.6143722848
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.6022225318
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.0179330454
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.9788288553
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.1618394805
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.5644939696
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.9263693725
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4499532562
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.7924634897
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.4143709099
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.4251106742
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.824364673
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.2426065415
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9541271203
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.4121021361
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.2285933484
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.7647451727
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8.1782527791
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.1368141222
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.978255264
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.9017681985
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.7670775509
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9995810249
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.2885347633
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6196979822
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1048866804
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.4649256637
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7959795516
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2701663457
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6807855801
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.072190809
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.4995862042
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.8503314901
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.867460892
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3286677737
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6467590359
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.0982388322
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.7313359603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.4209163261
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.3919973415
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6772218033
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0297019403
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.4949435638
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.1417776492
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.7977533063
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3363851667
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3706442181
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3828667448
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4168055989
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4787869452
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -16893,7 +19853,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -16901,31 +19861,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 27.3593596034
+                    "total": 0.4130823812
                   },
                   {
                     "year": 2030,
-                    "total": 34.2014466764
+                    "total": 0.4874519217
                   },
                   {
                     "year": 2035,
-                    "total": 39.1898890104
+                    "total": 0.5553817613
                   },
                   {
                     "year": 2040,
-                    "total": 45.0039103825
+                    "total": 0.6333683957
                   },
                   {
                     "year": 2045,
-                    "total": 53.8052250491
+                    "total": 0.7372999027
                   },
                   {
                     "year": 2050,
-                    "total": 63.312705049
+                    "total": 0.8632418751
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5841785302
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9844222747
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.319909574
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6442974147
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1361145867
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.6769513739
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.4540558391
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3148824821
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.4931331053
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.8599691286
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.902351225
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.2825022115
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.7188619166
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.1575702716
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4179785081
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.848221868
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4676191724
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.0717701669
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.1921424717
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.4613116422
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.7079584946
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.1866936311
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9541271203
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.8473627586
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5.2502285234
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.7665768335
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.8931721644
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.9913689326
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.0808805905
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.9426130632
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6283348478
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9688480312
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.255338896
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6061851265
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1168367624
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.7143100073
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7489700326
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2649954362
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7075904677
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1092457805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.5347324518
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.9514910924
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.8263758972
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3491272229
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.692749711
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1528767713
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.7842956984
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.5332764449
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2362410241
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6345811057
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0460213246
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.5163116628
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.1738327678
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.0668263403
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3672892814
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3842863842
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4182252382
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4792022749
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -18904,7 +22234,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -18912,31 +22242,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 27.8358045338
+                    "total": 0.4077917009
                   },
                   {
                     "year": 2030,
-                    "total": 34.6395884768
+                    "total": 0.4807992677
                   },
                   {
                     "year": 2035,
-                    "total": 39.3352039374
+                    "total": 0.5497723592
                   },
                   {
                     "year": 2040,
-                    "total": 46.0032166768
+                    "total": 0.6299306085
                   },
                   {
                     "year": 2045,
-                    "total": 54.3130095632
+                    "total": 0.7329407248
                   },
                   {
                     "year": 2050,
-                    "total": 62.7069213746
+                    "total": 0.8583039249
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5601732346
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.0389135899
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3323542406
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7203211256
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1597898858
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.7381471469
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.5093955046
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.4114950204
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.9227832827
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.6316051426
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.6022225318
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.3822072175
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.7819204259
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.2041748815
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4414714448
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8908539064
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4499532562
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.000213394
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.231632657
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.498148638
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.7018648003
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.1857402856
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9532629895
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.7515738279
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5.4944426747
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.9470680217
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.6773688405
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.1613140867
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.978255264
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.6667228432
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6539283471
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9898651093
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.2334904361
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6040978829
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1048866804
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.6211299124
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7428729828
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2643532555
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6716099695
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.0740995329
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.4995862042
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.9084381332
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.8153032927
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3458734983
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.6920503577
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1528767713
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.7743114469
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.521481108
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2493782819
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6269396547
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0111986016
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.4964210628
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.1405701753
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.911374617
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3679804604
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3849775632
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4189164172
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4794044862
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -20915,7 +24615,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -20923,31 +24623,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 25.2968064541
+                    "total": 0.4033699212
                   },
                   {
                     "year": 2030,
-                    "total": 33.0157894103
+                    "total": 0.4772849636
                   },
                   {
                     "year": 2035,
-                    "total": 40.0444867373
+                    "total": 0.551128976
                   },
                   {
                     "year": 2040,
-                    "total": 45.9820087912
+                    "total": 0.6311326056
                   },
                   {
                     "year": 2045,
-                    "total": 53.7060234895
+                    "total": 0.7345647764
                   },
                   {
                     "year": 2050,
-                    "total": 61.8877847174
+                    "total": 0.8533707197
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.4572103282
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8876934413
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3152209416
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6485022879
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1314259543
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.641028163
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.9527721657
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.6198635365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.9284855029
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2484704482
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.7809482931
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.7203299513
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5163163035
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.1057873717
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4970175548
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.9088131599
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4445745307
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.9887667875
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.9617378007
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.4613116422
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.8235005422
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.2267369594
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9532629895
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.7457637563
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.4713693466
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.5660310689
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.8931721644
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.2465069648
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.9710665642
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.7016083811
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5691901191
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9334075467
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.255338896
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6166194805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1048866804
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.6407287777
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7240339258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2758340138
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7488611935
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1447670233
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.574520186
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.9373055965
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.8054719283
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3610283604
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.798154502
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.2534001683
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.8784859026
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.5388993491
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.2142668497
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6245662437
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0856792439
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.5754629914
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.215674749
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.8864280254
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.365869642
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3828667448
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4168055989
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4787869452
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -22926,7 +26996,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -22934,31 +27004,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 24.3034425745
+                    "total": 0.3952770064
                   },
                   {
                     "year": 2030,
-                    "total": 30.4781423851
+                    "total": 0.4704118902
                   },
                   {
                     "year": 2035,
-                    "total": 38.5240029049
+                    "total": 0.5482684711
                   },
                   {
                     "year": 2040,
-                    "total": 45.5295261479
+                    "total": 0.6317592866
                   },
                   {
                     "year": 2045,
-                    "total": 54.1769045492
+                    "total": 0.7359500037
                   },
                   {
                     "year": 2050,
-                    "total": 62.4744564527
+                    "total": 0.850387247
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.4015777223
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.7544611138
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.281668376
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7203211256
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1571437576
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.7024543994
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2497890524
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.920632081
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.8201677605
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.0179931993
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.1980945902
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.4083346945
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5131030262
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9000400673
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.4058241824
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8908539064
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.4499532562
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.9040512527
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.8871949965
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.0545226155
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.7745392995
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.241653196
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.9532629895
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.6737413698
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.4665104948
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.8190775197
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.8931721644
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.0252704793
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.978255264
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.4479079711
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5241507022
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8585176199
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.2304419955
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.586910241
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1048866804
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.592988888
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7240339258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2615246365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.7316172072
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.1429798451
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.5673036221
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.9829687004
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.8054719283
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.3490067433
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.8223441992
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.297294802
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.9187294776
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.6536568568
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.1922926753
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.599314226
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.0538027768
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.5542461775
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.195679174
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.9405307168
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3259095647
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.3694000998
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.3863972026
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.4203360566
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.4798198159
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5585708764
                   }
                 ]
               }
@@ -24937,7 +29377,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -24945,31 +29385,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 25.2615253776
+                    "total": 0.4517236079
                   },
                   {
                     "year": 2030,
-                    "total": 31.5014349723
+                    "total": 0.5524367271
                   },
                   {
                     "year": 2035,
-                    "total": 38.368862791
+                    "total": 0.6334348271
                   },
                   {
                     "year": 2040,
-                    "total": 46.2569079609
+                    "total": 0.7275938242
                   },
                   {
                     "year": 2045,
-                    "total": 54.906885832
+                    "total": 0.8446903705
                   },
                   {
                     "year": 2050,
-                    "total": 59.38554957
+                    "total": 1.0030625636
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.3612893205
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.742900227
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.1400137418
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6649531815
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1563030692
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.1897852637
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2779163726
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.5389941777
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.0579208673
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7587253222
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4.1555410029
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.0045023388
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5109404469
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8900432378
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3105121332
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8900662893
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3974464498
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.3956098436
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.9424759566
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.0242696001
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.4072257942
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.1040972212
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.8044761198
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.4762037272
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.3079533155
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.545002687
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.2133147787
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.921548051
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.5766749751
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.2869366101
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6154635233
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9895641581
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3592917579
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8312201596
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3342123194
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.6210612755
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.9775779011
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6717534373
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.2541910618
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.7463362658
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.2391650843
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.993669928
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.0931116118
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.7983557376
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.3242931791
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.863721185
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.5671881424
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.642035316
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.5780811797
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.2476628864
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.7960136359
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.4114189592
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6.0831657798
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.9303272334
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3697041946
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4318643127
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.4738992174
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5129349041
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.57718491
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6484894654
                   }
                 ]
               }
@@ -26948,7 +31758,7 @@ export default {
             "indicator": "_Industriens energibesparelser",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Energibesparelser",
+                "indicatorGroup": "Anden produktion",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -26956,31 +31766,401 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 18.7066733018
+                    "total": 0.3313186406
                   },
                   {
                     "year": 2025,
-                    "total": 25.2615253776
+                    "total": 0.4517236079
                   },
                   {
                     "year": 2030,
-                    "total": 31.5014349723
+                    "total": 0.5524367271
                   },
                   {
                     "year": 2035,
-                    "total": 38.368862791
+                    "total": 0.6334348271
                   },
                   {
                     "year": 2040,
-                    "total": 46.2569079609
+                    "total": 0.7275938242
                   },
                   {
                     "year": 2045,
-                    "total": 54.4881970044
+                    "total": 0.8446903705
                   },
                   {
                     "year": 2050,
-                    "total": 58.782106243
+                    "total": 1.0030625636
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Andre commercielle",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.0226999364
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.3612893205
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.742900227
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.1400137418
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.6649531815
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.1563030692
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.1897852637
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Glas og cement",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.9769407995
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.2779163726
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.5389941777
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.0579208673
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.7587253222
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.7368521753
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4.3903286424
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Kemi",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1221426399
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.5109404469
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8900432378
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3105121332
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8900662893
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3974464498
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.3956098436
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbo",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.9105085976
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.9424759566
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.0242696001
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.4072257942
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.1040972212
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.8044761198
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.4762037272
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Mad",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.25510018
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.3079533155
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.545002687
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.2133147787
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8.921548051
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.5766749751
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.2869366101
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskine",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.1797789649
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6154635233
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.9895641581
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.3592917579
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.8312201596
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3342123194
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.6210612755
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Offentlig service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.1416298679
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.9775779011
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6717534373
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.2541910618
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.7463362658
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.2391650843
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.993669928
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Private service",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.2005472033
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.0931116118
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.7983557376
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.3242931791
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4.863721185
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.5671881424
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.642035316
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Salg og handel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7319457958
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.5780811797
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.2476628864
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.7960136359
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.4114189592
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6.0831657798
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6.9303272334
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2807565346
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3697041946
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4318643127
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.4738992174
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5129349041
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.57718491
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6484894654
                   }
                 ]
               }

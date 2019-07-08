@@ -103,13 +103,12 @@
     }
   },
   "welcome-text": {
-    "welcome-1": "",
-    "welcome-2": "",
-    "welcome-3": "",
-    "welcome-4": "",
-    "welcome-5": "",
-    "welcome-6": "",
-    "welcome-7": ""
+    "welcome-1": "COMETS-projektet inviterer til debat om klima- og energipolitik med vores værktøj.",
+    "welcome-2": "Med dette værktøj kan du udforske forskellige scenarier i forbindelse med en ny klimaaftale. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.",
+    "welcome-3": "Værktøjet er udviklet til yderligere at åbne debatten om klima- og energi politik og gøre et kompleks system lettere at forstå.",
+    "welcome-4": "COMETS-projektet afholdt en 2 dages workshop sidst i juni 2019 på Marienlyst i Helsingør. Her samledes folk fra forskellige interesseorganisationer til en debat om hvilke politikker og virkemidler der skal til for at Danmark kan forfølge en 1,5C klimamålsætning. Resultatet af workshoppen mundede ud i Marienlyst-scenariet som opnår en kraftig reduktion i CO2-udledningen. Landbrug og arealanvendelse blev ikke diskuteret på workshoppen og derfor er reduktioner inden for dette område ikke inkluderet.",
+    "welcome-5": "De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafikmodellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under ”Forudsætninger” og under ”Om værktøjet”.",
+    "welcome-6": "Og husk… en model, hvor god den end er, er kun en simpel repræsentation af virkeligheden."
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissions and %-reduction",

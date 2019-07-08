@@ -87,7 +87,6 @@ export class App extends React.Component {
   }
   UpdateScenarioSelection = (e, name, value) => {
     e.preventDefault();
-    console.log("update scenario: " + value)
     if (this.state.scenarioSelectionNoOptions2 !== "") {
       if (value === this.state.scenarioSelectionNoOptions) {
         this.setState(
@@ -120,21 +119,6 @@ export class App extends React.Component {
 
   ToggleShowCCS = e => {
     e.preventDefault();
-    let newScenario = "";
-    let newScenario2 = "";
-    const oldScenario = this.state.scenarioSelection;
-    const oldScenario2 = this.state.scenarioSelection2;
-    if (this.state.showCCS) {
-      newScenario = oldScenario.substring(0, oldScenario.length - 9);
-      if (oldScenario2 !== "") {
-        newScenario2 = oldScenario2.substring(0, oldScenario2.length - 9);
-      }
-    } else {
-      newScenario = oldScenario + "_With_CCS";
-      if (oldScenario2 !== "") {
-        newScenario2 = oldScenario2 + "_With_CCS";
-      }
-    }
     this.setState({
       showCCS: !this.state.showCCS
     });
@@ -143,34 +127,17 @@ export class App extends React.Component {
 
   ToggleShowBio = e => {
     e.preventDefault();
-    const newBioState = !this.state.showBio
     this.setState({
-      showBio: newBioState
+      showBio: !this.state.showBio
     });
     this.UpdateScenarioNames();
   };
 
   render() {
-    console.log("scenario: " + this.state.scenarioSelection)
-    console.log("scenario2: " + this.state.scenarioSelection2)
-    console.log("no opt: " + this.state.scenarioSelectionNoOptions)
-    console.log("no opt 2: " + this.state.scenarioSelectionNoOptions2)
     return (
       <Page>
         <Column>
           <Content>
-          <p>
-            {this.state.scenarioSelection}
-          </p>
-          <p>
-            {this.state.scenarioSelection2}
-          </p>
-          <p>
-            {"no opt: " + this.state.scenarioSelectionNoOptions}
-          </p>
-          <p>
-            {"no opt: " + this.state.scenarioSelectionNoOptions2}
-          </p>
             <LeftMenu
               selectedChartgroup={this.state.scenarioSelection}
               scenarioSelection={this.state}

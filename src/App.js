@@ -17,7 +17,6 @@ import About from "./pages/About";
 import PageRenderer from "./pages/PageRenderer";
 import Prerequisites from "./pages/Prerequisites";
 import scenarioCombinations from "./data/scenarioCombinations";
-import { firstResultOrNull } from "react-testing-library";
 
 ReactGA.initialize("UA-127032810-1");
 ReactGA.pageview(window.location.pathname + window.location.search);

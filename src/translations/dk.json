@@ -16,8 +16,8 @@
   },
   "general": {
     "scenarios": "Scenarier",
-    "CCS": "CCS",
-    "bio": "Bio",
+    "CCS": "CCS tilladt",
+    "bio": "Ingen Bio import",
     "scenario-difference": "Scenarie difference",
     "green-minus-red": "(grøn minus rød)",
     "developed-by-Tokni": "Udviklet af Tokni"

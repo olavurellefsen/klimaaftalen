@@ -1,6 +1,6 @@
 ﻿export default {
   scenarioCombinations : {scenarioOptions : [
-{ "id": "1.0", "name": "Frozen_policy_INT", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": false, "bio": false },
+{ "id": 10, "name": "Frozen_policy_INT", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": false, "bio": false },
 { "id": 11, "name": "Frozen_policy_INT_CCS", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": true, "bio": false },
 { "id": 12, "name": "Frozen_policy_INT_bio", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": false, "bio": true },
 { "id": 13, "name": "Frozen_policy_INT_CCS_bio", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": true, "bio": true },
@@ -29,10 +29,5 @@
 { "id": 61, "name": "Carbon_scenario_1-5_degree_INT_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": true, "bio": false },
 { "id": 62, "name": "Carbon_scenario_1-5_degree_INT_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": false, "bio": true },
 { "id": 63, "name": "Carbon_scenario_1-5_degree_INT_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": true, "bio": true },
-
-{ "id": 70, "name": "Carbon_scenario_1-5_degree_INT", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2 ", "ccs": false, "bio": false },
-{ "id": 71, "name": "Carbon_scenario_1-5_degree_INT_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2 ", "ccs": true, "bio": false },
-{ "id": 72, "name": "Carbon_scenario_1-5_degree_INT_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2 ", "ccs": false, "bio": true },
-{ "id": 73, "name": "Carbon_scenario_1-5_degree_INT_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2 ", "ccs": true, "bio": true }
 ]}
 };

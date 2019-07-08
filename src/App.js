@@ -17,6 +17,7 @@ import About from "./pages/About";
 import PageRenderer from "./pages/PageRenderer";
 import Prerequisites from "./pages/Prerequisites";
 import scenarioCombinations from "./data/scenarioCombinations";
+import { firstResultOrNull } from "react-testing-library";
 
 ReactGA.initialize("UA-127032810-1");
 ReactGA.pageview(window.location.pathname + window.location.search);
@@ -58,7 +59,10 @@ export class App extends React.Component {
       scenarioSelection2: "",
       showWelcome: true,
       showDifference: false,
-      showCCS: false
+      showCCS: false,
+      showBio: false,
+      scenarioSelectionNoOptions: default_scenario,
+      scenarioSelectionNoOptions2: "",
     };
     this.scenarioCombinations = scenarioCombinations.scenarioCombinations;
   }
@@ -67,27 +71,41 @@ export class App extends React.Component {
     history: PropTypes.object,
     location: PropTypes.object
   };
-
+  UpdateScenarioNames = () => {
+    this.setState((state) => {
+      return {
+      "scenarioSelection": state.scenarioSelectionNoOptions + (state.showCCS ? "_CCS": "") + (state.showBio ? "_bio" : "")
+      }
+    })
+    this.setState((state) => {
+      return {
+      "scenarioSelection2": state.scenarioSelectionNoOptions2 !== "" ? 
+      state.scenarioSelectionNoOptions2 + (state.showCCS ? "_CCS": "") + (state.showBio ? "_bio" : "") :
+      ""
+      }
+    })
+  }
   UpdateScenarioSelection = (e, name, value) => {
     e.preventDefault();
-    if (this.state.scenarioSelection2 !== "") {
-      if (value === this.state.scenarioSelection) {
+    if (this.state.scenarioSelectionNoOptions2 !== "") {
+      if (value === this.state.scenarioSelectionNoOptions) {
         this.setState(
-          changeScenario("scenarioSelection", this.state.scenarioSelection2)
+          changeScenario("scenarioSelectionNoOptions", this.state.scenarioSelectionNoOptions2)
         );
-        this.setState(changeScenario("scenarioSelection2", ""));
+        this.setState(changeScenario("scenarioSelectionNoOptions2", ""));
       } else {
-        if (value === this.state.scenarioSelection2) {
-          this.setState(changeScenario("scenarioSelection2", ""));
+        if (value === this.state.scenarioSelectionNoOptions2) {
+          this.setState(changeScenario("scenarioSelectionNoOptions2", ""));
         } else {
-          this.setState(changeScenario("scenarioSelection2", value));
+          this.setState(changeScenario("scenarioSelectionNoOptions2", value));
         }
       }
     } else {
-      if (value !== this.state.scenarioSelection) {
-        this.setState(changeScenario("scenarioSelection2", value));
+      if (value !== this.state.scenarioSelectionNoOptions) {
+        this.setState(changeScenario("scenarioSelectionNoOptions2", value));
       }
     }
+    this.UpdateScenarioNames();
   };
 
   CloseWelcomeWidget = () => {
@@ -101,26 +119,18 @@ export class App extends React.Component {
 
   ToggleShowCCS = e => {
     e.preventDefault();
-    let newScenario = "";
-    let newScenario2 = "";
-    const oldScenario = this.state.scenarioSelection;
-    const oldScenario2 = this.state.scenarioSelection2;
-    if (this.state.showCCS) {
-      newScenario = oldScenario.substring(0, oldScenario.length - 9);
-      if (oldScenario2 !== "") {
-        newScenario2 = oldScenario2.substring(0, oldScenario2.length - 9);
-      }
-    } else {
-      newScenario = oldScenario + "_With_CCS";
-      if (oldScenario2 !== "") {
-        newScenario2 = oldScenario2 + "_With_CCS";
-      }
-    }
     this.setState({
-      showCCS: !this.state.showCCS,
-      scenarioSelection: newScenario,
-      scenarioSelection2: newScenario2
+      showCCS: !this.state.showCCS
     });
+    this.UpdateScenarioNames();
+  };
+
+  ToggleShowBio = e => {
+    e.preventDefault();
+    this.setState({
+      showBio: !this.state.showBio
+    });
+    this.UpdateScenarioNames();
   };
 
   render() {
@@ -135,6 +145,7 @@ export class App extends React.Component {
               updateScenarioSelection={this.UpdateScenarioSelection}
               toggleDifference={this.ToggleDifference}
               toggleShowCCS={this.ToggleShowCCS}
+              toggleShowBio={this.ToggleShowBio}
             />
             <LeftMenuMobile
               selectedChartgroup={this.state.scenarioSelection}
@@ -143,6 +154,7 @@ export class App extends React.Component {
               updateScenarioSelection={this.UpdateScenarioSelection}
               toggleDifference={this.ToggleDifference}
               toggleShowCCS={this.ToggleShowCCS}
+              toggleShowBio={this.ToggleShowBio}
             />
           </Content>
         </Column>

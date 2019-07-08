@@ -1,18 +1,33 @@
 ﻿export default {
   scenarioCombinations : {scenarioOptions : [
-{ "id": 0, "name": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": false },
-{ "id": 1, "name": "Frozen_policy_INT_With_CCS", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": true },
-{ "id": 2, "name": "COMETS", "short_description": "Marienlyst", "ultra_short_description": "Marienlyst", "ccs": false },
-{ "id": 3, "name": "COMETS_CCS", "short_description": "Marienlyst", "ultra_short_description": "Marienlyst", "ccs": true },
-{ "id": 4, "name": "division_line", "short_description": "_______________", "ultra_short_description": "_____", "ccs": false },
-{ "id": 5, "name": "division_line", "short_description": "_______________", "ultra_short_description": "_____", "ccs": true },
-{ "id": 6, "name": "Carbon_scenario_1-5_degree_INT_300Mt_bio", "short_description": "Carbon budget 300 Mt CO2 (bio)", "ultra_short_description": "CB 300 Mt CO2 (bio)", "ccs": false },
-{ "id": 7, "name": "Carbon_scenario_1-5_degree_INT_300Mt_With_CCS_bio", "short_description": "Carbon budget 300 Mt CO2 (bio)", "ultra_short_description": "CB 300 Mt CO2 (bio)", "ccs": true },
-{ "id": 8, "name": "Carbon_scenario_1-5_degree_INT_400Mt_bio", "short_description": "Carbon budget 400 Mt CO2 (bio)", "ultra_short_description": "CB 400 Mt CO2 (bio)", "ccs": false },
-{ "id": 9, "name": "Carbon_scenario_1-5_degree_INT_400Mt_With_CCS_bio", "short_description": "Carbon budget 400 Mt CO2 (bio)", "ultra_short_description": "CB 400 Mt CO2 (bio)", "ccs": true },
-{ "id": 10, "name": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": false },
-{ "id": 11, "name": "Carbon_scenario_1-5_degree_INT_With_CCS", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": true },
-{ "id": 12, "name": "Carbon_scenario_1-5_degree_INT_bio", "short_description": "Carbon budget 500 Mt CO2 (bio)", "ultra_short_description": "CB 500 Mt CO2 (bio)", "ccs": false },
-{ "id": 13, "name": "Carbon_scenario_1-5_degree_INT_With_CCS_bio", "short_description": "Carbon budget 500 Mt CO2 (bio)", "ultra_short_description": "CB 500 Mt CO2 (bio)", "ccs": true }
+{ "id": 10, "name": "Frozen_policy_INT", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": false, "bio": false },
+{ "id": 11, "name": "Frozen_policy_INT_CCS", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": true, "bio": false },
+{ "id": 12, "name": "Frozen_policy_INT_bio", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": false, "bio": true },
+{ "id": 13, "name": "Frozen_policy_INT_CCS_bio", "nameNoOptions": "Frozen_policy_INT", "short_description": "Reference", "ultra_short_description": "Reference", "ccs": true, "bio": true },
+
+{ "id": 20, "name": "COMETS", "nameNoOptions": "COMETS", "short_description": "Marienlyst", "ultra_short_description": "Marienlyst", "ccs": false, "bio": false },
+{ "id": 21, "name": "COMETS_CCS", "nameNoOptions": "COMETS", "short_description": "Marienlyst", "ultra_short_description": "Marienlyst", "ccs": true, "bio": false },
+{ "id": 22, "name": "COMETS_bio", "nameNoOptions": "COMETS", "short_description": "Marienlyst", "ultra_short_description": "Marienlyst", "ccs": false, "bio": true },
+{ "id": 23, "name": "COMETS_CCS_bio", "nameNoOptions": "COMETS", "short_description": "Marienlyst", "ultra_short_description": "Marienlyst", "ccs": true, "bio": true },
+
+{ "id": 30, "name": "division_line", "nameNoOptions": "division_line", "short_description": "________", "ultra_short_description": "___", "ccs": false, "bio": false },
+{ "id": 31, "name": "division_line", "nameNoOptions": "division_line", "short_description": "________", "ultra_short_description": "___", "ccs": true, "bio": false },
+{ "id": 32, "name": "division_line", "nameNoOptions": "division_line", "short_description": "________", "ultra_short_description": "___", "ccs": false, "bio": true },
+{ "id": 33, "name": "division_line", "nameNoOptions": "division_line", "short_description": "________", "ultra_short_description": "___", "ccs": true, "bio": true },
+
+{ "id": 40, "name": "Carbon_scenario_1-5_degree_INT_300Mt", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_300Mt", "short_description": "Carbon budget 300 Mt CO2", "ultra_short_description": "CB 300 Mt CO2", "ccs": false, "bio": false },
+{ "id": 41, "name": "Carbon_scenario_1-5_degree_INT_300Mt_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_300Mt", "short_description": "Carbon budget 300 Mt CO2", "ultra_short_description": "CB 300 Mt CO2", "ccs": true, "bio": false },
+{ "id": 42, "name": "Carbon_scenario_1-5_degree_INT_300Mt_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_300Mt", "short_description": "Carbon budget 300 Mt CO2", "ultra_short_description": "CB 300 Mt CO2", "ccs": false, "bio": true },
+{ "id": 43, "name": "Carbon_scenario_1-5_degree_INT_300Mt_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_300Mt", "short_description": "Carbon budget 300 Mt CO2", "ultra_short_description": "CB 300 Mt CO2", "ccs": true, "bio": true },
+
+{ "id": 50, "name": "Carbon_scenario_1-5_degree_INT_400Mt", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": false, "bio": false },
+{ "id": 51, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": true, "bio": false },
+{ "id": 52, "name": "Carbon_scenario_1-5_degree_INT_400Mt_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": false, "bio": true },
+{ "id": 53, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2 ", "ccs": true, "bio": true },
+
+{ "id": 60, "name": "Carbon_scenario_1-5_degree_INT", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": false, "bio": false },
+{ "id": 61, "name": "Carbon_scenario_1-5_degree_INT_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": true, "bio": false },
+{ "id": 62, "name": "Carbon_scenario_1-5_degree_INT_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": false, "bio": true },
+{ "id": 63, "name": "Carbon_scenario_1-5_degree_INT_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": true, "bio": true },
 ]}
 };

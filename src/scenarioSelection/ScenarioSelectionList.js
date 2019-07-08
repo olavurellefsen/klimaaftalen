@@ -20,8 +20,9 @@ const ScenarioSelectionList = props => {
   let stringValue2 = props.selectedValue2.toString();
   let scenarioOptions = dimensionOptions
     .filter(option => option.ccs === props.showCCS)
+    .filter(option => option.bio === props.showBio)
     .map(option => {
-      let optionValue = option.name;
+      let optionValue = option.nameNoOptions;
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
       } else {
@@ -59,7 +60,8 @@ ScenarioSelectionList.propTypes = {
   dimensionOptions: PropTypes.array.isRequired,
   dimensionTitle: PropTypes.string.isRequired,
   narrowVersion: PropTypes.bool.isRequired,
-  showCCS: PropTypes.bool.isRequired
+  showCCS: PropTypes.bool.isRequired,
+  showBio: PropTypes.bool.isRequired
 };
 
 export default ScenarioSelectionList;

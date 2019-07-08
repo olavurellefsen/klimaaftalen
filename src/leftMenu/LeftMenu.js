@@ -186,12 +186,13 @@ function ScenarioSelectionMenu(props) {
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
-          selectedValue={props.scenarioSelection.scenarioSelection}
-          selectedValue2={props.scenarioSelection.scenarioSelection2}
+          selectedValue={props.scenarioSelection.scenarioSelectionNoOptions}
+          selectedValue2={props.scenarioSelection.scenarioSelectionNoOptions2}
           dimensionOptions={props.scenarioCombinations.scenarioOptions}
           dimensionTitle={t("general.scenarios")}
           narrowVersion={false}
           showCCS={props.scenarioSelection.showCCS}
+          showBio={props.scenarioSelection.showBio}
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
@@ -202,6 +203,15 @@ function ScenarioSelectionMenu(props) {
         />
         <ToggleSwitchText selected={props.scenarioSelection.showCCS}>
           {t("general.CCS")}
+        </ToggleSwitchText>
+      </ToggleDifference>
+      <ToggleDifference onClick={e => props.toggleShowBio(e)}>
+        <ToggleSwitch
+          dimmed={false}
+          checked={props.scenarioSelection.showBio}
+        />
+        <ToggleSwitchText selected={props.scenarioSelection.showBio}>
+          {t("general.bio")}
         </ToggleSwitchText>
       </ToggleDifference>
       <MenuSeparatorLine />
@@ -251,7 +261,8 @@ ScenarioSelectionMenu.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
-  toggleShowCCS: PropTypes.func.isRequired
+  toggleShowCCS: PropTypes.func.isRequired,
+  toggleShowBio: PropTypes.func.isRequired
 };
 
 export default ScenarioSelectionMenu;

@@ -1,0 +1,12 @@
+﻿<a name="marienlyst"></a>
+# Marienlyst scenario
+[Gå tilbage](#scenariebeskrivelser)
+
+De foreslåede virkemidler og politisker er baseret på gruppe-diskussioner på COMETS workshoppen på Marienlyst i Helsingør den 20-21 juni 2019. Nogle af politikkerne er så implementeret i TIMES-DK modellen og skaber dermed Marienlyst scenariet. De øvrige forslag til virkemidler og politikker som blev diskuteret står til inspiration for andre som kan arbejde videre med dette.
+
+| Klimapolitiske Udfordringer (CO2) | Foreslåede Virkemidler og Politikker |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| El- og varme:   Udfasning af fossile brændsler i el- og varmesektoren hurtigst muligt og gerne inden 2025 (Fossilfri inden 2025) (dvs. lukning af Nordjyllandsværket før tid) (udleder i dag over 6 mio. t. CO2).   a.   Ifølge beregningerne burde tæt på al fossile CO2- udledninger fra el- og varmesektoren lukkes ned inden 2025, fordi omkostningerne ved omstilling af bl.a. flysektoren og industrien er langt højere og des længere tid vi har til denne omstilling, jo mere sandsynlig er udviklingen af innovative løsninger inden for områderne. | Procesvarmestøtte til industrier i de tre områder, hvor kulkraften udfases |
+|  | Detaljer : Håndtere afskaffelsen afgiftsfritaget kul procesvarme i en periode til gartnere og andet godtfolk. |
+|  | Forhøjet risikostøtte til geotermi/store varmepumper (overskudsvarme centre) |
+|  | Demonstrationspulje til PTX (Power-to-X)     Detaljer : Brændstoffer til fly, skibe, industriprodukter, grøn gas etc. Kombinere med CO2 fra Portland, store biogasanlæg, varmeudnyttelser til fjernvarme. |

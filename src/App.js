@@ -225,7 +225,8 @@ export class App extends React.Component {
                     <PageRenderer
                       markdownFiles={[
                         "descriptions/0_intro.md",
-                        "descriptions/1_basicscenarios.md"
+                        "descriptions/1_marienlyst.md",
+                        "descriptions/1_basicscenarios.md",
                       ]}
                     />
                   );

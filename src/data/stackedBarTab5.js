@@ -2309,7 +2309,7 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_Bio",
+        "scenario": "COMETS_bio",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -6923,7 +6923,7 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_CCS_Bio",
+        "scenario": "COMETS_CCS_bio",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -13844,7 +13844,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_With_CCS",
+        "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_CCS",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -16151,7 +16151,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_With_CCS_bio",
+        "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_CCS_bio",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -23072,7 +23072,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_With_CCS",
+        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -25379,7 +25379,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_With_CCS_bio",
+        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -29993,7 +29993,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS",
+        "scenario": "Carbon_scenario_1-5_degree_INT_CCS",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -32300,7 +32300,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS_bio",
+        "scenario": "Carbon_scenario_1-5_degree_INT_CCS_bio",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -39221,7 +39221,7 @@ export default {
         ]
       },
       {
-        "scenario": "Frozen_policy_INT_With_CCS",
+        "scenario": "Frozen_policy_INT_CCS",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",
@@ -41528,7 +41528,7 @@ export default {
         ]
       },
       {
-        "scenario": "Frozen_policy_INT_With_CCS_bio",
+        "scenario": "Frozen_policy_INT_CCS_bio",
         "indicators": [
           {
             "indicator": "_Datacenters elforbrug",

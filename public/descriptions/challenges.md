@@ -1,3 +1,5 @@
+<a name="challenges"></a>
+
 # Politiske udfordringer når Danmark skal opfylde Paris-aftalen
 
 For at holde de danske udledninger af drivhusgasser under det snævre budget som Paris-aftalen giver
@@ -10,5 +12,14 @@ Listerne præsenteret herunder er rangeret så de øverste udfordringer dem der 
 og samtidig har en stor effekt. Længere nede på listerne kommer så store potentialer som vi stadig har
 tid til at løse eller små potentialer.
 
-[Tilbage til forsiden](/)
+[Udfordringer i omstillingen af det
+danske energisystem i
+overensstemmelse med Paris-aftalen
+(energirelateret CO2)] (#udfordringer_omstilling)
+
+[Udfordringer i reduktion af øvrige
+drivhusgasser i overensstemmelse med
+Paris-aftalen (LULUCF mv.)] (#udfordringer_reduktion)
+
+
 

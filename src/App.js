@@ -239,7 +239,9 @@ export class App extends React.Component {
                   return (
                     <PageRenderer
                       markdownFiles={[
-                        "descriptions/challenges.md"
+                        "descriptions/challenges.md",
+                        "descriptions/udfordringer_omstilling.md",
+                        "descriptions/udfordringer_reduktion.md"
                       ]}
                     />
                   );

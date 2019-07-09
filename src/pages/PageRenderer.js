@@ -10,11 +10,14 @@ const AboutContainer = styled.div`
   flex-wrap: wrap;
   align-content: flex-start;
   flex-direction: column;
-  table {
+   table {
     border-collapse: collapse;
   }
   table, th, td {
     border: 1px solid black;
+  } 
+  td,th {
+    padding: 8px;
   }
 `;
 

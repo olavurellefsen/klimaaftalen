@@ -91,19 +91,19 @@ exports[`should render correctly 1`] = `
                 class="sc-bxivhb cfCnoV"
                 value="Carbon_scenario_1-5_degree_INT_300Mt"
               >
-                Carbon budget 300Mt CO2
+                CO2 budget 300Mt
               </div>
               <div
                 class="sc-bxivhb cfCnoV"
                 value="Carbon_scenario_1-5_degree_INT_400Mt"
               >
-                Carbon budget 400Mt CO2
+                CO2 budget 400Mt
               </div>
               <div
                 class="sc-bxivhb cfCnoV"
                 value="Carbon_scenario_1-5_degree_INT"
               >
-                Carbon budget 500Mt CO2
+                CO2 budget 500Mt
               </div>
             </div>
           </div>
@@ -266,19 +266,19 @@ exports[`should render correctly 1`] = `
                 class="sc-bxivhb cGEKnc"
                 value="Carbon_scenario_1-5_degree_INT_300Mt"
               >
-                CB 300Mt CO2
+                CO2 300Mt
               </div>
               <div
                 class="sc-bxivhb cGEKnc"
                 value="Carbon_scenario_1-5_degree_INT_400Mt"
               >
-                CB 400Mt CO2
+                CO2 400Mt
               </div>
               <div
                 class="sc-bxivhb cGEKnc"
                 value="Carbon_scenario_1-5_degree_INT"
               >
-                CB 500Mt CO2
+                CO2 500Mt
               </div>
             </div>
           </div>

@@ -19,6 +19,9 @@ const ChartHeader = styled(VictoryLabel)`
   font-size: 18px;
   font-weight: bold;
 `;
+const getShortName = scenario => {
+  return scenarioCombinations.scenarioCombinations.scenarioOptions.find(s => s.name === scenario).nameNoOptions
+}
 
 const StackedBarChart = props => {
   const { t } = useTranslation();
@@ -27,6 +30,7 @@ const StackedBarChart = props => {
   const chartTitle = t("chartTitle." + props.chartTitle);
   const scenarios = scenarioCombinations.scenarioCombinations.scenarioOptions
     .filter(o => o.ccs === props.showCCS)
+    .filter(o => o.bio === props.showBio)
     .map(scenario => scenario.name);
 
     const chartValues0 = stackedBar.data.scenarios
@@ -73,7 +77,7 @@ const StackedBarChart = props => {
           x="scenario"
           y="total"
           alignment="start"
-          labels={d => `${t("scenario_code."+d.scenario)}`}
+          labels={d => `${t("scenario_code."+getShortName(d.scenario))}`}
           labelComponent={
             <VictoryLabel
               dx={0}
@@ -102,6 +106,7 @@ StackedBarChart.defaultProps = {
 
 StackedBarChart.propTypes = {
   showCCS: PropTypes.bool,
+  showBio: PropTypes.bool,
   stackedBar: PropTypes.object,
   line: PropTypes.object,
   selectedScenario: PropTypes.string.isRequired,

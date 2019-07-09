@@ -48,6 +48,12 @@ exports[`should render correctly 1`] = `
                 </a>
                 <a
                   class="sc-jTzLTM cscwrF"
+                  href="/udfordringer"
+                >
+                  Udfordringer
+                </a>
+                <a
+                  class="sc-jTzLTM cscwrF"
                   href="/abonner"
                 >
                   Abbonér på opdateringer

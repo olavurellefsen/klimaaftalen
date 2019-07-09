@@ -173,6 +173,12 @@ function ScenarioSelectionMenu(props) {
               {t("menu.desktop.preconditions")}
             </MenuItem>
             <MenuItem
+              to="/udfordringer"
+              selected={props.selectedChartgroup === "/udfordringer"}
+            >
+              {t("menu.desktop.challenges")}
+            </MenuItem>
+            <MenuItem
               to="/abonner"
               selected={props.selectedChartgroup === "/abonner"}
             >
@@ -234,7 +240,7 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
+      {/* <ToggleDifference onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
           Danish
         </ToggleLanguageText>
@@ -243,7 +249,7 @@ function ScenarioSelectionMenu(props) {
           English
         </ToggleLanguageText>
       </ToggleDifference>
-      <MenuSeparatorLine />
+      <MenuSeparatorLine /> */}
       <MenuFooter>
         <CopyrightNotice>
           <ExternalLink href="http://www.tokni.com">

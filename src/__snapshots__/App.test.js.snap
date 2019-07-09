@@ -48,6 +48,12 @@ exports[`should render correctly 1`] = `
                 </a>
                 <a
                   class="sc-jTzLTM cscwrF"
+                  href="/udfordringer"
+                >
+                  Udfordringer
+                </a>
+                <a
+                  class="sc-jTzLTM cscwrF"
                   href="/abonner"
                 >
                   Abbonér på opdateringer
@@ -127,7 +133,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-cSHVUG iptLTz"
             >
-              CCS
+              CCS tilladt
             </div>
           </div>
           <div
@@ -147,7 +153,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-cSHVUG iptLTz"
             >
-              Bio
+              Ingen Bio import
             </div>
           </div>
           <hr
@@ -177,34 +183,6 @@ exports[`should render correctly 1`] = `
             class="sc-chPdSV UksHL"
           >
             (grøn minus rød)
-          </div>
-          <hr
-            class="sc-gqjmRU veyOQ"
-          />
-          <div
-            class="sc-jzJRlG eStmBU"
-          >
-            <div
-              class="sc-kAzzGY ifjOdj"
-            >
-              Danish
-            </div>
-            <label
-              class="sc-EHOje ehlzez"
-            >
-              <input
-                class="sc-gzVnrw hQhDNs"
-                type="checkbox"
-              />
-              <span
-                class="slider sc-bZQynM hqkVOt"
-              />
-            </label>
-            <div
-              class="sc-kAzzGY eCbOhK"
-            >
-              English
-            </div>
           </div>
           <hr
             class="sc-gqjmRU veyOQ"
@@ -336,7 +314,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-hSdWYo htAKjB"
             >
-              CCS
+              CCS tilladt
             </div>
           </div>
           <div
@@ -356,7 +334,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-hSdWYo htAKjB"
             >
-              Bio
+              Ingen Bio import
             </div>
           </div>
           <div
@@ -383,34 +361,6 @@ exports[`should render correctly 1`] = `
             class="sc-cvbbAY gLXdSs"
           >
             (grøn minus rød)
-          </div>
-          <hr
-            class="sc-eNQAEJ eXZyNm"
-          />
-          <div
-            class="sc-iAyFgw ceZizq"
-          >
-            <div
-              class="sc-eHgmQL iVZend"
-            >
-              Danish
-            </div>
-            <label
-              class="sc-EHOje ehlzez"
-            >
-              <input
-                class="sc-gzVnrw hQhDNs"
-                type="checkbox"
-              />
-              <span
-                class="slider sc-bZQynM hqkVOt"
-              />
-            </label>
-            <div
-              class="sc-eHgmQL givENN"
-            >
-              English
-            </div>
           </div>
           <div
             class="sc-jWBwVP bvHFIs"
@@ -526,25 +476,34 @@ exports[`should render correctly 1`] = `
             >
               <p
                 class="sc-csuQGl CQhxV"
-              />
+              >
+                COMETS-projektet inviterer til debat om klima- og energipolitik med vores værktøj.
+              </p>
               <p
                 class="sc-csuQGl CQhxV"
-              />
+              >
+                Med dette værktøj kan du udforske forskellige scenarier i forbindelse med en ny klimaaftale. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.
+              </p>
               <p
                 class="sc-csuQGl CQhxV"
-              />
+              >
+                Værktøjet er udviklet til yderligere at åbne debatten om klima- og energi politik og gøre et kompleks system lettere at forstå.
+              </p>
               <p
                 class="sc-csuQGl CQhxV"
-              />
+              >
+                COMETS-projektet afholdt en 2 dages workshop sidst i juni 2019 på Marienlyst i Helsingør. Her samledes folk fra forskellige interesseorganisationer til en debat om hvilke politikker og virkemidler der skal til for at Danmark kan forfølge en 1,5C klimamålsætning. Resultatet af workshoppen mundede ud i Marienlyst-scenariet som opnår en kraftig reduktion i CO2-udledningen. Landbrug og arealanvendelse blev ikke diskuteret på workshoppen og derfor er reduktioner inden for dette område ikke inkluderet.
+              </p>
               <p
                 class="sc-csuQGl CQhxV"
-              />
+              >
+                De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafikmodellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under ”Forudsætninger” og under ”Om værktøjet”.
+              </p>
               <p
                 class="sc-csuQGl CQhxV"
-              />
-              <p
-                class="sc-csuQGl CQhxV"
-              />
+              >
+                Og husk… en model, hvor god den end er, er kun en simpel repræsentation af virkeligheden.
+              </p>
             </div>
             <div
               class="sc-Rmtcm iEZwvX"

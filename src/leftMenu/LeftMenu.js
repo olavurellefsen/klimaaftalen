@@ -97,12 +97,6 @@ const ToggleSwitchText = styled.div`
   margin-left: 10px;
 `;
 
-const ToggleLanguageText = styled.div`
-  color: ${props => (props.selected ? "white" : "gray")};
-  margin-left: 10px;
-  margin-right: 10px;
-`;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -136,17 +130,7 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
-  const language = i18n.language;
-
-  const toggleLanguage = e => {
-    e.preventDefault();
-    if (language === "en") {
-      i18n.changeLanguage("dk");
-    } else {
-      i18n.changeLanguage("en");
-    }
-  };
+  const { t } = useTranslation();
 
   return (
     <MenuLayout>
@@ -173,10 +157,10 @@ function ScenarioSelectionMenu(props) {
               {t("menu.desktop.preconditions")}
             </MenuItem>
             <MenuItem
-              to="/abonner"
-              selected={props.selectedChartgroup === "/abonner"}
+              to="/udfordringer"
+              selected={props.selectedChartgroup === "/udfordringer"}
             >
-              {t("menu.desktop.subscribe")}
+              {t("menu.desktop.challenges")}
             </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>
@@ -234,7 +218,7 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
+      {/* <ToggleDifference onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
           Danish
         </ToggleLanguageText>
@@ -243,7 +227,7 @@ function ScenarioSelectionMenu(props) {
           English
         </ToggleLanguageText>
       </ToggleDifference>
-      <MenuSeparatorLine />
+      <MenuSeparatorLine /> */}
       <MenuFooter>
         <CopyrightNotice>
           <ExternalLink href="http://www.tokni.com">

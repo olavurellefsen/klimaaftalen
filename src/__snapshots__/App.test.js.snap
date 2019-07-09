@@ -3,13 +3,13 @@
 exports[`should render correctly 1`] = `
 <div>
   <div
-    class="sc-jbKcbu brDidm"
+    class="sc-kvZOFW gavlgy"
   >
     <div
-      class="sc-dNLxif kioCvL"
+      class="sc-hqyNC fvujCr"
     >
       <div
-        class="sc-jqCOkK deIspb"
+        class="sc-jbKcbu knMvJG"
       >
         <div
           class="sc-htoDjs jofOpB"
@@ -48,9 +48,9 @@ exports[`should render correctly 1`] = `
                 </a>
                 <a
                   class="sc-jTzLTM cscwrF"
-                  href="/abonner"
+                  href="/udfordringer"
                 >
-                  Abbonér på opdateringer
+                  Udfordringer
                 </a>
               </div>
             </div>
@@ -127,7 +127,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-cSHVUG iptLTz"
             >
-              CCS
+              CCS tilladt
             </div>
           </div>
           <div
@@ -147,7 +147,7 @@ exports[`should render correctly 1`] = `
             <div
               class="sc-cSHVUG iptLTz"
             >
-              Bio
+              Ingen Bio import
             </div>
           </div>
           <hr
@@ -174,7 +174,7 @@ exports[`should render correctly 1`] = `
             </div>
           </div>
           <div
-            class="sc-chPdSV UksHL"
+            class="sc-kAzzGY iUIIlB"
           >
             (grøn minus rød)
           </div>
@@ -182,41 +182,13 @@ exports[`should render correctly 1`] = `
             class="sc-gqjmRU veyOQ"
           />
           <div
-            class="sc-jzJRlG eStmBU"
+            class="sc-chPdSV bfIFgS"
           >
             <div
-              class="sc-kAzzGY ifjOdj"
-            >
-              Danish
-            </div>
-            <label
-              class="sc-EHOje ehlzez"
-            >
-              <input
-                class="sc-gzVnrw hQhDNs"
-                type="checkbox"
-              />
-              <span
-                class="slider sc-bZQynM hqkVOt"
-              />
-            </label>
-            <div
-              class="sc-kAzzGY eCbOhK"
-            >
-              English
-            </div>
-          </div>
-          <hr
-            class="sc-gqjmRU veyOQ"
-          />
-          <div
-            class="sc-kgoBCf dShjcP"
-          >
-            <div
-              class="sc-kGXeez gqdHJw"
+              class="sc-kgoBCf igMajv"
             >
               <a
-                class="sc-kpOJdX jgUEpb"
+                class="sc-kGXeez GGZeF"
                 href="http://www.tokni.com"
               >
                 Udviklet af Tokni
@@ -225,50 +197,44 @@ exports[`should render correctly 1`] = `
           </div>
         </div>
         <div
-          class="sc-dxgOiQ iCPKGW"
+          class="sc-kpOJdX kbpkJK"
         >
           <div
-            class="sc-jKJlTe kWpDeg"
+            class="sc-ckVGcZ hFDQwf"
           >
             <img
               alt="logo"
-              class="sc-ckVGcZ kicwov"
+              class="sc-dxgOiQ bseNXp"
               src="./images/logo_comets.png"
             />
             <div
-              class="sc-hMqMXs gqwdxu"
+              class="sc-eNQAEJ cFWXEk"
             >
               <a
-                class="sc-kEYyzF imJDDh"
+                class="sc-hMqMXs kKrPaF"
                 href="/about"
               >
                 Om
               </a>
               <a
-                class="sc-kEYyzF imJDDh"
+                class="sc-hMqMXs kKrPaF"
                 href="/beskrivelser"
               >
                 Beskrivelse
               </a>
               <a
-                class="sc-kEYyzF imJDDh"
+                class="sc-hMqMXs kKrPaF"
                 href="/forudsaetninger"
               >
                 Forudsætn.
               </a>
-              <a
-                class="sc-kEYyzF imJDDh"
-                href="/abonner"
-              >
-                Abbonér
-              </a>
             </div>
           </div>
           <hr
-            class="sc-eNQAEJ eXZyNm"
+            class="sc-jKJlTe ibRdid"
           />
           <div
-            class="sc-kkGfuU gqwmuI"
+            class="sc-kEYyzF zlGAV"
           >
             <div
               class="sc-bdVaJa erSRMf"
@@ -317,10 +283,10 @@ exports[`should render correctly 1`] = `
             </div>
           </div>
           <hr
-            class="sc-eNQAEJ eXZyNm"
+            class="sc-jKJlTe ibRdid"
           />
           <div
-            class="sc-iAyFgw ceZizq"
+            class="sc-kkGfuU ebjjUW"
           >
             <label
               class="sc-EHOje ehlzez"
@@ -334,13 +300,13 @@ exports[`should render correctly 1`] = `
               />
             </label>
             <div
-              class="sc-hSdWYo htAKjB"
+              class="sc-iAyFgw hYBebL"
             >
-              CCS
+              CCS tilladt
             </div>
           </div>
           <div
-            class="sc-iAyFgw ceZizq"
+            class="sc-kkGfuU ebjjUW"
           >
             <label
               class="sc-EHOje ehlzez"
@@ -354,13 +320,13 @@ exports[`should render correctly 1`] = `
               />
             </label>
             <div
-              class="sc-hSdWYo htAKjB"
+              class="sc-iAyFgw hYBebL"
             >
-              Bio
+              Ingen Bio import
             </div>
           </div>
           <div
-            class="sc-iAyFgw ceZizq"
+            class="sc-kkGfuU ebjjUW"
           >
             <label
               class="sc-EHOje ehlzez"
@@ -374,52 +340,24 @@ exports[`should render correctly 1`] = `
               />
             </label>
             <div
-              class="sc-hSdWYo hYdDcz"
+              class="sc-iAyFgw evzXLx"
             >
               Scenarie difference
             </div>
           </div>
           <div
-            class="sc-cvbbAY gLXdSs"
+            class="sc-hSdWYo gklGlj"
           >
             (grøn minus rød)
           </div>
-          <hr
-            class="sc-eNQAEJ eXZyNm"
-          />
           <div
-            class="sc-iAyFgw ceZizq"
+            class="sc-eHgmQL dtwjXz"
           >
             <div
-              class="sc-eHgmQL iVZend"
-            >
-              Danish
-            </div>
-            <label
-              class="sc-EHOje ehlzez"
-            >
-              <input
-                class="sc-gzVnrw hQhDNs"
-                type="checkbox"
-              />
-              <span
-                class="slider sc-bZQynM hqkVOt"
-              />
-            </label>
-            <div
-              class="sc-eHgmQL givENN"
-            >
-              English
-            </div>
-          </div>
-          <div
-            class="sc-jWBwVP bvHFIs"
-          >
-            <div
-              class="sc-brqgnP hRQGAY"
+              class="sc-cvbbAY jyDLGQ"
             >
               <a
-                class="sc-cMljjf jlqEdc"
+                class="sc-jWBwVP iXCTzh"
                 href="http://www.tokni.com"
               >
                 Udviklet af Tokni
@@ -430,124 +368,133 @@ exports[`should render correctly 1`] = `
       </div>
     </div>
     <div
-      class="sc-dNLxif kioCvL"
+      class="sc-hqyNC fvujCr"
     >
       <div
-        class="sc-jqCOkK deIspb"
+        class="sc-jbKcbu knMvJG"
       >
         <div
-          class="sc-jAaTju jYnpJk"
+          class="sc-brqgnP bGBgms"
         >
           <a
-            class="sc-jDwBTQ FIPMt"
+            class="sc-cMljjf jXjCEj"
             href="/"
           >
             Overblik
           </a>
           <a
-            class="sc-jDwBTQ ddvzGF"
+            class="sc-cMljjf kfUwAq"
             href="/tab2"
           >
             Hovedresultater
           </a>
           <a
-            class="sc-jDwBTQ ddvzGF"
+            class="sc-cMljjf kfUwAq"
             href="/tab3"
           >
             Forsyningssektoren
           </a>
           <a
-            class="sc-jDwBTQ ddvzGF"
+            class="sc-cMljjf kfUwAq"
             href="/tab4"
           >
             Transportsektoren
           </a>
           <a
-            class="sc-jDwBTQ ddvzGF"
+            class="sc-cMljjf kfUwAq"
             href="/tab5"
           >
             Industri
           </a>
           <a
-            class="sc-jDwBTQ ddvzGF"
+            class="sc-cMljjf kfUwAq"
             href="/tab6"
           >
             Husholdninger
           </a>
         </div>
         <div
-          class="sc-gPEVay cTCudI"
+          class="sc-jAaTju fIaQsr"
         >
           <a
-            class="sc-iRbamj fRDynO"
+            class="sc-jDwBTQ fBKydN"
             href="/"
           >
             Overblik
           </a>
           <a
-            class="sc-iRbamj ehXWjA"
+            class="sc-jDwBTQ kCNSMn"
             href="/tab2"
           >
             Resultater
           </a>
           <a
-            class="sc-iRbamj ehXWjA"
+            class="sc-jDwBTQ kCNSMn"
             href="/tab3"
           >
             Forsyning
           </a>
           <a
-            class="sc-iRbamj ehXWjA"
+            class="sc-jDwBTQ kCNSMn"
             href="/tab4"
           >
             Transport
           </a>
           <a
-            class="sc-iRbamj ehXWjA"
+            class="sc-jDwBTQ kCNSMn"
             href="/tab5"
           >
             Industri
           </a>
           <a
-            class="sc-iRbamj ehXWjA"
+            class="sc-jDwBTQ kCNSMn"
             href="/tab6"
           >
             Husholdninger
           </a>
         </div>
         <div
-          class="sc-fBuWsC jTMrhZ"
+          class="sc-hzDkRC fqtPMa"
         >
           <div
-            class="sc-jlyJG hWmlE"
+            class="sc-gPEVay dhJpvJ"
           >
             <div
-              class="sc-gipzik jFIKYH"
+              class="sc-iRbamj bRSqQB"
             >
               <p
-                class="sc-csuQGl CQhxV"
-              />
+                class="sc-jlyJG bbyJzT"
+              >
+                COMETS-projektet inviterer til debat om klima- og energipolitik med vores værktøj.
+              </p>
               <p
-                class="sc-csuQGl CQhxV"
-              />
+                class="sc-jlyJG bbyJzT"
+              >
+                Med dette værktøj kan du udforske forskellige scenarier i forbindelse med en ny klimaaftale. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.
+              </p>
               <p
-                class="sc-csuQGl CQhxV"
-              />
+                class="sc-jlyJG bbyJzT"
+              >
+                Værktøjet er udviklet til yderligere at åbne debatten om klima- og energi politik og gøre et kompleks system lettere at forstå.
+              </p>
               <p
-                class="sc-csuQGl CQhxV"
-              />
+                class="sc-jlyJG bbyJzT"
+              >
+                COMETS-projektet afholdt en 2 dages workshop sidst i juni 2019 på Marienlyst i Helsingør. Her samledes folk fra forskellige interesseorganisationer til en debat om hvilke politikker og virkemidler der skal til for at Danmark kan forfølge en 1,5C klimamålsætning. Resultatet af workshoppen mundede ud i Marienlyst-scenariet som opnår en kraftig reduktion i CO2-udledningen. Landbrug og arealanvendelse blev ikke diskuteret på workshoppen og derfor er reduktioner inden for dette område ikke inkluderet.
+              </p>
               <p
-                class="sc-csuQGl CQhxV"
-              />
+                class="sc-jlyJG bbyJzT"
+              >
+                De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafikmodellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under ”Forudsætninger” og under ”Om værktøjet”.
+              </p>
               <p
-                class="sc-csuQGl CQhxV"
-              />
-              <p
-                class="sc-csuQGl CQhxV"
-              />
+                class="sc-jlyJG bbyJzT"
+              >
+                Og husk… en model, hvor god den end er, er kun en simpel repræsentation af virkeligheden.
+              </p>
             </div>
             <div
-              class="sc-Rmtcm iEZwvX"
+              class="sc-gipzik iSFyEI"
             >
               <span
                 class="octicon octicon-x"
@@ -555,7 +502,7 @@ exports[`should render correctly 1`] = `
             </div>
           </div>
           <div
-            class="sc-fMiknA ktVlnV"
+            class="sc-jhAzac ldHtTB"
           >
             <div>
               <div
@@ -571,7 +518,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -2777,7 +2724,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -4047,7 +3994,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-jhAzac ckZqLA"
+                    class="sc-bRBYWo bhbhaz"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -4750,7 +4697,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -8636,7 +8583,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -9346,7 +9293,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -10336,7 +10283,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"
@@ -11046,7 +10993,7 @@ exports[`should render correctly 1`] = `
                   width="380"
                 >
                   <text
-                    class="sc-bRBYWo bhbhaz"
+                    class="sc-csuQGl dqZjDl"
                     dx="0"
                     dy="4.97"
                     x="90"

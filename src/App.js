@@ -225,18 +225,23 @@ export class App extends React.Component {
                     <PageRenderer
                       markdownFiles={[
                         "descriptions/0_intro.md",
-                        "descriptions/1_basicscenarios.md"
+                        "descriptions/1_reference.md",
+                        "descriptions/2_marienlyst.md",
+                        "descriptions/3_comets.md",
+                        "descriptions/4_co2_budget.md",
                       ]}
                     />
                   );
                 }}
               />
               <Route path="/forudsaetninger" component={Prerequisites} />
-              <Route path="/abonner" render={() => {
+              <Route path="/udfordringer"  render={() => {
                   return (
                     <PageRenderer
                       markdownFiles={[
-                        "descriptions/subscribe.md"
+                        "descriptions/challenges.md",
+                        "descriptions/udfordringer_omstilling.md",
+                        "descriptions/udfordringer_reduktion.md"
                       ]}
                     />
                   );

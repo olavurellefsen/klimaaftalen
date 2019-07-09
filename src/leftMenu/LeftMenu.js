@@ -97,12 +97,6 @@ const ToggleSwitchText = styled.div`
   margin-left: 10px;
 `;
 
-const ToggleLanguageText = styled.div`
-  color: ${props => (props.selected ? "white" : "gray")};
-  margin-left: 10px;
-  margin-right: 10px;
-`;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -136,17 +130,7 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
-  const language = i18n.language;
-
-  const toggleLanguage = e => {
-    e.preventDefault();
-    if (language === "en") {
-      i18n.changeLanguage("dk");
-    } else {
-      i18n.changeLanguage("en");
-    }
-  };
+  const { t } = useTranslation();
 
   return (
     <MenuLayout>
@@ -177,12 +161,6 @@ function ScenarioSelectionMenu(props) {
               selected={props.selectedChartgroup === "/udfordringer"}
             >
               {t("menu.desktop.challenges")}
-            </MenuItem>
-            <MenuItem
-              to="/abonner"
-              selected={props.selectedChartgroup === "/abonner"}
-            >
-              {t("menu.desktop.subscribe")}
             </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>

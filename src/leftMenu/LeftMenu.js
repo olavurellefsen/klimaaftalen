@@ -97,12 +97,6 @@ const ToggleSwitchText = styled.div`
   margin-left: 10px;
 `;
 
-const ToggleLanguageText = styled.div`
-  color: ${props => (props.selected ? "white" : "gray")};
-  margin-left: 10px;
-  margin-right: 10px;
-`;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -136,17 +130,7 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
-  const language = i18n.language;
-
-  const toggleLanguage = e => {
-    e.preventDefault();
-    if (language === "en") {
-      i18n.changeLanguage("dk");
-    } else {
-      i18n.changeLanguage("en");
-    }
-  };
+  const { t } = useTranslation();
 
   return (
     <MenuLayout>
@@ -173,10 +157,10 @@ function ScenarioSelectionMenu(props) {
               {t("menu.desktop.preconditions")}
             </MenuItem>
             <MenuItem
-              to="/abonner"
-              selected={props.selectedChartgroup === "/abonner"}
+              to="/udfordringer"
+              selected={props.selectedChartgroup === "/udfordringer"}
             >
-              {t("menu.desktop.subscribe")}
+              {t("menu.desktop.challenges")}
             </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>
@@ -186,12 +170,13 @@ function ScenarioSelectionMenu(props) {
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
-          selectedValue={props.scenarioSelection.scenarioSelection}
-          selectedValue2={props.scenarioSelection.scenarioSelection2}
+          selectedValue={props.scenarioSelection.scenarioSelectionNoOptions}
+          selectedValue2={props.scenarioSelection.scenarioSelectionNoOptions2}
           dimensionOptions={props.scenarioCombinations.scenarioOptions}
           dimensionTitle={t("general.scenarios")}
           narrowVersion={false}
           showCCS={props.scenarioSelection.showCCS}
+          showBio={props.scenarioSelection.showBio}
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
@@ -202,6 +187,15 @@ function ScenarioSelectionMenu(props) {
         />
         <ToggleSwitchText selected={props.scenarioSelection.showCCS}>
           {t("general.CCS")}
+        </ToggleSwitchText>
+      </ToggleDifference>
+      <ToggleDifference onClick={e => props.toggleShowBio(e)}>
+        <ToggleSwitch
+          dimmed={false}
+          checked={props.scenarioSelection.showBio}
+        />
+        <ToggleSwitchText selected={props.scenarioSelection.showBio}>
+          {t("general.bio")}
         </ToggleSwitchText>
       </ToggleDifference>
       <MenuSeparatorLine />
@@ -224,7 +218,7 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
+      {/* <ToggleDifference onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
           Danish
         </ToggleLanguageText>
@@ -233,7 +227,7 @@ function ScenarioSelectionMenu(props) {
           English
         </ToggleLanguageText>
       </ToggleDifference>
-      <MenuSeparatorLine />
+      <MenuSeparatorLine /> */}
       <MenuFooter>
         <CopyrightNotice>
           <ExternalLink href="http://www.tokni.com">
@@ -251,7 +245,8 @@ ScenarioSelectionMenu.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
-  toggleShowCCS: PropTypes.func.isRequired
+  toggleShowCCS: PropTypes.func.isRequired,
+  toggleShowBio: PropTypes.func.isRequired
 };
 
 export default ScenarioSelectionMenu;

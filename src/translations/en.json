@@ -5,18 +5,18 @@
       "about": "About",
       "descriptions": "Description",
       "preconditions": "Precond.",
-      "subscribe": "Subscribe"
+      "challenges": "Challenges"
     },
     "desktop": {
       "about": "About the tool",
       "descriptions": "Descriptions of scenarios",
-      "preconditions": "Preconditions",
-      "subscribe": "Subscribe to updates"
+      "preconditions": "Preconditions"
     }
   },
   "general": {
     "scenarios": "Scenarios",
     "CCS": "CCS",
+    "bio": "Bio",
     "scenario-difference": "Scenario difference",
     "green-minus-red": "(green minus red)",
     "developed-by-Tokni": "Developed by Tokni"
@@ -55,7 +55,7 @@
     "FP_NO_WIN_INT": "Frozen policy",
     "Frozen_policy_INT": "Reference",
     "COMETS": "Marienlyst",
-	"COMETS_With_CCS": "Marienlyst",
+	"COMETS_CCS": "Marienlyst",
     "DGSB_INT": "DGSB",
     "Regeringen_INT": "The Government",
     "Alternativet_INT": "The Alternative",
@@ -64,27 +64,27 @@
     "Radikale_INT": "Radikale Venstre",
     "SF_INT": "Socialistisk Folkeparti",
     "Socialdemokratiet_INT": "Social Democrats",
-    "FP_NO_WIN_INT_With_CCS": "Frozen policy",
-    "DGSB_INT_With_CCS": "DGSB",
-    "Regeringen_INT_With_CCS": "The Government",
-    "Alternativet_INT_With_CCS": "The Alternative",
-    "Enhedslisten_INT_With_CCS": "Red–Green Alliance",
-    "LA_INT_With_CCS": "Liberal Alliance",
-    "Radikale_INT_With_CCS": "Radikale Venstre",
-    "SF_INT_With_CCS": "Socialistisk Folkeparti",
-    "Socialdemokratiet_INT_With_CCS": "Social Democrats",
+    "FP_NO_WIN_INT_CCS": "Frozen policy",
+    "DGSB_INT_CCS": "DGSB",
+    "Regeringen_INT_CCS": "The Government",
+    "Alternativet_INT_CCS": "The Alternative",
+    "Enhedslisten_INT_CCS": "Red–Green Alliance",
+    "LA_INT_CCS": "Liberal Alliance",
+    "Radikale_INT_CCS": "Radikale Venstre",
+    "SF_INT_CCS": "Socialistisk Folkeparti",
+    "Socialdemokratiet_INT_CCS": "Social Democrats",
     "Carbon_scenario_1-5_degree_INT_300Mt": "Carbon budget 300Mt CO2",
-	"Carbon_scenario_1-5_degree_INT_300Mt_With_CCS": "Carbon budget 300Mt CO2",
+	"Carbon_scenario_1-5_degree_INT_300Mt_CCS": "Carbon budget 300Mt CO2",
     "Carbon_scenario_1-5_degree_bio_INT_300Mt": "Carbon budget 300Mt CO2 (bio)",
-    "Carbon_scenario_1-5_degree_bio_INT_300Mt_With_CCS": "Carbon budget 300Mt CO2 (bio)",
+    "Carbon_scenario_1-5_degree_bio_INT_300Mt_CCS": "Carbon budget 300Mt CO2 (bio)",
     "Carbon_scenario_1-5_degree_INT_400Mt": "Carbon budget 400Mt CO2",
-	"Carbon_scenario_1-5_degree_INT_400Mt_With_CCS": "Carbon budget 400Mt CO2",
+	"Carbon_scenario_1-5_degree_INT_400Mt_CCS": "Carbon budget 400Mt CO2",
     "Carbon_scenario_1-5_degree_bio_INT_400Mt": "Carbon budget 400Mt CO2 (bio)",
-    "Carbon_scenario_1-5_degree_bio_INT_400Mt_With_CCS": "Carbon budget 400Mt CO2 (bio)",
+    "Carbon_scenario_1-5_degree_bio_INT_400Mt_CCS": "Carbon budget 400Mt CO2 (bio)",
     "Carbon_scenario_1-5_degree_INT": "Carbon budget 500Mt CO2",
-	"Carbon_scenario_1-5_degree_INT_With_CCS": "Carbon budget 500Mt CO2",
+	"Carbon_scenario_1-5_degree_INT_CCS": "Carbon budget 500Mt CO2",
     "Carbon_scenario_1-5_degree_bio_INT": "Carbon budget 500Mt CO2 (bio)",
-    "Carbon_scenario_1-5_degree_bio_INT_With_CCS": "Carbon budget 500Mt CO2 (bio)"
+    "Carbon_scenario_1-5_degree_bio_INT_CCS": "Carbon budget 500Mt CO2 (bio)"
   },
   "tabs": {
     "overview": "Overview",
@@ -103,13 +103,12 @@
     }
   },
   "welcome-text": {
-    "welcome-1": "",
-    "welcome-2": "",
-    "welcome-3": "",
-    "welcome-4": "",
-    "welcome-5": "",
-    "welcome-6": "",
-    "welcome-7": ""
+    "welcome-1": "COMETS-projektet inviterer til debat om klima- og energipolitik med vores værktøj.",
+    "welcome-2": "Med dette værktøj kan du udforske forskellige scenarier i forbindelse med en ny klimaaftale. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.",
+    "welcome-3": "Værktøjet er udviklet til yderligere at åbne debatten om klima- og energi politik og gøre et kompleks system lettere at forstå.",
+    "welcome-4": "COMETS-projektet afholdt en 2 dages workshop sidst i juni 2019 på Marienlyst i Helsingør. Her samledes folk fra forskellige interesseorganisationer til en debat om hvilke politikker og virkemidler der skal til for at Danmark kan forfølge en 1,5C klimamålsætning. Resultatet af workshoppen mundede ud i Marienlyst-scenariet som opnår en kraftig reduktion i CO2-udledningen. Landbrug og arealanvendelse blev ikke diskuteret på workshoppen og derfor er reduktioner inden for dette område ikke inkluderet.",
+    "welcome-5": "De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafikmodellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under ”Forudsætninger” og under ”Om værktøjet”.",
+    "welcome-6": "Og husk… en model, hvor god den end er, er kun en simpel repræsentation af virkeligheden."
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissions and %-reduction",

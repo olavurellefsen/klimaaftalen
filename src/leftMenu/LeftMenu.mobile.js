@@ -91,13 +91,6 @@ const ToggleSwitchText = styled.div`
   margin-top: 5px;
 `;
 
-const ToggleLanguageText = styled.div`
-  font-size: 0.7em;
-  color: ${props => (props.selected ? "white" : "gray")};
-  margin-left: 3px;
-  margin-right: 3px;
-`;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -130,91 +123,85 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
-  const language = i18n.language;
+  const { t } = useTranslation();
 
-  const toggleLanguage = e => {
-    e.preventDefault();
-    if (language === "en") {
-      i18n.changeLanguage("dk");
-    } else {
-      i18n.changeLanguage("en");
-    }
-  };
-
-    return (
-      <MenuLayout>
-        <MenuHeader>
-          <AppLogo src="./images/logo_comets.png" alt="logo" />
-          <MenuRoutes>
-            <MenuItem
-              to="/about"
-              selected={props.selectedChartgroup === "/about"}
-            >
-              {t("menu.mobile.about")}
-            </MenuItem>
-            <MenuItem
-              to="/beskrivelser"
-              selected={props.selectedChartgroup === "/beskrivelser"}
-            >
-              {t("menu.mobile.descriptions")}
-            </MenuItem>
-            <MenuItem
-              to="/forudsaetninger"
-              selected={props.selectedChartgroup === "/forudsaetninger"}
-            >
-              {t("menu.mobile.preconditions")}
-            </MenuItem>
-            <MenuItem
-              to="/abonner"
-              selected={props.selectedChartgroup === "/abonner"}
-            >
-              {t("menu.mobile.subscribe")}
-            </MenuItem>
-          </MenuRoutes>
-        </MenuHeader>
-        <MenuSeparatorLine />
-        <ScenarioSelection>
-          <ScenarioSelectionList
-            updateScenarioSelection={props.updateScenarioSelection}
-            name="scenarioSelection"
-            selectedValue={props.scenarioSelection.scenarioSelection}
-            selectedValue2={props.scenarioSelection.scenarioSelection2}
-            dimensionOptions={props.scenarioCombinations.scenarioOptions}
-            dimensionTitle={t("general.scenarios")}
-            narrowVersion={true}
-            showCCS={props.scenarioSelection.showCCS}
-          />
-        </ScenarioSelection>
-        <MenuSeparatorLine />
-        <ToggleDifference onClick={e => props.toggleShowCCS(e)}>
-          <ToggleSwitch
-            dimmed={false}
-            checked={props.scenarioSelection.showCCS}
-          />
-          <ToggleSwitchText selected={props.scenarioSelection.showCCS}>
-            {t("general.CCS")}
-          </ToggleSwitchText>
-        </ToggleDifference>
-        <ToggleDifference onClick={e => props.toggleDifference(e)}>
-          <ToggleSwitch
-            dimmed={props.scenarioSelection.scenarioSelection2 === ""}
-            checked={props.scenarioSelection.showDifference}
-          />
-          <ToggleSwitchText
-            singleMode={props.scenarioSelection.scenarioSelection2 === ""}
-            selected={props.scenarioSelection.showDifference}
+  return (
+    <MenuLayout>
+      <MenuHeader>
+        <AppLogo src="./images/logo_comets.png" alt="logo" />
+        <MenuRoutes>
+          <MenuItem
+            to="/about"
+            selected={props.selectedChartgroup === "/about"}
           >
-            {t("general.scenario-difference")}
-          </ToggleSwitchText>
-        </ToggleDifference>
-        <ScenarioDifferenceText
+            {t("menu.mobile.about")}
+          </MenuItem>
+          <MenuItem
+            to="/beskrivelser"
+            selected={props.selectedChartgroup === "/beskrivelser"}
+          >
+            {t("menu.mobile.descriptions")}
+          </MenuItem>
+          <MenuItem
+            to="/forudsaetninger"
+            selected={props.selectedChartgroup === "/forudsaetninger"}
+          >
+            {t("menu.mobile.preconditions")}
+          </MenuItem>
+        </MenuRoutes>
+      </MenuHeader>
+      <MenuSeparatorLine />
+      <ScenarioSelection>
+        <ScenarioSelectionList
+          updateScenarioSelection={props.updateScenarioSelection}
+          name="scenarioSelection"
+          selectedValue={props.scenarioSelection.scenarioSelection}
+          selectedValue2={props.scenarioSelection.scenarioSelection2}
+          dimensionOptions={props.scenarioCombinations.scenarioOptions}
+          dimensionTitle={t("general.scenarios")}
+          narrowVersion={true}
+          showCCS={props.scenarioSelection.showCCS}
+          showBio={props.scenarioSelection.showBio}
+        />
+      </ScenarioSelection>
+      <MenuSeparatorLine />
+      <ToggleDifference onClick={e => props.toggleShowCCS(e)}>
+        <ToggleSwitch
+          dimmed={false}
+          checked={props.scenarioSelection.showCCS}
+        />
+        <ToggleSwitchText selected={props.scenarioSelection.showCCS}>
+          {t("general.CCS")}
+        </ToggleSwitchText>
+      </ToggleDifference>
+      <ToggleDifference onClick={e => props.toggleShowBio(e)}>
+        <ToggleSwitch
+          dimmed={false}
+          checked={props.scenarioSelection.showBio}
+        />
+        <ToggleSwitchText selected={props.scenarioSelection.showBio}>
+          {t("general.bio")}
+        </ToggleSwitchText>
+      </ToggleDifference>
+      <ToggleDifference onClick={e => props.toggleDifference(e)}>
+        <ToggleSwitch
+          dimmed={props.scenarioSelection.scenarioSelection2 === ""}
+          checked={props.scenarioSelection.showDifference}
+        />
+        <ToggleSwitchText
           singleMode={props.scenarioSelection.scenarioSelection2 === ""}
           selected={props.scenarioSelection.showDifference}
         >
-          {t("general.green-minus-red")}
-        </ScenarioDifferenceText>
-        <MenuSeparatorLine />
+          {t("general.scenario-difference")}
+        </ToggleSwitchText>
+      </ToggleDifference>
+      <ScenarioDifferenceText
+        singleMode={props.scenarioSelection.scenarioSelection2 === ""}
+        selected={props.scenarioSelection.showDifference}
+      >
+        {t("general.green-minus-red")}
+      </ScenarioDifferenceText>
+      {/* <MenuSeparatorLine />
         <ToggleDifference onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
           Danish
@@ -223,18 +210,17 @@ function ScenarioSelectionMenu(props) {
         <ToggleLanguageText selected={language === "en"}>
           English
         </ToggleLanguageText>
-      </ToggleDifference>
-        <MenuFooter>
-          <CopyrightNotice>
-            <ExternalLink href="http://www.tokni.com">
-              {t("general.developed-by-Tokni")}
-            </ExternalLink>
-          </CopyrightNotice>
-        </MenuFooter>
-      </MenuLayout>
-    );
-  }
-
+      </ToggleDifference> */}
+      <MenuFooter>
+        <CopyrightNotice>
+          <ExternalLink href="http://www.tokni.com">
+            {t("general.developed-by-Tokni")}
+          </ExternalLink>
+        </CopyrightNotice>
+      </MenuFooter>
+    </MenuLayout>
+  );
+}
 
 ScenarioSelectionMenu.propTypes = {
   selectedChartgroup: PropTypes.string.isRequired,
@@ -242,7 +228,8 @@ ScenarioSelectionMenu.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
-  toggleShowCCS: PropTypes.func.isRequired
+  toggleShowCCS: PropTypes.func.isRequired,
+  toggleShowBio: PropTypes.func.isRequired
 };
 
 export default ScenarioSelectionMenu;

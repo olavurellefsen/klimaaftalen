@@ -235,6 +235,15 @@ export class App extends React.Component {
                 }}
               />
               <Route path="/forudsaetninger" component={Prerequisites} />
+              <Route path="/udfordringer"  render={() => {
+                  return (
+                    <PageRenderer
+                      markdownFiles={[
+                        "descriptions/challenges.md"
+                      ]}
+                    />
+                  );
+                }} />
               <Route path="/abonner" render={() => {
                   return (
                     <PageRenderer

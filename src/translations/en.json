@@ -5,14 +5,12 @@
       "about": "About",
       "descriptions": "Description",
       "preconditions": "Precond.",
-      "challenges": "Challenges",
-      "subscribe": "Subscribe"
+      "challenges": "Challenges"
     },
     "desktop": {
       "about": "About the tool",
       "descriptions": "Descriptions of scenarios",
-      "preconditions": "Preconditions",
-      "subscribe": "Subscribe to updates"
+      "preconditions": "Preconditions"
     }
   },
   "general": {

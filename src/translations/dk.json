@@ -4,15 +4,13 @@
     "mobile": {
       "about": "Om",
       "descriptions": "Beskrivelse",
-      "preconditions": "Forudsætn.",
-      "subscribe": "Abbonér"
+      "preconditions": "Forudsætn."
     },
     "desktop": {
       "about": "Om værktøjet",
       "descriptions": "Beskrivelser af scenarier",
       "preconditions": "Forudsætninger",
-      "challenges": "Udfordringer",
-      "subscribe": "Abbonér på opdateringer"
+      "challenges": "Udfordringer"
     }
   },
   "general": {

@@ -148,12 +148,6 @@ function ScenarioSelectionMenu(props) {
           >
             {t("menu.mobile.preconditions")}
           </MenuItem>
-          <MenuItem
-            to="/abonner"
-            selected={props.selectedChartgroup === "/abonner"}
-          >
-            {t("menu.mobile.subscribe")}
-          </MenuItem>
         </MenuRoutes>
       </MenuHeader>
       <MenuSeparatorLine />

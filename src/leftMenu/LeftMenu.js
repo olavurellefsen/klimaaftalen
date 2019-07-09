@@ -162,12 +162,6 @@ function ScenarioSelectionMenu(props) {
             >
               {t("menu.desktop.challenges")}
             </MenuItem>
-            <MenuItem
-              to="/abonner"
-              selected={props.selectedChartgroup === "/abonner"}
-            >
-              {t("menu.desktop.subscribe")}
-            </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>
       </MenuHeader>

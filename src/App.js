@@ -246,15 +246,6 @@ export class App extends React.Component {
                     />
                   );
                 }} />
-              <Route path="/abonner" render={() => {
-                  return (
-                    <PageRenderer
-                      markdownFiles={[
-                        "descriptions/subscribe.md"
-                      ]}
-                    />
-                  );
-                }} />
             </MainSwitch>
           </Content>
         </Column>

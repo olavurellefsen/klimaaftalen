@@ -10,6 +10,12 @@ const AboutContainer = styled.div`
   flex-wrap: wrap;
   align-content: flex-start;
   flex-direction: column;
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
 `;
 
 class ScenarioDescriptions extends Component {

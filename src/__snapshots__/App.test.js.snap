@@ -52,12 +52,6 @@ exports[`should render correctly 1`] = `
                 >
                   Udfordringer
                 </a>
-                <a
-                  class="sc-jTzLTM cscwrF"
-                  href="/abonner"
-                >
-                  Abbonér på opdateringer
-                </a>
               </div>
             </div>
           </div>
@@ -233,12 +227,6 @@ exports[`should render correctly 1`] = `
                 href="/forudsaetninger"
               >
                 Forudsætn.
-              </a>
-              <a
-                class="sc-hMqMXs kKrPaF"
-                href="/abonner"
-              >
-                Abbonér
               </a>
             </div>
           </div>

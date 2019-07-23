@@ -800,6 +800,43 @@ export default {
                   },
                   {
                     "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
                     "total": 552259.945737933
                   }
                 ]
@@ -1735,27 +1772,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 23409.1809343548
+                    "total": 23450.0145210262
                   },
                   {
                     "year": 2030,
-                    "total": 14873.9685629252
+                    "total": 14930.3185185581
                   },
                   {
                     "year": 2035,
-                    "total": 8470.5656771775
+                    "total": 8490.7741911943
                   },
                   {
                     "year": 2040,
-                    "total": 5140.7783740516
+                    "total": 5140.0797289511
                   },
                   {
                     "year": 2045,
-                    "total": 3764.4842585013
+                    "total": 3765.3134911676
                   },
                   {
                     "year": 2050,
-                    "total": 3237.1749192976
+                    "total": 3249.7557341481
                   }
                 ]
               },
@@ -1854,11 +1891,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": -3481.1588053179
+                    "total": -3481.9047784811
                   },
                   {
                     "year": 2040,
-                    "total": -4476.3877175349
+                    "total": -4477.017647926
                   },
                   {
                     "year": 2045,
@@ -1891,7 +1928,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 5732.0672135875
+                    "total": 5736.7888708711
                   },
                   {
                     "year": 2040,
@@ -1899,11 +1936,11 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 6042.439627274
+                    "total": 6042.2962518457
                   },
                   {
                     "year": 2050,
-                    "total": 6327.6793359451
+                    "total": 6327.5359605169
                   }
                 ]
               }
@@ -1925,27 +1962,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.3341105856
+                    "total": 0.3338431789
                   },
                   {
                     "year": 2030,
-                    "total": 0.379567131
+                    "total": 0.3809431752
                   },
                   {
                     "year": 2035,
-                    "total": 0.3557738741
+                    "total": 0.3580305399
                   },
                   {
                     "year": 2040,
-                    "total": 0.3276196053
+                    "total": 0.3287151034
                   },
                   {
                     "year": 2045,
-                    "total": 0.4037079777
+                    "total": 0.4022391695
                   },
                   {
                     "year": 2050,
-                    "total": 0.4872732174
+                    "total": 0.4842554729
                   }
                 ]
               }
@@ -2086,11 +2123,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": -3481.1588053179
+                    "total": -3481.9047784811
                   },
                   {
                     "year": 2040,
-                    "total": -4476.3877175349
+                    "total": -4477.017647926
                   },
                   {
                     "year": 2045,
@@ -2123,7 +2160,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 5732.0672135875
+                    "total": 5736.7888708711
                   },
                   {
                     "year": 2040,
@@ -2131,11 +2168,11 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 6042.439627274
+                    "total": 6042.2962518457
                   },
                   {
                     "year": 2050,
-                    "total": 6327.6793359451
+                    "total": 6327.5359605169
                   }
                 ]
               }
@@ -2231,11 +2268,11 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 665.8915573149
+                    "total": 667.2782932093
                   },
                   {
                     "year": 2030,
-                    "total": 497.9665892317
+                    "total": 511.0119030983
                   },
                   {
                     "year": 2035,
@@ -2243,15 +2280,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 497.9665892317
+                    "total": 511.0119030983
                   },
                   {
                     "year": 2045,
-                    "total": 207.4328536198
+                    "total": 208.9969727296
                   },
                   {
                     "year": 2050,
-                    "total": 404.9316198106
+                    "total": 417.5124346611
                   }
                 ]
               },
@@ -2272,11 +2309,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 883.5114620517
+                    "total": 883.5113731747
                   },
                   {
                     "year": 2035,
-                    "total": 616.2038143921
+                    "total": 616.2082311371
                   },
                   {
                     "year": 2040,
@@ -2305,7 +2342,7 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 4352.8333515298
+                    "total": 4367.7954087437
                   },
                   {
                     "year": 2030,
@@ -2313,7 +2350,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 1113.8553131614
+                    "total": 1113.8562947941
                   },
                   {
                     "year": 2040,
@@ -2342,19 +2379,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 1660.3640421035
+                    "total": 1655.2711215738
                   },
                   {
                     "year": 2030,
-                    "total": 1264.2141097999
+                    "total": 1259.1211892702
                   },
                   {
                     "year": 2035,
-                    "total": 868.059183776
+                    "total": 862.9660789635
                   },
                   {
                     "year": 2040,
-                    "total": 468.0357959081
+                    "total": 466.8143884344
                   },
                   {
                     "year": 2045,
@@ -2371,7 +2408,7 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 12168.887809353
+                    "total": 12168.8878093529
                   },
                   {
                     "year": 2020,
@@ -2379,19 +2416,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 9772.9319022423
+                    "total": 9802.509616335
                   },
                   {
                     "year": 2030,
-                    "total": 4176.0070469379
+                    "total": 4193.9199667892
                   },
                   {
                     "year": 2035,
-                    "total": 1702.5885373921
+                    "total": 1702.6394004696
                   },
                   {
                     "year": 2040,
-                    "total": 219.2300007609
+                    "total": 206.7074492676
                   },
                   {
                     "year": 2045,
@@ -2420,11 +2457,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 3118.3564718121
+                    "total": 3148.8412031338
                   },
                   {
                     "year": 2035,
-                    "total": 2116.5084005049
+                    "total": 2141.7537578789
                   },
                   {
                     "year": 2040,
@@ -2432,7 +2469,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 842.1102058449
+                    "total": 841.3753194013
                   },
                   {
                     "year": 2050,
@@ -2515,7 +2552,44 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 430398.1640190516
+                    "total": 431023.5196830374
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -2574,19 +2648,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 65.0942799817
+                    "total": 66.200677392
                   },
                   {
                     "year": 2030,
-                    "total": 32.1399007815
+                    "total": 33.0779750426
                   },
                   {
                     "year": 2035,
-                    "total": 8.6194232435
+                    "total": 9.2997435406
                   },
                   {
                     "year": 2040,
-                    "total": 1.2455015295
+                    "total": 1.0648009308
                   },
                   {
                     "year": 2045,
@@ -2759,27 +2833,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 1.3788046765
+                    "total": 1.4233402297
                   },
                   {
                     "year": 2030,
-                    "total": 8.4678020811
+                    "total": 8.6896345058
                   },
                   {
                     "year": 2035,
-                    "total": 8.4678020811
+                    "total": 8.6896345058
                   },
                   {
                     "year": 2040,
-                    "total": 8.4678020811
+                    "total": 8.6896345058
                   },
                   {
                     "year": 2045,
-                    "total": 8.4640036524
+                    "total": 8.689512526
                   },
                   {
                     "year": 2050,
-                    "total": 6.8857648025
+                    "total": 7.0996985331
                   }
                 ]
               },
@@ -2804,11 +2878,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 11.8408081314
+                    "total": 11.9086238736
                   },
                   {
                     "year": 2040,
-                    "total": 9.0753574799
+                    "total": 9.1326238791
                   },
                   {
                     "year": 2045,
@@ -2833,7 +2907,7 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 33.5845502488
+                    "total": 34.0529680973
                   },
                   {
                     "year": 2030,
@@ -2911,11 +2985,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 43.349356117
+                    "total": 43.7733440352
                   },
                   {
                     "year": 2035,
-                    "total": 29.4368344994
+                    "total": 29.7879521263
                   },
                   {
                     "year": 2040,
@@ -2923,7 +2997,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 11.7122420841
+                    "total": 11.7020211321
                   },
                   {
                     "year": 2050,
@@ -3018,27 +3092,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 76.2857958247
+                    "total": 75.416168342
                   },
                   {
                     "year": 2030,
-                    "total": 43.4454070364
+                    "total": 42.7131979462
                   },
                   {
                     "year": 2035,
-                    "total": 19.6749110633
+                    "total": 18.7460856462
                   },
                   {
                     "year": 2040,
-                    "total": 15.4036232595
+                    "total": 15.6112423358
                   },
                   {
                     "year": 2045,
-                    "total": 3.6423679301
+                    "total": 3.6698327082
                   },
                   {
                     "year": 2050,
-                    "total": 7.1103006112
+                    "total": 7.3312104418
                   }
                 ]
               },
@@ -3055,27 +3129,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 42.3670921889
+                    "total": 42.7196259649
                   },
                   {
                     "year": 2030,
-                    "total": 51.6222052259
+                    "total": 51.6165986646
                   },
                   {
                     "year": 2035,
-                    "total": 75.976409438
+                    "total": 75.5711583903
                   },
                   {
                     "year": 2040,
-                    "total": 95.9701570872
+                    "total": 95.8415992935
                   },
                   {
                     "year": 2045,
-                    "total": 96.3539833287
+                    "total": 96.3524875284
                   },
                   {
                     "year": 2050,
-                    "total": 103.7033175654
+                    "total": 103.7018217651
                   }
                 ]
               },
@@ -3092,15 +3166,15 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 61.5190322188
+                    "total": 61.1991308651
                   },
                   {
                     "year": 2030,
-                    "total": 50.170063158
+                    "total": 50.0188019191
                   },
                   {
                     "year": 2035,
-                    "total": 45.9132955272
+                    "total": 46.2808619461
                   },
                   {
                     "year": 2040,
@@ -3108,11 +3182,11 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 98.612443567
+                    "total": 97.8179670044
                   },
                   {
                     "year": 2050,
-                    "total": 154.659800061
+                    "total": 153.2789478227
                   }
                 ]
               },
@@ -3133,19 +3207,19 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 67.3001983243
+                    "total": 67.6012391604
                   },
                   {
                     "year": 2035,
-                    "total": 61.0930370667
+                    "total": 61.3875265722
                   },
                   {
                     "year": 2040,
-                    "total": 59.1200741289
+                    "total": 59.4145636344
                   },
                   {
                     "year": 2045,
-                    "total": 23.5339424161
+                    "total": 23.8284319215
                   },
                   {
                     "year": 2050,
@@ -3215,15 +3289,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 216.7117113477
+                    "total": 217.2612951322
                   },
                   {
                     "year": 2045,
-                    "total": 241.2780854797
+                    "total": 242.2917603942
                   },
                   {
                     "year": 2050,
-                    "total": 263.0859339965
+                    "total": 263.2297724516
                   }
                 ]
               }
@@ -3245,27 +3319,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 1009.4856838639
+                    "total": 466.1234828639
                   },
                   {
                     "year": 2030,
-                    "total": 2615.0948969007
+                    "total": 1691.4487958747
                   },
                   {
                     "year": 2035,
-                    "total": 2800.6279615987
+                    "total": 1868.3880312299
                   },
                   {
                     "year": 2040,
-                    "total": 4559.1572875577
+                    "total": 3531.6031978882
                   },
                   {
                     "year": 2045,
-                    "total": 3628.2587406966
+                    "total": 2601.1003679549
                   },
                   {
                     "year": 2050,
-                    "total": 4696.5717149633
+                    "total": 2766.1792210751
                   }
                 ]
               }
@@ -3295,11 +3369,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 25.4581365308
+                    "total": 24.2055570985
                   },
                   {
                     "year": 2040,
-                    "total": 75.5789249027
+                    "total": 75.1837726617
                   },
                   {
                     "year": 2045,
@@ -3361,7 +3435,7 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 26.0295523705
+                    "total": 27.255351762
                   },
                   {
                     "year": 2030,
@@ -3415,15 +3489,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 10.7042347769
+                    "total": 10.7430623258
                   },
                   {
                     "year": 2045,
-                    "total": 12.3131089651
+                    "total": 12.3847240917
                   },
                   {
                     "year": 2050,
-                    "total": 13.8418066071
+                    "total": 13.8533135491
                   }
                 ]
               }
@@ -4231,6 +4305,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 410238.5882423358
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -5948,6 +6059,43 @@ export default {
                     "total": 438471.6823123883
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -7661,6 +7809,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 456878.6596919995
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -9378,6 +9563,43 @@ export default {
                     "total": 552259.945737933
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -11091,6 +11313,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 552259.945737933
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -12808,6 +13067,43 @@ export default {
                     "total": 552259.945737933
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -14521,6 +14817,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 490935.8529934916
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -16238,6 +16571,43 @@ export default {
                     "total": 293856.8995348614
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -17951,6 +18321,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 349630.0068343647
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -19668,6 +20075,43 @@ export default {
                     "total": 379124.7930099457
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -21381,6 +21825,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 293903.845088412
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -23098,6 +23579,43 @@ export default {
                     "total": 391131.3078390309
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -24811,6 +25329,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 447979.7891064649
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -26528,6 +27083,43 @@ export default {
                     "total": 471134.8241948878
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -28241,6 +28833,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 393441.549309776
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -29958,6 +30587,43 @@ export default {
                     "total": 540802.6605904019
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -31671,6 +32337,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 554148.2434693965
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -33388,6 +34091,43 @@ export default {
                     "total": 491116.4602809462
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -35101,6 +35841,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 701276.0997158649
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -36818,6 +37595,43 @@ export default {
                     "total": 693586.652953058
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -38533,6 +39347,43 @@ export default {
                     "total": 731659.3048701866
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -40246,6 +41097,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 740302.9711596292
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }

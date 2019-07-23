@@ -578,43 +578,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -798,14 +761,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -817,30 +775,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.5271731884
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.8252607007
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3687746546
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 8.6596995248
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -951,6 +914,43 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -995,43 +995,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -1065,6 +1028,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -1681,80 +1681,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -2084,6 +2010,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5271731884
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.8252607007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.29294922
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.3687746546
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6596995248
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -2485,19 +2485,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 1697.8437679484
+                    "total": 1731.0717583906
                   },
                   {
                     "year": 2030,
-                    "total": 1081.3095172774
+                    "total": 1114.5375077195
                   },
                   {
                     "year": 2035,
-                    "total": 247.4894776815
+                    "total": 280.7174681237
                   },
                   {
                     "year": 2040,
-                    "total": 15.346
+                    "total": 23.3146001675
                   },
                   {
                     "year": 2045,
@@ -2559,27 +2559,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 259.3316298177
+                    "total": 309.0133236344
                   },
                   {
                     "year": 2030,
-                    "total": 779.4059083146
+                    "total": 876.7784907159
                   },
                   {
                     "year": 2035,
-                    "total": 1566.387617949
+                    "total": 1719.4182177983
                   },
                   {
                     "year": 2040,
-                    "total": 2133.2250094386
+                    "total": 2431.6275941512
                   },
                   {
                     "year": 2045,
-                    "total": 2384.2752422276
+                    "total": 2739.8704231797
                   },
                   {
                     "year": 2050,
-                    "total": 2606.0409172761
+                    "total": 2885.6762738389
                   }
                 ]
               },
@@ -2596,19 +2596,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 20.827484703
+                    "total": 0.016
                   },
                   {
                     "year": 2030,
-                    "total": 20.818484703
+                    "total": 0.007
                   },
                   {
                     "year": 2035,
-                    "total": 20.813484703
+                    "total": 0.002
                   },
                   {
                     "year": 2040,
-                    "total": 4.990924768
+                    "total": 0.0
                   },
                   {
                     "year": 2045,
@@ -2633,27 +2633,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 305.3160179965
+                    "total": 390.5265282691
                   },
                   {
                     "year": 2030,
-                    "total": 596.8966319322
+                    "total": 707.3320101778
                   },
                   {
                     "year": 2035,
-                    "total": 600.6917775024
+                    "total": 712.8131619441
                   },
                   {
                     "year": 2040,
-                    "total": 403.3907181944
+                    "total": 455.7556197262
                   },
                   {
                     "year": 2045,
-                    "total": 134.3325628546
+                    "total": 149.9743455217
                   },
                   {
                     "year": 2050,
-                    "total": 72.0135128516
+                    "total": 79.7155969311
                   }
                 ]
               },
@@ -2670,19 +2670,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 4.582970545
+                    "total": 0.0054629119
                   },
                   {
                     "year": 2030,
-                    "total": 4.582970545
+                    "total": 0.0054629119
                   },
                   {
                     "year": 2035,
-                    "total": 4.5789820678
+                    "total": 0.0014744348
                   },
                   {
                     "year": 2040,
-                    "total": 1.0978109212
+                    "total": 5.1845e-05
                   },
                   {
                     "year": 2045,
@@ -2749,19 +2749,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 9772.9319022423
+                    "total": 9802.509616335
                   },
                   {
                     "year": 2030,
-                    "total": 4176.0070469379
+                    "total": 4193.9199667892
                   },
                   {
                     "year": 2035,
-                    "total": 1702.5885373921
+                    "total": 1702.6394004696
                   },
                   {
                     "year": 2040,
-                    "total": 219.2300007609
+                    "total": 206.7074492676
                   },
                   {
                     "year": 2045,
@@ -2790,11 +2790,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 3118.3564718121
+                    "total": 3148.8412031338
                   },
                   {
                     "year": 2035,
-                    "total": 2116.5084005049
+                    "total": 2141.7537578789
                   },
                   {
                     "year": 2040,
@@ -2802,7 +2802,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 842.1102058449
+                    "total": 841.3753194013
                   },
                   {
                     "year": 2050,
@@ -2865,27 +2865,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 69.695945801
+                    "total": 71.3722776648
                   },
                   {
                     "year": 2030,
-                    "total": 39.477336187
+                    "total": 41.3137870231
                   },
                   {
                     "year": 2035,
-                    "total": 12.1733277107
+                    "total": 14.016560386
                   },
                   {
                     "year": 2040,
-                    "total": 1.9148698229
+                    "total": 2.0433062294
                   },
                   {
                     "year": 2045,
-                    "total": 0.5888196783
+                    "total": 0.6517376283
                   },
                   {
                     "year": 2050,
-                    "total": 0.2913794319
+                    "total": 0.3223605132
                   }
                 ]
               },
@@ -2939,27 +2939,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 3.3625827852
+                    "total": 4.0959688319
                   },
                   {
                     "year": 2030,
-                    "total": 8.5612843391
+                    "total": 9.7668953478
                   },
                   {
                     "year": 2035,
-                    "total": 15.0489954084
+                    "total": 16.7220404325
                   },
                   {
                     "year": 2040,
-                    "total": 18.7494946294
+                    "total": 21.3283185588
                   },
                   {
                     "year": 2045,
-                    "total": 20.2111818438
+                    "total": 23.212268999
                   },
                   {
                     "year": 2050,
-                    "total": 21.8654806286
+                    "total": 24.2116309527
                   }
                 ]
               },
@@ -2976,19 +2976,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.840284973
+                    "total": 0.0007907404
                   },
                   {
                     "year": 2030,
-                    "total": 0.8398398709
+                    "total": 0.0003456384
                   },
                   {
                     "year": 2035,
-                    "total": 0.8395936962
+                    "total": 9.94637e-05
                   },
                   {
                     "year": 2040,
-                    "total": 0.2013240582
+                    "total": 0.0
                   },
                   {
                     "year": 2045,
@@ -3042,43 +3042,6 @@ export default {
           {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.2658763337
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7201989708
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1.2294801987
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.6365744495
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7.1956615766
-                  },
-                  {
-                    "year": 2050,
-                    "total": 6.5309515264
-                  }
-                ]
-              },
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -3263,14 +3226,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3282,30 +3240,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.2658763337
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.7201989708
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 1.2294801987
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3.6365744495
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 7.1956615766
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 6.5309515264
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -3356,27 +3319,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 2.3660973007
+                    "total": 1.9013828775
                   },
                   {
                     "year": 2030,
-                    "total": 13.9149781456
+                    "total": 13.2827356381
                   },
                   {
                     "year": 2035,
-                    "total": 22.3914502074
+                    "total": 21.6278193787
                   },
                   {
                     "year": 2040,
-                    "total": 30.1313584029
+                    "total": 29.2321274951
                   },
                   {
                     "year": 2045,
-                    "total": 34.3501897899
+                    "total": 33.2359570968
                   },
                   {
                     "year": 2050,
-                    "total": 37.9368575337
+                    "total": 36.6677792377
                   }
                 ]
               },
@@ -3393,27 +3356,64 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 2.4400254102
+                    "total": 2.0653375585
                   },
                   {
                     "year": 2030,
-                    "total": 1.5807208005
+                    "total": 1.0843760517
                   },
                   {
                     "year": 2035,
-                    "total": 0.8875680296
+                    "total": 0.2812813491
                   },
                   {
                     "year": 2040,
-                    "total": 0.9336724243
+                    "total": 0.2029006886
                   },
                   {
                     "year": 2045,
-                    "total": 0.979776819
+                    "total": 0.2029006886
                   },
                   {
                     "year": 2050,
-                    "total": 1.0729869124
+                    "total": 0.1238053497
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -3460,43 +3460,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 8.9365040361
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.711679303
-                  },
-                  {
-                    "year": 2040,
-                    "total": 40.8230452115
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.3140873297
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6711111353
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -3513,11 +3476,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 43.349356117
+                    "total": 43.7733440352
                   },
                   {
                     "year": 2035,
-                    "total": 29.4368344994
+                    "total": 29.7879521263
                   },
                   {
                     "year": 2040,
@@ -3525,11 +3488,48 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 11.7122420841
+                    "total": 11.7020211321
                   },
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.5125161179
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.4043415304
+                  },
+                  {
+                    "year": 2040,
+                    "total": 40.8230452115
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.322978885
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6697817387
                   }
                 ]
               }
@@ -3741,27 +3741,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 353.3770046683
+                    "total": 422.0827930182
                   },
                   {
                     "year": 2030,
-                    "total": 768.4826063303
+                    "total": 874.8945843808
                   },
                   {
                     "year": 2035,
-                    "total": 1196.7552258038
+                    "total": 1334.0238785807
                   },
                   {
                     "year": 2040,
-                    "total": 1420.5572891816
+                    "total": 1612.606439361
                   },
                   {
                     "year": 2045,
-                    "total": 1508.9585026508
+                    "total": 1726.5456615165
                   },
                   {
                     "year": 2050,
-                    "total": 1609.0086451812
+                    "total": 1786.9859553628
                   }
                 ]
               },
@@ -3816,31 +3816,31 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 63577.4426480961
+                    "total": 63577.4426480962
                   },
                   {
                     "year": 2025,
-                    "total": 60479.5047138596
+                    "total": 63975.3622528484
                   },
                   {
                     "year": 2030,
-                    "total": 59779.3289314037
+                    "total": 65061.0825698627
                   },
                   {
                     "year": 2035,
-                    "total": 60363.0185205887
+                    "total": 67049.2761097534
                   },
                   {
                     "year": 2040,
-                    "total": 61137.618531166
+                    "total": 69079.1947395812
                   },
                   {
                     "year": 2045,
-                    "total": 61729.0115790579
+                    "total": 70821.5682033833
                   },
                   {
                     "year": 2050,
-                    "total": 65594.1830046257
+                    "total": 72631.8225862531
                   }
                 ]
               },
@@ -3914,7 +3914,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 5244.7129925095
+                    "total": 5173.7698032977
                   }
                 ]
               },
@@ -3931,27 +3931,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 11460.6317013845
+                    "total": 8254.4179630022
                   },
                   {
                     "year": 2030,
-                    "total": 13227.0015114474
+                    "total": 8332.6362062761
                   },
                   {
                     "year": 2035,
-                    "total": 14571.8849267292
+                    "total": 8355.7681889425
                   },
                   {
                     "year": 2040,
-                    "total": 15725.8579206185
+                    "total": 8355.7681889425
                   },
                   {
                     "year": 2045,
-                    "total": 16842.8279489923
+                    "total": 8355.7681889425
                   },
                   {
                     "year": 2050,
-                    "total": 14577.0168354136
+                    "total": 8355.7681889425
                   }
                 ]
               },
@@ -3968,27 +3968,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 632.1066882531
+                    "total": 342.4628876466
                   },
                   {
                     "year": 2030,
-                    "total": 666.1170757895
+                    "total": 278.7287425019
                   },
                   {
                     "year": 2035,
-                    "total": 700.1274633259
+                    "total": 229.9866119479
                   },
                   {
                     "year": 2040,
-                    "total": 734.1378508623
+                    "total": 162.6513741232
                   },
                   {
                     "year": 2045,
-                    "total": 768.1482383987
+                    "total": 162.6513741232
                   },
                   {
                     "year": 2050,
-                    "total": 840.2182009999
+                    "total": 94.7704550555
                   }
                 ]
               },
@@ -4121,19 +4121,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 65.0942799817
+                    "total": 66.200677392
                   },
                   {
                     "year": 2030,
-                    "total": 32.1399007815
+                    "total": 33.0779750426
                   },
                   {
                     "year": 2035,
-                    "total": 8.6194232435
+                    "total": 9.2997435406
                   },
                   {
                     "year": 2040,
-                    "total": 1.2455015295
+                    "total": 1.0648009308
                   },
                   {
                     "year": 2045,
@@ -4142,80 +4142,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0015392129
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 7.8258929023
-                  },
-                  {
-                    "year": 2030,
-                    "total": 19.8306323868
-                  },
-                  {
-                    "year": 2035,
-                    "total": 13.0271436067
-                  },
-                  {
-                    "year": 2040,
-                    "total": 15.7745603474
-                  },
-                  {
-                    "year": 2045,
-                    "total": 15.2871847499
-                  },
-                  {
-                    "year": 2050,
-                    "total": 10.9724162467
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 8.9365040361
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.711679303
-                  },
-                  {
-                    "year": 2040,
-                    "total": 40.8230452115
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.3140873297
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6711111353
                   }
                 ]
               },
@@ -4269,27 +4195,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 5.7286800859
+                    "total": 5.9973517094
                   },
                   {
                     "year": 2030,
-                    "total": 22.4762624847
+                    "total": 23.0496309859
                   },
                   {
                     "year": 2035,
-                    "total": 37.4404456159
+                    "total": 38.3498598112
                   },
                   {
                     "year": 2040,
-                    "total": 48.8808530323
+                    "total": 50.5604460539
                   },
                   {
                     "year": 2045,
-                    "total": 54.5613716649
+                    "total": 56.4482261271
                   },
                   {
                     "year": 2050,
-                    "total": 59.8023381624
+                    "total": 60.8794101904
                   }
                 ]
               },
@@ -4306,27 +4232,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 7.0416912295
+                    "total": 7.2369378313
                   },
                   {
                     "year": 2030,
-                    "total": 8.918156206
+                    "total": 9.3201880322
                   },
                   {
                     "year": 2035,
-                    "total": 4.4414724968
+                    "total": 4.9980981945
                   },
                   {
                     "year": 2040,
-                    "total": 1.6030407176
+                    "total": 1.1814059872
                   },
                   {
                     "year": 2045,
-                    "total": 1.5201199274
+                    "total": 0.806161747
                   },
                   {
                     "year": 2050,
-                    "total": 1.3628271313
+                    "total": 0.44462665
                   }
                 ]
               },
@@ -4380,19 +4306,19 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.067841467
+                    "total": 9.30363e-05
                   },
                   {
                     "year": 2030,
-                    "total": 0.067841467
+                    "total": 9.30363e-05
                   },
                   {
                     "year": 2035,
-                    "total": 0.0677750382
+                    "total": 2.41561e-05
                   },
                   {
                     "year": 2040,
-                    "total": 0.0162485056
+                    "total": 7.673e-07
                   },
                   {
                     "year": 2045,
@@ -4421,11 +4347,11 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 43.349356117
+                    "total": 43.7733440352
                   },
                   {
                     "year": 2035,
-                    "total": 29.4368344994
+                    "total": 29.7879521263
                   },
                   {
                     "year": 2040,
@@ -4433,7 +4359,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 11.7122420841
+                    "total": 11.7020211321
                   },
                   {
                     "year": 2050,
@@ -4491,15 +4417,15 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 5.6505379543
+                    "total": 4.8110437218
                   },
                   {
                     "year": 2030,
-                    "total": 5.6500928523
+                    "total": 4.8105986197
                   },
                   {
                     "year": 2035,
-                    "total": 5.6498367312
+                    "total": 4.8103477203
                   },
                   {
                     "year": 2040,
@@ -4536,11 +4462,11 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 9.9464e-06
+                    "total": 4.7247e-06
                   },
                   {
                     "year": 2040,
-                    "total": 0.2013240582
+                    "total": 0.0
                   },
                   {
                     "year": 2045,
@@ -4549,6 +4475,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 7.8258929023
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.8306323868
+                  },
+                  {
+                    "year": 2035,
+                    "total": 13.0271436067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.7745603474
+                  },
+                  {
+                    "year": 2045,
+                    "total": 15.2871847499
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.9724162467
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.5125161179
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.4043415304
+                  },
+                  {
+                    "year": 2040,
+                    "total": 40.8230452115
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.322978885
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6697817387
                   }
                 ]
               }
@@ -4570,27 +4570,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 55006.2984854462
+                    "total": 58894.5391071134
                   },
                   {
                     "year": 2030,
-                    "total": 58591.0513284381
+                    "total": 64214.7737855281
                   },
                   {
                     "year": 2035,
-                    "total": 51756.9435969157
+                    "total": 58574.9302309416
                   },
                   {
                     "year": 2040,
-                    "total": 53696.5625347193
+                    "total": 60661.9946938084
                   },
                   {
                     "year": 2045,
-                    "total": 52292.1522953516
+                    "total": 60310.4545852505
                   },
                   {
                     "year": 2050,
-                    "total": 64576.9949763852
+                    "total": 70714.9172957297
                   }
                 ]
               },
@@ -4664,7 +4664,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 3561.9675143926
+                    "total": 3224.3523155587
                   }
                 ]
               },
@@ -4681,27 +4681,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 3111.9932146867
+                    "total": 2100.5196106041
                   },
                   {
                     "year": 2030,
-                    "total": 4155.8605469865
+                    "total": 2561.7188063191
                   },
                   {
                     "year": 2035,
-                    "total": 5128.6713911761
+                    "total": 3010.1861985399
                   },
                   {
                     "year": 2040,
-                    "total": 6220.051095092
+                    "total": 3597.7368886746
                   },
                   {
                     "year": 2045,
-                    "total": 6581.0016061773
+                    "total": 3385.1950805641
                   },
                   {
                     "year": 2050,
-                    "total": 7130.7867662026
+                    "total": 3453.3072148316
                   }
                 ]
               },
@@ -4755,27 +4755,27 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 2724.8583796109
+                    "total": 1491.6532571213
                   },
                   {
                     "year": 2030,
-                    "total": 2776.6024229151
+                    "total": 1142.0990112033
                   },
                   {
                     "year": 2035,
-                    "total": 2935.4393537135
+                    "total": 922.9362700338
                   },
                   {
                     "year": 2040,
-                    "total": 3604.3186909536
+                    "total": 817.5527905342
                   },
                   {
                     "year": 2045,
-                    "total": 3253.1132153102
+                    "total": 674.8768173497
                   },
                   {
                     "year": 2050,
-                    "total": 3582.7427812425
+                    "total": 424.3637789143
                   }
                 ]
               },
@@ -4837,7 +4837,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 10976.3962565805
+                    "total": 10940.0567538812
                   },
                   {
                     "year": 2040,
@@ -4845,11 +4845,11 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 13465.1894197429
+                    "total": 13466.8260283186
                   },
                   {
                     "year": 2050,
-                    "total": 14194.70873226
+                    "total": 14196.3453408357
                   }
                 ]
               },
@@ -5508,43 +5508,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.2658763337
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7201989708
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1.2294801987
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.6365744495
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7.1956615766
-                  },
-                  {
-                    "year": 2050,
-                    "total": 6.5309515264
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -5728,14 +5691,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -5747,30 +5705,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.2658763337
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.7201989708
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 1.2294801987
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3.6365744495
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 7.1956615766
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 6.5309515264
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -5881,6 +5844,43 @@ export default {
                     "total": 0.1238053497
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -5925,43 +5925,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 8.5792218129
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.711679303
-                  },
-                  {
-                    "year": 2040,
-                    "total": 40.8230452115
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.243887111
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6816069296
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -5995,6 +5958,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.5792218129
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.711679303
+                  },
+                  {
+                    "year": 2040,
+                    "total": 40.8230452115
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.243887111
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6816069296
                   }
                 ]
               }
@@ -6482,7 +6482,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 75049.9417054817
+                    "total": 75049.9417054816
                   },
                   {
                     "year": 2045,
@@ -6607,80 +6607,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0015392129
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 7.8258929023
-                  },
-                  {
-                    "year": 2030,
-                    "total": 19.8306323868
-                  },
-                  {
-                    "year": 2035,
-                    "total": 13.0271436067
-                  },
-                  {
-                    "year": 2040,
-                    "total": 15.7745603474
-                  },
-                  {
-                    "year": 2045,
-                    "total": 15.2871847499
-                  },
-                  {
-                    "year": 2050,
-                    "total": 10.9724162467
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 8.5792218129
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.711679303
-                  },
-                  {
-                    "year": 2040,
-                    "total": 40.8230452115
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.243887111
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6816069296
                   }
                 ]
               },
@@ -7016,6 +6942,80 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 7.8258929023
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.8306323868
+                  },
+                  {
+                    "year": 2035,
+                    "total": 13.0271436067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.7745603474
+                  },
+                  {
+                    "year": 2045,
+                    "total": 15.2871847499
+                  },
+                  {
+                    "year": 2050,
+                    "total": 10.9724162467
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 8.5792218129
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.711679303
+                  },
+                  {
+                    "year": 2040,
+                    "total": 40.8230452115
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.243887111
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6816069296
+                  }
+                ]
               }
             ]
           },
@@ -7047,7 +7047,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 60661.9946938083
+                    "total": 60661.9946938084
                   },
                   {
                     "year": 2045,
@@ -7973,43 +7973,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.2658763337
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7201989708
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1.2294801987
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.6365744495
-                  },
-                  {
-                    "year": 2045,
-                    "total": 4.4312122518
-                  },
-                  {
-                    "year": 2050,
-                    "total": 6.4869266657
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -8193,14 +8156,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -8212,30 +8170,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.2658763337
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.7201989708
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 1.2294801987
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3.6365744495
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4.4312122518
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 6.4869266657
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -8346,6 +8309,43 @@ export default {
                     "total": 3.2275192376
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -8390,43 +8390,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6.6827377469
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.4043415304
-                  },
-                  {
-                    "year": 2040,
-                    "total": 39.1481760413
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.243887111
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6816069296
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -8460,6 +8423,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.6827377469
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.4043415304
+                  },
+                  {
+                    "year": 2040,
+                    "total": 39.1481760413
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.243887111
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6816069296
                   }
                 ]
               }
@@ -8844,7 +8844,7 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 5173.7698032976
+                    "total": 5173.7698032977
                   }
                 ]
               },
@@ -8947,7 +8947,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 75049.9417054817
+                    "total": 75049.9417054816
                   },
                   {
                     "year": 2045,
@@ -9072,80 +9072,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0017102366
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 7.8258929023
-                  },
-                  {
-                    "year": 2030,
-                    "total": 19.8306323868
-                  },
-                  {
-                    "year": 2035,
-                    "total": 13.0271436067
-                  },
-                  {
-                    "year": 2040,
-                    "total": 11.9936508259
-                  },
-                  {
-                    "year": 2045,
-                    "total": 12.1657353598
-                  },
-                  {
-                    "year": 2050,
-                    "total": 7.8245573779
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6.6827377469
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.4043415304
-                  },
-                  {
-                    "year": 2040,
-                    "total": 39.1481760413
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.243887111
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6816069296
                   }
                 ]
               },
@@ -9479,6 +9405,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 7.8258929023
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.8306323868
+                  },
+                  {
+                    "year": 2035,
+                    "total": 13.0271436067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 11.9936508259
+                  },
+                  {
+                    "year": 2045,
+                    "total": 12.1657353598
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.8245573779
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.6827377469
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.4043415304
+                  },
+                  {
+                    "year": 2040,
+                    "total": 39.1481760413
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.243887111
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6816069296
                   }
                 ]
               }
@@ -10438,43 +10438,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.2658763337
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7201989708
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1.2294801987
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.6365744495
-                  },
-                  {
-                    "year": 2045,
-                    "total": 4.4312122518
-                  },
-                  {
-                    "year": 2050,
-                    "total": 6.4869266657
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -10658,14 +10621,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -10677,30 +10635,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.2658763337
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.7201989708
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 1.2294801987
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 3.6365744495
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 4.4312122518
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 6.4869266657
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -10811,6 +10774,43 @@ export default {
                     "total": 3.2999697603
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -10855,43 +10855,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6.1685904054
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.4043415304
-                  },
-                  {
-                    "year": 2040,
-                    "total": 39.0269854565
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.243887111
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6816069296
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -10925,6 +10888,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.1685904054
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.4043415304
+                  },
+                  {
+                    "year": 2040,
+                    "total": 39.0269854565
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.243887111
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6816069296
                   }
                 ]
               }
@@ -11211,7 +11211,7 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 63577.4426480962
+                    "total": 63577.4426480961
                   },
                   {
                     "year": 2025,
@@ -11537,80 +11537,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0017102366
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 7.8258929023
-                  },
-                  {
-                    "year": 2030,
-                    "total": 19.8306323868
-                  },
-                  {
-                    "year": 2035,
-                    "total": 13.0271436067
-                  },
-                  {
-                    "year": 2040,
-                    "total": 11.9936508259
-                  },
-                  {
-                    "year": 2045,
-                    "total": 11.8636264294
-                  },
-                  {
-                    "year": 2050,
-                    "total": 7.7521068553
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.6286016465
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6.1685904054
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.4043415304
-                  },
-                  {
-                    "year": 2040,
-                    "total": 39.0269854565
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.243887111
-                  },
-                  {
-                    "year": 2050,
-                    "total": 58.6816069296
                   }
                 ]
               },
@@ -11944,6 +11870,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 7.8258929023
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.8306323868
+                  },
+                  {
+                    "year": 2035,
+                    "total": 13.0271436067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 11.9936508259
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.8636264294
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.7521068553
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.6286016465
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.1685904054
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.4043415304
+                  },
+                  {
+                    "year": 2040,
+                    "total": 39.0269854565
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.243887111
+                  },
+                  {
+                    "year": 2050,
+                    "total": 58.6816069296
                   }
                 ]
               }
@@ -12903,43 +12903,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -13123,14 +13086,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -13142,30 +13100,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.5271731884
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.8252607007
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3687746546
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 8.6596995248
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -13276,6 +13239,43 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -13320,43 +13320,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -13390,6 +13353,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -14006,80 +14006,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -14409,6 +14335,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5271731884
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.8252607007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.29294922
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.3687746546
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6596995248
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -15368,43 +15368,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -15588,14 +15551,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -15607,30 +15565,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.5271731884
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.8252607007
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3687746546
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 8.6596995248
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -15741,6 +15704,43 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -15785,43 +15785,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -15855,6 +15818,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -16141,7 +16141,7 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 63577.4426480962
+                    "total": 63577.4426480961
                   },
                   {
                     "year": 2025,
@@ -16467,80 +16467,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 1.9646500866
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
                   }
                 ]
               },
@@ -16874,6 +16800,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5271731884
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.8252607007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.29294922
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.3687746546
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6596995248
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -17833,43 +17833,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -18053,14 +18016,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -18072,30 +18030,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 0.0
+                    "total": 0.5271731884
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 2.8252607007
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 4.29294922
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.3687746546
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 8.6596995248
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -18206,6 +18169,43 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -18250,43 +18250,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -18320,6 +18283,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -18725,7 +18725,7 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 8332.6362062762
+                    "total": 8332.6362062761
                   },
                   {
                     "year": 2035,
@@ -18932,80 +18932,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 1.9646500866
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5271731884
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.8252607007
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.29294922
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.3687746546
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6596995248
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.6607351127
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.851604279
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.2467820568
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.3623868593
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.248302286
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0958223797
                   }
                 ]
               },
@@ -19339,6 +19265,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5271731884
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.8252607007
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.29294922
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.3687746546
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6596995248
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.6607351127
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.851604279
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.2467820568
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.3623868593
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.248302286
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0958223797
                   }
                 ]
               }
@@ -20298,43 +20298,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 9.9655596683
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -20518,14 +20481,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -20553,14 +20511,19 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 9.9655596683
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -20671,6 +20634,43 @@ export default {
                     "total": 3.1005086804
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -20715,43 +20715,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 12.565391859
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.8302305843
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6248431406
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -20785,6 +20748,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0447942938
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.565391859
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.8302305843
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6248431406
                   }
                 ]
               }
@@ -21401,80 +21401,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 9.6927265101
-                  },
-                  {
-                    "year": 2045,
-                    "total": 17.2849608359
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.3879569639
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 12.565391859
-                  },
-                  {
-                    "year": 2045,
-                    "total": 41.8302305843
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6248431406
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -21804,6 +21730,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.6927265101
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.2849608359
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.3879569639
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 12.565391859
+                  },
+                  {
+                    "year": 2045,
+                    "total": 41.8302305843
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6248431406
                   }
                 ]
               }
@@ -22763,43 +22763,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2.8286389288
-                  },
-                  {
-                    "year": 2030,
-                    "total": 3.3712302024
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.6852833404
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.7230254883
-                  },
-                  {
-                    "year": 2045,
-                    "total": 10.3527087388
-                  },
-                  {
-                    "year": 2050,
-                    "total": 10.620052769
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -22983,14 +22946,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -23002,30 +22960,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 25.8169016172
+                    "total": 2.8286389288
                   },
                   {
                     "year": 2030,
-                    "total": 19.3354688513
+                    "total": 3.3712302024
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 4.6852833404
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.7230254883
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 10.3527087388
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 10.620052769
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -23136,6 +23099,43 @@ export default {
                     "total": 3.1005086804
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 25.8169016172
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.3354688513
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -23180,43 +23180,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 16.3937555229
-                  },
-                  {
-                    "year": 2035,
-                    "total": 48.3378279365
-                  },
-                  {
-                    "year": 2040,
-                    "total": 51.2014867685
-                  },
-                  {
-                    "year": 2045,
-                    "total": 54.4203586257
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6638112272
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -23250,6 +23213,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.3937555229
+                  },
+                  {
+                    "year": 2035,
+                    "total": 48.3378279365
+                  },
+                  {
+                    "year": 2040,
+                    "total": 51.2014867685
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.4203586257
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6638112272
                   }
                 ]
               }
@@ -23663,7 +23663,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 7848.4966494617
+                    "total": 7848.4966494618
                   },
                   {
                     "year": 2045,
@@ -23862,80 +23862,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 36.2866652706
-                  },
-                  {
-                    "year": 2030,
-                    "total": 26.4366064422
-                  },
-                  {
-                    "year": 2035,
-                    "total": 20.1346197748
-                  },
-                  {
-                    "year": 2040,
-                    "total": 18.6617060259
-                  },
-                  {
-                    "year": 2045,
-                    "total": 18.4406970931
-                  },
-                  {
-                    "year": 2050,
-                    "total": 12.0424500645
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 16.3937555229
-                  },
-                  {
-                    "year": 2035,
-                    "total": 48.3378279365
-                  },
-                  {
-                    "year": 2040,
-                    "total": 51.2014867685
-                  },
-                  {
-                    "year": 2045,
-                    "total": 54.4203586257
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6638112272
                   }
                 ]
               },
@@ -24269,6 +24195,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 36.2866652706
+                  },
+                  {
+                    "year": 2030,
+                    "total": 26.4366064422
+                  },
+                  {
+                    "year": 2035,
+                    "total": 20.1346197748
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.6617060259
+                  },
+                  {
+                    "year": 2045,
+                    "total": 18.4406970931
+                  },
+                  {
+                    "year": 2050,
+                    "total": 12.0424500645
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.3937555229
+                  },
+                  {
+                    "year": 2035,
+                    "total": 48.3378279365
+                  },
+                  {
+                    "year": 2040,
+                    "total": 51.2014867685
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.4203586257
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6638112272
                   }
                 ]
               }
@@ -25228,43 +25228,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.246624416
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 9.9655596683
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -25448,14 +25411,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -25471,26 +25429,31 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.0
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 0.0
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.246624416
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 9.9655596683
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -25601,6 +25564,43 @@ export default {
                     "total": 3.1005086804
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -25645,43 +25645,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 11.2067402524
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.191763914
-                  },
-                  {
-                    "year": 2045,
-                    "total": 42.4145537715
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.8040769179
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -25715,6 +25678,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 6.7358365083
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.2067402524
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.191763914
+                  },
+                  {
+                    "year": 2045,
+                    "total": 42.4145537715
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.8040769179
                   }
                 ]
               }
@@ -26331,80 +26331,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 20.0169864753
-                  },
-                  {
-                    "year": 2035,
-                    "total": 18.1709410835
-                  },
-                  {
-                    "year": 2040,
-                    "total": 18.6318047127
-                  },
-                  {
-                    "year": 2045,
-                    "total": 17.2826089637
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.3879569639
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 11.2067402524
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.191763914
-                  },
-                  {
-                    "year": 2045,
-                    "total": 42.4145537715
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.8040769179
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -26734,6 +26660,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 20.0169864753
+                  },
+                  {
+                    "year": 2035,
+                    "total": 18.1709410835
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.6318047127
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.2826089637
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.3879569639
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.2067402524
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.191763914
+                  },
+                  {
+                    "year": 2045,
+                    "total": 42.4145537715
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.8040769179
                   }
                 ]
               }
@@ -27693,43 +27693,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.246624416
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1.0315604731
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -27913,14 +27876,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -27936,26 +27894,31 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.0
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 0.0
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.246624416
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 1.0315604731
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -28066,6 +28029,43 @@ export default {
                     "total": 4.5229059759
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -28110,43 +28110,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 9.8861758178
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.191763914
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.5008618566
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.3213342186
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -28180,6 +28143,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.3936815248
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9.8861758178
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.191763914
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.5008618566
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.3213342186
                   }
                 ]
               }
@@ -28593,7 +28593,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 7848.4966494618
+                    "total": 7848.4966494617
                   },
                   {
                     "year": 2045,
@@ -28792,80 +28792,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 14.3505799885
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.9845179393
-                  },
-                  {
-                    "year": 2040,
-                    "total": 15.2401194332
-                  },
-                  {
-                    "year": 2045,
-                    "total": 11.3514036393
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1.0315604731
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 9.8861758178
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.191763914
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.5008618566
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.3213342186
                   }
                 ]
               },
@@ -29199,6 +29125,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 14.3505799885
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.9845179393
+                  },
+                  {
+                    "year": 2040,
+                    "total": 15.2401194332
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.3514036393
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.0315604731
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9.8861758178
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.191763914
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.5008618566
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.3213342186
                   }
                 ]
               }
@@ -30158,43 +30158,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2.5414559911
-                  },
-                  {
-                    "year": 2030,
-                    "total": 3.3712302024
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5.3753628632
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.8127120628
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.91976225
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -30378,14 +30341,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -30397,30 +30355,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 18.902347588
+                    "total": 2.5414559911
                   },
                   {
                     "year": 2030,
-                    "total": 19.2579416852
+                    "total": 3.3712302024
                   },
                   {
                     "year": 2035,
-                    "total": 3.5312550368
+                    "total": 5.3753628632
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.8127120628
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 0.91976225
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -30531,6 +30494,43 @@ export default {
                     "total": 4.2162971984
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 18.902347588
+                  },
+                  {
+                    "year": 2030,
+                    "total": 19.2579416852
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.5312550368
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -30575,43 +30575,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 16.3937555229
-                  },
-                  {
-                    "year": 2035,
-                    "total": 28.4245258714
-                  },
-                  {
-                    "year": 2040,
-                    "total": 51.2014867685
-                  },
-                  {
-                    "year": 2045,
-                    "total": 54.4203586257
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6638112272
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -30645,6 +30608,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.3937555229
+                  },
+                  {
+                    "year": 2035,
+                    "total": 28.4245258714
+                  },
+                  {
+                    "year": 2040,
+                    "total": 51.2014867685
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.4203586257
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6638112272
                   }
                 ]
               }
@@ -31261,80 +31261,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 27.7935732356
-                  },
-                  {
-                    "year": 2030,
-                    "total": 22.6614305481
-                  },
-                  {
-                    "year": 2035,
-                    "total": 20.8276852383
-                  },
-                  {
-                    "year": 2040,
-                    "total": 9.6710497334
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.91976225
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 16.3937555229
-                  },
-                  {
-                    "year": 2035,
-                    "total": 28.4245258714
-                  },
-                  {
-                    "year": 2040,
-                    "total": 51.2014867685
-                  },
-                  {
-                    "year": 2045,
-                    "total": 54.4203586257
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6638112272
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -31664,6 +31590,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 27.7935732356
+                  },
+                  {
+                    "year": 2030,
+                    "total": 22.6614305481
+                  },
+                  {
+                    "year": 2035,
+                    "total": 20.8276852383
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.6710497334
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.91976225
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.3937555229
+                  },
+                  {
+                    "year": 2035,
+                    "total": 28.4245258714
+                  },
+                  {
+                    "year": 2040,
+                    "total": 51.2014867685
+                  },
+                  {
+                    "year": 2045,
+                    "total": 54.4203586257
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6638112272
                   }
                 ]
               }
@@ -31997,7 +31997,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 27693.5825435281
+                    "total": 27693.5825435282
                   },
                   {
                     "year": 2050,
@@ -32623,43 +32623,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3.8444153308
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.246624416
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 9.9655596683
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -32843,14 +32806,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -32866,26 +32824,31 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 13.1441655612
+                    "total": 0.0
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 3.8444153308
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.246624416
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 9.9655596683
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -32996,6 +32959,43 @@ export default {
                     "total": 3.1005086804
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.1441655612
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -33040,43 +33040,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.0320657278
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.7284861757
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.5008618566
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6248431406
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -33110,6 +33073,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0447942938
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.0320657278
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.7284861757
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.5008618566
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6248431406
                   }
                 ]
               }
@@ -33726,80 +33726,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 20.0169864753
-                  },
-                  {
-                    "year": 2035,
-                    "total": 22.0153564143
-                  },
-                  {
-                    "year": 2040,
-                    "total": 18.6047094966
-                  },
-                  {
-                    "year": 2045,
-                    "total": 17.2826089637
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.3879569639
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 23.0320657278
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.7284861757
-                  },
-                  {
-                    "year": 2045,
-                    "total": 44.5008618566
-                  },
-                  {
-                    "year": 2050,
-                    "total": 57.6248431406
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -34129,6 +34055,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 20.0169864753
+                  },
+                  {
+                    "year": 2035,
+                    "total": 22.0153564143
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.6047094966
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.2826089637
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.3879569639
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 23.0320657278
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.7284861757
+                  },
+                  {
+                    "year": 2045,
+                    "total": 44.5008618566
+                  },
+                  {
+                    "year": 2050,
+                    "total": 57.6248431406
                   }
                 ]
               }
@@ -35088,43 +35088,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 9.9655596683
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -35308,14 +35271,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -35343,14 +35301,19 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 9.9655596683
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -35461,6 +35424,43 @@ export default {
                     "total": 3.1005086804
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -35505,43 +35505,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 9.4173965275
-                  },
-                  {
-                    "year": 2045,
-                    "total": 37.5232293972
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0013507999
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -35575,6 +35538,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 7.6585800332
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.4173965275
+                  },
+                  {
+                    "year": 2045,
+                    "total": 37.5232293972
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0013507999
                   }
                 ]
               }
@@ -35861,7 +35861,7 @@ export default {
                   },
                   {
                     "year": 2020,
-                    "total": 63577.4426480961
+                    "total": 63577.4426480962
                   },
                   {
                     "year": 2025,
@@ -36187,80 +36187,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 9.6927265101
-                  },
-                  {
-                    "year": 2045,
-                    "total": 17.2849608359
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.3879569639
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 9.4173965275
-                  },
-                  {
-                    "year": 2045,
-                    "total": 37.5232293972
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0013507999
                   }
                 ]
               },
@@ -36596,6 +36522,80 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.6927265101
+                  },
+                  {
+                    "year": 2045,
+                    "total": 17.2849608359
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.3879569639
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 9.4173965275
+                  },
+                  {
+                    "year": 2045,
+                    "total": 37.5232293972
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0013507999
+                  }
+                ]
               }
             ]
           },
@@ -36631,7 +36631,7 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 29653.3254339777
+                    "total": 29653.3254339778
                   },
                   {
                     "year": 2050,
@@ -37553,43 +37553,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.610217763
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -37773,14 +37736,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -37812,10 +37770,15 @@ export default {
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 0.610217763
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -37926,6 +37889,43 @@ export default {
                     "total": 3.8297835499
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -37970,43 +37970,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 28.3581061144
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0015159641
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -38040,6 +38003,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 7.658390175
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 28.3581061144
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0015159641
                   }
                 ]
               }
@@ -38656,80 +38656,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 2.8902272501
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1.3033401891
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 28.3581061144
-                  },
-                  {
-                    "year": 2050,
-                    "total": 51.0015159641
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -39061,6 +38987,80 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2.8902272501
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.3033401891
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 28.3581061144
+                  },
+                  {
+                    "year": 2050,
+                    "total": 51.0015159641
+                  }
+                ]
               }
             ]
           },
@@ -39092,11 +39092,11 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 28873.0448406964
+                    "total": 28873.0448406965
                   },
                   {
                     "year": 2045,
-                    "total": 29538.504966369
+                    "total": 29538.5049663689
                   },
                   {
                     "year": 2050,
@@ -40018,43 +40018,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.310016525
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.246624416
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -40238,14 +40201,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -40257,30 +40215,35 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 2.29144739
+                    "total": 0.0
                   },
                   {
                     "year": 2030,
-                    "total": 13.693691061
+                    "total": 0.0
                   },
                   {
                     "year": 2035,
-                    "total": 3.1521797887
+                    "total": 4.310016525
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 6.246624416
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -40391,6 +40354,43 @@ export default {
                     "total": 4.2155659506
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.29144739
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.693691061
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1521797887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -40435,43 +40435,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 7.56543189
-                  },
-                  {
-                    "year": 2040,
-                    "total": 10.8583857015
-                  },
-                  {
-                    "year": 2045,
-                    "total": 19.5992848675
-                  },
-                  {
-                    "year": 2050,
-                    "total": 55.1701796222
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -40505,6 +40468,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 2.8664601357
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.56543189
+                  },
+                  {
+                    "year": 2040,
+                    "total": 10.8583857015
+                  },
+                  {
+                    "year": 2045,
+                    "total": 19.5992848675
+                  },
+                  {
+                    "year": 2050,
+                    "total": 55.1701796222
                   }
                 ]
               }
@@ -40914,7 +40914,7 @@ export default {
                   },
                   {
                     "year": 2035,
-                    "total": 7848.4966494617
+                    "total": 7848.4966494618
                   },
                   {
                     "year": 2040,
@@ -41117,80 +41117,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 11.5394967602
-                  },
-                  {
-                    "year": 2030,
-                    "total": 18.2736645887
-                  },
-                  {
-                    "year": 2035,
-                    "total": 19.7875506326
-                  },
-                  {
-                    "year": 2040,
-                    "total": 18.1853049536
-                  },
-                  {
-                    "year": 2045,
-                    "total": 12.1666666667
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 7.56543189
-                  },
-                  {
-                    "year": 2040,
-                    "total": 10.8583857015
-                  },
-                  {
-                    "year": 2045,
-                    "total": 19.5992848675
-                  },
-                  {
-                    "year": 2050,
-                    "total": 55.1701796222
                   }
                 ]
               },
@@ -41524,6 +41450,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 11.5394967602
+                  },
+                  {
+                    "year": 2030,
+                    "total": 18.2736645887
+                  },
+                  {
+                    "year": 2035,
+                    "total": 19.7875506326
+                  },
+                  {
+                    "year": 2040,
+                    "total": 18.1853049536
+                  },
+                  {
+                    "year": 2045,
+                    "total": 12.1666666667
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.56543189
+                  },
+                  {
+                    "year": 2040,
+                    "total": 10.8583857015
+                  },
+                  {
+                    "year": 2045,
+                    "total": 19.5992848675
+                  },
+                  {
+                    "year": 2050,
+                    "total": 55.1701796222
                   }
                 ]
               }
@@ -42483,43 +42483,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -42703,14 +42666,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -42745,7 +42703,12 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -42856,6 +42819,43 @@ export default {
                     "total": 3.1005086804
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -42900,43 +42900,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 10.6798937097
-                  },
-                  {
-                    "year": 2050,
-                    "total": 38.2417774797
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -42970,6 +42933,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 20.4408901811
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.6798937097
+                  },
+                  {
+                    "year": 2050,
+                    "total": 38.2417774797
                   }
                 ]
               }
@@ -43264,7 +43264,7 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 66956.1752370606
+                    "total": 66956.1752370605
                   },
                   {
                     "year": 2035,
@@ -43582,80 +43582,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0015392129
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 5.860912728
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1.4050961177
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 10.6798937097
-                  },
-                  {
-                    "year": 2050,
-                    "total": 38.2417774797
                   }
                 ]
               },
@@ -43989,6 +43915,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.860912728
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.4050961177
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.6798937097
+                  },
+                  {
+                    "year": 2050,
+                    "total": 38.2417774797
                   }
                 ]
               }
@@ -44948,43 +44948,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -45168,14 +45131,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -45210,7 +45168,12 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -45321,6 +45284,43 @@ export default {
                     "total": 4.522331112
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -45365,43 +45365,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 16.6723269227
-                  },
-                  {
-                    "year": 2050,
-                    "total": 41.4458751208
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -45435,6 +45398,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 17.23679254
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 16.6723269227
+                  },
+                  {
+                    "year": 2050,
+                    "total": 41.4458751208
                   }
                 ]
               }
@@ -46051,80 +46051,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0023518722
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 16.6723269227
-                  },
-                  {
-                    "year": 2050,
-                    "total": 41.4458751208
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -46454,6 +46380,80 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0023518722
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 16.6723269227
+                  },
+                  {
+                    "year": 2050,
+                    "total": 41.4458751208
                   }
                 ]
               }
@@ -47413,43 +47413,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.1946206095
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -47633,14 +47596,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -47668,14 +47626,19 @@ export default {
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 9.1946206095
                   },
                   {
                     "year": 2050,
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -47786,6 +47749,43 @@ export default {
                     "total": 4.2155659506
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
               }
             ]
           },
@@ -47830,43 +47830,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 15.0962415978
-                  },
-                  {
-                    "year": 2050,
-                    "total": 55.1701356733
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Kerosen",
                 "indicatorGroupValues": [
                   {
@@ -47900,6 +47863,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 2.8665106555
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 15.0962415978
+                  },
+                  {
+                    "year": 2050,
+                    "total": 55.1701356733
                   }
                 ]
               }
@@ -48313,7 +48313,7 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 7848.4966494618
+                    "total": 7848.4966494617
                   },
                   {
                     "year": 2045,
@@ -48512,80 +48512,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 9.5484870517
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 15.0962415978
-                  },
-                  {
-                    "year": 2050,
-                    "total": 55.1701356733
                   }
                 ]
               },
@@ -48921,6 +48847,80 @@ export default {
                     "total": 0.0
                   }
                 ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 9.5484870517
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 15.0962415978
+                  },
+                  {
+                    "year": 2050,
+                    "total": 55.1701356733
+                  }
+                ]
               }
             ]
           },
@@ -48940,7 +48940,7 @@ export default {
                   },
                   {
                     "year": 2025,
-                    "total": 18054.2006258864
+                    "total": 18054.2006258865
                   },
                   {
                     "year": 2030,
@@ -49878,43 +49878,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -50098,14 +50061,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -50140,7 +50098,12 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -50251,22 +50214,17 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndslesforbrug lu",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Avgas",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2020,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -50293,17 +50251,22 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
               {
-                "indicatorGroup": "Biokerosen",
+                "indicatorGroup": "Avgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2020,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2025,
@@ -50365,6 +50328,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 58.6826676608
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -50981,80 +50981,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -51360,6 +51286,80 @@ export default {
                   {
                     "year": 2020,
                     "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -52343,43 +52343,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -52563,14 +52526,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -52605,7 +52563,12 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -52716,22 +52679,17 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndslesforbrug lu",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Avgas",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2020,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -52758,17 +52716,22 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
               {
-                "indicatorGroup": "Biokerosen",
+                "indicatorGroup": "Avgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2020,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2025,
@@ -52830,6 +52793,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 58.6826676608
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -53446,80 +53446,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -53825,6 +53751,80 @@ export default {
                   {
                     "year": 2020,
                     "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -54808,43 +54808,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -55028,14 +54991,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -55070,7 +55028,12 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -55181,22 +55144,17 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndslesforbrug lu",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Avgas",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2020,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -55223,17 +55181,22 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
               {
-                "indicatorGroup": "Biokerosen",
+                "indicatorGroup": "Avgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2020,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2025,
@@ -55295,6 +55258,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 58.6826676608
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -55911,80 +55911,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -56290,6 +56216,80 @@ export default {
                   {
                     "year": 2020,
                     "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -57273,43 +57273,6 @@ export default {
             "indicator": "_Transport br\u00e6ndselsforbrug s\u00f8",
             "indicatorGroups": [
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -57493,14 +57456,9 @@ export default {
                     "total": 0.0
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Biodiesel",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -57535,7 +57493,12 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndselsforbrug \u00f8v",
+            "indicatorGroups": [
               {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
@@ -57646,22 +57609,17 @@ export default {
                     "total": 0.0808203238
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Transport br\u00e6ndslesforbrug lu",
-            "indicatorGroups": [
+              },
               {
-                "indicatorGroup": "Avgas",
+                "indicatorGroup": "biodiesel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2020,
-                    "total": 0.0391
+                    "total": 0.0
                   },
                   {
                     "year": 2025,
@@ -57688,17 +57646,22 @@ export default {
                     "total": 0.0
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "indicator": "_Transport br\u00e6ndslesforbrug lu",
+            "indicatorGroups": [
               {
-                "indicatorGroup": "Biokerosen",
+                "indicatorGroup": "Avgas",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2020,
-                    "total": 0.0
+                    "total": 0.0391
                   },
                   {
                     "year": 2025,
@@ -57760,6 +57723,43 @@ export default {
                   {
                     "year": 2050,
                     "total": 58.6826676608
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
                   }
                 ]
               }
@@ -58376,80 +58376,6 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Biodiesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Biokerosen",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
                 "indicatorGroup": "Diesel",
                 "indicatorGroupValues": [
                   {
@@ -58755,6 +58681,80 @@ export default {
                   {
                     "year": 2020,
                     "total": 0.000128309
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biodiesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "biokerosen",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
                   },
                   {
                     "year": 2025,

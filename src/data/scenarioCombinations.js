@@ -28,7 +28,7 @@
 { "id": 60, "name": "Carbon_scenario_1-5_degree_INT_400Mt", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": false, "bio": false },
 { "id": 61, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": true, "bio": false },
 { "id": 62, "name": "Carbon_scenario_1-5_degree_INT_400Mt_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": false, "bio": true },
-{ "id": 63, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2 ", "ccs": true, "bio": true },
+{ "id": 63, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio", "nameNoOptions": "Carbon_scenario_1-5_degree_INT_400Mt", "short_description": "Carbon budget 400 Mt CO2", "ultra_short_description": "CB 400 Mt CO2", "ccs": true, "bio": true },
 
 { "id": 70, "name": "Carbon_scenario_1-5_degree_INT", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": false, "bio": false },
 { "id": 71, "name": "Carbon_scenario_1-5_degree_INT_CCS", "nameNoOptions": "Carbon_scenario_1-5_degree_INT", "short_description": "Carbon budget 500 Mt CO2", "ultra_short_description": "CB 500 Mt CO2", "ccs": true, "bio": false },

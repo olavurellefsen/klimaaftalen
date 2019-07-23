@@ -67,17 +67,17 @@ const Charts = props => {
             line={line}
           />
           <StackedBarChart
-            chartName="_Energi forbrug i Danmark"
-            chartTitle="Energiforbrug og VE-andel"
+            chartName="_All_GHG_emissions"
+            chartTitle="Alle Danske drivhusgasser"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}
-            label="PJ"
-            minY={0}
-            maxY={1000}
+            label="Kt CO2e"
+            minY={-10000}
+            maxY={70000}
             minY2={0}
             maxY2={1}
-            label2="Vedvarende energi andel"
+            label2="Drivhusgas reduktion (1990)"
             Y2Percentage={true}
             stackedBar={stackedBar}
             line={line}
@@ -180,17 +180,17 @@ const Charts = props => {
               line={line}
             />
             <StackedBarDiffChart
-              chartName="_Energi forbrug i Danmark"
-              chartTitle="Energiforbrug og VE-andel"
+              chartName="_All_GHG_emissions"
+              chartTitle="Alle Danske drivhusgasser"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={true}
-              label="PJ"
-              minY={-400}
-              maxY={400}
-              minY2={-1}
+              label="Kt CO2e"
+              minY={-10000}
+              maxY={70000}
+              minY2={0}
               maxY2={1}
-              label2="Vedvarende energi andel"
+              label2="Drivhusgas reduktion (1990)"
               Y2Percentage={true}
               stackedBar={stackedBar}
               line={line}

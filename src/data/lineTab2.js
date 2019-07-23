@@ -2532,512 +2532,6 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_Bio",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4179356961
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5711834346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7060594516
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7625393563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7920347717
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8212229618
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_El netto eksport",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Eksport til England",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 36.9968408065
-                  },
-                  {
-                    "year": 2030,
-                    "total": 38.5636149845
-                  },
-                  {
-                    "year": 2035,
-                    "total": 26.2551376436
-                  },
-                  {
-                    "year": 2040,
-                    "total": 26.7598821799
-                  },
-                  {
-                    "year": 2045,
-                    "total": 26.8939091145
-                  },
-                  {
-                    "year": 2050,
-                    "total": 27.0403269262
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Eksport til Holland",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 12.3190624463
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.0731334578
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6.4657916302
-                  },
-                  {
-                    "year": 2035,
-                    "total": 7.1144956889
-                  },
-                  {
-                    "year": 2040,
-                    "total": 7.7228190844
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7.77423461
-                  },
-                  {
-                    "year": 2050,
-                    "total": 7.4060881697
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Eksport til Norge",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 8.1491663185
-                  },
-                  {
-                    "year": 2020,
-                    "total": 18.3247308244
-                  },
-                  {
-                    "year": 2025,
-                    "total": 17.6080272239
-                  },
-                  {
-                    "year": 2030,
-                    "total": 17.6180306112
-                  },
-                  {
-                    "year": 2035,
-                    "total": 18.8060523399
-                  },
-                  {
-                    "year": 2040,
-                    "total": 21.4537554279
-                  },
-                  {
-                    "year": 2045,
-                    "total": 22.1255130439
-                  },
-                  {
-                    "year": 2050,
-                    "total": 20.7781157009
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Eksport til Sverige",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 2.1079191056
-                  },
-                  {
-                    "year": 2020,
-                    "total": 13.4553672067
-                  },
-                  {
-                    "year": 2025,
-                    "total": 12.9405720277
-                  },
-                  {
-                    "year": 2030,
-                    "total": 12.3794381395
-                  },
-                  {
-                    "year": 2035,
-                    "total": 7.9322447743
-                  },
-                  {
-                    "year": 2040,
-                    "total": 7.6209485472
-                  },
-                  {
-                    "year": 2045,
-                    "total": 10.9123212718
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.4488131174
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Eksport til Tyskland",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 27.8863832191
-                  },
-                  {
-                    "year": 2020,
-                    "total": 31.8318172672
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.6785474314
-                  },
-                  {
-                    "year": 2030,
-                    "total": 13.3491772805
-                  },
-                  {
-                    "year": 2035,
-                    "total": 11.5341789577
-                  },
-                  {
-                    "year": 2040,
-                    "total": 14.2555533602
-                  },
-                  {
-                    "year": 2045,
-                    "total": 15.9669916103
-                  },
-                  {
-                    "year": 2050,
-                    "total": 16.5651050255
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Import fra England",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": -0.1494853307
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Import fra Holland",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": -0.1423586322
-                  },
-                  {
-                    "year": 2025,
-                    "total": -0.0013733109
-                  },
-                  {
-                    "year": 2030,
-                    "total": -0.0010089391
-                  },
-                  {
-                    "year": 2035,
-                    "total": -0.0004628412
-                  },
-                  {
-                    "year": 2040,
-                    "total": -0.0017581833
-                  },
-                  {
-                    "year": 2045,
-                    "total": -0.1948135913
-                  },
-                  {
-                    "year": 2050,
-                    "total": -0.3287351504
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Import fra Norge",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -15.2137545255
-                  },
-                  {
-                    "year": 2020,
-                    "total": -21.5395593122
-                  },
-                  {
-                    "year": 2025,
-                    "total": -26.6441119321
-                  },
-                  {
-                    "year": 2030,
-                    "total": -26.21289709
-                  },
-                  {
-                    "year": 2035,
-                    "total": -22.3010098838
-                  },
-                  {
-                    "year": 2040,
-                    "total": -21.9856332578
-                  },
-                  {
-                    "year": 2045,
-                    "total": -22.502083506
-                  },
-                  {
-                    "year": 2050,
-                    "total": -22.502083506
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Import fra Sverige",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -20.5319439375
-                  },
-                  {
-                    "year": 2020,
-                    "total": -24.1250963054
-                  },
-                  {
-                    "year": 2025,
-                    "total": -32.8400221432
-                  },
-                  {
-                    "year": 2030,
-                    "total": -32.2584689502
-                  },
-                  {
-                    "year": 2035,
-                    "total": -33.3630751002
-                  },
-                  {
-                    "year": 2040,
-                    "total": -35.8616814111
-                  },
-                  {
-                    "year": 2045,
-                    "total": -35.6492843202
-                  },
-                  {
-                    "year": 2050,
-                    "total": -34.0311385941
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Import fra Tyskland",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -0.7035156814
-                  },
-                  {
-                    "year": 2020,
-                    "total": -18.1239634947
-                  },
-                  {
-                    "year": 2025,
-                    "total": -40.8116135611
-                  },
-                  {
-                    "year": 2030,
-                    "total": -41.9036776666
-                  },
-                  {
-                    "year": 2035,
-                    "total": -27.9775615792
-                  },
-                  {
-                    "year": 2040,
-                    "total": -31.9638857474
-                  },
-                  {
-                    "year": 2045,
-                    "total": -37.326788233
-                  },
-                  {
-                    "year": 2050,
-                    "total": -38.2270063585
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers varmeforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.9560249635
-                  },
-                  {
-                    "year": 2020,
-                    "total": 9.6148735343
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2343886788
-                  },
-                  {
-                    "year": 2030,
-                    "total": 16.0549567048
-                  },
-                  {
-                    "year": 2035,
-                    "total": 16.1451090002
-                  },
-                  {
-                    "year": 2040,
-                    "total": 16.5081488831
-                  },
-                  {
-                    "year": 2045,
-                    "total": 16.5081488831
-                  },
-                  {
-                    "year": 2050,
-                    "total": 16.5081488831
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Industriens energiforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 16.3912411138
-                  },
-                  {
-                    "year": 2025,
-                    "total": 22.5591748272
-                  },
-                  {
-                    "year": 2030,
-                    "total": 28.3580453253
-                  },
-                  {
-                    "year": 2035,
-                    "total": 36.3153640652
-                  },
-                  {
-                    "year": 2040,
-                    "total": 49.4987202105
-                  },
-                  {
-                    "year": 2045,
-                    "total": 58.5182345634
-                  },
-                  {
-                    "year": 2050,
-                    "total": 71.7794615121
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "scenario": "COMETS_CCS",
         "indicators": [
           {
@@ -3544,7 +3038,513 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_CCS_Bio",
+        "scenario": "COMETS_CCS_bio",
+        "indicators": [
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4179356961
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5711834346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7060594516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7625393563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7920347717
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8212229618
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_El netto eksport",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Eksport til England",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 36.9968408065
+                  },
+                  {
+                    "year": 2030,
+                    "total": 38.5636149845
+                  },
+                  {
+                    "year": 2035,
+                    "total": 26.2551376436
+                  },
+                  {
+                    "year": 2040,
+                    "total": 26.7598821799
+                  },
+                  {
+                    "year": 2045,
+                    "total": 26.8939091145
+                  },
+                  {
+                    "year": 2050,
+                    "total": 27.0403269262
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Eksport til Holland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 12.3190624463
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.0731334578
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.4657916302
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.1144956889
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.7228190844
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7.77423461
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.4060881697
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Eksport til Norge",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 8.1491663185
+                  },
+                  {
+                    "year": 2020,
+                    "total": 18.3247308244
+                  },
+                  {
+                    "year": 2025,
+                    "total": 17.6080272239
+                  },
+                  {
+                    "year": 2030,
+                    "total": 17.6180306112
+                  },
+                  {
+                    "year": 2035,
+                    "total": 18.8060523399
+                  },
+                  {
+                    "year": 2040,
+                    "total": 21.4537554279
+                  },
+                  {
+                    "year": 2045,
+                    "total": 22.1255130439
+                  },
+                  {
+                    "year": 2050,
+                    "total": 20.7781157009
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Eksport til Sverige",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.1079191056
+                  },
+                  {
+                    "year": 2020,
+                    "total": 13.4553672067
+                  },
+                  {
+                    "year": 2025,
+                    "total": 12.9405720277
+                  },
+                  {
+                    "year": 2030,
+                    "total": 12.3794381395
+                  },
+                  {
+                    "year": 2035,
+                    "total": 7.9322447743
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.6209485472
+                  },
+                  {
+                    "year": 2045,
+                    "total": 10.9123212718
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.4488131174
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Eksport til Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 27.8863832191
+                  },
+                  {
+                    "year": 2020,
+                    "total": 31.8318172672
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.6785474314
+                  },
+                  {
+                    "year": 2030,
+                    "total": 13.3491772805
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.5341789577
+                  },
+                  {
+                    "year": 2040,
+                    "total": 14.2555533602
+                  },
+                  {
+                    "year": 2045,
+                    "total": 15.9669916103
+                  },
+                  {
+                    "year": 2050,
+                    "total": 16.5651050255
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Import fra England",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -0.1494853307
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Import fra Holland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.1423586322
+                  },
+                  {
+                    "year": 2025,
+                    "total": -0.0013733109
+                  },
+                  {
+                    "year": 2030,
+                    "total": -0.0010089391
+                  },
+                  {
+                    "year": 2035,
+                    "total": -0.0004628412
+                  },
+                  {
+                    "year": 2040,
+                    "total": -0.0017581833
+                  },
+                  {
+                    "year": 2045,
+                    "total": -0.1948135913
+                  },
+                  {
+                    "year": 2050,
+                    "total": -0.3287351504
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Import fra Norge",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -15.2137545255
+                  },
+                  {
+                    "year": 2020,
+                    "total": -21.5395593122
+                  },
+                  {
+                    "year": 2025,
+                    "total": -26.6441119321
+                  },
+                  {
+                    "year": 2030,
+                    "total": -26.21289709
+                  },
+                  {
+                    "year": 2035,
+                    "total": -22.3010098838
+                  },
+                  {
+                    "year": 2040,
+                    "total": -21.9856332578
+                  },
+                  {
+                    "year": 2045,
+                    "total": -22.502083506
+                  },
+                  {
+                    "year": 2050,
+                    "total": -22.502083506
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Import fra Sverige",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -20.5319439375
+                  },
+                  {
+                    "year": 2020,
+                    "total": -24.1250963054
+                  },
+                  {
+                    "year": 2025,
+                    "total": -32.8400221432
+                  },
+                  {
+                    "year": 2030,
+                    "total": -32.2584689502
+                  },
+                  {
+                    "year": 2035,
+                    "total": -33.3630751002
+                  },
+                  {
+                    "year": 2040,
+                    "total": -35.8616814111
+                  },
+                  {
+                    "year": 2045,
+                    "total": -35.6492843202
+                  },
+                  {
+                    "year": 2050,
+                    "total": -34.0311385941
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Import fra Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -0.7035156814
+                  },
+                  {
+                    "year": 2020,
+                    "total": -18.1239634947
+                  },
+                  {
+                    "year": 2025,
+                    "total": -40.8116135611
+                  },
+                  {
+                    "year": 2030,
+                    "total": -41.9036776666
+                  },
+                  {
+                    "year": 2035,
+                    "total": -27.9775615792
+                  },
+                  {
+                    "year": 2040,
+                    "total": -31.9638857474
+                  },
+                  {
+                    "year": 2045,
+                    "total": -37.326788233
+                  },
+                  {
+                    "year": 2050,
+                    "total": -38.2270063585
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.9560249635
+                  },
+                  {
+                    "year": 2020,
+                    "total": 9.6148735343
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2343886788
+                  },
+                  {
+                    "year": 2030,
+                    "total": 16.0549567048
+                  },
+                  {
+                    "year": 2035,
+                    "total": 16.1451090002
+                  },
+                  {
+                    "year": 2040,
+                    "total": 16.5081488831
+                  },
+                  {
+                    "year": 2045,
+                    "total": 16.5081488831
+                  },
+                  {
+                    "year": 2050,
+                    "total": 16.5081488831
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Industriens energiforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 16.3912411138
+                  },
+                  {
+                    "year": 2025,
+                    "total": 22.5591748272
+                  },
+                  {
+                    "year": 2030,
+                    "total": 28.3580453253
+                  },
+                  {
+                    "year": 2035,
+                    "total": 36.3153640652
+                  },
+                  {
+                    "year": 2040,
+                    "total": 49.4987202105
+                  },
+                  {
+                    "year": 2045,
+                    "total": 58.5182345634
+                  },
+                  {
+                    "year": 2050,
+                    "total": 71.7794615121
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "COMETS_bio",
         "indicators": [
           {
             "indicator": "_CO2 emissioner",

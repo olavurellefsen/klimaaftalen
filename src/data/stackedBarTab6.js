@@ -6887,1383 +6887,6 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_Bio",
-        "indicators": [
-          {
-            "indicator": "_Centrale bygningers energibeh",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -0.1031071631
-                  },
-                  {
-                    "year": 2020,
-                    "total": -0.4631071631
-                  },
-                  {
-                    "year": 2025,
-                    "total": -2.16000108
-                  },
-                  {
-                    "year": 2030,
-                    "total": -2.7868089017
-                  },
-                  {
-                    "year": 2035,
-                    "total": -2.8769611971
-                  },
-                  {
-                    "year": 2040,
-                    "total": -3.24000108
-                  },
-                  {
-                    "year": 2045,
-                    "total": -3.24000108
-                  },
-                  {
-                    "year": 2050,
-                    "total": -3.24000108
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Opvarming",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 55.7947588759
-                  },
-                  {
-                    "year": 2020,
-                    "total": 55.9557099781
-                  },
-                  {
-                    "year": 2025,
-                    "total": 54.5644078751
-                  },
-                  {
-                    "year": 2030,
-                    "total": 54.0805322785
-                  },
-                  {
-                    "year": 2035,
-                    "total": 53.9376890555
-                  },
-                  {
-                    "year": 2040,
-                    "total": 53.4334691645
-                  },
-                  {
-                    "year": 2045,
-                    "total": 53.3875534747
-                  },
-                  {
-                    "year": 2050,
-                    "total": 53.3738730933
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Decentrale bygningers energib",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -0.72
-                  },
-                  {
-                    "year": 2020,
-                    "total": -2.88
-                  },
-                  {
-                    "year": 2025,
-                    "total": -5.1623800388
-                  },
-                  {
-                    "year": 2030,
-                    "total": -6.3381402431
-                  },
-                  {
-                    "year": 2035,
-                    "total": -6.3381402431
-                  },
-                  {
-                    "year": 2040,
-                    "total": -6.3381402431
-                  },
-                  {
-                    "year": 2045,
-                    "total": -6.3381402431
-                  },
-                  {
-                    "year": 2050,
-                    "total": -6.3381402431
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Opvarming",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 44.8870650859
-                  },
-                  {
-                    "year": 2020,
-                    "total": 43.0882411318
-                  },
-                  {
-                    "year": 2025,
-                    "total": 40.8554552663
-                  },
-                  {
-                    "year": 2030,
-                    "total": 39.5872726246
-                  },
-                  {
-                    "year": 2035,
-                    "total": 39.3266036933
-                  },
-                  {
-                    "year": 2040,
-                    "total": 38.9747693355
-                  },
-                  {
-                    "year": 2045,
-                    "total": 38.6668184861
-                  },
-                  {
-                    "year": 2050,
-                    "total": 38.3935346333
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdninger solcelle kapaci",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Solceller husholdninger",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 519.2175045
-                  },
-                  {
-                    "year": 2020,
-                    "total": 519.2175045
-                  },
-                  {
-                    "year": 2025,
-                    "total": 519.2175045
-                  },
-                  {
-                    "year": 2030,
-                    "total": 4520.01356
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5640.01692
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6760.02028
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7880.02364
-                  },
-                  {
-                    "year": 2050,
-                    "total": 9000.027
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers elapparater",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Belysning",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 2.939734795
-                  },
-                  {
-                    "year": 2020,
-                    "total": 2.4700646238
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2.2689070831
-                  },
-                  {
-                    "year": 2030,
-                    "total": 2.1592917939
-                  },
-                  {
-                    "year": 2035,
-                    "total": 2.0572182564
-                  },
-                  {
-                    "year": 2040,
-                    "total": 2.1061457036
-                  },
-                  {
-                    "year": 2045,
-                    "total": 2.0518784515
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1.9804630911
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Computer",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.6724249042
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4.2813053098
-                  },
-                  {
-                    "year": 2025,
-                    "total": 3.9470815582
-                  },
-                  {
-                    "year": 2030,
-                    "total": 3.6825644728
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3.4033220963
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.366014371
-                  },
-                  {
-                    "year": 2045,
-                    "total": 3.2468234107
-                  },
-                  {
-                    "year": 2050,
-                    "total": 3.1426117992
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "K\u00f8leskabe",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.1751864923
-                  },
-                  {
-                    "year": 2020,
-                    "total": 3.6710425776
-                  },
-                  {
-                    "year": 2025,
-                    "total": 3.4143230404
-                  },
-                  {
-                    "year": 2030,
-                    "total": 3.2795560173
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3.1881001258
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.2770256128
-                  },
-                  {
-                    "year": 2045,
-                    "total": 3.3346829828
-                  },
-                  {
-                    "year": 2050,
-                    "total": 3.3975682219
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Madlavning",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 3.5396788216
-                  },
-                  {
-                    "year": 2020,
-                    "total": 3.5564399864
-                  },
-                  {
-                    "year": 2025,
-                    "total": 3.5443786726
-                  },
-                  {
-                    "year": 2030,
-                    "total": 3.5018111841
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3.431489544
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3.5375349193
-                  },
-                  {
-                    "year": 2045,
-                    "total": 3.5546392571
-                  },
-                  {
-                    "year": 2050,
-                    "total": 3.5798735605
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Maskiner (vaskeri)",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 5.6357974374
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4.8914806436
-                  },
-                  {
-                    "year": 2025,
-                    "total": 4.8170500805
-                  },
-                  {
-                    "year": 2030,
-                    "total": 4.8741839796
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4.9010284079
-                  },
-                  {
-                    "year": 2040,
-                    "total": 5.1391980026
-                  },
-                  {
-                    "year": 2045,
-                    "total": 5.2386352678
-                  },
-                  {
-                    "year": 2050,
-                    "total": 5.3153878209
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Underholdning",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 7.5094097572
-                  },
-                  {
-                    "year": 2020,
-                    "total": 7.0888846959
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.8199783913
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6.493961676
-                  },
-                  {
-                    "year": 2035,
-                    "total": 6.0704759605
-                  },
-                  {
-                    "year": 2040,
-                    "total": 5.9119736447
-                  },
-                  {
-                    "year": 2045,
-                    "total": 5.544307313
-                  },
-                  {
-                    "year": 2050,
-                    "total": 5.211190957
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "\u00d8vrige husholdningsapparater",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1.8614334063
-                  },
-                  {
-                    "year": 2020,
-                    "total": 1.928606534
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1.8314198855
-                  },
-                  {
-                    "year": 2030,
-                    "total": 1.8676065663
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1.9561511272
-                  },
-                  {
-                    "year": 2040,
-                    "total": 1.9588346244
-                  },
-                  {
-                    "year": 2045,
-                    "total": 2.0008562267
-                  },
-                  {
-                    "year": 2050,
-                    "total": 2.1282912977
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers netto energi f",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Br\u00e6nde",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 17.6051068482
-                  },
-                  {
-                    "year": 2020,
-                    "total": 11.7367378988
-                  },
-                  {
-                    "year": 2025,
-                    "total": 10.2382628217
-                  },
-                  {
-                    "year": 2030,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2035,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2040,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2045,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.3333333333
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Central fjernvarme",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 45.6026997876
-                  },
-                  {
-                    "year": 2020,
-                    "total": 46.5346985894
-                  },
-                  {
-                    "year": 2025,
-                    "total": 46.8588610666
-                  },
-                  {
-                    "year": 2030,
-                    "total": 47.1828610666
-                  },
-                  {
-                    "year": 2035,
-                    "total": 47.5068610666
-                  },
-                  {
-                    "year": 2040,
-                    "total": 47.8308610666
-                  },
-                  {
-                    "year": 2045,
-                    "total": 48.1548610666
-                  },
-                  {
-                    "year": 2050,
-                    "total": 48.4788610666
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Decentral fjernvarme",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 28.9983630142
-                  },
-                  {
-                    "year": 2020,
-                    "total": 29.6771149097
-                  },
-                  {
-                    "year": 2025,
-                    "total": 30.6178179806
-                  },
-                  {
-                    "year": 2030,
-                    "total": 31.1949467913
-                  },
-                  {
-                    "year": 2035,
-                    "total": 32.292452213
-                  },
-                  {
-                    "year": 2040,
-                    "total": 32.9516846205
-                  },
-                  {
-                    "year": 2045,
-                    "total": 32.7587002324
-                  },
-                  {
-                    "year": 2050,
-                    "total": 33.2987002324
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Diesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 11.115
-                  },
-                  {
-                    "year": 2020,
-                    "total": 3.635
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Elektricitet til elapparater",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 30.3336656141
-                  },
-                  {
-                    "year": 2020,
-                    "total": 27.8878243713
-                  },
-                  {
-                    "year": 2025,
-                    "total": 26.6431387116
-                  },
-                  {
-                    "year": 2030,
-                    "total": 25.85897569
-                  },
-                  {
-                    "year": 2035,
-                    "total": 25.0077855181
-                  },
-                  {
-                    "year": 2040,
-                    "total": 25.2967268783
-                  },
-                  {
-                    "year": 2045,
-                    "total": 24.9718229097
-                  },
-                  {
-                    "year": 2050,
-                    "total": 24.7553867482
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Elektricitet til opvarmning",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.30755597
-                  },
-                  {
-                    "year": 2020,
-                    "total": 6.0843264243
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.0666771721
-                  },
-                  {
-                    "year": 2030,
-                    "total": 5.265145569
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5.545772502
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.1682160066
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7.3912316536
-                  },
-                  {
-                    "year": 2050,
-                    "total": 7.9691669882
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Gas",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 24.535283935
-                  },
-                  {
-                    "year": 2020,
-                    "total": 23.7862637201
-                  },
-                  {
-                    "year": 2025,
-                    "total": 23.2667065
-                  },
-                  {
-                    "year": 2030,
-                    "total": 22.1035084524
-                  },
-                  {
-                    "year": 2035,
-                    "total": 17.9881783352
-                  },
-                  {
-                    "year": 2040,
-                    "total": 13.8006948319
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6777390887
-                  },
-                  {
-                    "year": 2050,
-                    "total": 5.26267953
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Halm",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1.9694982524
-                  },
-                  {
-                    "year": 2020,
-                    "total": 1.3129988349
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6564994175
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Solvarme",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.31815
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.2121
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.10605
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Tr\u00e6piller",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 6.7591638566
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4.5061092378
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2.2530546189
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdningers varmeforbrug",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Br\u00e6nde",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 17.6051068482
-                  },
-                  {
-                    "year": 2020,
-                    "total": 11.7367378988
-                  },
-                  {
-                    "year": 2025,
-                    "total": 10.2382628217
-                  },
-                  {
-                    "year": 2030,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2035,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2040,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2045,
-                    "total": 11.3333333333
-                  },
-                  {
-                    "year": 2050,
-                    "total": 11.3333333333
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Central fjernvarme",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 45.6026997876
-                  },
-                  {
-                    "year": 2020,
-                    "total": 46.5346985894
-                  },
-                  {
-                    "year": 2025,
-                    "total": 46.8588610666
-                  },
-                  {
-                    "year": 2030,
-                    "total": 47.1828610666
-                  },
-                  {
-                    "year": 2035,
-                    "total": 47.5068610666
-                  },
-                  {
-                    "year": 2040,
-                    "total": 47.8308610666
-                  },
-                  {
-                    "year": 2045,
-                    "total": 48.1548610666
-                  },
-                  {
-                    "year": 2050,
-                    "total": 48.4788610666
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Decentral fjernvarme",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 28.9983630142
-                  },
-                  {
-                    "year": 2020,
-                    "total": 29.6771149097
-                  },
-                  {
-                    "year": 2025,
-                    "total": 30.6178179806
-                  },
-                  {
-                    "year": 2030,
-                    "total": 31.1949467913
-                  },
-                  {
-                    "year": 2035,
-                    "total": 32.292452213
-                  },
-                  {
-                    "year": 2040,
-                    "total": 32.9516846205
-                  },
-                  {
-                    "year": 2045,
-                    "total": 32.7587002324
-                  },
-                  {
-                    "year": 2050,
-                    "total": 33.2987002324
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Diesel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 11.115
-                  },
-                  {
-                    "year": 2020,
-                    "total": 3.635
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Elektricitet til opvarmning",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4.30755597
-                  },
-                  {
-                    "year": 2020,
-                    "total": 6.0843264243
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6.0666771721
-                  },
-                  {
-                    "year": 2030,
-                    "total": 5.265145569
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5.545772502
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6.1682160066
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7.3912316536
-                  },
-                  {
-                    "year": 2050,
-                    "total": 7.9691669882
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Gas",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 24.535283935
-                  },
-                  {
-                    "year": 2020,
-                    "total": 23.7862637201
-                  },
-                  {
-                    "year": 2025,
-                    "total": 23.2667065
-                  },
-                  {
-                    "year": 2030,
-                    "total": 22.1035084524
-                  },
-                  {
-                    "year": 2035,
-                    "total": 17.9881783352
-                  },
-                  {
-                    "year": 2040,
-                    "total": 13.8006948319
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.6777390887
-                  },
-                  {
-                    "year": 2050,
-                    "total": 5.26267953
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Halm",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1.9694982524
-                  },
-                  {
-                    "year": 2020,
-                    "total": 1.3129988349
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6564994175
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Solvarme",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.31815
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.2121
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.10605
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Tr\u00e6piller",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 6.7591638566
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4.5061092378
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2.2530546189
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Husholdnings omkostninger",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Cost_Flox",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 9626.7529573809
-                  },
-                  {
-                    "year": 2020,
-                    "total": 7991.006131729
-                  },
-                  {
-                    "year": 2025,
-                    "total": 7133.8449295637
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6874.531184661
-                  },
-                  {
-                    "year": 2035,
-                    "total": 6488.6348240191
-                  },
-                  {
-                    "year": 2040,
-                    "total": 6355.3316592958
-                  },
-                  {
-                    "year": 2045,
-                    "total": 6065.6501660691
-                  },
-                  {
-                    "year": 2050,
-                    "total": 5863.3136850019
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Cost_Fom",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 245.0596782986
-                  },
-                  {
-                    "year": 2020,
-                    "total": 522.3309215491
-                  },
-                  {
-                    "year": 2025,
-                    "total": 945.7327466892
-                  },
-                  {
-                    "year": 2030,
-                    "total": 1436.6162136488
-                  },
-                  {
-                    "year": 2035,
-                    "total": 1544.3391608791
-                  },
-                  {
-                    "year": 2040,
-                    "total": 1605.1385778286
-                  },
-                  {
-                    "year": 2045,
-                    "total": 1685.1261755759
-                  },
-                  {
-                    "year": 2050,
-                    "total": 1643.113699638
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Cost_Inv",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1980.26976847
-                  },
-                  {
-                    "year": 2020,
-                    "total": 3377.2617450445
-                  },
-                  {
-                    "year": 2025,
-                    "total": 5122.2653979154
-                  },
-                  {
-                    "year": 2030,
-                    "total": 7573.5887367421
-                  },
-                  {
-                    "year": 2035,
-                    "total": 8016.6514490426
-                  },
-                  {
-                    "year": 2040,
-                    "total": 7473.836385213
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7790.9210049628
-                  },
-                  {
-                    "year": 2050,
-                    "total": 7610.7084138151
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Individuelle bygningers opvar",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Energibesparelser",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -4.1329178004
-                  },
-                  {
-                    "year": 2020,
-                    "total": -6.2717663713
-                  },
-                  {
-                    "year": 2025,
-                    "total": -6.91200756
-                  },
-                  {
-                    "year": 2030,
-                    "total": -6.93000756
-                  },
-                  {
-                    "year": 2035,
-                    "total": -6.93000756
-                  },
-                  {
-                    "year": 2040,
-                    "total": -6.93000756
-                  },
-                  {
-                    "year": 2045,
-                    "total": -6.93000756
-                  },
-                  {
-                    "year": 2050,
-                    "total": -6.93000756
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Opvarming",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 35.3556492277
-                  },
-                  {
-                    "year": 2020,
-                    "total": 33.0839705059
-                  },
-                  {
-                    "year": 2025,
-                    "total": 32.2094846107
-                  },
-                  {
-                    "year": 2030,
-                    "total": 31.8989916365
-                  },
-                  {
-                    "year": 2035,
-                    "total": 31.5137765055
-                  },
-                  {
-                    "year": 2040,
-                    "total": 31.0776165083
-                  },
-                  {
-                    "year": 2045,
-                    "total": 30.6586244817
-                  },
-                  {
-                    "year": 2050,
-                    "total": 30.2754234431
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "scenario": "COMETS_CCS",
         "indicators": [
           {
@@ -9641,7 +8264,1384 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_CCS_Bio",
+        "scenario": "COMETS_CCS_bio",
+        "indicators": [
+          {
+            "indicator": "_Centrale bygningers energibeh",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -0.1031071631
+                  },
+                  {
+                    "year": 2020,
+                    "total": -0.4631071631
+                  },
+                  {
+                    "year": 2025,
+                    "total": -2.16000108
+                  },
+                  {
+                    "year": 2030,
+                    "total": -2.7868089017
+                  },
+                  {
+                    "year": 2035,
+                    "total": -2.8769611971
+                  },
+                  {
+                    "year": 2040,
+                    "total": -3.24000108
+                  },
+                  {
+                    "year": 2045,
+                    "total": -3.24000108
+                  },
+                  {
+                    "year": 2050,
+                    "total": -3.24000108
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Opvarming",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 55.7947588759
+                  },
+                  {
+                    "year": 2020,
+                    "total": 55.9557099781
+                  },
+                  {
+                    "year": 2025,
+                    "total": 54.5644078751
+                  },
+                  {
+                    "year": 2030,
+                    "total": 54.0805322785
+                  },
+                  {
+                    "year": 2035,
+                    "total": 53.9376890555
+                  },
+                  {
+                    "year": 2040,
+                    "total": 53.4334691645
+                  },
+                  {
+                    "year": 2045,
+                    "total": 53.3875534747
+                  },
+                  {
+                    "year": 2050,
+                    "total": 53.3738730933
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Decentrale bygningers energib",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -0.72
+                  },
+                  {
+                    "year": 2020,
+                    "total": -2.88
+                  },
+                  {
+                    "year": 2025,
+                    "total": -5.1623800388
+                  },
+                  {
+                    "year": 2030,
+                    "total": -6.3381402431
+                  },
+                  {
+                    "year": 2035,
+                    "total": -6.3381402431
+                  },
+                  {
+                    "year": 2040,
+                    "total": -6.3381402431
+                  },
+                  {
+                    "year": 2045,
+                    "total": -6.3381402431
+                  },
+                  {
+                    "year": 2050,
+                    "total": -6.3381402431
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Opvarming",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 44.8870650859
+                  },
+                  {
+                    "year": 2020,
+                    "total": 43.0882411318
+                  },
+                  {
+                    "year": 2025,
+                    "total": 40.8554552663
+                  },
+                  {
+                    "year": 2030,
+                    "total": 39.5872726246
+                  },
+                  {
+                    "year": 2035,
+                    "total": 39.3266036933
+                  },
+                  {
+                    "year": 2040,
+                    "total": 38.9747693355
+                  },
+                  {
+                    "year": 2045,
+                    "total": 38.6668184861
+                  },
+                  {
+                    "year": 2050,
+                    "total": 38.3935346333
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdninger solcelle kapaci",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Solceller husholdninger",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 519.2175045
+                  },
+                  {
+                    "year": 2020,
+                    "total": 519.2175045
+                  },
+                  {
+                    "year": 2025,
+                    "total": 519.2175045
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4520.01356
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5640.01692
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6760.02028
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7880.02364
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9000.027
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers elapparater",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Belysning",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.939734795
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.4700646238
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.2689070831
+                  },
+                  {
+                    "year": 2030,
+                    "total": 2.1592917939
+                  },
+                  {
+                    "year": 2035,
+                    "total": 2.0572182564
+                  },
+                  {
+                    "year": 2040,
+                    "total": 2.1061457036
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2.0518784515
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1.9804630911
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Computer",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.6724249042
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.2813053098
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.9470815582
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.6825644728
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.4033220963
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.366014371
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.2468234107
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.1426117992
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "K\u00f8leskabe",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.1751864923
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.6710425776
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.4143230404
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.2795560173
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.1881001258
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.2770256128
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.3346829828
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.3975682219
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Madlavning",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3.5396788216
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.5564399864
+                  },
+                  {
+                    "year": 2025,
+                    "total": 3.5443786726
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3.5018111841
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3.431489544
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3.5375349193
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3.5546392571
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3.5798735605
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Maskiner (vaskeri)",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5.6357974374
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.8914806436
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4.8170500805
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.8741839796
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4.9010284079
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.1391980026
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.2386352678
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.3153878209
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Underholdning",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 7.5094097572
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7.0888846959
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.8199783913
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6.493961676
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6.0704759605
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5.9119736447
+                  },
+                  {
+                    "year": 2045,
+                    "total": 5.544307313
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.211190957
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "\u00d8vrige husholdningsapparater",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.8614334063
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.928606534
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1.8314198855
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1.8676065663
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1.9561511272
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1.9588346244
+                  },
+                  {
+                    "year": 2045,
+                    "total": 2.0008562267
+                  },
+                  {
+                    "year": 2050,
+                    "total": 2.1282912977
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers netto energi f",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Br\u00e6nde",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 17.6051068482
+                  },
+                  {
+                    "year": 2020,
+                    "total": 11.7367378988
+                  },
+                  {
+                    "year": 2025,
+                    "total": 10.2382628217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2040,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.3333333333
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Central fjernvarme",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.6026997876
+                  },
+                  {
+                    "year": 2020,
+                    "total": 46.5346985894
+                  },
+                  {
+                    "year": 2025,
+                    "total": 46.8588610666
+                  },
+                  {
+                    "year": 2030,
+                    "total": 47.1828610666
+                  },
+                  {
+                    "year": 2035,
+                    "total": 47.5068610666
+                  },
+                  {
+                    "year": 2040,
+                    "total": 47.8308610666
+                  },
+                  {
+                    "year": 2045,
+                    "total": 48.1548610666
+                  },
+                  {
+                    "year": 2050,
+                    "total": 48.4788610666
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Decentral fjernvarme",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 28.9983630142
+                  },
+                  {
+                    "year": 2020,
+                    "total": 29.6771149097
+                  },
+                  {
+                    "year": 2025,
+                    "total": 30.6178179806
+                  },
+                  {
+                    "year": 2030,
+                    "total": 31.1949467913
+                  },
+                  {
+                    "year": 2035,
+                    "total": 32.292452213
+                  },
+                  {
+                    "year": 2040,
+                    "total": 32.9516846205
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32.7587002324
+                  },
+                  {
+                    "year": 2050,
+                    "total": 33.2987002324
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 11.115
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.635
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet til elapparater",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 30.3336656141
+                  },
+                  {
+                    "year": 2020,
+                    "total": 27.8878243713
+                  },
+                  {
+                    "year": 2025,
+                    "total": 26.6431387116
+                  },
+                  {
+                    "year": 2030,
+                    "total": 25.85897569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 25.0077855181
+                  },
+                  {
+                    "year": 2040,
+                    "total": 25.2967268783
+                  },
+                  {
+                    "year": 2045,
+                    "total": 24.9718229097
+                  },
+                  {
+                    "year": 2050,
+                    "total": 24.7553867482
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet til opvarmning",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.30755597
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6.0843264243
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.0666771721
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.265145569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.545772502
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.1682160066
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7.3912316536
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.9691669882
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 24.535283935
+                  },
+                  {
+                    "year": 2020,
+                    "total": 23.7862637201
+                  },
+                  {
+                    "year": 2025,
+                    "total": 23.2667065
+                  },
+                  {
+                    "year": 2030,
+                    "total": 22.1035084524
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.9881783352
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13.8006948319
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6777390887
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.26267953
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Halm",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.9694982524
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3129988349
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.6564994175
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Solvarme",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.31815
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2121
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.10605
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Tr\u00e6piller",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.7591638566
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.5061092378
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.2530546189
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdningers varmeforbrug",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Br\u00e6nde",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 17.6051068482
+                  },
+                  {
+                    "year": 2020,
+                    "total": 11.7367378988
+                  },
+                  {
+                    "year": 2025,
+                    "total": 10.2382628217
+                  },
+                  {
+                    "year": 2030,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2035,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2040,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2045,
+                    "total": 11.3333333333
+                  },
+                  {
+                    "year": 2050,
+                    "total": 11.3333333333
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Central fjernvarme",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 45.6026997876
+                  },
+                  {
+                    "year": 2020,
+                    "total": 46.5346985894
+                  },
+                  {
+                    "year": 2025,
+                    "total": 46.8588610666
+                  },
+                  {
+                    "year": 2030,
+                    "total": 47.1828610666
+                  },
+                  {
+                    "year": 2035,
+                    "total": 47.5068610666
+                  },
+                  {
+                    "year": 2040,
+                    "total": 47.8308610666
+                  },
+                  {
+                    "year": 2045,
+                    "total": 48.1548610666
+                  },
+                  {
+                    "year": 2050,
+                    "total": 48.4788610666
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Decentral fjernvarme",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 28.9983630142
+                  },
+                  {
+                    "year": 2020,
+                    "total": 29.6771149097
+                  },
+                  {
+                    "year": 2025,
+                    "total": 30.6178179806
+                  },
+                  {
+                    "year": 2030,
+                    "total": 31.1949467913
+                  },
+                  {
+                    "year": 2035,
+                    "total": 32.292452213
+                  },
+                  {
+                    "year": 2040,
+                    "total": 32.9516846205
+                  },
+                  {
+                    "year": 2045,
+                    "total": 32.7587002324
+                  },
+                  {
+                    "year": 2050,
+                    "total": 33.2987002324
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Diesel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 11.115
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3.635
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Elektricitet til opvarmning",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4.30755597
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6.0843264243
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6.0666771721
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5.265145569
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.545772502
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6.1682160066
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7.3912316536
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7.9691669882
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Gas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 24.535283935
+                  },
+                  {
+                    "year": 2020,
+                    "total": 23.7862637201
+                  },
+                  {
+                    "year": 2025,
+                    "total": 23.2667065
+                  },
+                  {
+                    "year": 2030,
+                    "total": 22.1035084524
+                  },
+                  {
+                    "year": 2035,
+                    "total": 17.9881783352
+                  },
+                  {
+                    "year": 2040,
+                    "total": 13.8006948319
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.6777390887
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5.26267953
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Halm",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.9694982524
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1.3129988349
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.6564994175
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Solvarme",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.31815
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.2121
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.10605
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Tr\u00e6piller",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.7591638566
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4.5061092378
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.2530546189
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Husholdnings omkostninger",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Cost_Flox",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 9626.7529573809
+                  },
+                  {
+                    "year": 2020,
+                    "total": 7991.006131729
+                  },
+                  {
+                    "year": 2025,
+                    "total": 7133.8449295637
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6874.531184661
+                  },
+                  {
+                    "year": 2035,
+                    "total": 6488.6348240191
+                  },
+                  {
+                    "year": 2040,
+                    "total": 6355.3316592958
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6065.6501660691
+                  },
+                  {
+                    "year": 2050,
+                    "total": 5863.3136850019
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Cost_Fom",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 245.0596782986
+                  },
+                  {
+                    "year": 2020,
+                    "total": 522.3309215491
+                  },
+                  {
+                    "year": 2025,
+                    "total": 945.7327466892
+                  },
+                  {
+                    "year": 2030,
+                    "total": 1436.6162136488
+                  },
+                  {
+                    "year": 2035,
+                    "total": 1544.3391608791
+                  },
+                  {
+                    "year": 2040,
+                    "total": 1605.1385778286
+                  },
+                  {
+                    "year": 2045,
+                    "total": 1685.1261755759
+                  },
+                  {
+                    "year": 2050,
+                    "total": 1643.113699638
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Cost_Inv",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1980.26976847
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3377.2617450445
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5122.2653979154
+                  },
+                  {
+                    "year": 2030,
+                    "total": 7573.5887367421
+                  },
+                  {
+                    "year": 2035,
+                    "total": 8016.6514490426
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7473.836385213
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7790.9210049628
+                  },
+                  {
+                    "year": 2050,
+                    "total": 7610.7084138151
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Individuelle bygningers opvar",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Energibesparelser",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -4.1329178004
+                  },
+                  {
+                    "year": 2020,
+                    "total": -6.2717663713
+                  },
+                  {
+                    "year": 2025,
+                    "total": -6.91200756
+                  },
+                  {
+                    "year": 2030,
+                    "total": -6.93000756
+                  },
+                  {
+                    "year": 2035,
+                    "total": -6.93000756
+                  },
+                  {
+                    "year": 2040,
+                    "total": -6.93000756
+                  },
+                  {
+                    "year": 2045,
+                    "total": -6.93000756
+                  },
+                  {
+                    "year": 2050,
+                    "total": -6.93000756
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Opvarming",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 35.3556492277
+                  },
+                  {
+                    "year": 2020,
+                    "total": 33.0839705059
+                  },
+                  {
+                    "year": 2025,
+                    "total": 32.2094846107
+                  },
+                  {
+                    "year": 2030,
+                    "total": 31.8989916365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 31.5137765055
+                  },
+                  {
+                    "year": 2040,
+                    "total": 31.0776165083
+                  },
+                  {
+                    "year": 2045,
+                    "total": 30.6586244817
+                  },
+                  {
+                    "year": 2050,
+                    "total": 30.2754234431
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "COMETS_bio",
         "indicators": [
           {
             "indicator": "_Centrale bygningers energibeh",

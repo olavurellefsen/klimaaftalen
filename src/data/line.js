@@ -657,137 +657,6 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_Bio",
-        "indicators": [
-          {
-            "indicator": "_All_GHG_emissions",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "GHG reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3134854834
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3632999544
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4255377144
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.538822563
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.6356962658
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6941541724
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7223819091
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7364645435
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3343892217
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4076511087
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4967624451
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6487356319
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7785447103
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8538190183
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8854458719
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8981921385
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4179356961
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5711834346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7060594516
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7625393563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7920347717
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8212229618
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "scenario": "COMETS_CCS",
         "indicators": [
           {
@@ -919,7 +788,138 @@ export default {
         ]
       },
       {
-        "scenario": "COMETS_CCS_Bio",
+        "scenario": "COMETS_CCS_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3134854834
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3632999544
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4255377144
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.538822563
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6356962658
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6941541724
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7223819091
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7364645435
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3343892217
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4076511087
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4967624451
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6487356319
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7785447103
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8538190183
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8854458719
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8981921385
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4179356961
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5711834346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7060594516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7625393563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7920347717
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8212229618
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "COMETS_bio",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",

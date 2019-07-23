@@ -23,6 +23,7 @@
   },
   "scenario": {
     "Reference": "Reference",
+	"COMETS": "COMETS",
     "Frozen policy": "Frozen policy",
     "Lav vækst": "Low growth",
     "DGSB": "DGSB",
@@ -55,6 +56,7 @@
     "FP_NO_WIN_INT": "Frozen policy",
     "Frozen_policy_INT": "Reference",
     "COMETS": "Marienlyst",
+	"COMETS1": "COMETS",
 	"COMETS_CCS": "Marienlyst",
     "DGSB_INT": "DGSB",
     "Regeringen_INT": "The Government",

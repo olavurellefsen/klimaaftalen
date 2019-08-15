@@ -42,6 +42,19 @@
     "CB": "CB 1½°C",
     "CB (bio)": "CB 1½°C (bio)"
   },
+  "scenarioRoutes": {
+    "Frozen_policy_INT": "/Reference",
+    "FP_NO_WIN_INT": "/Frozen-policy",
+    "DGSB_INT": "/DGSB",
+    "Regeringen_INT": "/The-Government",
+    "Enhedslisten_INT": "/Red–Green-Alliance",
+    "LA_INT": "/Liberal-Alliance",
+    "Radikale_INT": "/Radikale-Venstre",
+    "SF_INT": "/Socialistisk Folkeparti",
+    "Socialdemokratiet_INT": "/Social-Democrats",
+    "Carbon_scenario_1-5_degree_INT": "/Carbon-budget-1.5°C",
+    "Carbon_scenario_1-5_degree_bio_INT": "/Carbon-budget(bio)-1.5°C"
+  },
   "scenario_code": {
     "FP_NO_WIN_INT": "Frozen policy",
     "Frozen_policy_INT": "Reference",
@@ -83,6 +96,15 @@
       "households": "Households"
     }
   },
+  "tabRoutes": {
+    "overview": "/Overview",
+    "mainresults": "/Main-results",
+    "supplysector": "/Supply-sector",
+    "transportsector": "/Transport-sector",
+    "industry": "/Industry",
+    "households": "/Households"
+  },
+
   "welcome-text": {
     "welcome-1": "The energy system analysis group at the Technical University of Denmark (DTU) invites to a debate about climate and energy politics with our tool.",
     "welcome-2": "With this tool you can explore different scenarios related to the Danish Climate Agreement 2019. Choose a scenario in the left menu and see the result in the charts below.",
@@ -148,6 +170,17 @@
     "Husholdnings omkostninger": "Costs of households",
     "Individuelle bygningers opvarmningsbehov": "Heating needs of individual buildings",
     "CO2": "CO2"
+  },
+  "chartRoutes": {
+    "CO2 emissioner og %-reduktion": "/CO2-emissions-and-%-reduction",
+    "Anden drivhusgas udledning": "/Other-GHG-emissions",
+    "Akkumuleret CO2 emissioner": "/Accumulated-CO2-emissions",
+    "Energiforbrug og VE-andel": "/Energy-consumpution-and-RE-share",
+    "Antal havmølleparker (á 800MW)": "/Number-of-offshore-wind-energy-parks-(at-800MW)",
+    "Solcelle areal": "/Solarcell-area",
+    "Andel importeret Biomasse": "/Share-of-imported-biomass",
+    "Omkostninger per person": "/Costs-per-person",
+    "CO2-emissioner og VE-andel": "/CO2-emissions-and-RE-share"
   },
   "legend": {
     "Biomasse andel": "Biomass share",

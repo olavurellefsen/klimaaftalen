@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 import breakpoint from "styled-components-breakpoint";
-import { Link } from "react-router-dom";
+import { Link, withRouter } from "react-router-dom";
 import ScenarioSelectionList from "../scenarioSelection/ScenarioSelectionList";
 import ToggleSwitch from "./ToggleSwitch";
 import { useTranslation } from "react-i18next";
@@ -169,7 +169,10 @@ function ScenarioSelectionMenu(props) {
       i18n.changeLanguage("en");
     }
   };
-
+  //console.log("___match___from__leftmenu: " + JSON.stringify(props.match))
+  //console.log("___history___from__leftmenu: " + JSON.stringify(props.history))
+  //console.log("___location___from__leftmenu: " + JSON.stringify(props.location))
+  //console.log("scenarioSelectionLink: " + props.tabSelection + props.backRoute )
   return (
     <MenuLayout>
       <MenuHeader>
@@ -217,6 +220,8 @@ function ScenarioSelectionMenu(props) {
           dimensionTitle={t("general.scenarios")}
           narrowVersion={false}
           showCCS={props.scenarioSelection.showCCS}
+          backRoute={props.backRoute}
+          tabSelection={props.tabSelection}
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
@@ -249,7 +254,8 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
+      <ToggleDifference 
+        onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
           Danish
         </ToggleLanguageText>
@@ -276,7 +282,9 @@ ScenarioSelectionMenu.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
-  toggleShowCCS: PropTypes.func.isRequired
+  toggleShowCCS: PropTypes.func.isRequired,
+  backRoute: PropTypes.string.isRequired,
+  tabSelection: PropTypes.any
 };
 
-export default ScenarioSelectionMenu;
+export default withRouter(ScenarioSelectionMenu);

@@ -7,11 +7,17 @@ import ComparisonChart from "./ComparisonChart";
 import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBar";
 import line from "../data/line";
+import { withRouter } from "react-router-dom"
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection;
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2;
-
+  //console.log("___match___from__charts: " + JSON.stringify(props.match))
+  //console.log("___history___from__charts: " + JSON.stringify(props.history))
+  //console.log("___location___from__charts: " + JSON.stringify(props.location))
+  //console.log("s1: " + selectedScenario)
+  //console.log("s2: " + selectedScenario2)
+  //console.log("t: " + props.scenarioSelection.tabSelection)
   return (
     <MainArea>
       {props.scenarioSelection.showWelcome === true && (
@@ -254,4 +260,4 @@ Charts.propTypes = {
   closeWelcome: PropTypes.func.isRequired
 };
 
-export default Charts;
+export default withRouter(Charts);

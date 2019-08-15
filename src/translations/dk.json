@@ -42,6 +42,20 @@
     "CB": "CB 1½°C",
     "CB (bio)": "CB 1½°C (bio)"
   },
+  "scenarioRoutes": {
+    "Frozen_policy_INT": "/Reference",
+    "FP_NO_WIN_INT": "/Frozen-policy",
+    "DGSB_INT": "/DGSB",
+    "Regeringen_INT": "/Regeringens-udspil",
+    "Alternativet_INT": "/Alternativet",
+    "Enhedslisten_INT": "/Enhedslisten",
+    "LA_INT": "/Liberal-Alliance",
+    "Radikale_INT": "/Radikale-Venstre",
+    "SF_INT": "/Socialistisk-Folkeparti",
+    "Socialdemokratiet_INT": "/Socialdemokratiet",
+    "Carbon_scenario_1-5_degree_INT": "/Carbon-budget-1.5°C",
+    "Carbon_scenario_1-5_degree_bio_INT": "/Carbon-budget(bio)-1.5°C"
+  },
   "scenario_code": {
     "FP_NO_WIN_INT": "Frozen policy",
     "Frozen_policy_INT": "Reference",
@@ -82,6 +96,14 @@
       "industry": "Industri",
       "households": "Husholdninger"
     }
+  },
+  "tabRoutes": {
+    "overview": "/Overblik",
+    "mainresults": "/Hovedresultater",
+    "supplysector": "/Forsyningssektoren",
+    "transportsector": "/Transportsektoren",
+    "industry": "/Industri",
+    "households": "/Husholdninger"
   },
   "welcome-text": {
     "welcome-1": "Energisystemanalysegruppen på DTU inviterer til debat om klima- og energipolitik med vores værktøj.",
@@ -147,6 +169,17 @@
     "Husholdningers netto energi forbrug": "Husholdningers netto energi forbrug",
     "Husholdnings omkostninger": "Husholdnings omkostninger",
     "Individuelle bygningers opvarmningsbehov": "Individuelle bygningers opvarmningsbehov"
+  },
+  "chartRoutes": {
+    "CO2 emissioner og %-reduktion": "CO2-emissioner-og-%-reduktion",
+    "Anden drivhusgas udledning": "Anden-drivhusgas-udledning",
+    "Akkumuleret CO2 emissioner": "Akkumuleret-CO2-emissioner",
+    "Energiforbrug og VE-andel": "Energiforbrug-og-VE-andel",
+    "Antal havmølleparker (á 800MW)": "Antal-havmølleparker-(á-800MW)",
+    "Solcelle areal": "Solcelle areal",
+    "Andel importeret Biomasse": "Andel importeret Biomasse",
+    "Omkostninger per person": "Omkostninger per person",
+    "CO2-emissioner og VE-andel": "CO2-emissioner og VE-andel"
   },
   "legend": {
     "Biomasse andel": "Biomasse andel",

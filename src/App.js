@@ -65,25 +65,30 @@ export class App extends React.Component {
     super(props);
     var selections = props.location.pathname.split('/')
     let CCS = false
+    let DIFF = false
+    
     selections.forEach(
       (select, index) => {
         if (select === 'CCS') {
           selections[index] = undefined
           CCS = true
         }
+        if (select === 'Diff') {
+          selections[index] = undefined
+          DIFF = true
+        }
       }
     )
     
     this.state = {
       tabSelection: this.getTabSelection(selections[1]),
-      scenarioSelection: this.getScenarioSelection(selections[2]),
-      scenarioSelection2: this.getScenarioSelection2(selections[3]),
+      scenarioSelection: this.getScenarioSelection(selections[2], CCS),
+      scenarioSelection2: this.getScenarioSelection2(selections[3], CCS),
       showWelcome: true,
-      showDifference: false,
-      showCCS: CCS,
-      currentLanguage: 'dk',
-      changeLanguageTo: 'dk'
+      showDifference: DIFF,
+      showCCS: CCS
     };
+    //alert("state: " + JSON.stringify(this.state))
     this.scenarioCombinations = scenarioCombinations.scenarioCombinations;
   }
 
@@ -96,42 +101,76 @@ export class App extends React.Component {
     this.setState({changeLanguageTo: language})
   }
   
-  getScenarioSelection = (sel) => {
+  getScenarioSelection = (sel, ccs) => {
+    //alert("sel: " + JSON.stringify(sel))
+    let ret
     if (sel !== undefined) {
+      let ccsStr =''
+      if(ccs) ccsStr='_With_CCS'
       if (this.props.i18n.language === 'en') {
-        return Object.entries(en.scenarioRoutes).find(r => (
+        ret = Object.entries(en.scenarioRoutes).find(r => (
           r[1] === "/" + sel
           )
-        )[0]
+        )[0] + ccsStr
       } else {
-        return Object.entries(dk.scenarioRoutes).find(r => (
+        ret =  Object.entries(dk.scenarioRoutes).find(r => (
           r[1] === "/" + sel
           )
-        )[0]
+        )[0] + ccsStr
       }
     }
     else  
-      return default_scenario
+      ret = default_scenario
+    //alert("ret: " + ret)
+    return ret
   }
-  getScenarioSelection2 = (sel) => {
-    if (sel !== undefined)
+  getScenarioSelection2 = (sel,ccs) => {
+    let ret
+    if (sel !== undefined) {
+      let ccsStr =''
+      if(ccs) ccsStr='_With_CCS'
       if (this.props.i18n.language === 'en') {
-        return Object.entries(en.scenarioRoutes).find(r => (
+        ret =  Object.entries(en.scenarioRoutes).find(r => (
           r[1] === "/" + sel
           )
-        )[0]
+        )[0] + ccsStr
       } else {
-        return Object.entries(dk.scenarioRoutes).find(r => (
+        ret =  Object.entries(dk.scenarioRoutes).find(r => (
           r[1] === "/" + sel
           )
-        )[0]
+        )[0] + ccsStr
       }
+    }
     else  
-      return ''
+      ret =  ''
+
+    //alert("ret2:" + ret)
+    return ret
   }
   getTabSelection = (sel) => {
-    if (sel !== "")
-      if (this.props.i18n.language === 'en') {
+    let ret
+    if (sel !== "") {
+      let entryEn
+      let entryDk = Object.entries(dk.tabRoutes).find(r => (
+        r[1] === "/" + sel
+        )
+      )
+      if (entryDk === undefined) {
+        entryEn = Object.entries(en.tabRoutes).find(r => (
+          r[1] === "/" + sel
+          )
+        )
+        if (entryEn !== undefined) {
+          this.props.i18n.changeLanguage('en')
+          ret =  entryEn[0]
+        } else {
+          alert("Language not detected")
+        }
+      } else {
+        ret = entryDk[0]
+      }
+    }
+      /* if (this.props.i18n.language === 'en') {
         return Object.entries(en.tabRoutes).find(r => (
           r[1] === "/" + sel
           )
@@ -142,9 +181,12 @@ export class App extends React.Component {
           )
         )
         return tabEntry[0]
-      }
+      } */
     else  
-      return default_tab
+      ret =  default_tab
+
+    return ret
+
   }
   UpdateTabSelection = (tab) => {
     this.setState({"tabSelection": tab });
@@ -186,6 +228,7 @@ export class App extends React.Component {
     let newScenario2 = "";
     const oldScenario = this.state.scenarioSelection;
     const oldScenario2 = this.state.scenarioSelection2;
+    //console.log("before oldS: " + oldScenario + "  newS: " + newScenario)
     if (this.state.showCCS) {
       newScenario = oldScenario.substring(0, oldScenario.length - 9);
       if (oldScenario2 !== "") {
@@ -197,6 +240,7 @@ export class App extends React.Component {
         newScenario2 = oldScenario2 + "_With_CCS";
       }
     }
+    //console.log("after oldS: " + oldScenario + "  newS: " + newScenario)
     this.setState({
       showCCS: !this.state.showCCS,
       scenarioSelection: newScenario,
@@ -206,11 +250,15 @@ export class App extends React.Component {
   
   render() {
     const {t } = this.props;
-    var sce1 = "", sce2 = "";
+    let sce1 = "", sce2 = "", ccs = '', diff = '';
     if (this.state.scenarioSelection !== "") sce1 = t("scenarioRoutes." + this.state.scenarioSelection)
     if (this.state.scenarioSelection2 !== "") sce2 = t("scenarioRoutes." + this.state.scenarioSelection2)
-    var backRoute = sce1 + sce2;
-    console.log("br: " + backRoute)
+    if (this.state.showCCS === true) ccs = '/CCS'
+    if (this.state.showDifference === true) diff = '/Diff'
+
+    let backRoute = sce1 + sce2 + ccs + diff;
+    //console.log("s1: "+ this.state.scenarioSelection + "  s2: " + this.state.scenarioSelection2 )
+    //console.log("br: " + backRoute)
     return (
       <Page>
         <Column>
@@ -259,6 +307,7 @@ export class App extends React.Component {
                   }/>
                 )}} />
               <Route
+              exact
                 path={t("tabRoutes.overview") + backRoute }
                 render={() => (
                   <Charts
@@ -268,6 +317,7 @@ export class App extends React.Component {
                 )}
               />
               <Route
+              exact
                 path={this.props.t("tabRoutes.mainresults")  + backRoute }
                 render={() => (
                   <ChartsTab2
@@ -277,6 +327,7 @@ export class App extends React.Component {
                 )}
               />
               <Route
+              exact
                 path={this.props.t("tabRoutes.supplysector")  + backRoute }
                 render={() =>{
                   return (
@@ -287,6 +338,7 @@ export class App extends React.Component {
                 )}}
               />
               <Route
+              exact
                 path={this.props.t("tabRoutes.transportsector")  + backRoute }
                 render={() => (
                   <ChartsTab4
@@ -296,6 +348,7 @@ export class App extends React.Component {
                 )}
               />
               <Route
+              exact
                 path={this.props.t("tabRoutes.industry")  + backRoute }
                 render={() => (
                   <ChartsTab5
@@ -305,6 +358,7 @@ export class App extends React.Component {
                 )}
               />
               <Route
+              exact
                 path={this.props.t("tabRoutes.households")  + backRoute }
                 render={() => (
                   <ChartsTab6

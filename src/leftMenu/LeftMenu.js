@@ -283,7 +283,7 @@ ScenarioSelectionMenu.propTypes = {
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
   toggleShowCCS: PropTypes.func.isRequired,
-  backRoute: PropTypes.string.isRequired,
+  backRoute: PropTypes.string,
   tabSelection: PropTypes.any
 };
 

@@ -14,6 +14,7 @@ import ChartsTab4 from "./charts/ChartsTab4";
 import ChartsTab5 from "./charts/ChartsTab5";
 import ChartsTab6 from "./charts/ChartsTab6";
 import StackedBarChart from './charts/StackedBarChart'
+import line from "./data/line";
 import About from "./pages/About";
 import PageRenderer from "./pages/PageRenderer";
 import Prerequisites from "./pages/Prerequisites";
@@ -66,7 +67,8 @@ export class App extends React.Component {
     var selections = props.location.pathname.split('/')
     let CCS = false
     let DIFF = false
-    
+    alert("selections: " + JSON.stringify(selections))
+    this.props.i18n.changeLanguage(selections[1])
     selections.forEach(
       (select, index) => {
         if (select === 'CCS') {
@@ -77,13 +79,20 @@ export class App extends React.Component {
           selections[index] = undefined
           DIFF = true
         }
+        if (select === 'Chart') {
+          selections[index] = undefined
+          DIFF = true
+        }
+        if (select === 'About') {
+          selections[index] = 'Overblik'
+        }
       }
     )
     
     this.state = {
-      tabSelection: this.getTabSelection(selections[1]),
-      scenarioSelection: this.getScenarioSelection(selections[2], CCS),
-      scenarioSelection2: this.getScenarioSelection2(selections[3], CCS),
+      tabSelection: this.getTabSelection(selections[2]),
+      scenarioSelection: this.getScenarioSelection(selections[3], CCS),
+      scenarioSelection2: this.getScenarioSelection2(selections[4], CCS),
       showWelcome: true,
       showDifference: DIFF,
       showCCS: CCS
@@ -149,39 +158,20 @@ export class App extends React.Component {
   }
   getTabSelection = (sel) => {
     let ret
-    if (sel !== "") {
-      let entryEn
-      let entryDk = Object.entries(dk.tabRoutes).find(r => (
-        r[1] === "/" + sel
-        )
-      )
-      if (entryDk === undefined) {
-        entryEn = Object.entries(en.tabRoutes).find(r => (
+    alert("sel: " + sel)
+    if (sel !== undefined) {
+      if (this.props.i18n.language === 'en') {
+        ret =  Object.entries(en.tabRoutes).find(r => (
           r[1] === "/" + sel
           )
-        )
-        if (entryEn !== undefined) {
-          this.props.i18n.changeLanguage('en')
-          ret =  entryEn[0]
-        } else {
-          alert("Language not detected")
-        }
+        )[0] 
       } else {
-        ret = entryDk[0]
-      }
-    }
-      /* if (this.props.i18n.language === 'en') {
-        return Object.entries(en.tabRoutes).find(r => (
+        ret =  Object.entries(dk.tabRoutes).find(r => (
           r[1] === "/" + sel
           )
         )[0]
-      } else {
-        let tabEntry = Object.entries(dk.tabRoutes).find(r => (
-          r[1] === "/" + sel
-          )
-        )
-        return tabEntry[0]
-      } */
+      }
+    }
     else  
       ret =  default_tab
 
@@ -256,9 +246,13 @@ export class App extends React.Component {
     if (this.state.showCCS === true) ccs = '/CCS'
     if (this.state.showDifference === true) diff = '/Diff'
 
-    let backRoute = sce1 + sce2 + ccs + diff;
+    let postRoute = sce1 + sce2 + ccs + diff;
+    //let preRoute = this.props.i18n.language
+    let preRoute = '/' + this.props.i18n.language
     //console.log("s1: "+ this.state.scenarioSelection + "  s2: " + this.state.scenarioSelection2 )
-    //console.log("br: " + backRoute)
+    //console.log("br: " + backRoute) 
+    //alert("s1: "+ this.state.scenarioSelection + "  s2: " + this.state.scenarioSelection2 )
+    //alert("br: " + postRoute) 
     return (
       <Page>
         <Column>
@@ -271,6 +265,7 @@ export class App extends React.Component {
               toggleDifference={this.ToggleDifference}
               toggleShowCCS={this.ToggleShowCCS}
               tabSelection={this.state.tabSelection}
+              preRoute={preRoute}
             />
             <LeftMenuMobile
               selectedChartgroup={this.state.scenarioSelection}
@@ -279,7 +274,7 @@ export class App extends React.Component {
               updateScenarioSelection={this.UpdateScenarioSelection}
               toggleDifference={this.ToggleDifference}
               toggleShowCCS={this.ToggleShowCCS}
-              backRoute={backRoute}
+              backRoute={postRoute}
               tabSelection={this.state.tabSelection}
             />
           </Content>
@@ -287,12 +282,13 @@ export class App extends React.Component {
         <Column style={{flex:1}}>
           <Content>
             <Tabs selectedChartgroup={this.props.location.pathname} 
-            UpdateTabSelection={this.UpdateTabSelection}
-            backRoute={backRoute}
-            tabSelection={this.tabSelection}
-            match={this.props.match}
-            location={this.props.location}
-            history={this.props.history}
+              UpdateTabSelection={this.UpdateTabSelection}
+              backRoute={postRoute}
+              preRoute={preRoute}
+              tabSelection={this.tabSelection}
+              match={this.props.match}
+              location={this.props.location}
+              history={this.props.history}
             />
             <TabsMobile selectedChartgroup={this.props.location.pathname} />
             <MainSwitch>
@@ -302,13 +298,14 @@ export class App extends React.Component {
                 render={() => {
                   return ( 
                   <Redirect to={
+                    preRoute + 
                     this.props.t("tabRoutes.overview") 
                     + this.props.t("scenarioRoutes.FP_NO_WIN_INT")
                   }/>
                 )}} />
               <Route
               exact
-                path={t("tabRoutes.overview") + backRoute }
+                path={preRoute + t("tabRoutes.overview") + postRoute }
                 render={() => (
                   <Charts
                     scenarioSelection={this.state}
@@ -318,7 +315,7 @@ export class App extends React.Component {
               />
               <Route
               exact
-                path={this.props.t("tabRoutes.mainresults")  + backRoute }
+                path={preRoute + this.props.t("tabRoutes.mainresults")  + postRoute }
                 render={() => (
                   <ChartsTab2
                     scenarioSelection={this.state}
@@ -328,7 +325,7 @@ export class App extends React.Component {
               />
               <Route
               exact
-                path={this.props.t("tabRoutes.supplysector")  + backRoute }
+                path={preRoute + this.props.t("tabRoutes.supplysector")  + postRoute }
                 render={() =>{
                   return (
                     <ChartsTab3
@@ -339,7 +336,7 @@ export class App extends React.Component {
               />
               <Route
               exact
-                path={this.props.t("tabRoutes.transportsector")  + backRoute }
+                path={preRoute + this.props.t("tabRoutes.transportsector")  + postRoute }
                 render={() => (
                   <ChartsTab4
                     scenarioSelection={this.state}
@@ -349,7 +346,7 @@ export class App extends React.Component {
               />
               <Route
               exact
-                path={this.props.t("tabRoutes.industry")  + backRoute }
+                path={preRoute + this.props.t("tabRoutes.industry")  + postRoute }
                 render={() => (
                   <ChartsTab5
                     scenarioSelection={this.state}
@@ -359,7 +356,7 @@ export class App extends React.Component {
               />
               <Route
               exact
-                path={this.props.t("tabRoutes.households")  + backRoute }
+                path={preRoute + this.props.t("tabRoutes.households")  + postRoute }
                 render={() => (
                   <ChartsTab6
                     scenarioSelection={this.state}
@@ -370,7 +367,7 @@ export class App extends React.Component {
               {
                 
               }
-              <Route path="/about" component={About} />
+              <Route path={preRoute + "/about"} component={About} />
               <Route
                 path="/beskrivelser"
                 render={() => {
@@ -390,8 +387,8 @@ export class App extends React.Component {
                   );
                 }}
               />
-              <Route path="/forudsaetninger" component={Prerequisites} />
-              <Route path="/abonner" render={() => {
+              <Route path={preRoute + "/forudsaetninger"} component={Prerequisites} />
+              <Route path={preRoute + "/abonner"} render={() => {
                   return (
                     <PageRenderer
                       markdownFiles={[   
@@ -409,26 +406,48 @@ export class App extends React.Component {
                     
                   })
                 })}
-              <Route path="/chart_hello:id" render={routeProps => {
-                return (
-                  <MainArea>
-                    <Flex>
-                    <StackedBarChart {...routeProps.location.state} 
-                    selectedScenario={this.state.scenarioSelection} 
-                    selectedScenario2={this.state.scenarioSelection2}
-                    width={800}
-                    height={500}
-                     >
-                    </StackedBarChart>
-                    {/* <div>location: {JSON.stringify(routeProps.location)}</div>
-                    <div>match: {JSON.stringify(routeProps.match)}</div>
-                    <div>history: {JSON.stringify(routeProps.history)}</div> */}
-                    </Flex>
-                  </MainArea>
-                )
+              <Route 
+                path={preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute + '/Chart'}
+                render={routeProps => {
+                  //return (<div>hello</div>)
+                  //alert("routeProps: " + JSON.stringify(routeProps))
+                  let chartnameTemp = routeProps.location.pathname.split('/')
+                  alert("chartNameTemp" + JSON.stringify(chartnameTemp))
+                  let t = Object.entries(dk.chartRoutes).find(r => {
+                    console.log("r: " + JSON.stringify(r))
+                    return(
+                    r[1] === chartnameTemp[chartnameTemp.lenght-1]
+                    )}
+                  )
+                  alert("chartName: " + JSON.stringify(t))
+                  return (
+                    <MainArea>
+                      <Flex>
+                      <StackedBarChart {...routeProps.location.state} 
+                        selectedScenario={this.state.scenarioSelection} 
+                        selectedScenario2={this.state.scenarioSelection2}
+                        backRoute={postRoute}
+                        tabSelection={this.state.tabSelection}
+                        stackedBar={stackedBar}
+                        width={800}
+                        height={500}
+                        line={line}
+                        minY={0}
+                        maxY={40000}
+                        minY2={0}
+                        maxY2={1}
+                      >
+                      </StackedBarChart>
+                      {/* <div>location: {JSON.stringify(routeProps.location)}</div>
+                      <div>match: {JSON.stringify(routeProps.match)}</div>
+                      <div>history: {JSON.stringify(routeProps.history)}</div> */}
+                      </Flex>
+                    </MainArea>
+                  )
               }} />
               <Redirect to={
-                t("tabRoutes." + this.state.tabSelection) + backRoute
+                preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute
+                //preRoute + '/About'
               } />
             </MainSwitch>
           </Content>

@@ -47,28 +47,28 @@ function Tabs(props) {
   return (
     <TabLayout>
       <TabItem 
-        to={t("tabRoutes.overview") + props.backRoute} selected={props.selectedChartgroup === "/"}
+        to={props.preRoute + t("tabRoutes.overview") + props.backRoute} selected={props.selectedChartgroup === "/"}
         //onClick={()=>{props.UpdateTabSelection(t("tabRoutes.overview"))}}
         onClick={()=>{props.UpdateTabSelection('overview')}}
         >
         {t("tabs.overview")}
       </TabItem>
       <TabItem 
-        to={t("tabRoutes.mainresults") + props.backRoute} selected={props.selectedChartgroup === "/tab2"}
+        to={props.preRoute + t("tabRoutes.mainresults") + props.backRoute} selected={props.selectedChartgroup === "/tab2"}
         onClick={()=>{props.UpdateTabSelection('mainresults')}}
         >
         {t("tabs.mainresults")}
       </TabItem>
-      <TabItem to={t("tabRoutes.supplysector") + props.backRoute} selected={props.selectedChartgroup === "/tab3"}>
+      <TabItem to={props.preRoute + t("tabRoutes.supplysector") + props.backRoute} selected={props.selectedChartgroup === "/tab3"}>
         {t("tabs.supplysector")}
       </TabItem>
-      <TabItem to={t("tabRoutes.transportsector") + props.backRoute} selected={props.selectedChartgroup === "/tab4"}>
+      <TabItem to={props.preRoute + t("tabRoutes.transportsector") + props.backRoute} selected={props.selectedChartgroup === "/tab4"}>
         {t("tabs.transportsector")}
       </TabItem>
-      <TabItem to={t("tabRoutes.industry") + props.backRoute} selected={props.selectedChartgroup === "/tab5"}>
+      <TabItem to={props.preRoute + t("tabRoutes.industry") + props.backRoute} selected={props.selectedChartgroup === "/tab5"}>
         {t("tabs.industry")}
       </TabItem>
-      <TabItem to={t("tabRoutes.households") + props.backRoute} selected={props.selectedChartgroup === "/tab6"}>
+      <TabItem to={props.preRoute + t("tabRoutes.households") + props.backRoute} selected={props.selectedChartgroup === "/tab6"}>
         {t("tabs.households")}
       </TabItem>
     </TabLayout>
@@ -78,6 +78,7 @@ function Tabs(props) {
 Tabs.propTypes = {
   selectedChartgroup: PropTypes.string.isRequired,
   backRoute: PropTypes.string,
+  preRoute: PropTypes.string,
   UpdateTabSelection: PropTypes.func.isRequired
 };
 

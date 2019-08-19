@@ -48,7 +48,9 @@ const ScenarioSelectionList = props => {
       else {
         newLink = t("tabRoutes." + props.tabSelection) + t("scenarioRoutes." + stringValue) + t("scenarioRoutes." + option.name)
       }
-      //newLink = "hell" + newLink
+      console.log("preRoute: " + props.preRoute)
+      newLink = props.preRoute + newLink
+      console.log("After Link: " + newLink)
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
       } else {
@@ -93,7 +95,8 @@ ScenarioSelectionList.propTypes = {
   dimensionTitle: PropTypes.string.isRequired,
   narrowVersion: PropTypes.bool.isRequired,
   showCCS: PropTypes.bool.isRequired,
-  tabSelection: PropTypes.any
+  tabSelection: PropTypes.any,
+  preRoute: PropTypes.string 
 };
 
 export default withRouter(ScenarioSelectionList);

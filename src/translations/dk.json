@@ -183,15 +183,15 @@
     "Individuelle bygningers opvarmningsbehov": "Individuelle bygningers opvarmningsbehov"
   },
   "chartRoutes": {
-    "CO2 emissioner og %-reduktion": "CO2-emissioner-og-%-reduktion",
+    "CO2 emissioner og %-reduktion": "CO2-emissioner-og-reduktion",
     "Anden drivhusgas udledning": "Anden-drivhusgas-udledning",
     "Akkumuleret CO2 emissioner": "Akkumuleret-CO2-emissioner",
     "Energiforbrug og VE-andel": "Energiforbrug-og-VE-andel",
     "Antal havmølleparker (á 800MW)": "Antal-havmølleparker-(á-800MW)",
-    "Solcelle areal": "Solcelle areal",
-    "Andel importeret Biomasse": "Andel importeret Biomasse",
-    "Omkostninger per person": "Omkostninger per person",
-    "CO2-emissioner og VE-andel": "CO2-emissioner og VE-andel"
+    "Solcelle areal": "Solcelle-areal",
+    "Andel importeret Biomasse": "Andel-importeret-Biomasse",
+    "Omkostninger per person": "Omkostninger-per-person",
+    "CO2-emissioner og VE-andel": "CO2-emissioner-og-E-andel"
   },
   "legend": {
     "Biomasse andel": "Biomasse andel",

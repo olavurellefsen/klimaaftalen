@@ -143,7 +143,8 @@ const StackedBarChart = props => {
     "#4346fa",
     "#52627f"
   ];
-
+  //alert("propsCharts: " + JSON.stringify(props))
+  //alert("stackedBar: " + JSON.stringify(stackedBar))
   return (
     <Chart {...props}>
       <VictoryChart

@@ -158,7 +158,7 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
+  const { t, i18n, preRoute } = useTranslation();
   const language = i18n.language;
 
   const toggleLanguage = e => {
@@ -180,7 +180,7 @@ function ScenarioSelectionMenu(props) {
           <MenuTitle to="/">{t("title")}</MenuTitle>
           <MenuRoutes>
             <MenuItem
-              to="/about"
+              to={preRoute + "/about"}
               selected={props.selectedChartgroup === "/about"}
             >
               {t("menu.desktop.about")}
@@ -221,6 +221,7 @@ function ScenarioSelectionMenu(props) {
           narrowVersion={false}
           showCCS={props.scenarioSelection.showCCS}
           backRoute={props.backRoute}
+          preRoute={props.preRoute}
           tabSelection={props.tabSelection}
         />
       </ScenarioSelection>
@@ -284,6 +285,7 @@ ScenarioSelectionMenu.propTypes = {
   toggleDifference: PropTypes.func.isRequired,
   toggleShowCCS: PropTypes.func.isRequired,
   backRoute: PropTypes.string,
+  preRoute: PropTypes.string.isRequired,
   tabSelection: PropTypes.any
 };
 

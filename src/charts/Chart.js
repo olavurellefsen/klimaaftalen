@@ -41,8 +41,6 @@ const Chart = props => {
         "Y2Percentage": Y2Percentage,
         "stackedBar": stackedBar
     }
-    //console.log("stakedBar: " + JSON.stringify( stackedBar))
-    console.log("chartTitle: " + JSON.stringify( chartTitle))
     return(
         <ChartDiv>
             <Link 

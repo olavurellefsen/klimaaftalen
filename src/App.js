@@ -218,7 +218,6 @@ export class App extends React.Component {
     let newScenario2 = "";
     const oldScenario = this.state.scenarioSelection;
     const oldScenario2 = this.state.scenarioSelection2;
-    //console.log("before oldS: " + oldScenario + "  newS: " + newScenario)
     if (this.state.showCCS) {
       newScenario = oldScenario.substring(0, oldScenario.length - 9);
       if (oldScenario2 !== "") {
@@ -230,7 +229,6 @@ export class App extends React.Component {
         newScenario2 = oldScenario2 + "_With_CCS";
       }
     }
-    //console.log("after oldS: " + oldScenario + "  newS: " + newScenario)
     this.setState({
       showCCS: !this.state.showCCS,
       scenarioSelection: newScenario,
@@ -247,12 +245,7 @@ export class App extends React.Component {
     if (this.state.showDifference === true) diff = '/Diff'
 
     let postRoute = sce1 + sce2 + ccs + diff;
-    //let preRoute = this.props.i18n.language
     let preRoute = '/' + this.props.i18n.language
-    //console.log("s1: "+ this.state.scenarioSelection + "  s2: " + this.state.scenarioSelection2 )
-    //console.log("br: " + backRoute) 
-    //alert("s1: "+ this.state.scenarioSelection + "  s2: " + this.state.scenarioSelection2 )
-    //alert("br: " + postRoute) 
     return (
       <Page>
         <Column>
@@ -398,10 +391,8 @@ export class App extends React.Component {
                   );
                 }} />
                 {stackedBar.data.scenarios.forEach(scen => {
-                  //console.log("scenName: " + scen.scenario)
                   scen.indicators.forEach(i => {
                     i.indicatorGroups.forEach(ig => {
-                      //console.log("ig: " + i.indicator + "   IndicatorGroup: " + ig.indicatorGroup)
                     })
                     
                   })
@@ -409,34 +400,24 @@ export class App extends React.Component {
               <Route 
                 path={preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute + '/Chart'}
                 render={routeProps => {
-                  //return (<div>hello</div>)
-                  //alert("routeProps: " + JSON.stringify(routeProps))
-                  let chartnameTemp = routeProps.location.pathname.split('/')
-                  alert("chartNameTemp" + JSON.stringify(chartnameTemp))
-                  let t = Object.entries(dk.chartRoutes).find(r => {
-                    console.log("r: " + JSON.stringify(r))
-                    return(
-                    r[1] === chartnameTemp[chartnameTemp.lenght-1]
-                    )}
-                  )
-                  alert("chartName: " + JSON.stringify(t))
+                 
                   if (this.state.showDifference)
                     return (
                       <MainArea>
                         <Flex>
-                      <StackedBarDiffChart {...routeProps.location.state} 
-                          selectedScenario={this.state.scenarioSelection} 
-                          selectedScenario2={this.state.scenarioSelection2}
-                          backRoute={postRoute}
-                          tabSelection={this.state.tabSelection}
-                          stackedBar={stackedBar}
-                          width={800}
-                          height={500}
-                          line={line}
-                          minY={0}
-                          maxY={40000}
-                          minY2={0}
-                          maxY2={1}
+                          <StackedBarDiffChart {...routeProps.location.state} 
+                            selectedScenario={this.state.scenarioSelection} 
+                            selectedScenario2={this.state.scenarioSelection2}
+                            backRoute={postRoute}
+                            tabSelection={this.state.tabSelection}
+                            stackedBar={stackedBar}
+                            width={800}
+                            height={500}
+                            line={line}
+                            minY={0}
+                            maxY={40000}
+                            minY2={0}
+                            maxY2={1}
                         />
                         </Flex>
                       </MainArea>
@@ -445,27 +426,26 @@ export class App extends React.Component {
                     return (
                       <MainArea>
                         <Flex>
-                        <StackedBarChart {...routeProps.location.state} 
-                          selectedScenario={this.state.scenarioSelection} 
-                          selectedScenario2={this.state.scenarioSelection2}
-                          backRoute={postRoute}
-                          tabSelection={this.state.tabSelection}
-                          stackedBar={stackedBar}
-                          width={800}
-                          height={500}
-                          line={line}
-                          minY={0}
-                          maxY={40000}
-                          minY2={0}
-                          maxY2={1}
-                        />
+                          <StackedBarChart {...routeProps.location.state} 
+                            selectedScenario={this.state.scenarioSelection} 
+                            selectedScenario2={this.state.scenarioSelection2}
+                            backRoute={postRoute}
+                            tabSelection={this.state.tabSelection}
+                            stackedBar={stackedBar}
+                            width={800}
+                            height={500}
+                            line={line}
+                            minY={0}
+                            maxY={40000}
+                            minY2={0}
+                            maxY2={1}
+                          />
                         </Flex>
                       </MainArea>
                     )
               }} />
               <Redirect to={
                 preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute
-                //preRoute + '/About'
               } />
             </MainSwitch>
           </Content>

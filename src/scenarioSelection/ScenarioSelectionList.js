@@ -24,43 +24,24 @@ const ScenarioSelectionList = props => {
     .filter(option => option.ccs === props.showCCS)
     .map(option => {
       let optionValue = option.name;
-      //alert('option: ' + JSON.stringify(option) + '  \nS1: ' + stringValue + '\nS2: ' + stringValue2)
-      /* console.log('option: ' + 
-        JSON.stringify(option) + 
-        '\nS1: ' + stringValue + 
-        '\nS2: ' + stringValue2 +
-        '\ntab: ' + props.tabSelection + 
-        '\nbackRoute: ' + props.backroute
-        ) */
       if (optionValue === stringValue) {
         if (stringValue2 !== '')
          newLink = t("tabRoutes." + props.tabSelection) + t("scenarioRoutes." + stringValue2);
         else 
           newLink = t("tabRoutes." + props.tabSelection) + t("scenarioRoutes." + stringValue);
-        //alert("S1 match: " + newLink)
-        //console.log("S1 match: " + newLink)
       }
       else if (optionValue === stringValue2)
         {newLink = t("tabRoutes." + props.tabSelection ) + t("scenarioRoutes." + stringValue);
-        //alert('S2 match: ' + newLink)
-        //console.log('S2 match: ' + newLink)
       }
       else {
         newLink = t("tabRoutes." + props.tabSelection) + t("scenarioRoutes." + stringValue) + t("scenarioRoutes." + option.name)
       }
-      //console.log("preRoute: " + props.preRoute)
       newLink = props.preRoute + newLink
-      console.log("After Link: " + newLink)
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
       } else {
-        //console.log("xxxxxx: " + JSON.stringify(props.tabSelection))
-        //console.log("scenarioSelectionLinkList: " + props.tabSelection + props.backRoute + t("scenarioRoutes." + option.name))
-        //console.log('real new link: ' + newLink)
-        //console.log('tabs: ' + props.tabSelection)
         return (
           <ScenarioOption 
-            //to={ props.tabSelection + props.backRoute + t("scenarioRoutes." + option.name)}
             to={ newLink }
             key={'optionID' + option.id}
             value={optionValue}

@@ -41,9 +41,6 @@ const TabItem = styled(Link)`
 
 function Tabs(props) {
   const { t } = useTranslation();
-  //console.log("___match___from__tabs: " + JSON.stringify(props.match))
- // console.log("___history___from__tabs: " + JSON.stringify(props.history))
-  //console.log("___location___from__tabs: " + JSON.stringify(props.location))
   return (
     <TabLayout>
       <TabItem 

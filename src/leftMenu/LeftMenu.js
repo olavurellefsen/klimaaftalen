@@ -169,11 +169,6 @@ function ScenarioSelectionMenu(props) {
       i18n.changeLanguage("en");
     }
   };
-  //console.log("___match___from__leftmenu: " + JSON.stringify(props.match))
-  //console.log("___history___from__leftmenu: " + JSON.stringify(props.history))
-  //console.log("___location___from__leftmenu: " + JSON.stringify(props.location))
-  //console.log("scenarioSelectionLink: " + props.tabSelection + props.backRoute )
-  console.log("preRoute: " + props.preRoute)
   return (
     <MenuLayout>
       <MenuHeader>

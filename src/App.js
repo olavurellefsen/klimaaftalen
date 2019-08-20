@@ -14,6 +14,7 @@ import ChartsTab4 from "./charts/ChartsTab4";
 import ChartsTab5 from "./charts/ChartsTab5";
 import ChartsTab6 from "./charts/ChartsTab6";
 import StackedBarChart from './charts/StackedBarChart'
+import StackedBarDiffChart from './charts/StackedBarDiffChart'
 import line from "./data/line";
 import About from "./pages/About";
 import PageRenderer from "./pages/PageRenderer";
@@ -81,7 +82,6 @@ export class App extends React.Component {
         }
         if (select === 'Chart') {
           selections[index] = undefined
-          DIFF = true
         }
         if (select === 'About') {
           selections[index] = 'Overblik'
@@ -420,30 +420,48 @@ export class App extends React.Component {
                     )}
                   )
                   alert("chartName: " + JSON.stringify(t))
-                  return (
-                    <MainArea>
-                      <Flex>
-                      <StackedBarChart {...routeProps.location.state} 
-                        selectedScenario={this.state.scenarioSelection} 
-                        selectedScenario2={this.state.scenarioSelection2}
-                        backRoute={postRoute}
-                        tabSelection={this.state.tabSelection}
-                        stackedBar={stackedBar}
-                        width={800}
-                        height={500}
-                        line={line}
-                        minY={0}
-                        maxY={40000}
-                        minY2={0}
-                        maxY2={1}
-                      >
-                      </StackedBarChart>
-                      {/* <div>location: {JSON.stringify(routeProps.location)}</div>
-                      <div>match: {JSON.stringify(routeProps.match)}</div>
-                      <div>history: {JSON.stringify(routeProps.history)}</div> */}
-                      </Flex>
-                    </MainArea>
-                  )
+                  if (this.state.showDifference)
+                    return (
+                      <MainArea>
+                        <Flex>
+                      <StackedBarDiffChart {...routeProps.location.state} 
+                          selectedScenario={this.state.scenarioSelection} 
+                          selectedScenario2={this.state.scenarioSelection2}
+                          backRoute={postRoute}
+                          tabSelection={this.state.tabSelection}
+                          stackedBar={stackedBar}
+                          width={800}
+                          height={500}
+                          line={line}
+                          minY={0}
+                          maxY={40000}
+                          minY2={0}
+                          maxY2={1}
+                        />
+                        </Flex>
+                      </MainArea>
+                    )
+                  else
+                    return (
+                      <MainArea>
+                        <Flex>
+                        <StackedBarChart {...routeProps.location.state} 
+                          selectedScenario={this.state.scenarioSelection} 
+                          selectedScenario2={this.state.scenarioSelection2}
+                          backRoute={postRoute}
+                          tabSelection={this.state.tabSelection}
+                          stackedBar={stackedBar}
+                          width={800}
+                          height={500}
+                          line={line}
+                          minY={0}
+                          maxY={40000}
+                          minY2={0}
+                          maxY2={1}
+                        />
+                        </Flex>
+                      </MainArea>
+                    )
               }} />
               <Redirect to={
                 preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute

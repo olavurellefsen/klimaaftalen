@@ -173,6 +173,7 @@ function ScenarioSelectionMenu(props) {
   //console.log("___history___from__leftmenu: " + JSON.stringify(props.history))
   //console.log("___location___from__leftmenu: " + JSON.stringify(props.location))
   //console.log("scenarioSelectionLink: " + props.tabSelection + props.backRoute )
+  console.log("preRoute: " + props.preRoute)
   return (
     <MenuLayout>
       <MenuHeader>
@@ -180,25 +181,27 @@ function ScenarioSelectionMenu(props) {
           <MenuTitle to="/">{t("title")}</MenuTitle>
           <MenuRoutes>
             <MenuItem
-              to={preRoute + "/about"}
+              //to={preRoute}
+              to={props.preRoute + "/about"}
+              //to={"/about" }
               selected={props.selectedChartgroup === "/about"}
             >
               {t("menu.desktop.about")}
             </MenuItem>
             <MenuItem
-              to="/beskrivelser"
+              to={props.preRoute + "/beskrivelser"}
               selected={props.selectedChartgroup === "/beskrivelser"}
             >
               {t("menu.desktop.descriptions")}
             </MenuItem>
             <MenuItem
-              to="/forudsaetninger"
+              to={props.preRoute + "/forudsaetninger"}
               selected={props.selectedChartgroup === "/forudsaetninger"}
             >
               {t("menu.desktop.preconditions")}
             </MenuItem>
             <MenuItem
-              to="/abonner"
+              to={props.preRoute + "/abonner"}
               selected={props.selectedChartgroup === "/abonner"}
             >
               {t("menu.desktop.subscribe")}
@@ -206,7 +209,7 @@ function ScenarioSelectionMenu(props) {
           </MenuRoutes>
         </MenuHeaderLeft>
         <MenuHeaderRight>
-          <AppLogo src="./images/dtulogo_white.png" alt="logo" />
+          <AppLogo src="../images/dtulogo_white.png" alt="logo" />
         </MenuHeaderRight>
       </MenuHeader>
       <MenuSeparatorLine />

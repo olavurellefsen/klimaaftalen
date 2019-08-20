@@ -42,6 +42,7 @@ const Chart = props => {
         "stackedBar": stackedBar
     }
     //console.log("stakedBar: " + JSON.stringify( stackedBar))
+    console.log("chartTitle: " + JSON.stringify( chartTitle))
     return(
         <ChartDiv>
             <Link 
@@ -51,8 +52,8 @@ const Chart = props => {
             {/* <Link to="/chartFull"> */}
                 {props.children}
             </Link>
-        </ChartDiv>)    
-    
+        </ChartDiv>
+    )    
 }
 export default withRouter(Chart); 
 
@@ -60,20 +61,20 @@ Chart.propTypes = {
     children: PropTypes.any,
     line: PropTypes.any,
     stackedBar: PropTypes.any, 
-        selectedScenario: PropTypes.any, 
-        selectedScenario2: PropTypes.any, 
-        chartName: PropTypes.any, 
-        chartTitle: PropTypes.any,
-        combinedChart: PropTypes.any,
-        label: PropTypes.any,
-        minY: PropTypes.any,
-        maxY: PropTypes.any,
-        minY2: PropTypes.any,
-        maxY2: PropTypes.any,
-        label2: PropTypes.any,
-        Y2Percentage: PropTypes.any,
-        tabSelection: PropTypes.string,
-        backRoute: PropTypes.string
+    selectedScenario: PropTypes.any, 
+    selectedScenario2: PropTypes.any, 
+    chartName: PropTypes.any, 
+    chartTitle: PropTypes.any,
+    combinedChart: PropTypes.any,
+    label: PropTypes.any,
+    minY: PropTypes.any,
+    maxY: PropTypes.any,
+    minY2: PropTypes.any,
+    maxY2: PropTypes.any,
+    label2: PropTypes.any,
+    Y2Percentage: PropTypes.any,
+    tabSelection: PropTypes.string,
+    backRoute: PropTypes.string
 }
 
 

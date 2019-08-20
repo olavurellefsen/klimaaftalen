@@ -48,7 +48,7 @@ const ScenarioSelectionList = props => {
       else {
         newLink = t("tabRoutes." + props.tabSelection) + t("scenarioRoutes." + stringValue) + t("scenarioRoutes." + option.name)
       }
-      console.log("preRoute: " + props.preRoute)
+      //console.log("preRoute: " + props.preRoute)
       newLink = props.preRoute + newLink
       console.log("After Link: " + newLink)
       if (optionValue === "division_line") {

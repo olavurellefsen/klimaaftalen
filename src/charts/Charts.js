@@ -126,15 +126,15 @@ const Charts = props => {
           />
 		  <StackedBarChart 
 		    chartName='_Omkostninger per person'
-			chartTitle='Omkostninger per person'
-			selectedScenario={selectedScenario}
-			selectedScenario2={selectedScenario2}
-			combinedChart={false}
-			label='DKK/person' 
-			minY={0} 
-			maxY={3000} 
-			stackedBar={stackedBar}
-            line={line}
+        chartTitle='Omkostninger per person'
+        selectedScenario={selectedScenario}
+        selectedScenario2={selectedScenario2}
+        combinedChart={false}
+        label='DKK/person' 
+        minY={0} 
+        maxY={3000} 
+        stackedBar={stackedBar}
+        line={line}
 		   />
         </Flex>
       )}

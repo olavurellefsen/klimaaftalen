@@ -191,7 +191,7 @@ const StackedBarChart = props => {
   ];
 
   return (
-    <Chart>
+    <Chart {...props}>
       <VictoryChart
         domainPadding={20}
         width={380}

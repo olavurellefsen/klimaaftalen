@@ -187,7 +187,7 @@ function ScenarioSelectionMenu(props) {
           />
         </ScenarioSelection>
         <MenuSeparatorLine />
-        <ToggleDifference onClick={e => props.toggleShowCCS(e)}>
+        <ToggleDifference onClick={e => props.toggleShowCCS(e, "chartName")}>
           <ToggleSwitch
             dimmed={false}
             checked={props.scenarioSelection.showCCS}

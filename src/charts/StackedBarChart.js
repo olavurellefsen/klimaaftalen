@@ -36,6 +36,7 @@ const StackedBarChart = props => {
   const combinedChart = props.combinedChart;
   const periods = [2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050];
   let gutter, rowGutter;
+  //console.log("stBar: " + chartName)
   if (
     !process.env.NODE_ENV ||
     process.env.NODE_ENV === "development" ||
@@ -143,8 +144,10 @@ const StackedBarChart = props => {
     "#4346fa",
     "#52627f"
   ];
+  //alert("name: " + JSON.stringify(props.chartName))
   //alert("propsCharts: " + JSON.stringify(props))
   //alert("stackedBar: " + JSON.stringify(stackedBar))
+  console.log("stacked props: " + JSON.stringify(props.chartName))
   return (
     <Chart {...props}>
       <VictoryChart

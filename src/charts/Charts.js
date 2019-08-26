@@ -8,6 +8,7 @@ import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBar";
 import line from "../data/line";
 import { withRouter } from "react-router-dom"
+import chartParam from '../data/charts'
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection;
@@ -21,7 +22,51 @@ const Charts = props => {
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === "")) && (
         <Flex>
-          <StackedBarChart
+          <div>Hello</div>
+          {chartParam.tabs.overview.charts.map((par, index) => {
+            let ret
+            //console.log("minY: " + par.minY)
+            //console.log("minY: " + par.combinedChart)
+            const params = {
+                key: 'overview' + index,
+                chartName: par.name,
+                chartTitle: par.title,
+                selectedScenario: selectedScenario,
+                selectedScenario2: selectedScenario2,
+                combinedChart: par.combinedChart !== undefined ? par.combinedChart : undefined,
+                label: par.label ? par.label : undefined,
+                minY: par.minY !== undefined ? par.minY : undefined,
+                maxY: par.maxY ? par.maxY : undefined, 
+                minY2: par.minY2 ? par.minY2 : undefined,
+                maxY2: par.maxY2 ? par.maxY2 : undefined,
+                label2: par.label2 ? par.label2 : undefined, 
+                Y2Percentage: par.Y2Percentage ? par.Y2Percentage : undefined,
+                stackedBar: stackedBar,
+                line: line,
+                changeFullScreenStatus: props.changeFullScreenStatus
+              }
+            switch (par.type) {
+              case 'stackedBarChart':
+                if (props.scenarioSelection.showDifference === false)
+                  ret = <StackedBarChart {...params}/>
+                else
+                  if(selectedScenario2 !== "")
+                    ret = <StackedBarDiffChart {...params}/>
+                  else
+                    ret = <div>Again3</div>
+              break
+              case 'ComparisonChart':
+                ret = (<ComparisonChart 
+                        {...params}
+                        showCCS={props.scenarioSelection.showCCS}
+                        />)
+              break
+              default: 
+                ret = <div>Again</div>
+            }
+            return(ret)
+          })}
+          {/* <StackedBarChart
             chartName="_CO2 emissioner"
             chartTitle="CO2 emissioner og %-reduktion"
             selectedScenario={selectedScenario}
@@ -36,6 +81,7 @@ const Charts = props => {
             Y2Percentage={true}
             stackedBar={stackedBar}
             line={line}
+            changeFullScreenStatus={props.changeFullScreenStatus}
           />
           <StackedBarChart
             chartName="_Anden_drivhusgas_udledning"
@@ -48,6 +94,7 @@ const Charts = props => {
             maxY={40000}
             stackedBar={stackedBar}
             line={line}
+            changeFullScreenStatus={props.changeFullScreenStatus}
           />
           <ComparisonChart
             chartName="_CO2 emissioner akkumuleret"
@@ -64,6 +111,7 @@ const Charts = props => {
             Y2Percentage={false}
             stackedBar={stackedBar}
             line={line}
+            changeFullScreenStatus={props.changeFullScreenStatus}
           />
           <StackedBarChart
             chartName="_Energi forbrug i Danmark"
@@ -129,10 +177,10 @@ const Charts = props => {
         maxY={3000} 
         stackedBar={stackedBar}
         line={line}
-		   />
+		   /> */}
         </Flex>
       )}
-      {props.scenarioSelection.showDifference === true &&
+      {/* {props.scenarioSelection.showDifference === true &&
         selectedScenario2 !== "" && (
           <Flex>
             <StackedBarDiffChart
@@ -244,14 +292,15 @@ const Charts = props => {
               line={line}
 		   />
           </Flex>
-        )}
+        )} */}
     </MainArea>
   );
 };
 
 Charts.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
-  closeWelcome: PropTypes.func.isRequired
+  closeWelcome: PropTypes.func.isRequired,
+  changeFullScreenStatus: PropTypes.func.isRequired
 };
 
 export default withRouter(Charts);

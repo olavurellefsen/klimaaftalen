@@ -41,13 +41,21 @@ const Chart = props => {
         "Y2Percentage": Y2Percentage,
         "stackedBar": stackedBar
     }
+    //console.log("chartName: " + chartName)
     return(
-        <ChartDiv>
+        <ChartDiv 
+            onClick={e=>{
+            //e.preventDefault() 
+            //props.changeFullScreenStatus(chartTitle)
+            }}
+        >
             <Link 
                 to={
                     {pathname: props.location.pathname + '/Chart/' + t('chartRoutes.' + chartTitle),
-                     state: {...newState}}}>
-            {/* <Link to="/chartFull"> */}
+                     state: {...newState}}}
+                         
+            >
+            
                 {props.children}
             </Link>
         </ChartDiv>

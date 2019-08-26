@@ -239,6 +239,13 @@
     "Individuelle bygningers opvarmningsbehov": "Individuelle-bygningers-opvarmningsbehov",
     "CO2": "CO2"
   },
+  "chartNames": {
+    "_CO2 emissioner": "CO2-emissioner-og-reduktion",
+    "_Anden_drivhusgas_udledning": "Anden-drivhusgas-udledning",
+    "_CO2 emissioner akkumuleret": "Akkumuleret-CO2-emissioner",
+    "_Energi forbrug i Danmark": "Energiforbrug-og-VE-andel",
+    "_Wind_OFF_cap": "Antal-havmølleparker-(á-800MW)"
+  },
   "legend": {
     "Biomasse andel": "Biomasse andel",
     "Lattergas": "Lattergas",

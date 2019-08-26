@@ -25,7 +25,8 @@ import stackedBar from "./data/stackedBar";
 import { withTranslation } from 'react-i18next';
 import dk from "./translations/dk"
 import en from "./translations/en"
-//import i18n from 'i18next';
+import chartParam from './data/charts'
+import FullScreenChart from "./charts/FullScreenChart";
 
 
 ReactGA.initialize("UA-127032810-1");
@@ -68,7 +69,8 @@ export class App extends React.Component {
     var selections = props.location.pathname.split('/')
     let CCS = false
     let DIFF = false
-    alert("selections: " + JSON.stringify(selections))
+    let FULL = ''
+    //alert("selections: " + JSON.stringify(selections))
     this.props.i18n.changeLanguage(selections[1])
     selections.forEach(
       (select, index) => {
@@ -82,6 +84,8 @@ export class App extends React.Component {
         }
         if (select === 'Chart') {
           selections[index] = undefined
+          FULL = selections[index + 1]
+          //FULL = "/Chart"
         }
         if (select === 'About') {
           selections[index] = 'Overblik'
@@ -95,7 +99,8 @@ export class App extends React.Component {
       scenarioSelection2: this.getScenarioSelection2(selections[4], CCS),
       showWelcome: true,
       showDifference: DIFF,
-      showCCS: CCS
+      showCCS: CCS,
+      showFullName: this.getChartNameSelection(FULL)
     };
     //alert("state: " + JSON.stringify(this.state))
     this.scenarioCombinations = scenarioCombinations.scenarioCombinations;
@@ -106,6 +111,7 @@ export class App extends React.Component {
     location: PropTypes.object
   };
 
+  
   changeCurrentLanguage = (language) => {
     this.setState({changeLanguageTo: language})
   }
@@ -135,6 +141,7 @@ export class App extends React.Component {
   }
   getScenarioSelection2 = (sel,ccs) => {
     let ret
+    console.log("sel: " + sel)
     if (sel !== undefined) {
       let ccsStr =''
       if(ccs) ccsStr='_With_CCS'
@@ -158,7 +165,6 @@ export class App extends React.Component {
   }
   getTabSelection = (sel) => {
     let ret
-    alert("sel: " + sel)
     if (sel !== undefined) {
       if (this.props.i18n.language === 'en') {
         ret =  Object.entries(en.tabRoutes).find(r => (
@@ -178,6 +184,33 @@ export class App extends React.Component {
     return ret
 
   }
+  getChartNameSelection = (name) => {
+    let ret = {}
+    if (name !== '') {
+      if (this.props.i18n.language === 'en') {
+        ret.title =  Object.entries(en.chartRoutes).find(r => (
+          r[1] === name
+          )
+        )[0] 
+        ret.name =  Object.entries(en.chartNames).find(r => (
+          r[1] === name
+          )
+        )[0] 
+      } else {
+        ret.title =  Object.entries(dk.chartRoutes).find(r => (
+          r[1] === name
+          )
+        )[0]
+        ret.name =  Object.entries(dk.chartNames).find(r => (
+          r[1] === name
+          )
+        )[0]
+      }
+    } else {
+      ret = ''
+    }
+    return ret
+  } 
   UpdateTabSelection = (tab) => {
     this.setState({"tabSelection": tab });
   }
@@ -202,8 +235,12 @@ export class App extends React.Component {
       }
     }
   };
-
+  changeFullScreenStatus = (chartName) => {
+    alert("changing to " + chartName + "  " + this.props.t("chartRoutes." + chartName))
+    this.setState({showFullName: '/Chart/' + this.props.t("chartRoutes." + chartName)})
+  };
   CloseWelcomeWidget = () => {
+    alert("closin ")
     this.setState({ showWelcome: false });
   };
 
@@ -212,12 +249,17 @@ export class App extends React.Component {
     this.setState({ showDifference: !this.state.showDifference });
   };
 
-  ToggleShowCCS = e => {
+  ToggleShowCCS = (e, cname) =>{
+    alert("TCCS: " + cname)
     e.preventDefault();
+    let newChartName = ''
     let newScenario = "";
     let newScenario2 = "";
     const oldScenario = this.state.scenarioSelection;
     const oldScenario2 = this.state.scenarioSelection2;
+    if (cname !== undefined) {
+      newChartName = "/Chart/" + cname
+    }
     if (this.state.showCCS) {
       newScenario = oldScenario.substring(0, oldScenario.length - 9);
       if (oldScenario2 !== "") {
@@ -232,19 +274,29 @@ export class App extends React.Component {
     this.setState({
       showCCS: !this.state.showCCS,
       scenarioSelection: newScenario,
-      scenarioSelection2: newScenario2
+      scenarioSelection2: newScenario2,
+      showFullName: newChartName
     });
   };
+  componentDidUpdate(prevProps, prevState) {
+    
+  }
   
   render() {
+    console.log("location: " + JSON.stringify(this.props.location))
     const {t } = this.props;
-    let sce1 = "", sce2 = "", ccs = '', diff = '';
+    let sce1 = "", sce2 = "", ccs = '', diff = '', full = ''
     if (this.state.scenarioSelection !== "") sce1 = t("scenarioRoutes." + this.state.scenarioSelection)
     if (this.state.scenarioSelection2 !== "") sce2 = t("scenarioRoutes." + this.state.scenarioSelection2)
     if (this.state.showCCS === true) ccs = '/CCS'
     if (this.state.showDifference === true) diff = '/Diff'
-
-    let postRoute = sce1 + sce2 + ccs + diff;
+    console.log("FullName: " + JSON.stringify(this.state.showFullName))
+    let postRoute = sce1 + sce2 + ccs + diff
+    let chartRoute = this.state.showFullName
+    /* if (this.props.location.state)
+      chartRoute = this.props.location.pathname */
+    //let postRoute = sce1 + sce2 + ccs + diff + this.state.showFullName;
+    console.log("postRoute: " + postRoute + "   chartRoute: " + chartRoute)
     let preRoute = '/' + this.props.i18n.language
     return (
       <Page>
@@ -297,12 +349,13 @@ export class App extends React.Component {
                   }/>
                 )}} />
               <Route
-              exact
+                exact
                 path={preRoute + t("tabRoutes.overview") + postRoute }
                 render={() => (
                   <Charts
                     scenarioSelection={this.state}
                     closeWelcome={this.CloseWelcomeWidget}
+                    changeFullScreenStatus={this.changeFullScreenStatus}
                   />
                 )}
               />
@@ -398,54 +451,21 @@ export class App extends React.Component {
                   })
                 })}
               <Route 
+                //path={preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute + chartRoute}
                 path={preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute + '/Chart'}
-                render={routeProps => {
-                 
-                  if (this.state.showDifference)
-                    return (
-                      <MainArea>
-                        <Flex>
-                          <StackedBarDiffChart {...routeProps.location.state} 
-                            selectedScenario={this.state.scenarioSelection} 
-                            selectedScenario2={this.state.scenarioSelection2}
-                            backRoute={postRoute}
-                            tabSelection={this.state.tabSelection}
-                            stackedBar={stackedBar}
-                            width={800}
-                            height={500}
-                            line={line}
-                            minY={0}
-                            maxY={40000}
-                            minY2={0}
-                            maxY2={1}
-                        />
-                        </Flex>
-                      </MainArea>
-                    )
-                  else
-                    return (
-                      <MainArea>
-                        <Flex>
-                          <StackedBarChart {...routeProps.location.state} 
-                            selectedScenario={this.state.scenarioSelection} 
-                            selectedScenario2={this.state.scenarioSelection2}
-                            backRoute={postRoute}
-                            tabSelection={this.state.tabSelection}
-                            stackedBar={stackedBar}
-                            width={800}
-                            height={500}
-                            line={line}
-                            minY={0}
-                            maxY={40000}
-                            minY2={0}
-                            maxY2={1}
-                          />
-                        </Flex>
-                      </MainArea>
-                    )
-              }} />
+                render={routeProps => 
+                  (<FullScreenChart 
+                    routeProps={routeProps}
+                    scenarioSelection={this.state.scenarioSelection}
+                    scenarioSelection2={this.state.scenarioSelection2}
+                    backRoute={postRoute}
+                    tabSelection={this.state.tabSelection}
+                    showDifference={this.state.showDifference}
+                  />)
+                }/>
               <Redirect to={
-                preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute
+                preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute + chartRoute
+                //preRoute + t("tabRoutes." + this.state.tabSelection) + postRoute
               } />
             </MainSwitch>
           </Content>

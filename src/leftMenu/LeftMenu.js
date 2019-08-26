@@ -169,6 +169,7 @@ function ScenarioSelectionMenu(props) {
       i18n.changeLanguage("en");
     }
   };
+  console.log("preRoute: " + props.preRoute)
   return (
     <MenuLayout>
       <MenuHeader>
@@ -224,7 +225,22 @@ function ScenarioSelectionMenu(props) {
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => props.toggleShowCCS(e)}>
+      <ToggleDifference 
+        onClick={e => {
+          let selections = props.location.pathname.split('/')
+          let chartName
+          selections.forEach(
+            (select, index) => {
+              if (select === 'Chart') {
+                selections[index] = undefined
+                chartName = selections[index + 1]
+                //FULL = "/Chart"
+              }
+            }
+          )
+          props.toggleShowCCS(e,chartName)
+        }}  
+        >
         <ToggleSwitch
           dimmed={false}
           checked={props.scenarioSelection.showCCS}

@@ -14,17 +14,14 @@ const {
     scenarioSelection2,
     backRoute,
     tabSelection,
-    chartName,
+    chartName,//chartName is not being passed in props, but can be accessed using routeProps.location.state.chartName
     chartTitle,
     showDifference
 } = props
+
+const theChartName = routeProps.location.state.chartName
 const downloadFile = async () => {
-  const myData = {"indicatorGroupValues": [
-    {
-      "year": 2015,
-      "total": 0.2818922183
-    }
-  ]}
+  const myData = getDataForDownload()
   const fileName = "file";
   const json = JSON.stringify(myData);
   const blob = new Blob([json],{type:'application/json'});
@@ -36,6 +33,20 @@ const downloadFile = async () => {
   link.click();
   document.body.removeChild(link);
 }
+
+const getDataForDownload = () => {
+  let data = stackedBar.data.scenarios
+            .filter(o => (o.scenario === scenarioSelection || o.scenario === scenarioSelection2))
+  let t = data.map(o => ({
+            scenario: o.scenario,
+            indicators: o.indicators.filter(i =>
+                i.indicator === theChartName) 
+            
+          }))
+  let i = t
+  return t
+}
+
 if (showDifference)
   return (
     <MainArea>

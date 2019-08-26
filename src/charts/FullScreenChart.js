@@ -39,9 +39,9 @@ const FullScreenChart = props => {
   const theChartName = routeProps.location.state.chartName;
 
   const downloadData = async () => {
-    const myData = getDataForDownload();
+    const data = getDataForDownload();
     const fileName = 'file';
-    const json = JSON.stringify(myData);
+    const json = JSON.stringify(data);
     const blob = new Blob([json], {type: 'application/json'});
     const href = await URL.createObjectURL(blob);
     const link = document.createElement('a');
@@ -54,10 +54,12 @@ const FullScreenChart = props => {
 
   const getDataForDownload = () => {
     let data = stackedBar.data.scenarios
+    //filter to only include selected scenarios
       .filter(
         o =>
           o.scenario === scenarioSelection || o.scenario === scenarioSelection2
       )
+      //filter the indicator list to only include this chart
       .map(o => ({
         scenario: o.scenario,
         indicators: o.indicators.filter(i => i.indicator === theChartName),

@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 import breakpoint from "styled-components-breakpoint";
-import { Link } from "react-router-dom";
+import { Link, withRouter } from "react-router-dom";
 import ScenarioSelectionList from "../scenarioSelection/ScenarioSelectionList";
 import ToggleSwitch from "./ToggleSwitch";
 import { useTranslation } from "react-i18next";
@@ -158,7 +158,7 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
+  const { t, i18n, preRoute } = useTranslation();
   const language = i18n.language;
 
   const toggleLanguage = e => {
@@ -169,7 +169,7 @@ function ScenarioSelectionMenu(props) {
       i18n.changeLanguage("en");
     }
   };
-
+  console.log("preRoute: " + props.preRoute)
   return (
     <MenuLayout>
       <MenuHeader>
@@ -177,25 +177,27 @@ function ScenarioSelectionMenu(props) {
           <MenuTitle to="/">{t("title")}</MenuTitle>
           <MenuRoutes>
             <MenuItem
-              to="/about"
+              //to={preRoute}
+              to={props.preRoute + "/about"}
+              //to={"/about" }
               selected={props.selectedChartgroup === "/about"}
             >
               {t("menu.desktop.about")}
             </MenuItem>
             <MenuItem
-              to="/beskrivelser"
+              to={props.preRoute + "/beskrivelser"}
               selected={props.selectedChartgroup === "/beskrivelser"}
             >
               {t("menu.desktop.descriptions")}
             </MenuItem>
             <MenuItem
-              to="/forudsaetninger"
+              to={props.preRoute + "/forudsaetninger"}
               selected={props.selectedChartgroup === "/forudsaetninger"}
             >
               {t("menu.desktop.preconditions")}
             </MenuItem>
             <MenuItem
-              to="/abonner"
+              to={props.preRoute + "/abonner"}
               selected={props.selectedChartgroup === "/abonner"}
             >
               {t("menu.desktop.subscribe")}
@@ -203,7 +205,7 @@ function ScenarioSelectionMenu(props) {
           </MenuRoutes>
         </MenuHeaderLeft>
         <MenuHeaderRight>
-          <AppLogo src="./images/dtulogo_white.png" alt="logo" />
+          <AppLogo src="../images/dtulogo_white.png" alt="logo" />
         </MenuHeaderRight>
       </MenuHeader>
       <MenuSeparatorLine />
@@ -217,10 +219,28 @@ function ScenarioSelectionMenu(props) {
           dimensionTitle={t("general.scenarios")}
           narrowVersion={false}
           showCCS={props.scenarioSelection.showCCS}
+          backRoute={props.backRoute}
+          preRoute={props.preRoute}
+          tabSelection={props.tabSelection}
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => props.toggleShowCCS(e)}>
+      <ToggleDifference 
+        onClick={e => {
+          let selections = props.location.pathname.split('/')
+          let chartName
+          selections.forEach(
+            (select, index) => {
+              if (select === 'Chart') {
+                selections[index] = undefined
+                chartName = selections[index + 1]
+                //FULL = "/Chart"
+              }
+            }
+          )
+          props.toggleShowCCS(e,chartName)
+        }}  
+        >
         <ToggleSwitch
           dimmed={false}
           checked={props.scenarioSelection.showCCS}
@@ -249,7 +269,8 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
+      <ToggleDifference 
+        onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
           Danish
         </ToggleLanguageText>
@@ -276,7 +297,10 @@ ScenarioSelectionMenu.propTypes = {
   scenarioSelection: PropTypes.object.isRequired,
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
-  toggleShowCCS: PropTypes.func.isRequired
+  toggleShowCCS: PropTypes.func.isRequired,
+  backRoute: PropTypes.string,
+  preRoute: PropTypes.string.isRequired,
+  tabSelection: PropTypes.any
 };
 
-export default ScenarioSelectionMenu;
+export default withRouter(ScenarioSelectionMenu);

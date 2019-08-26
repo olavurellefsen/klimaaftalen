@@ -12,8 +12,8 @@ const TabLayout = styled.div`
     height: 50px;
     flex-direction: row;
     flex-shrink: 0;
+    flex-grow: 1;
     justify-content: flex-start;
-    width: 100%;
     padding-left: 20px;
     color: white;
     background: rgb(80, 80, 80);
@@ -43,22 +43,29 @@ function Tabs(props) {
   const { t } = useTranslation();
   return (
     <TabLayout>
-      <TabItem to="/" selected={props.selectedChartgroup === "/"}>
+      <TabItem 
+        to={props.preRoute + t("tabRoutes.overview") + props.backRoute} selected={props.selectedChartgroup === "/"}
+        //onClick={()=>{props.UpdateTabSelection(t("tabRoutes.overview"))}}
+        onClick={()=>{props.UpdateTabSelection('overview')}}
+        >
         {t("tabs.overview")}
       </TabItem>
-      <TabItem to="/tab2" selected={props.selectedChartgroup === "/tab2"}>
+      <TabItem 
+        to={props.preRoute + t("tabRoutes.mainresults") + props.backRoute} selected={props.selectedChartgroup === "/tab2"}
+        onClick={()=>{props.UpdateTabSelection('mainresults')}}
+        >
         {t("tabs.mainresults")}
       </TabItem>
-      <TabItem to="/tab3" selected={props.selectedChartgroup === "/tab3"}>
+      <TabItem to={props.preRoute + t("tabRoutes.supplysector") + props.backRoute} selected={props.selectedChartgroup === "/tab3"}>
         {t("tabs.supplysector")}
       </TabItem>
-      <TabItem to="/tab4" selected={props.selectedChartgroup === "/tab4"}>
+      <TabItem to={props.preRoute + t("tabRoutes.transportsector") + props.backRoute} selected={props.selectedChartgroup === "/tab4"}>
         {t("tabs.transportsector")}
       </TabItem>
-      <TabItem to="/tab5" selected={props.selectedChartgroup === "/tab5"}>
+      <TabItem to={props.preRoute + t("tabRoutes.industry") + props.backRoute} selected={props.selectedChartgroup === "/tab5"}>
         {t("tabs.industry")}
       </TabItem>
-      <TabItem to="/tab6" selected={props.selectedChartgroup === "/tab6"}>
+      <TabItem to={props.preRoute + t("tabRoutes.households") + props.backRoute} selected={props.selectedChartgroup === "/tab6"}>
         {t("tabs.households")}
       </TabItem>
     </TabLayout>
@@ -66,7 +73,10 @@ function Tabs(props) {
 }
 
 Tabs.propTypes = {
-  selectedChartgroup: PropTypes.string.isRequired
+  selectedChartgroup: PropTypes.string.isRequired,
+  backRoute: PropTypes.string,
+  preRoute: PropTypes.string,
+  UpdateTabSelection: PropTypes.func.isRequired
 };
 
 export default Tabs;

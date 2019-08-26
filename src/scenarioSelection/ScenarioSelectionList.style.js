@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 
 export const ScenarioList = styled.div`
   display: flex;
@@ -19,12 +20,12 @@ export const ScenarioHeader = styled.div`
   align-items: center;
 `;
 
-export const ScenarioOption = styled.div`
-  font-size: ${props => (props.narrowVersion ? "0.7em" : "0.9em")};
+export const ScenarioOption = styled(Link)`
+  font-size: ${props => (props.narrowversion ? "0.7em" : "0.9em")};
   display: flex;
   align-items: center;
-  height: ${props => (props.narrowVersion ? "12px" : "26px")};
-  padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
+  height: ${props => (props.narrowversion ? "12px" : "26px")};
+  padding: ${props => (props.narrowversion ? "5px" : "0 12px 0 15px")};
   position: relative;
   width: 100%;
   border-radius: 0;

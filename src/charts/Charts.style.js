@@ -12,3 +12,6 @@ export const Flex = styled.div`
   align-content: flex-start;
   flex-direction: ${props => (props.direction === "column" ? "column" : "row")};
 `;
+
+export const ChartDiv = styled.div`
+`

@@ -10,7 +10,7 @@ import line from "../data/lineTab2";
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection;
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2;
-
+  //alert("Selections: " + selectedScenario + " and: " + selectedScenario2)
   return (
     <MainArea>
       {props.scenarioSelection.showWelcome === true && (

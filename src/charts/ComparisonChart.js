@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
+import Chart from "./Chart";
 import {
   VictoryChart,
   VictoryTheme,
@@ -49,7 +50,7 @@ const StackedBarChart = props => {
     });
 
   return (
-    <div>
+    <Chart>
       <VictoryChart
         width={380}
         height={380}
@@ -90,7 +91,7 @@ const StackedBarChart = props => {
           style={{ data: { stroke: "red" } }}
         />
       </VictoryChart>
-    </div>
+    </Chart>
   );
 };
 

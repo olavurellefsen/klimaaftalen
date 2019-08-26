@@ -3,10 +3,11 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import App from './App'
 import 'typeface-roboto'
 import { injectGlobal } from 'styled-components'
+import { withTranslation } from 'react-i18next'
 
-export default class Root extends Component {
+class Root extends Component {
   render() {
-    return (
+    return ( 
       <Router>
         <App />
       </Router>
@@ -14,6 +15,7 @@ export default class Root extends Component {
   }
 }
 
+export default withTranslation()(Root)
 injectGlobal`
   html {
     height: 100%

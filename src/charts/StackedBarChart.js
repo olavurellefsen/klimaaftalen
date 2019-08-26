@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
+import Chart from "./Chart";
 import { useTranslation } from "react-i18next";
 import {
   VictoryChart,
@@ -35,6 +36,7 @@ const StackedBarChart = props => {
   const combinedChart = props.combinedChart;
   const periods = [2015, 2020, 2025, 2030, 2035, 2040, 2045, 2050];
   let gutter, rowGutter;
+  //console.log("stBar: " + chartName)
   if (
     !process.env.NODE_ENV ||
     process.env.NODE_ENV === "development" ||
@@ -142,13 +144,16 @@ const StackedBarChart = props => {
     "#4346fa",
     "#52627f"
   ];
-
+  //alert("name: " + JSON.stringify(props.chartName))
+  //alert("propsCharts: " + JSON.stringify(props))
+  //alert("stackedBar: " + JSON.stringify(stackedBar))
+  console.log("stacked props: " + JSON.stringify(props.chartName))
   return (
-    <div>
+    <Chart {...props}>
       <VictoryChart
         domainPadding={20}
-        width={380}
-        height={380}
+        width={props.width || 380}
+        height={props.height || 380}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
         domain={{ y: yDomain }}
@@ -174,7 +179,7 @@ const StackedBarChart = props => {
           <VictoryAxis
             dependentAxis
             key={3}
-            offsetX={330}
+            offsetX={props.width-50 || 330}
             label={props.label2}
             style={{
               axis: { stroke: "gray" },
@@ -327,7 +332,7 @@ const StackedBarChart = props => {
           </VictoryGroup>
         )}
       </VictoryChart>
-    </div>
+    </Chart>
   );
 }
 
@@ -338,6 +343,8 @@ StackedBarChart.defaultProps = {
 };
 
 StackedBarChart.propTypes = {
+  width: PropTypes.any,
+  height: PropTypes.any,
   stackedBar: PropTypes.object,
   line: PropTypes.object,
   selectedScenario: PropTypes.string.isRequired,

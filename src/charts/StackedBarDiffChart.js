@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
+import Chart from "./Chart";
 import { useTranslation } from "react-i18next";
 import {
   VictoryChart,
@@ -190,7 +191,7 @@ const StackedBarChart = props => {
   ];
 
   return (
-    <div>
+    <Chart {...props}>
       <VictoryChart
         domainPadding={20}
         width={380}
@@ -314,7 +315,7 @@ const StackedBarChart = props => {
           </VictoryGroup>
         )}
       </VictoryChart>
-    </div>
+    </Chart>
   );
 };
 

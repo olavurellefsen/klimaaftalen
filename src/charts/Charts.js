@@ -18,6 +18,8 @@ const Charts = props => {
       {props.scenarioSelection.showWelcome === true && (
         <Welcome closeWelcome={props.closeWelcome} />
       )}
+
+    <a href={'data:' + data + 'download=' + data.json}>download JSON</a>  
       {(props.scenarioSelection.showDifference === false ||
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === "")) && (

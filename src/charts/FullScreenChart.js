@@ -18,6 +18,24 @@ const {
     chartTitle,
     showDifference
 } = props
+const downloadFile = async () => {
+  const myData = {"indicatorGroupValues": [
+    {
+      "year": 2015,
+      "total": 0.2818922183
+    }
+  ]}
+  const fileName = "file";
+  const json = JSON.stringify(myData);
+  const blob = new Blob([json],{type:'application/json'});
+  const href = await URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = href;
+  link.download = fileName + ".json";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
 if (showDifference)
   return (
     <MainArea>
@@ -43,8 +61,9 @@ if (showDifference)
 else
   return (
     <MainArea>
+    
+    <div onClick={downloadFile}>download JSON</div>  
       <Flex>
-        {alert("Chart Route hit")}
         <StackedBarChart 
           chartName={'chartName'}
           chartTitle={'chartTitle'}

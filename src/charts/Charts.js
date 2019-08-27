@@ -22,7 +22,6 @@ const Charts = props => {
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === "")) && (
         <Flex>
-          <div>Hello</div>
           {chartParam.tabs.overview.charts.map((par, index) => {
             let ret
             //console.log("minY: " + par.minY)

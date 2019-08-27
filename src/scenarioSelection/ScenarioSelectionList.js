@@ -13,7 +13,18 @@ import { withRouter } from 'react-router-dom';
 const ScenarioSelectionList = props => {
   const { t } = useTranslation();
   const handleChange = (event, value) => {
-    props.updateScenarioSelection(event, props.name, value);
+    let selections = props.location.pathname.split('/')
+          let chartName
+          selections.forEach(
+            (select, index) => {
+              if (select === 'Chart') {
+                selections[index] = undefined
+                chartName = selections[index + 1]
+                //FULL = "/Chart"
+              }
+            }
+          )
+    props.updateScenarioSelection(event, chartName, value);
   };
 
   const { dimensionOptions, dimensionTitle, narrowVersion } = props;

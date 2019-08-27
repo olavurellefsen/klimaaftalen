@@ -147,7 +147,7 @@ const StackedBarChart = props => {
   //alert("name: " + JSON.stringify(props.chartName))
   //alert("propsCharts: " + JSON.stringify(props))
   //alert("stackedBar: " + JSON.stringify(stackedBar))
-  console.log("stacked props: " + JSON.stringify(props.chartName))
+  //console.log("stacked props: " + JSON.stringify(props.chartName))
   return (
     <Chart {...props}>
       <VictoryChart

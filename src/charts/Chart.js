@@ -20,9 +20,7 @@ const Chart = props => {
         minY2,
         maxY2,
         label2,
-        Y2Percentage,
-        tabSelection,
-        backRoute
+        Y2Percentage
      } = props
 
     var newState = {

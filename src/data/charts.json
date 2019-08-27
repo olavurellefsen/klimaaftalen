@@ -40,6 +40,60 @@
                         "minY2": 0,
                         "maxY2": 1200000,
                         "Y2Percentage": false
+                    },
+                    {
+                        "type": "stackedBarChart",
+                        "name": "_Energi forbrug i Danmark",
+                        "title": "Energiforbrug og VE-andel",
+                        "combinedChart": true,
+                        "label": "PJ",
+                        "minY": 0,
+                        "maxY": 1000,
+                        "minY2": 0,
+                        "maxY2": 1,
+                        "label2": "Vedvarende energi andel",
+                        "Y2Percentage": true
+                    },
+                    {
+                        "type": "stackedBarChart",
+                        "name": "_Wind_OFF_cap",
+                        "title": "Antal havmølleparker (á 800MW)",
+                        "combinedChart": false,
+                        "label": "stk",
+                        "minY": 0,
+                        "maxY": 24,
+                        "label2": "Vedvarende energi andel",
+                        "Y2Percentage": false
+                    },
+                    {
+                        "type": "stackedBarChart",
+                        "name": "_Solcelle_cap",
+                        "title": "Solcelle areal",
+                        "combinedChart": false,
+                        "label": "km2",
+                        "minY": 0,
+                        "maxY": 300,
+                        "Y2Percentage": false
+                    },
+                    {
+                        "type": "stackedBarChart",
+                        "name": "_Andel_importeret_Biomasse",
+                        "title": "Andel importeret Biomasse",
+                        "combinedChart": false,
+                        "label": "Andel",
+                        "minY": 0,
+                        "maxY": 1,
+                        "Y2Percentage": true
+                    },
+                    {
+                        "type": "stackedBarChart",
+                        "name": "_Omkostninger per person",
+                        "title": "Omkostninger per person",
+                        "combinedChart": false,
+                        "label": "DKK/person" ,
+                        "minY": 0,
+                        "maxY": 3000,
+                        "Y2Percentage": true
                     }
 
                 ]

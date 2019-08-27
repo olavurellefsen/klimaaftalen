@@ -158,7 +158,7 @@ const ExternalLink = styled.a`
 `;
 
 function ScenarioSelectionMenu(props) {
-  const { t, i18n, preRoute } = useTranslation();
+  const { t, i18n } = useTranslation();
   const language = i18n.language;
 
   const toggleLanguage = e => {
@@ -169,7 +169,7 @@ function ScenarioSelectionMenu(props) {
       i18n.changeLanguage("en");
     }
   };
-  console.log("preRoute: " + props.preRoute)
+  //console.log("preRoute: " + props.preRoute)
   return (
     <MenuLayout>
       <MenuHeader>

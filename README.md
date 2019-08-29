@@ -21,7 +21,7 @@ Deployment version:
 
 - npm run build
 
-The public version is available at https://klimaaftalen.tokni.com and is updated via Amazon Web Services CodePipeline after each commit to the master branch.
+The public version is available at https://klimaaftalen.tokni.com and is updated via Netlify after each commit to the master branch. A staging version is available at http://develop--klimaaftalen.netlify.com/
 
 ## Usage
 

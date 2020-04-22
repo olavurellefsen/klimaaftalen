@@ -74,8 +74,8 @@ export default () => (
       </BodyLink>
       ) har vi sat en arbejdspakke af til at formidle modelresultater og det er
       i det regi vi har udviklet hjemmesiden (
-      <BodyLink href="https://klimaaftalen.tokni.com/">
-        klimaaftalen.tokni.com
+      <BodyLink href="https://klimaaftalen2019.tokni.com/">
+        klimaaftalen2019.tokni.com
       </BodyLink>
       ) og afholdt en høring i Folketinget. På hjemmesiden vises resultater for
       beregninger af målbare udspil på klimapolitikker og sandsynligheden for at

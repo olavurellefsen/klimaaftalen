@@ -134,7 +134,7 @@ const ScenarioDifferenceText = styled.div`
 `;
 
 const MenuFooter = styled.div`
-  padding: 15px 12px 5px 15px;
+  padding: 10px 0;
   margin: 0;
   width: 100%;
   display: flex;
@@ -143,10 +143,18 @@ const MenuFooter = styled.div`
 `;
 
 const CopyrightNotice = styled.div`
-  padding: 0 12px 5px 15px;
-  margin: 0;
-  width: 100%;
-  heigth: 26px;
+  padding: 20px 12px 5px 15px;
+  margin: 10px 0 0 0;
+  height: 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+
+const CopyrightItem = styled.div`
+  align-self: center;
+  padding: 5px 0;
+  text-align: center;
 `;
 
 const ExternalLink = styled.a`
@@ -155,6 +163,14 @@ const ExternalLink = styled.a`
   :hover {
     text-decoration: underline;
   }
+`;
+
+const Header = styled.h1`
+  font-size: ${props => (props.narrowVersion ? "0.9em" : "1em")};
+  padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
+  margin: 0;
+  height: 26px;
+  align-self: center;
 `;
 
 function ScenarioSelectionMenu(props) {
@@ -260,10 +276,27 @@ function ScenarioSelectionMenu(props) {
       </ToggleDifference>
       <MenuSeparatorLine />
       <MenuFooter>
+        <ExternalLink href="https://www.nordicenergy.org">
+          <AppLogo
+            src="./images/nordic_energy_research_cropped.png"
+            alt="Nordic Energy Research"
+          />
+        </ExternalLink>
         <CopyrightNotice>
-          <ExternalLink href="http://www.tokni.com">
-          {t("general.developed-by-Tokni")}
-          </ExternalLink>
+          <Header> {t("general.developed-by")}</Header>
+          <CopyrightItem>
+            <ExternalLink href="http://www.tokni.com">
+              <AppLogo src="./images/tokni.png" alt="Tøkni" data-tip="Tøkni - Nordic Software Consultancy"/>
+            </ExternalLink>
+          </CopyrightItem>
+          <CopyrightItem>
+            <ExternalLink href="https://energymodelling.club/">
+              <AppLogo src="./images/emc.png" alt="Energy Modelling Club" maxWidth="75px" data-tip="Energy Modelling Club"/>
+            </ExternalLink>
+            <ExternalLink href="https://energymodellinglab.com/">
+              <AppLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
+            </ExternalLink>
+          </CopyrightItem>
         </CopyrightNotice>
       </MenuFooter>
     </MenuLayout>

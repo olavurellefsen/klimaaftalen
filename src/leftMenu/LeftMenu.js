@@ -39,20 +39,11 @@ const MenuHeaderLeft = styled.div`
   align-items: left;
 `;
 
-const MenuHeaderRight = styled.div`
-  padding: 0 12px 5px 0px;
-  margin: 0;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: right;
-`;
-
 const AppLogo = styled.img`
-  width: 45px;
-  height: 67px;
-  margin-left: 5px;
+  padding: 0px;
+  max-width: 160px;
   border: 0;
+  align-self: center;
 `;
 
 const MenuTitle = styled(Link)`
@@ -218,9 +209,6 @@ function ScenarioSelectionMenu(props) {
             </MenuItem>
           </MenuRoutes>
         </MenuHeaderLeft>
-        <MenuHeaderRight>
-          <AppLogo src="./images/dtulogo_white.png" alt="logo" />
-        </MenuHeaderRight>
       </MenuHeader>
       <MenuSeparatorLine />
       <ScenarioSelection>
@@ -276,12 +264,6 @@ function ScenarioSelectionMenu(props) {
       </ToggleDifference>
       <MenuSeparatorLine />
       <MenuFooter>
-        <ExternalLink href="https://www.nordicenergy.org">
-          <AppLogo
-            src="./images/nordic_energy_research_cropped.png"
-            alt="Nordic Energy Research"
-          />
-        </ExternalLink>
         <CopyrightNotice>
           <Header> {t("general.developed-by")}</Header>
           <CopyrightItem>

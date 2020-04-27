@@ -84,12 +84,12 @@
     }
   },
   "welcome-text": {
-    "welcome-1": "Energisystemanalysegruppen på DTU inviterer til debat om klima- og energipolitik med vores værktøj.",
+    "welcome-1": "",
     "welcome-2": "Med dette værktøj kan du udforske forskellige scenarier i forbindelse med Klimaaftalen 2019. Vælg et scenario i venstre menu og se resultatet i graferne nedenfor.",
     "welcome-3": "Værktøjet er udviklet til yderligere at åbne debatten om klima- og energi politik og gøre et kompleks system lettere at forstå. De scenarier der fremvises, skal forstås som tekno-økonomiske potentialer for udviklingen mod 2050, baseret på fuldt fremsyn. Resultater kan ikke konkluderes som den endelige eller korrekte retning for at opnå fossil frihed, men skal derimod vise os hvor langt vi kan nå, hvis teknikken og økonomien fungerer optimalt. Der er derfor behov for yderligere politikker til eksempelvis at håndtere adfærd, der ikke er økonomisk rationel og uperfekte markeder.",
     "welcome-4": "En model er altid en simplificering af den virkelige verden. Ved sammenligning af scenarier skal der derfor tages hensyn til, at det kun er tekno-økonomiske virkemidler (tilskud, afgifter, forbud etc) der kan sammenlignes. Politikker målrettet fx adfærd inddrages ikke.",
     "welcome-5": "De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafik modellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under forudsætninger.",
-    "welcome-6": "Scenario beskrivelserne og resultater er baseret på DTU’s fortolkning af regeringens udspil, udmeldinger fra andre partier samt egne scenarier. Scenarierne vil løbende blive opdateret når nye ting dukker op.",
+    "welcome-6": "",
     "welcome-7": "Seneste opdatering: 3/6-2019"
   },
   "chartTitle": {

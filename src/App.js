@@ -227,15 +227,6 @@ export class App extends React.Component {
                 }}
               />
               <Route path="/forudsaetninger" component={Prerequisites} />
-              <Route path="/abonner" render={() => {
-                  return (
-                    <PageRenderer
-                      markdownFiles={[
-                        "descriptions/subscribe.md"
-                      ]}
-                    />
-                  );
-                }} />
             </MainSwitch>
           </Content>
         </Column>

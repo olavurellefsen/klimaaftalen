@@ -48,11 +48,18 @@ const MenuHeaderRight = styled.div`
   align-items: right;
 `;
 
-const AppLogo = styled.img`
+const TopAppLogo = styled.img`
   width: 45px;
   height: 67px;
-  margin-left: 5px;
+  margin: 5px;
   border: 0;
+`;
+
+const AppLogo = styled.img`
+  padding: 0px;
+  max-width: 160px;
+  border: 0;
+  align-self: center;
 `;
 
 const MenuTitle = styled(Link)`
@@ -119,12 +126,6 @@ const ToggleSwitchText = styled.div`
   margin-left: 10px;
 `;
 
-const ToggleLanguageText = styled.div`
-  color: ${props => (props.selected ? "white" : "gray")};
-  margin-left: 10px;
-  margin-right: 10px;
-`;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -134,7 +135,7 @@ const ScenarioDifferenceText = styled.div`
 `;
 
 const MenuFooter = styled.div`
-  padding: 15px 12px 5px 15px;
+  padding: 10px 0;
   margin: 0;
   width: 100%;
   display: flex;
@@ -143,10 +144,18 @@ const MenuFooter = styled.div`
 `;
 
 const CopyrightNotice = styled.div`
-  padding: 0 12px 5px 15px;
-  margin: 0;
-  width: 100%;
-  heigth: 26px;
+  padding: 20px 12px 5px 15px;
+  margin: 10px 0 0 0;
+  height: 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+
+const CopyrightItem = styled.div`
+  align-self: center;
+  padding: 5px 0;
+  text-align: center;
 `;
 
 const ExternalLink = styled.a`
@@ -157,18 +166,16 @@ const ExternalLink = styled.a`
   }
 `;
 
-function ScenarioSelectionMenu(props) {
-  const { t, i18n } = useTranslation();
-  const language = i18n.language;
+const Header = styled.h1`
+  font-size: ${props => (props.narrowVersion ? "0.9em" : "1em")};
+  padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
+  margin: 0;
+  height: 26px;
+  align-self: center;
+`;
 
-  const toggleLanguage = e => {
-    e.preventDefault();
-    if (language === "en") {
-      i18n.changeLanguage("dk");
-    } else {
-      i18n.changeLanguage("en");
-    }
-  };
+function ScenarioSelectionMenu(props) {
+  const { t } = useTranslation();
 
   return (
     <MenuLayout>
@@ -197,7 +204,7 @@ function ScenarioSelectionMenu(props) {
           </MenuRoutes>
         </MenuHeaderLeft>
         <MenuHeaderRight>
-          <AppLogo src="./images/dtulogo_white.png" alt="logo" />
+          <TopAppLogo src="./images/dtulogo_white.png" alt="logo" />
         </MenuHeaderRight>
       </MenuHeader>
       <MenuSeparatorLine />
@@ -243,21 +250,23 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
-        <ToggleLanguageText selected={language === "dk"}>
-          Danish
-        </ToggleLanguageText>
-        <ToggleSwitch checked={language !== "dk"} dimmed={false} />
-        <ToggleLanguageText selected={language === "en"}>
-          English
-        </ToggleLanguageText>
-      </ToggleDifference>
       <MenuSeparatorLine />
       <MenuFooter>
         <CopyrightNotice>
-          <ExternalLink href="http://www.tokni.com">
-          {t("general.developed-by-Tokni")}
-          </ExternalLink>
+          <Header> {t("general.developed-by")}</Header>
+          <CopyrightItem>
+            <ExternalLink href="http://www.tokni.com">
+              <AppLogo src="./images/tokni.png" alt="Tøkni" data-tip="Tøkni - Nordic Software Consultancy"/>
+            </ExternalLink>
+          </CopyrightItem>
+          <CopyrightItem>
+            <ExternalLink href="https://energymodelling.club/">
+              <AppLogo src="./images/emc.png" alt="Energy Modelling Club" maxWidth="75px" data-tip="Energy Modelling Club"/>
+            </ExternalLink>
+            <ExternalLink href="https://energymodellinglab.com/">
+              <AppLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
+            </ExternalLink>
+          </CopyrightItem>
         </CopyrightNotice>
       </MenuFooter>
     </MenuLayout>

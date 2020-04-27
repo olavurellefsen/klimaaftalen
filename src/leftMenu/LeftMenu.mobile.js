@@ -91,13 +91,6 @@ const ToggleSwitchText = styled.div`
   margin-top: 5px;
 `;
 
-const ToggleLanguageText = styled.div`
-  font-size: 0.7em;
-  color: ${props => (props.selected ? "white" : "gray")};
-  margin-left: 3px;
-  margin-right: 3px;
-`;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -211,18 +204,19 @@ function ScenarioSelectionMenu(props) {
         </ScenarioDifferenceText>
         <MenuSeparatorLine />
         <ToggleDifference onClick={e => toggleLanguage(e)}>
-        <ToggleLanguageText selected={language === "dk"}>
-          Danish
-        </ToggleLanguageText>
-        <ToggleSwitch checked={language !== "dk"} dimmed={false} />
-        <ToggleLanguageText selected={language === "en"}>
-          English
-        </ToggleLanguageText>
       </ToggleDifference>
         <MenuFooter>
           <CopyrightNotice>
             <ExternalLink href="http://www.tokni.com">
               {t("general.developed-by-Tokni")}
+            </ExternalLink>
+            <br/>
+            <ExternalLink href="https://energymodelling.club/">
+              Energy Modelling Club
+            </ExternalLink>
+            <br/>
+            <ExternalLink href="https://energymodellinglab.com/">
+              Energy Modelling Lab
             </ExternalLink>
           </CopyrightNotice>
         </MenuFooter>

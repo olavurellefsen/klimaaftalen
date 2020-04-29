@@ -21,14 +21,14 @@ const Charts = props => {
           selectedScenario2 === "")) && (
         <Flex>
           <StackedBarChart
-            chartName="_CO2 emissioner"
-            chartTitle="CO2-emissioner og VE-andel"
+            chartName="_Energi forbrug i Danmark"
+            chartTitle="Danmarks samlede energiforbrug og VE-andel"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}
-            label="Kt"
+            label="PJ"
             minY={0}
-            maxY={40000}
+            maxY={1000}
             minY2={0}
             maxY2={1}
             label2="Vedvarende energi andel"
@@ -188,8 +188,8 @@ const Charts = props => {
         selectedScenario2 !== "" && (
           <Flex>
             <StackedBarDiffChart
-              chartName="_CO2 emissioner"
-              chartTitle="CO2-emissioner og VE-andel"
+              chartName="_Energi forbrug i Danmark"
+              chartTitle="Energi forbrug i Danmark og VE-andel"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={true}

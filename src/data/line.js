@@ -2,8 +2,50 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "Alternativet_INT",
+        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4219401781
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5806235843
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7116547372
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7996139987
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9111312848
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9972194677
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -12,77 +54,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5704040055
+                    "total": 0.4505972638
                   },
                   {
                     "year": 2030,
-                    "total": 0.767801424
+                    "total": 0.6247478339
                   },
                   {
                     "year": 2035,
-                    "total": 0.8376680688
+                    "total": 0.7835854459
                   },
                   {
                     "year": 2040,
-                    "total": 0.8676705378
+                    "total": 0.8808876126
                   },
                   {
                     "year": 2045,
-                    "total": 0.873352159
+                    "total": 1.0138031928
                   },
                   {
                     "year": 2050,
-                    "total": 0.9135818665
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4375511711
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6990627259
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7880351823
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8228172321
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8331857696
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9054500103
+                    "total": 1.1107590116
                   }
                 ]
               }
@@ -91,8 +91,50 @@ export default {
         ]
       },
       {
-        "scenario": "Alternativet_INT_With_CCS",
+        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4495664
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5837680196
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6881824902
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8502227561
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9147069232
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9748701231
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -101,789 +143,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5704071519
+                    "total": 0.4902134153
                   },
                   {
                     "year": 2030,
-                    "total": 0.7761128214
+                    "total": 0.6292569712
                   },
                   {
                     "year": 2035,
-                    "total": 0.8533909469
+                    "total": 0.7499261168
                   },
                   {
                     "year": 2040,
-                    "total": 0.8917430657
+                    "total": 0.9534608443
                   },
                   {
                     "year": 2045,
-                    "total": 0.8974729024
+                    "total": 1.0189306776
                   },
                   {
                     "year": 2050,
-                    "total": 0.9303470953
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4375648561
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6972333987
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7870794017
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.821953585
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8329700889
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9057543262
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_INT",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.619485483
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6894818066
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8059514129
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8751919011
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9197452364
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9730099082
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4760317061
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5863976267
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7405311617
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8354507552
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9071801453
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9740263596
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6076267628
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6759504967
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7424990934
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8043379369
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9037656915
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9560997999
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4651770604
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5600638408
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.6039347859
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6969629425
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.846409185
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9168232532
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_bio_INT",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6215347962
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7017357347
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8154084022
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8788032573
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9212621331
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9596536008
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4778023376
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.611387409
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7505722078
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8400417897
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9087097704
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9595771856
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Carbon_scenario_1-5_degree_bio_INT_With_CCS",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6112854943
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6788616824
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7500103076
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8209983369
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9015382435
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9587963971
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4684190827
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5610319697
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.6076590574
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7188182574
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8500778239
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9167661886
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "DGSB_INT",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6667529483
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7737098254
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8546672076
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8946440943
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9268716974
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9622313414
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5804878231
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7117597799
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8124049084
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8712208867
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9177208452
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9628550976
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "DGSB_INT_With_CCS",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.6665391382
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7743838174
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.860406643
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9083230421
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9409277777
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.976431996
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5801189133
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7119311838
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8129340699
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.871643342
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9183844739
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9629254243
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Enhedslisten_INT",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5926221949
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6975369126
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8440857412
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8699103201
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8739400866
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9210170645
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4612909227
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5667409352
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7861379292
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8207400841
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8306785225
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.914192164
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "Enhedslisten_INT_With_CCS",
-        "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3618537789
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4193965527
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5928391113
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7004926147
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8580315282
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8940123979
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8980624909
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9447018251
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4613447329
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5684392653
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7852107206
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8207072368
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8307351305
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9147455994
+                    "total": 1.0766965201
                   }
                 ]
               }
@@ -895,6 +183,48 @@ export default {
         "scenario": "FP_NO_WIN_INT",
         "indicators": [
           {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875860874
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721134719
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842905949
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134911
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551189
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773553
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
@@ -902,77 +232,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5287808392
+                    "total": 0.4526710186
                   },
                   {
                     "year": 2030,
-                    "total": 0.6416525986
+                    "total": 0.5693798533
                   },
                   {
                     "year": 2035,
-                    "total": 0.6756349944
+                    "total": 0.7268630526
                   },
                   {
                     "year": 2040,
-                    "total": 0.6807300993
+                    "total": 0.8022523823
                   },
                   {
                     "year": 2045,
-                    "total": 0.6862146945
+                    "total": 0.8164421532
                   },
                   {
                     "year": 2050,
-                    "total": 0.7300079827
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4104683672
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5142614053
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5321964384
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5252253169
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.532245039
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.6331634757
+                    "total": 0.8169131735
                   }
                 ]
               }
@@ -981,8 +269,50 @@ export default {
         ]
       },
       {
-        "scenario": "FP_NO_WIN_INT_With_CCS",
+        "scenario": "FP_NO_WIN_INT_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3865585683
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4735829475
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.556485212
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5973212154
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6002917654
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5877696963
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -991,77 +321,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5287229773
+                    "total": 0.4511975507
                   },
                   {
                     "year": 2030,
-                    "total": 0.6418302204
+                    "total": 0.5714870893
                   },
                   {
                     "year": 2035,
-                    "total": 0.6769346033
+                    "total": 0.6869899832
                   },
                   {
                     "year": 2040,
-                    "total": 0.6868190612
+                    "total": 0.7420352319
                   },
                   {
                     "year": 2045,
-                    "total": 0.6926960391
+                    "total": 0.7447944343
                   },
                   {
                     "year": 2050,
-                    "total": 0.7373809553
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4104635535
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5147680622
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5331971917
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5221043911
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.5294858698
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.6314460377
+                    "total": 0.7258428473
                   }
                 ]
               }
@@ -1070,8 +358,50 @@ export default {
         ]
       },
       {
-        "scenario": "Frozen_policy_INT",
+        "scenario": "KP",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.30254327
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3366572276
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4513301143
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6007738624
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6805645788
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7249539702
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7305333733
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7399365358
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1080,77 +410,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3328568517
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3840868005
                   },
                   {
                     "year": 2025,
-                    "total": 0.5282215729
+                    "total": 0.5056008498
                   },
                   {
                     "year": 2030,
-                    "total": 0.6547090974
+                    "total": 0.6773054196
                   },
                   {
                     "year": 2035,
-                    "total": 0.7104205777
+                    "total": 0.7866876463
                   },
                   {
                     "year": 2040,
-                    "total": 0.7387555666
+                    "total": 0.8451697821
                   },
                   {
                     "year": 2045,
-                    "total": 0.7520977146
+                    "total": 0.8500114034
                   },
                   {
                     "year": 2050,
-                    "total": 0.7973653865
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4133619757
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5307664099
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5622138923
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5996073226
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6282296106
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7323402676
+                    "total": 0.8608420264
                   }
                 ]
               }
@@ -1159,8 +447,50 @@ export default {
         ]
       },
       {
-        "scenario": "Frozen_policy_INT_With_CCS",
+        "scenario": "KP_AGR",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4164046458
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.527489126
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6388298633
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6950256365
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7071239475
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7093028621
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1169,77 +499,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5282285886
+                    "total": 0.4555175393
                   },
                   {
                     "year": 2030,
-                    "total": 0.6553914204
+                    "total": 0.5722147115
                   },
                   {
                     "year": 2035,
-                    "total": 0.7160612393
+                    "total": 0.7268398386
                   },
                   {
                     "year": 2040,
-                    "total": 0.7553444714
+                    "total": 0.8022523897
                   },
                   {
                     "year": 2045,
-                    "total": 0.7756366401
+                    "total": 0.8164421603
                   },
                   {
                     "year": 2050,
-                    "total": 0.8177378269
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4133446739
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5307393784
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5635687391
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.602193615
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.630966798
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7276761349
+                    "total": 0.8169131727
                   }
                 ]
               }
@@ -1248,8 +536,50 @@ export default {
         ]
       },
       {
-        "scenario": "LA_INT",
+        "scenario": "KP_AGR_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4164046458
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.527489126
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6388298633
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6950256365
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7071239475
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7093028621
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1258,77 +588,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5365343405
+                    "total": 0.4555175393
                   },
                   {
                     "year": 2030,
-                    "total": 0.6834216167
+                    "total": 0.5722147115
                   },
                   {
                     "year": 2035,
-                    "total": 0.7343428571
+                    "total": 0.7268398386
                   },
                   {
                     "year": 2040,
-                    "total": 0.7483052037
+                    "total": 0.8022523897
                   },
                   {
                     "year": 2045,
-                    "total": 0.753296961
+                    "total": 0.8164421603
                   },
                   {
                     "year": 2050,
-                    "total": 0.7929463662
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4285512457
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5681457863
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5975563558
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6195652924
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6396901632
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7262410561
+                    "total": 0.8169131727
                   }
                 ]
               }
@@ -1337,8 +625,50 @@ export default {
         ]
       },
       {
-        "scenario": "LA_INT_With_CCS",
+        "scenario": "KP_Byg",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875806052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4786837973
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.584274413
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1347,77 +677,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5364341399
+                    "total": 0.4526631571
                   },
                   {
                     "year": 2030,
-                    "total": 0.6841041859
+                    "total": 0.5788017354
                   },
                   {
                     "year": 2035,
-                    "total": 0.7400065685
+                    "total": 0.7268398478
                   },
                   {
                     "year": 2040,
-                    "total": 0.7649255321
+                    "total": 0.8022523897
                   },
                   {
                     "year": 2045,
-                    "total": 0.7768317544
+                    "total": 0.8164421603
                   },
                   {
                     "year": 2050,
-                    "total": 0.8133210425
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4284477003
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.568227199
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.598814476
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6219291657
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6421348477
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7223327369
+                    "total": 0.8169131727
                   }
                 ]
               }
@@ -1426,8 +714,50 @@ export default {
         ]
       },
       {
-        "scenario": "Radikale_INT",
+        "scenario": "KP_Byg_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875806052
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4786837973
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.584274413
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1436,77 +766,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.553338726
+                    "total": 0.4526631571
                   },
                   {
                     "year": 2030,
-                    "total": 0.669841162
+                    "total": 0.5788017354
                   },
                   {
                     "year": 2035,
-                    "total": 0.7218985475
+                    "total": 0.7268398478
                   },
                   {
                     "year": 2040,
-                    "total": 0.7472648357
+                    "total": 0.8022523897
                   },
                   {
                     "year": 2045,
-                    "total": 0.7570261888
+                    "total": 0.8164421603
                   },
                   {
                     "year": 2050,
-                    "total": 0.8013345175
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4340852671
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5522686269
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5995546793
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6230657665
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6409726757
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7434833932
+                    "total": 0.8169131727
                   }
                 ]
               }
@@ -1515,8 +803,50 @@ export default {
         ]
       },
       {
-        "scenario": "Radikale_INT_With_CCS",
+        "scenario": "KP_DBD",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875860394
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.472089964
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5847626326
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6400635
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6515559047
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6675277557
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1525,77 +855,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5533809728
+                    "total": 0.4526709498
                   },
                   {
                     "year": 2030,
-                    "total": 0.6706119611
+                    "total": 0.5693461429
                   },
                   {
                     "year": 2035,
-                    "total": 0.730002904
+                    "total": 0.7275399573
                   },
                   {
                     "year": 2040,
-                    "total": 0.764035659
+                    "total": 0.803327899
                   },
                   {
                     "year": 2045,
-                    "total": 0.7789561671
+                    "total": 0.8183074871
                   },
                   {
                     "year": 2050,
-                    "total": 0.8202592982
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4340824502
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5522810804
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5996873442
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6231079868
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6430228859
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.739300355
+                    "total": 0.8619163355
                   }
                 ]
               }
@@ -1604,8 +892,50 @@ export default {
         ]
       },
       {
-        "scenario": "Regeringen_INT",
+        "scenario": "KP_DBD_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875860394
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.472089964
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5847626326
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6400635
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6515559047
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6675277557
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1614,77 +944,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5372796753
+                    "total": 0.4526709498
                   },
                   {
                     "year": 2030,
-                    "total": 0.6627375313
+                    "total": 0.5693461429
                   },
                   {
                     "year": 2035,
-                    "total": 0.7182431343
+                    "total": 0.7275399573
                   },
                   {
                     "year": 2040,
-                    "total": 0.7466720557
+                    "total": 0.803327899
                   },
                   {
                     "year": 2045,
-                    "total": 0.763135291
+                    "total": 0.8183074871
                   },
                   {
                     "year": 2050,
-                    "total": 0.8084446101
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4299433512
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5480768009
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5813384766
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6183512204
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6539445192
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7533537529
+                    "total": 0.8402163355
                   }
                 ]
               }
@@ -1693,8 +981,50 @@ export default {
         ]
       },
       {
-        "scenario": "Regeringen_INT_With_CCS",
+        "scenario": "KP_Energi",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.30254327
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3366572276
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4193213721
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5190984974
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6136033326
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.665016781
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6704900371
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6690490903
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1703,77 +1033,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3328568517
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3840868005
                   },
                   {
                     "year": 2025,
-                    "total": 0.5373063347
+                    "total": 0.4981795883
                   },
                   {
                     "year": 2030,
-                    "total": 0.6634201025
+                    "total": 0.6367566339
                   },
                   {
                     "year": 2035,
-                    "total": 0.7239162809
+                    "total": 0.768897677
                   },
                   {
                     "year": 2040,
-                    "total": 0.7632923861
+                    "total": 0.8391110389
                   },
                   {
                     "year": 2045,
-                    "total": 0.7867056795
+                    "total": 0.8454591353
                   },
                   {
                     "year": 2050,
-                    "total": 0.8288177894
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4299487394
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5476741846
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.582639762
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6207968477
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6564052909
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7486717562
+                    "total": 0.8423979376
                   }
                 ]
               }
@@ -1782,8 +1070,50 @@ export default {
         ]
       },
       {
-        "scenario": "SF_INT",
+        "scenario": "KP_Energi_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.30254327
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3366572276
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4193213721
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5190984974
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6136033326
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.665016781
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6704900371
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6690490903
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1792,77 +1122,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3600204166
+                    "total": 0.3328568517
                   },
                   {
                     "year": 2020,
-                    "total": 0.4274471359
+                    "total": 0.3840868005
                   },
                   {
                     "year": 2025,
-                    "total": 0.5378259396
+                    "total": 0.4981795883
                   },
                   {
                     "year": 2030,
-                    "total": 0.6871939753
+                    "total": 0.6367566339
                   },
                   {
                     "year": 2035,
-                    "total": 0.8055364139
+                    "total": 0.768897677
                   },
                   {
                     "year": 2040,
-                    "total": 0.8398779341
+                    "total": 0.8391110389
                   },
                   {
                     "year": 2045,
-                    "total": 0.8645428807
+                    "total": 0.8454591353
                   },
                   {
                     "year": 2050,
-                    "total": 0.8929430817
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3056452912
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.360614016
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4192584057
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5447397474
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7201708254
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7786340429
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8201072114
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8808570893
+                    "total": 0.8423979376
                   }
                 ]
               }
@@ -1871,8 +1159,50 @@ export default {
         ]
       },
       {
-        "scenario": "SF_INT_With_CCS",
+        "scenario": "KP_Finans",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3873275486
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4865466994
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5955168736
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6405915835
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6515071112
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6509053039
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1881,77 +1211,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5335949665
+                    "total": 0.4523002725
                   },
                   {
                     "year": 2030,
-                    "total": 0.6798190255
+                    "total": 0.5900771796
                   },
                   {
                     "year": 2035,
-                    "total": 0.8199807054
+                    "total": 0.742961597
                   },
                   {
                     "year": 2040,
-                    "total": 0.8673478742
+                    "total": 0.8040851737
                   },
                   {
                     "year": 2045,
-                    "total": 0.8889169222
+                    "total": 0.818237517
                   },
                   {
                     "year": 2050,
-                    "total": 0.9175542022
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4160993055
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5367236465
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7167981924
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7836318789
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8198005052
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8805339946
+                    "total": 0.8163796497
                   }
                 ]
               }
@@ -1960,8 +1248,50 @@ export default {
         ]
       },
       {
-        "scenario": "Socialdemokratiet_INT",
+        "scenario": "KP_Finans_bio",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3879079494
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4745956024
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5581779344
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5981420492
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6008829225
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5890201555
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -1970,77 +1300,35 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5274712916
+                    "total": 0.4531325704
                   },
                   {
                     "year": 2030,
-                    "total": 0.6549821659
+                    "total": 0.572939242
                   },
                   {
                     "year": 2035,
-                    "total": 0.7106727867
+                    "total": 0.6894173564
                   },
                   {
                     "year": 2040,
-                    "total": 0.7389769624
+                    "total": 0.743212312
                   },
                   {
                     "year": 2045,
-                    "total": 0.7521729711
+                    "total": 0.7456421568
                   },
                   {
                     "year": 2050,
-                    "total": 0.7973676225
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Energi forbrug i Danmark",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3118486314
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3573065778
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4123035461
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5273814405
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5658735333
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6014148992
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6282900363
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.7346090903
+                    "total": 0.7276360124
                   }
                 ]
               }
@@ -2049,8 +1337,50 @@ export default {
         ]
       },
       {
-        "scenario": "Socialdemokratiet_INT_With_CCS",
+        "scenario": "KP_Handel",
         "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
           {
             "indicator": "_CO2 emissioner",
             "indicatorGroups": [
@@ -2059,77 +1389,1281 @@ export default {
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3618537789
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.4193965527
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.5272526473
+                    "total": 0.4526715258
                   },
                   {
                     "year": 2030,
-                    "total": 0.6555524482
+                    "total": 0.569368697
                   },
                   {
                     "year": 2035,
-                    "total": 0.7184682622
+                    "total": 0.7268398386
                   },
                   {
                     "year": 2040,
-                    "total": 0.7577941032
+                    "total": 0.7318281265
                   },
                   {
                     "year": 2045,
-                    "total": 0.7762258168
+                    "total": 0.8164421603
                   },
                   {
                     "year": 2050,
-                    "total": 0.8177408018
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Handel_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "_Energi forbrug i Danmark",
+            "indicator": "_CO2 emissioner",
             "indicatorGroups": [
               {
-                "indicatorGroup": "VE andel",
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
-                    "total": 0.3118486314
+                    "total": 0.3235905677
                   },
                   {
                     "year": 2020,
-                    "total": 0.3573065778
+                    "total": 0.3833379967
                   },
                   {
                     "year": 2025,
-                    "total": 0.4117109705
+                    "total": 0.4526715258
                   },
                   {
                     "year": 2030,
-                    "total": 0.5274567253
+                    "total": 0.569368697
                   },
                   {
                     "year": 2035,
-                    "total": 0.5666702682
+                    "total": 0.7268398386
                   },
                   {
                     "year": 2040,
-                    "total": 0.6034545429
+                    "total": 0.8022523897
                   },
                   {
                     "year": 2045,
-                    "total": 0.6309373801
+                    "total": 0.8164421603
                   },
                   {
                     "year": 2050,
-                    "total": 0.7305330351
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_IND_HT",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3880066301
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4896226841
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5928573447
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6403193403
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.649698541
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.649279473
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4532740791
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5944881583
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7391478182
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8036947755
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8156440176
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8140481995
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_IND_HT_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3880066301
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4896226841
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5928573447
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6403193403
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.649698541
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.649279473
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4532740791
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5944881583
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7391478182
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8036947755
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8156440176
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8140481995
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Landtransport",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875844204
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4698326332
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5830521792
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6394622402
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.650403031
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6514312211
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526686281
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5661091183
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7250871578
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8024656894
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8166542601
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.817133818
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Landtransport_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875844204
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4698326332
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5830521792
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6394622402
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.650403031
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6514312211
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526686281
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5661091183
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7250871578
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8024656894
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8166542601
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.817133818
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Life",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526715258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.569368697
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7268398386
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Life_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.388108212
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4693462579
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5558720887
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5967947321
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5992236498
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5875523788
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4534197481
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5654116535
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6861107611
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7412802521
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7432627507
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7255312127
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Produktion",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3908876937
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4739218968
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.584220537
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551262
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4574055398
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5719731445
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7267625892
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421638
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Produktion_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3908876937
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4739218968
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.584220537
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551262
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4574055398
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5719731445
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7267625892
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421638
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Service-it",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526715258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.569368697
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7268398386
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_Service-it_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526715258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.569368697
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7268398386
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.30254327
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3366572276
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4497872675
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5894171875
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6528151308
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6909529073
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.688158441
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6778727737
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3328568517
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3840868005
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5033883993
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6610198864
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7468947878
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7964120741
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7892455214
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.7718422561
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_waste",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526715258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.569368697
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7268398386
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_waste_bio",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.2960814506
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3361350513
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3875864411
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.4721056921
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5842744067
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6393134963
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6502551238
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6512773548
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3235905677
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3833379967
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4526715258
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.569368697
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7268398386
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8022523897
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8164421603
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8169131727
                   }
                 ]
               }

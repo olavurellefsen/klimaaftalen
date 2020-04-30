@@ -29,10 +29,10 @@ export default {
 { "id": 26, "name": "KP_Finans", "short_description": "Finans", "ultra_short_description": "Finans", "ccs": false },
 { "id": 27, "name": "KP_Finans_bio", "short_description": "Finans", "ultra_short_description": "Finans", "ccs": true },
 
-{ "id": 28, "name": "division_line", "short_description": "______________", "ultra_short_description": "____", "ccs": false },
+/*{ "id": 28, "name": "division_line", "short_description": "______________", "ultra_short_description": "____", "ccs": false },
 { "id": 29, "name": "division_line", "short_description": "______________", "ultra_short_description": "____", "ccs": true },
 
 { "id": 30, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS", "short_description": "Carbon Budget", "ultra_short_description": "CB 400 Mt CO2", "ccs": false },
-{ "id": 31, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio", "short_description": "Carbon Budget", "ultra_short_description": "CB 400 Mt CO2", "ccs": true },
+{ "id": 31, "name": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio", "short_description": "Carbon Budget", "ultra_short_description": "CB 400 Mt CO2", "ccs": true },*/
 ]}
 };

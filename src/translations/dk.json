@@ -82,8 +82,10 @@
   },
   "chartTitle": {
     "CO2 emissioner og %-reduktion": "CO2 emissioner og %-reduktion",
+    "CO2 emissioner og %-reduktion inkl international transport": "CO2 emissioner og %-reduktion inkl international transport",
     "Anden drivhusgas udledning": "Anden drivhusgas udledning",
 	"Alle Danske drivhusgasser": "Alle Danske drivhusgasser",
+	"Alle Danske drivhusgasser inkl international transport": "Alle Danske drivhusgasser inkl international transport",
     "Akkumuleret CO2 emissioner": "Akkumuleret CO2 emissioner",
     "Energiforbrug og VE-andel": "Energiforbrug og VE-andel",
     "Antal havmølleparker (á 800MW)": "Antal havmølleparker (á 800MW)",

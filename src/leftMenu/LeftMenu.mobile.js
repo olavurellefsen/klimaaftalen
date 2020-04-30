@@ -165,12 +165,12 @@ function ScenarioSelectionMenu(props) {
             >
               {t("menu.mobile.preconditions")}
             </MenuItem>
-            <MenuItem
+           /* <MenuItem
               to="/abonner"
               selected={props.selectedChartgroup === "/abonner"}
             >
               {t("menu.mobile.subscribe")}
-            </MenuItem>
+            </MenuItem>*/
           </MenuRoutes>
         </MenuHeader>
         <MenuSeparatorLine />
@@ -215,15 +215,6 @@ function ScenarioSelectionMenu(props) {
           {t("general.green-minus-red")}
         </ScenarioDifferenceText>
         <MenuSeparatorLine />
-        <ToggleDifference onClick={e => toggleLanguage(e)}>
-        <ToggleLanguageText selected={language === "dk"}>
-          Danish
-        </ToggleLanguageText>
-        <ToggleSwitch checked={language !== "dk"} dimmed={false} />
-        <ToggleLanguageText selected={language === "en"}>
-          English
-        </ToggleLanguageText>
-      </ToggleDifference>
         <MenuFooter>
           <CopyrightNotice>
             <ExternalLink href="http://www.tokni.com">

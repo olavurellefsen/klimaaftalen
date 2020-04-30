@@ -253,16 +253,6 @@ function ScenarioSelectionMenu(props) {
         {t("general.green-minus-red")}
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => toggleLanguage(e)}>
-        <ToggleLanguageText selected={language === "dk"}>
-          Danish
-        </ToggleLanguageText>
-        <ToggleSwitch checked={language !== "dk"} dimmed={false} />
-        <ToggleLanguageText selected={language === "en"}>
-          English
-        </ToggleLanguageText>
-      </ToggleDifference>
-      <MenuSeparatorLine />
       <MenuFooter>
         <CopyrightNotice>
           <Header> {t("general.developed-by")}</Header>

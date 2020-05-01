@@ -106,14 +106,14 @@ export class App extends React.Component {
     const oldScenario = this.state.scenarioSelection;
     const oldScenario2 = this.state.scenarioSelection2;
     if (this.state.showCCS) {
-      newScenario = oldScenario.substring(0, oldScenario.length - 9);
+      newScenario = oldScenario.substring(0, oldScenario.length - 4);
       if (oldScenario2 !== "") {
-        newScenario2 = oldScenario2.substring(0, oldScenario2.length - 9);
+        newScenario2 = oldScenario2.substring(0, oldScenario2.length - 4);
       }
     } else {
-      newScenario = oldScenario + "_With_CCS";
+      newScenario = oldScenario + "_bio";
       if (oldScenario2 !== "") {
-        newScenario2 = oldScenario2 + "_With_CCS";
+        newScenario2 = oldScenario2 + "_bio";
       }
     }
     this.setState({

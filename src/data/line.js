@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS",
+        "scenario": "Carbon_scenario_1-5",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -91,7 +91,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio",
+        "scenario": "Carbon_scenario_1-5_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -269,7 +269,7 @@ export default {
         ]
       },
       {
-        "scenario": "FP_NO_WIN_INT_bio",
+        "scenario": "FP_NO_WIN_INT_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -536,7 +536,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_AGR_bio",
+        "scenario": "KP_AGR_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -714,7 +714,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Byg_bio",
+        "scenario": "KP_Byg_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -795,6 +795,95 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.9084756567
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_CCS",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "GHG reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3262239194
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3773477044
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5389525603
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6968339714
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7787772499
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8212567002
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8230971726
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8005449636
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 reduktion i forhold til 1990",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3777004249
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4381443431
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5663235458
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7218931145
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8261368158
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8765153702
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8714247871
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8330400349
                   }
                 ]
               }
@@ -892,7 +981,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_DBD_bio",
+        "scenario": "KP_DBD_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1070,7 +1159,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Energi_bio",
+        "scenario": "KP_Energi_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1248,7 +1337,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Finans_bio",
+        "scenario": "KP_Finans_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1426,7 +1515,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Handel_bio",
+        "scenario": "KP_Handel_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1604,7 +1693,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_IND_HT_bio",
+        "scenario": "KP_IND_HT_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1782,7 +1871,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Landtransport_bio",
+        "scenario": "KP_Landtransport_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1960,7 +2049,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Life_bio",
+        "scenario": "KP_Life_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -2138,7 +2227,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Produktion_bio",
+        "scenario": "KP_Produktion_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -2316,7 +2405,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Service-it_bio",
+        "scenario": "KP_Service-it_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -2397,95 +2486,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 0.9084756559
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "KP_bio",
-        "indicators": [
-          {
-            "indicator": "_All_GHG_emissions",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "GHG reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3262239194
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3773477044
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5389525603
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6968339714
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7787772499
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8212567002
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8230971726
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8005449636
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2 reduktion i forhold til 1990",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3777004249
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4381443431
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5663235458
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7218931145
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8261368158
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8765153702
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8714247871
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8330400349
                   }
                 ]
               }
@@ -2583,7 +2583,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_waste_bio",
+        "scenario": "KP_waste_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",

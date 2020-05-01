@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS",
+        "scenario": "Carbon_scenario_1-5",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -1046,7 +1046,7 @@ export default {
         ]
       },
       {
-        "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio",
+        "scenario": "Carbon_scenario_1-5_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -3134,7 +3134,7 @@ export default {
         ]
       },
       {
-        "scenario": "FP_NO_WIN_INT_bio",
+        "scenario": "FP_NO_WIN_INT_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -6266,7 +6266,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_AGR_bio",
+        "scenario": "KP_AGR_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -8354,7 +8354,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Byg_bio",
+        "scenario": "KP_Byg_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -9390,6 +9390,1050 @@ export default {
                   {
                     "year": 2050,
                     "total": 8.358486277
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "KP_CCS",
+        "indicators": [
+          {
+            "indicator": "_All_GHG_emissions",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andre emissioner",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1899.54
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1565.0310173697
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 32279.3012598461
+                  },
+                  {
+                    "year": 2020,
+                    "total": 29144.0147812713
+                  },
+                  {
+                    "year": 2025,
+                    "total": 22495.2313558838
+                  },
+                  {
+                    "year": 2030,
+                    "total": 15725.6822584896
+                  },
+                  {
+                    "year": 2035,
+                    "total": 10318.4572263405
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7705.2712340662
+                  },
+                  {
+                    "year": 2045,
+                    "total": 7969.3248683852
+                  },
+                  {
+                    "year": 2050,
+                    "total": 9960.3803494418
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1300.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Landbrugs emissioner",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 13905.60525
+                  },
+                  {
+                    "year": 2020,
+                    "total": 13929.064
+                  },
+                  {
+                    "year": 2025,
+                    "total": 11590.6091908149
+                  },
+                  {
+                    "year": 2030,
+                    "total": 9252.1543816298
+                  },
+                  {
+                    "year": 2035,
+                    "total": 9084.535556746
+                  },
+                  {
+                    "year": 2040,
+                    "total": 8916.9167318621
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8749.2979069782
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8581.6790820944
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Skov",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -381.1
+                  },
+                  {
+                    "year": 2020,
+                    "total": -554.3272727273
+                  },
+                  {
+                    "year": 2025,
+                    "total": -1443.6818181818
+                  },
+                  {
+                    "year": 2030,
+                    "total": -2213.6818181818
+                  },
+                  {
+                    "year": 2035,
+                    "total": -2440.4220779221
+                  },
+                  {
+                    "year": 2040,
+                    "total": -2667.1623376623
+                  },
+                  {
+                    "year": 2045,
+                    "total": -2893.9025974026
+                  },
+                  {
+                    "year": 2050,
+                    "total": -3120.6428571429
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Str\u00e5lingseffekt",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Andel_importeret_Biomasse",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Andel import biomasse",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3744498697
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.4254380826
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3127901934
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.2867008014
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.2478595203
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.1978095093
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.1397564495
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0555492015
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Anden_drivhusgas_udledning",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "LULUCF",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 3584.9042459151
+                  },
+                  {
+                    "year": 2020,
+                    "total": 3611.86
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2063.2537015596
+                  },
+                  {
+                    "year": 2030,
+                    "total": 514.8194939045
+                  },
+                  {
+                    "year": 2035,
+                    "total": 511.6353700265
+                  },
+                  {
+                    "year": 2040,
+                    "total": 508.4510059566
+                  },
+                  {
+                    "year": 2045,
+                    "total": 505.259610216
+                  },
+                  {
+                    "year": 2050,
+                    "total": 502.0682144754
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Lattergas",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4671.2473297011
+                  },
+                  {
+                    "year": 2020,
+                    "total": 4816.574
+                  },
+                  {
+                    "year": 2025,
+                    "total": 4402.1173219822
+                  },
+                  {
+                    "year": 2030,
+                    "total": 3970.5807575346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3886.0856253536
+                  },
+                  {
+                    "year": 2040,
+                    "total": 3801.8426346555
+                  },
+                  {
+                    "year": 2045,
+                    "total": 3724.9811402887
+                  },
+                  {
+                    "year": 2050,
+                    "total": 3648.1196459218
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Metan",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 5649.4536743838
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5500.63
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5125.2381672732
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4766.7541301908
+                  },
+                  {
+                    "year": 2035,
+                    "total": 4686.8145613659
+                  },
+                  {
+                    "year": 2040,
+                    "total": 4606.62309125
+                  },
+                  {
+                    "year": 2045,
+                    "total": 4519.0571564735
+                  },
+                  {
+                    "year": 2050,
+                    "total": 4431.4912216971
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Skov",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -381.1
+                  },
+                  {
+                    "year": 2020,
+                    "total": -554.3272727273
+                  },
+                  {
+                    "year": 2025,
+                    "total": -1443.6818181818
+                  },
+                  {
+                    "year": 2030,
+                    "total": -2213.6818181818
+                  },
+                  {
+                    "year": 2035,
+                    "total": -2440.4220779221
+                  },
+                  {
+                    "year": 2040,
+                    "total": -2667.1623376623
+                  },
+                  {
+                    "year": 2045,
+                    "total": -2893.9025974026
+                  },
+                  {
+                    "year": 2050,
+                    "total": -3120.6428571429
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Str\u00e5lingseffekt",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 4957.7480278345
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5235.740926402
+                  },
+                  {
+                    "year": 2025,
+                    "total": 5439.8148470845
+                  },
+                  {
+                    "year": 2030,
+                    "total": 5640.7891245146
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5755.5341076087
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5862.819917668
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6081.8393570493
+                  },
+                  {
+                    "year": 2050,
+                    "total": 6328.9257072213
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Affald CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1325.485225
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1204.35
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1000.85
+                  },
+                  {
+                    "year": 2030,
+                    "total": 797.35
+                  },
+                  {
+                    "year": 2035,
+                    "total": 797.35
+                  },
+                  {
+                    "year": 2040,
+                    "total": 797.35
+                  },
+                  {
+                    "year": 2045,
+                    "total": 797.35
+                  },
+                  {
+                    "year": 2050,
+                    "total": 797.35
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1300.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1300.0
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "El og varme sektorens CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 9673.7603289588
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6857.1437002422
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1833.0320425129
+                  },
+                  {
+                    "year": 2030,
+                    "total": 258.6
+                  },
+                  {
+                    "year": 2035,
+                    "total": 303.6647120574
+                  },
+                  {
+                    "year": 2040,
+                    "total": 258.6
+                  },
+                  {
+                    "year": 2045,
+                    "total": 258.6
+                  },
+                  {
+                    "year": 2050,
+                    "total": 258.6
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Husholdningers CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2104.4143725539
+                  },
+                  {
+                    "year": 2020,
+                    "total": 1656.4393074721
+                  },
+                  {
+                    "year": 2025,
+                    "total": 1098.1760846939
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 198.3289900988
+                  },
+                  {
+                    "year": 2040,
+                    "total": 194.9098852187
+                  },
+                  {
+                    "year": 2045,
+                    "total": 130.2416451389
+                  },
+                  {
+                    "year": 2050,
+                    "total": 130.0608499172
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Industriel CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6260.2430497478
+                  },
+                  {
+                    "year": 2020,
+                    "total": 5993.2961728321
+                  },
+                  {
+                    "year": 2025,
+                    "total": 6662.9287729519
+                  },
+                  {
+                    "year": 2030,
+                    "total": 6167.0009934594
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5300.6991768889
+                  },
+                  {
+                    "year": 2040,
+                    "total": 5408.3417166847
+                  },
+                  {
+                    "year": 2045,
+                    "total": 6133.9795391231
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8235.2154593308
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Konveteringssektorens CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 908.5185675098
+                  },
+                  {
+                    "year": 2020,
+                    "total": 405.8921819416
+                  },
+                  {
+                    "year": 2025,
+                    "total": 827.6320638504
+                  },
+                  {
+                    "year": 2030,
+                    "total": 629.5570976937
+                  },
+                  {
+                    "year": 2035,
+                    "total": 431.4821315371
+                  },
+                  {
+                    "year": 2040,
+                    "total": 233.4071653805
+                  },
+                  {
+                    "year": 2045,
+                    "total": 35.3321992239
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0036323723
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Land transport CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 11760.038412941
+                  },
+                  {
+                    "year": 2020,
+                    "total": 12760.6929124728
+                  },
+                  {
+                    "year": 2025,
+                    "total": 10799.6667307623
+                  },
+                  {
+                    "year": 2030,
+                    "total": 7596.0927796476
+                  },
+                  {
+                    "year": 2035,
+                    "total": 3011.9641256259
+                  },
+                  {
+                    "year": 2040,
+                    "total": 550.265638999
+                  },
+                  {
+                    "year": 2045,
+                    "total": 339.3320789579
+                  },
+                  {
+                    "year": 2050,
+                    "total": 385.563364463
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Luftfart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 110.9887527512
+                  },
+                  {
+                    "year": 2020,
+                    "total": 119.2010886597
+                  },
+                  {
+                    "year": 2025,
+                    "total": 125.3111106087
+                  },
+                  {
+                    "year": 2030,
+                    "total": 132.7033036925
+                  },
+                  {
+                    "year": 2035,
+                    "total": 137.2018835068
+                  },
+                  {
+                    "year": 2040,
+                    "total": 141.4695988968
+                  },
+                  {
+                    "year": 2045,
+                    "total": 147.3615230462
+                  },
+                  {
+                    "year": 2050,
+                    "total": 153.5870433584
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "S\u00f8fart CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 135.8525503836
+                  },
+                  {
+                    "year": 2020,
+                    "total": 146.9994176507
+                  },
+                  {
+                    "year": 2025,
+                    "total": 147.6345505037
+                  },
+                  {
+                    "year": 2030,
+                    "total": 144.3780839963
+                  },
+                  {
+                    "year": 2035,
+                    "total": 137.7662066255
+                  },
+                  {
+                    "year": 2040,
+                    "total": 120.9272288865
+                  },
+                  {
+                    "year": 2045,
+                    "total": 127.1278828952
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_CO2 emissioner akkumuleret",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 632940.554633083
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Omkostninger per person",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "DKK per person",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": -46.2454656277
+                  },
+                  {
+                    "year": 2020,
+                    "total": -112.5960012285
+                  },
+                  {
+                    "year": 2025,
+                    "total": 720.825718618
+                  },
+                  {
+                    "year": 2030,
+                    "total": 852.1430316142
+                  },
+                  {
+                    "year": 2035,
+                    "total": -421.4774062645
+                  },
+                  {
+                    "year": 2040,
+                    "total": -889.2762826272
+                  },
+                  {
+                    "year": 2045,
+                    "total": -635.3101467245
+                  },
+                  {
+                    "year": 2050,
+                    "total": -543.8459836605
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Solcelle_cap",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Solceller Industri",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2856714286
+                  },
+                  {
+                    "year": 2030,
+                    "total": 28.5713428571
+                  },
+                  {
+                    "year": 2035,
+                    "total": 31.656318973
+                  },
+                  {
+                    "year": 2040,
+                    "total": 38.8053332779
+                  },
+                  {
+                    "year": 2045,
+                    "total": 42.86520985
+                  },
+                  {
+                    "year": 2050,
+                    "total": 59.0162781007
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Solceller Mark",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 2.3554870325
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.3554870325
+                  },
+                  {
+                    "year": 2025,
+                    "total": 28.5713428571
+                  },
+                  {
+                    "year": 2030,
+                    "total": 60.7287553553
+                  },
+                  {
+                    "year": 2035,
+                    "total": 87.2180263869
+                  },
+                  {
+                    "year": 2040,
+                    "total": 93.506774026
+                  },
+                  {
+                    "year": 2045,
+                    "total": 98.7015948052
+                  },
+                  {
+                    "year": 2050,
+                    "total": 103.0419231475
+                  }
+                ]
+              },
+              {
+                "indicatorGroup": "Solceller husholdninger",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 6.743084474
+                  },
+                  {
+                    "year": 2020,
+                    "total": 6.743084474
+                  },
+                  {
+                    "year": 2025,
+                    "total": 14.2856714286
+                  },
+                  {
+                    "year": 2030,
+                    "total": 28.5715142857
+                  },
+                  {
+                    "year": 2035,
+                    "total": 73.246972987
+                  },
+                  {
+                    "year": 2040,
+                    "total": 87.7924711688
+                  },
+                  {
+                    "year": 2045,
+                    "total": 102.3379693506
+                  },
+                  {
+                    "year": 2050,
+                    "total": 116.8834675325
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Wind_OFF_cap",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "Havvindm\u00f8ller",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 1.639875
+                  },
+                  {
+                    "year": 2020,
+                    "total": 2.7065625
+                  },
+                  {
+                    "year": 2025,
+                    "total": 2.7176071607
+                  },
+                  {
+                    "year": 2030,
+                    "total": 4.6285839406
+                  },
+                  {
+                    "year": 2035,
+                    "total": 5.5457731975
+                  },
+                  {
+                    "year": 2040,
+                    "total": 7.4443612403
+                  },
+                  {
+                    "year": 2045,
+                    "total": 8.3332143958
+                  },
+                  {
+                    "year": 2050,
+                    "total": 8.5335151692
                   }
                 ]
               }
@@ -10442,7 +11486,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_DBD_bio",
+        "scenario": "KP_DBD_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -12530,7 +13574,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Energi_bio",
+        "scenario": "KP_Energi_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -14618,7 +15662,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Finans_bio",
+        "scenario": "KP_Finans_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -16706,7 +17750,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Handel_bio",
+        "scenario": "KP_Handel_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -18794,7 +19838,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_IND_HT_bio",
+        "scenario": "KP_IND_HT_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -20882,7 +21926,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Landtransport_bio",
+        "scenario": "KP_Landtransport_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -22970,7 +24014,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Life_bio",
+        "scenario": "KP_Life_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -25058,7 +26102,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Produktion_bio",
+        "scenario": "KP_Produktion_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -27146,7 +28190,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_Service-it_bio",
+        "scenario": "KP_Service-it_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",
@@ -28182,1050 +29226,6 @@ export default {
                   {
                     "year": 2050,
                     "total": 8.3584861215
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "KP_bio",
-        "indicators": [
-          {
-            "indicator": "_All_GHG_emissions",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Andre emissioner",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1899.54
-                  },
-                  {
-                    "year": 2020,
-                    "total": 1565.0310173697
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 32279.3012598461
-                  },
-                  {
-                    "year": 2020,
-                    "total": 29144.0147812713
-                  },
-                  {
-                    "year": 2025,
-                    "total": 22495.2313558838
-                  },
-                  {
-                    "year": 2030,
-                    "total": 15725.6822584896
-                  },
-                  {
-                    "year": 2035,
-                    "total": 10318.4572263405
-                  },
-                  {
-                    "year": 2040,
-                    "total": 7705.2712340662
-                  },
-                  {
-                    "year": 2045,
-                    "total": 7969.3248683852
-                  },
-                  {
-                    "year": 2050,
-                    "total": 9960.3803494418
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "CO2 lagring",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": -1300.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Landbrugs emissioner",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 13905.60525
-                  },
-                  {
-                    "year": 2020,
-                    "total": 13929.064
-                  },
-                  {
-                    "year": 2025,
-                    "total": 11590.6091908149
-                  },
-                  {
-                    "year": 2030,
-                    "total": 9252.1543816298
-                  },
-                  {
-                    "year": 2035,
-                    "total": 9084.535556746
-                  },
-                  {
-                    "year": 2040,
-                    "total": 8916.9167318621
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8749.2979069782
-                  },
-                  {
-                    "year": 2050,
-                    "total": 8581.6790820944
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Skov",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -381.1
-                  },
-                  {
-                    "year": 2020,
-                    "total": -554.3272727273
-                  },
-                  {
-                    "year": 2025,
-                    "total": -1443.6818181818
-                  },
-                  {
-                    "year": 2030,
-                    "total": -2213.6818181818
-                  },
-                  {
-                    "year": 2035,
-                    "total": -2440.4220779221
-                  },
-                  {
-                    "year": 2040,
-                    "total": -2667.1623376623
-                  },
-                  {
-                    "year": 2045,
-                    "total": -2893.9025974026
-                  },
-                  {
-                    "year": 2050,
-                    "total": -3120.6428571429
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Str\u00e5lingseffekt",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Andel_importeret_Biomasse",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Andel import biomasse",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3744498697
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.4254380826
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.3127901934
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.2867008014
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.2478595203
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.1978095093
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.1397564495
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0555492015
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Anden_drivhusgas_udledning",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "LULUCF",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 3584.9042459151
-                  },
-                  {
-                    "year": 2020,
-                    "total": 3611.86
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2063.2537015596
-                  },
-                  {
-                    "year": 2030,
-                    "total": 514.8194939045
-                  },
-                  {
-                    "year": 2035,
-                    "total": 511.6353700265
-                  },
-                  {
-                    "year": 2040,
-                    "total": 508.4510059566
-                  },
-                  {
-                    "year": 2045,
-                    "total": 505.259610216
-                  },
-                  {
-                    "year": 2050,
-                    "total": 502.0682144754
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Lattergas",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4671.2473297011
-                  },
-                  {
-                    "year": 2020,
-                    "total": 4816.574
-                  },
-                  {
-                    "year": 2025,
-                    "total": 4402.1173219822
-                  },
-                  {
-                    "year": 2030,
-                    "total": 3970.5807575346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3886.0856253536
-                  },
-                  {
-                    "year": 2040,
-                    "total": 3801.8426346555
-                  },
-                  {
-                    "year": 2045,
-                    "total": 3724.9811402887
-                  },
-                  {
-                    "year": 2050,
-                    "total": 3648.1196459218
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Metan",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 5649.4536743838
-                  },
-                  {
-                    "year": 2020,
-                    "total": 5500.63
-                  },
-                  {
-                    "year": 2025,
-                    "total": 5125.2381672732
-                  },
-                  {
-                    "year": 2030,
-                    "total": 4766.7541301908
-                  },
-                  {
-                    "year": 2035,
-                    "total": 4686.8145613659
-                  },
-                  {
-                    "year": 2040,
-                    "total": 4606.62309125
-                  },
-                  {
-                    "year": 2045,
-                    "total": 4519.0571564735
-                  },
-                  {
-                    "year": 2050,
-                    "total": 4431.4912216971
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Skov",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -381.1
-                  },
-                  {
-                    "year": 2020,
-                    "total": -554.3272727273
-                  },
-                  {
-                    "year": 2025,
-                    "total": -1443.6818181818
-                  },
-                  {
-                    "year": 2030,
-                    "total": -2213.6818181818
-                  },
-                  {
-                    "year": 2035,
-                    "total": -2440.4220779221
-                  },
-                  {
-                    "year": 2040,
-                    "total": -2667.1623376623
-                  },
-                  {
-                    "year": 2045,
-                    "total": -2893.9025974026
-                  },
-                  {
-                    "year": 2050,
-                    "total": -3120.6428571429
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Str\u00e5lingseffekt",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 4957.7480278345
-                  },
-                  {
-                    "year": 2020,
-                    "total": 5235.740926402
-                  },
-                  {
-                    "year": 2025,
-                    "total": 5439.8148470845
-                  },
-                  {
-                    "year": 2030,
-                    "total": 5640.7891245146
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5755.5341076087
-                  },
-                  {
-                    "year": 2040,
-                    "total": 5862.819917668
-                  },
-                  {
-                    "year": 2045,
-                    "total": 6081.8393570493
-                  },
-                  {
-                    "year": 2050,
-                    "total": 6328.9257072213
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Affald CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1325.485225
-                  },
-                  {
-                    "year": 2020,
-                    "total": 1204.35
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1000.85
-                  },
-                  {
-                    "year": 2030,
-                    "total": 797.35
-                  },
-                  {
-                    "year": 2035,
-                    "total": 797.35
-                  },
-                  {
-                    "year": 2040,
-                    "total": 797.35
-                  },
-                  {
-                    "year": 2045,
-                    "total": 797.35
-                  },
-                  {
-                    "year": 2050,
-                    "total": 797.35
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "CO2 lagring",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": -1300.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": -1300.0
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "El og varme sektorens CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 9673.7603289588
-                  },
-                  {
-                    "year": 2020,
-                    "total": 6857.1437002422
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1833.0320425129
-                  },
-                  {
-                    "year": 2030,
-                    "total": 258.6
-                  },
-                  {
-                    "year": 2035,
-                    "total": 303.6647120574
-                  },
-                  {
-                    "year": 2040,
-                    "total": 258.6
-                  },
-                  {
-                    "year": 2045,
-                    "total": 258.6
-                  },
-                  {
-                    "year": 2050,
-                    "total": 258.6
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Husholdningers CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 2104.4143725539
-                  },
-                  {
-                    "year": 2020,
-                    "total": 1656.4393074721
-                  },
-                  {
-                    "year": 2025,
-                    "total": 1098.1760846939
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 198.3289900988
-                  },
-                  {
-                    "year": 2040,
-                    "total": 194.9098852187
-                  },
-                  {
-                    "year": 2045,
-                    "total": 130.2416451389
-                  },
-                  {
-                    "year": 2050,
-                    "total": 130.0608499172
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Industriel CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 6260.2430497478
-                  },
-                  {
-                    "year": 2020,
-                    "total": 5993.2961728321
-                  },
-                  {
-                    "year": 2025,
-                    "total": 6662.9287729519
-                  },
-                  {
-                    "year": 2030,
-                    "total": 6167.0009934594
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5300.6991768889
-                  },
-                  {
-                    "year": 2040,
-                    "total": 5408.3417166847
-                  },
-                  {
-                    "year": 2045,
-                    "total": 6133.9795391231
-                  },
-                  {
-                    "year": 2050,
-                    "total": 8235.2154593308
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Konveteringssektorens CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 908.5185675098
-                  },
-                  {
-                    "year": 2020,
-                    "total": 405.8921819416
-                  },
-                  {
-                    "year": 2025,
-                    "total": 827.6320638504
-                  },
-                  {
-                    "year": 2030,
-                    "total": 629.5570976937
-                  },
-                  {
-                    "year": 2035,
-                    "total": 431.4821315371
-                  },
-                  {
-                    "year": 2040,
-                    "total": 233.4071653805
-                  },
-                  {
-                    "year": 2045,
-                    "total": 35.3321992239
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0036323723
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Land transport CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 11760.038412941
-                  },
-                  {
-                    "year": 2020,
-                    "total": 12760.6929124728
-                  },
-                  {
-                    "year": 2025,
-                    "total": 10799.6667307623
-                  },
-                  {
-                    "year": 2030,
-                    "total": 7596.0927796476
-                  },
-                  {
-                    "year": 2035,
-                    "total": 3011.9641256259
-                  },
-                  {
-                    "year": 2040,
-                    "total": 550.265638999
-                  },
-                  {
-                    "year": 2045,
-                    "total": 339.3320789579
-                  },
-                  {
-                    "year": 2050,
-                    "total": 385.563364463
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Luftfart CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 110.9887527512
-                  },
-                  {
-                    "year": 2020,
-                    "total": 119.2010886597
-                  },
-                  {
-                    "year": 2025,
-                    "total": 125.3111106087
-                  },
-                  {
-                    "year": 2030,
-                    "total": 132.7033036925
-                  },
-                  {
-                    "year": 2035,
-                    "total": 137.2018835068
-                  },
-                  {
-                    "year": 2040,
-                    "total": 141.4695988968
-                  },
-                  {
-                    "year": 2045,
-                    "total": 147.3615230462
-                  },
-                  {
-                    "year": 2050,
-                    "total": 153.5870433584
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "S\u00f8fart CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 135.8525503836
-                  },
-                  {
-                    "year": 2020,
-                    "total": 146.9994176507
-                  },
-                  {
-                    "year": 2025,
-                    "total": 147.6345505037
-                  },
-                  {
-                    "year": 2030,
-                    "total": 144.3780839963
-                  },
-                  {
-                    "year": 2035,
-                    "total": 137.7662066255
-                  },
-                  {
-                    "year": 2040,
-                    "total": 120.9272288865
-                  },
-                  {
-                    "year": 2045,
-                    "total": 127.1278828952
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_CO2 emissioner akkumuleret",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "CO2",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 632940.554633083
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Omkostninger per person",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "DKK per person",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": -46.2454656277
-                  },
-                  {
-                    "year": 2020,
-                    "total": -112.5960012285
-                  },
-                  {
-                    "year": 2025,
-                    "total": 720.825718618
-                  },
-                  {
-                    "year": 2030,
-                    "total": 852.1430316142
-                  },
-                  {
-                    "year": 2035,
-                    "total": -421.4774062645
-                  },
-                  {
-                    "year": 2040,
-                    "total": -889.2762826272
-                  },
-                  {
-                    "year": 2045,
-                    "total": -635.3101467245
-                  },
-                  {
-                    "year": 2050,
-                    "total": -543.8459836605
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Solcelle_cap",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Solceller Industri",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2856714286
-                  },
-                  {
-                    "year": 2030,
-                    "total": 28.5713428571
-                  },
-                  {
-                    "year": 2035,
-                    "total": 31.656318973
-                  },
-                  {
-                    "year": 2040,
-                    "total": 38.8053332779
-                  },
-                  {
-                    "year": 2045,
-                    "total": 42.86520985
-                  },
-                  {
-                    "year": 2050,
-                    "total": 59.0162781007
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Solceller Mark",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 2.3554870325
-                  },
-                  {
-                    "year": 2020,
-                    "total": 2.3554870325
-                  },
-                  {
-                    "year": 2025,
-                    "total": 28.5713428571
-                  },
-                  {
-                    "year": 2030,
-                    "total": 60.7287553553
-                  },
-                  {
-                    "year": 2035,
-                    "total": 87.2180263869
-                  },
-                  {
-                    "year": 2040,
-                    "total": 93.506774026
-                  },
-                  {
-                    "year": 2045,
-                    "total": 98.7015948052
-                  },
-                  {
-                    "year": 2050,
-                    "total": 103.0419231475
-                  }
-                ]
-              },
-              {
-                "indicatorGroup": "Solceller husholdninger",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 6.743084474
-                  },
-                  {
-                    "year": 2020,
-                    "total": 6.743084474
-                  },
-                  {
-                    "year": 2025,
-                    "total": 14.2856714286
-                  },
-                  {
-                    "year": 2030,
-                    "total": 28.5715142857
-                  },
-                  {
-                    "year": 2035,
-                    "total": 73.246972987
-                  },
-                  {
-                    "year": 2040,
-                    "total": 87.7924711688
-                  },
-                  {
-                    "year": 2045,
-                    "total": 102.3379693506
-                  },
-                  {
-                    "year": 2050,
-                    "total": 116.8834675325
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "_Wind_OFF_cap",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "Havvindm\u00f8ller",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 1.639875
-                  },
-                  {
-                    "year": 2020,
-                    "total": 2.7065625
-                  },
-                  {
-                    "year": 2025,
-                    "total": 2.7176071607
-                  },
-                  {
-                    "year": 2030,
-                    "total": 4.6285839406
-                  },
-                  {
-                    "year": 2035,
-                    "total": 5.5457731975
-                  },
-                  {
-                    "year": 2040,
-                    "total": 7.4443612403
-                  },
-                  {
-                    "year": 2045,
-                    "total": 8.3332143958
-                  },
-                  {
-                    "year": 2050,
-                    "total": 8.5335151692
                   }
                 ]
               }
@@ -30278,7 +30278,7 @@ export default {
         ]
       },
       {
-        "scenario": "KP_waste_bio",
+        "scenario": "KP_waste_CCS",
         "indicators": [
           {
             "indicator": "_All_GHG_emissions",

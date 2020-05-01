@@ -9,7 +9,7 @@ export default {
 { "id": 6, "name": "KP_Life", "short_description": "Life Science", "ultra_short_description": "Life", "ccs": false },
 { "id": 7, "name": "KP_Life_bio", "short_description": "Life Science", "ultra_short_description": "Life", "ccs": true },
 { "id": 8, "name": "KP_waste", "short_description": "Waste and Water", "ultra_short_description": "Waste", "ccs": false },
-{ "id": 9, "name": "KP_waste_bio", "short_description": "Waste and water", "ultra_short_description": "Waste", "ccs": true },
+{ "id": 9, "name": "KP_waste_bio", "short_description": "Waste and Water", "ultra_short_description": "Waste", "ccs": true },
 { "id": 10, "name": "KP_Service-it", "short_description": "IT & Rådgivning", "ultra_short_description": "IT", "ccs": false },
 { "id": 11, "name": "KP_Service-it_bio", "short_description": "IT & Rådgivning", "ultra_short_description": "IT", "ccs": true },
 { "id": 12, "name": "KP_Produktion", "short_description": "Produktionsvirksomheder", "ultra_short_description": "Produkt", "ccs": false },

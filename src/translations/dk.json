@@ -199,6 +199,8 @@
     "Affald": "Affald",
     "Biogas": "Biogas",
     "Heavy Fuel oil": "Heavy Fuel oil",
+	"Fuel oil": "Fuel oil",
+	"Ethanoel": "Ethanoel",
     "Kul": "Kul",
     "Naturgas": "Naturgas",
     "Råolie": "Råolie",
@@ -332,8 +334,12 @@
     "Offentlig service": "Offentlig service",
     "Transport (eksl lastbiler)": "Transport (eksl. lastbiler)",
     "Private service": "Private service",
-    "Transportmidler (eksl gods transport)": "Transportmidler (eksl gods transport)",
+    "Transportmidler (eksl. goods transport)": "Transportmidler (eksl gods transport)",
     "Omkostninger per person": "Omkostninger per person",
-	"DKK/person/år": "DKK/person/år"
+	"DKK per person": "DKK per person",
+	"DKK/person/år": "DKK/person/år",
+	"Cost_Fom": "Fixed O&M",
+	"Cost_Flox": "Afgift og levering",
+	"Cost_Inv": "Investering"
   }
 }

@@ -22,7 +22,7 @@ const Charts = props => {
         <Flex>
           <StackedBarChart
             chartName="_Energi forbrug i Danmark"
-            chartTitle="Danmarks samlede energiforbrug og VE-andel"
+            chartTitle="Danmarks samlede energiforbrug og VE%"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}
@@ -221,7 +221,7 @@ const Charts = props => {
           <Flex>
             <StackedBarDiffChart
               chartName="_Energi forbrug i Danmark"
-              chartTitle="Energi forbrug i Danmark og VE-andel"
+              chartTitle="Danmarks samlede energiforbrug og VE%"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={true}

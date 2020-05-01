@@ -121,7 +121,7 @@ const Charts = props => {
           /> */}
 		  <StackedBarChart 
 		    chartName='_Omkostninger per person'
-			chartTitle='Omkostninger per person'
+			chartTitle='Ekstra omkostning per person'
 			selectedScenario={selectedScenario}
 			selectedScenario2={selectedScenario2}
 			combinedChart={false}
@@ -234,7 +234,7 @@ const Charts = props => {
             />
             <StackedBarChart
               chartName="_Omkostninger per person"
-              chartTitle="Omkostninger per person i forhold til reference"
+              chartTitle="Ekstra omkostning per person"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={false}

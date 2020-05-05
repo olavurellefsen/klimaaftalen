@@ -56,15 +56,14 @@ export default () => (
       således, at modellen nu inkluderer alle direkte udledte klimagasser.
     </AboutBody>
     <AboutBody>
-      Modellen er udviklet i samarbejde mellem DTU, COMETS projektet og
-      Energistyrelsen. Der er et fortsat samarbejde om den løbende udvikling og
+      Modellen er  oprindeligt udviklet af DTU og Energistyrelsen, men videre udvikling i dag sker bl.a. hos energistyrelsen, DTU og Energy modelling lab. Der er et fortsat samarbejde om den løbende udvikling og
       forbedring af modellen.
     </AboutBody>
     <AboutBody>
       Energiforliget 2012 efterspurgte en model, som kunne sammenligne
       klimatiltag på tværs af sektorer. DTU blev valgt til at hjælpe
       Energistyrelsen med at udvikle modellen som nu bruges på DTU i
-      forskningsprojekter og i Energistyrelsen til dele af Basisfremskrivningen
+      forskningsprojekter, ved Energy modelling lab som konsulent værktøj og i Energistyrelsen til dele af Basisfremskrivningen
       (for industri og husholdninger).
     </AboutBody>
     <AboutBody>

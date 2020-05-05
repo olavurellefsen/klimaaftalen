@@ -49,10 +49,27 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
+          <StackedBarChart
+            chartName="_All_GHG_emissions"
+            chartTitle="Alle Danske drivhusgasser"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={true}
+            label="Kt CO2e"
+            minY={-10000}
+            maxY={70000}
+            minY2={0}
+            maxY2={1}
+            label2="Drivhusgas reduktion (1990)"
+            Y2Percentage={true}
+            stackedBar={stackedBar}
+            line={line}
+          />
           <ComparisonChart
             chartName="_CO2 emissioner akkumuleret"
             chartTitle="Akkumuleret CO2 emissioner"
             showCCS={props.scenarioSelection.showCCS}
+            showBio={props.scenarioSelection.showBio}
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}
@@ -62,22 +79,6 @@ const Charts = props => {
             minY2={0}
             maxY2={1200000}
             Y2Percentage={false}
-            stackedBar={stackedBar}
-            line={line}
-          />
-          <StackedBarChart
-            chartName="_Energi forbrug i Danmark"
-            chartTitle="Energiforbrug og VE-andel"
-            selectedScenario={selectedScenario}
-            selectedScenario2={selectedScenario2}
-            combinedChart={true}
-            label="PJ"
-            minY={0}
-            maxY={1000}
-            minY2={0}
-            maxY2={1}
-            label2="Vedvarende energi andel"
-            Y2Percentage={true}
             stackedBar={stackedBar}
             line={line}
           />
@@ -105,7 +106,7 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-          <StackedBarChart
+          {/* <StackedBarChart
             chartName="_Andel_importeret_Biomasse"
             chartTitle="Andel importeret Biomasse"
             selectedScenario={selectedScenario}
@@ -117,10 +118,10 @@ const Charts = props => {
             YPercentage={true}
             stackedBar={stackedBar}
             line={line}
-          />
+          /> */}
 		  <StackedBarChart 
 		    chartName='_Omkostninger per person'
-			chartTitle='Omkostninger per person'
+			chartTitle='Ekstra omkostning per person'
 			selectedScenario={selectedScenario}
 			selectedScenario2={selectedScenario2}
 			combinedChart={false}
@@ -129,7 +130,7 @@ const Charts = props => {
 			maxY={3000} 
 			stackedBar={stackedBar}
             line={line}
-		   />
+          />
         </Flex>
       )}
       {props.scenarioSelection.showDifference === true &&
@@ -163,6 +164,22 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
+            <StackedBarDiffChart
+              chartName="_All_GHG_emissions"
+              chartTitle="Alle Danske drivhusgasser"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={true}
+              label="Kt CO2e"
+              minY={-10000}
+              maxY={70000}
+              minY2={0}
+              maxY2={1}
+              label2="Drivhusgas reduktion (1990)"
+              Y2Percentage={true}
+              stackedBar={stackedBar}
+              line={line}
+            />
             <ComparisonChart
               chartName="_CO2 emissioner akkumuleret"
               chartTitle="Akkumuleret CO2 emissioner"
@@ -175,22 +192,6 @@ const Charts = props => {
               minY2={0}
               maxY2={1200000}
               Y2Percentage={false}
-              stackedBar={stackedBar}
-              line={line}
-            />
-            <StackedBarDiffChart
-              chartName="_Energi forbrug i Danmark"
-              chartTitle="Energiforbrug og VE-andel"
-              selectedScenario={selectedScenario}
-              selectedScenario2={selectedScenario2}
-              combinedChart={true}
-              label="PJ"
-              minY={-400}
-              maxY={400}
-              minY2={-1}
-              maxY2={1}
-              label2="Vedvarende energi andel"
-              Y2Percentage={true}
               stackedBar={stackedBar}
               line={line}
             />
@@ -231,18 +232,18 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
-		    <StackedBarChart 
-		      chartName='_Omkostninger per person'
-			  chartTitle='Omkostninger per person i forhold til reference'
-			  selectedScenario={selectedScenario}
-			  selectedScenario2={selectedScenario2}
-			  combinedChart={false}
-			  label='DKK/person' 
-			  minY={-1} 
-			  maxY={1} 
+            <StackedBarChart
+              chartName="_Omkostninger per person"
+              chartTitle="Ekstra omkostning per person"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={false}
+              label="DKK/person"
+              minY={-1}
+              maxY={1}
               stackedBar={stackedBar}
               line={line}
-		   />
+            />
           </Flex>
         )}
     </MainArea>

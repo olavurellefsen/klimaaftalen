@@ -21,8 +21,24 @@ const Charts = props => {
           selectedScenario2 === "")) && (
         <Flex>
           <StackedBarChart
-            chartName="_CO2 emissioner"
-            chartTitle="CO2-emissioner og VE-andel"
+            chartName="_Energi forbrug i Danmark"
+            chartTitle="Danmarks samlede energiforbrug og VE%"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={true}
+            label="PJ"
+            minY={0}
+            maxY={1000}
+            minY2={0}
+            maxY2={1}
+            label2="Vedvarende energi andel"
+            Y2Percentage={true}
+            stackedBar={stackedBar}
+            line={line}            
+          />
+		    <StackedBarChart
+            chartName="_CO2 emissionerINT"
+            chartTitle="CO2 emissioner og %-reduktion inkl international transport"
             selectedScenario={selectedScenario}
             selectedScenario2={selectedScenario2}
             combinedChart={true}
@@ -31,10 +47,26 @@ const Charts = props => {
             maxY={40000}
             minY2={0}
             maxY2={1}
-            label2="Vedvarende energi andel"
+            label2="CO2 reduktion (1990)"
             Y2Percentage={true}
             stackedBar={stackedBar}
-            line={line}            
+            line={line}
+          />
+		   <StackedBarChart
+            chartName="_All_GHG_emissionsINT"
+            chartTitle="Alle Danske drivhusgasser inkl international transport"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={true}
+            label="Kt CO2e"
+            minY={-10000}
+            maxY={70000}
+            minY2={0}
+            maxY2={1}
+            label2="Drivhusgas reduktion (1990)"
+            Y2Percentage={true}
+            stackedBar={stackedBar}
+            line={line}
           />
           <StackedBarChart
             chartName="_Biobrændsels forbrug"
@@ -188,8 +220,8 @@ const Charts = props => {
         selectedScenario2 !== "" && (
           <Flex>
             <StackedBarDiffChart
-              chartName="_CO2 emissioner"
-              chartTitle="CO2-emissioner og VE-andel"
+              chartName="_Energi forbrug i Danmark"
+              chartTitle="Danmarks samlede energiforbrug og VE%"
               selectedScenario={selectedScenario}
               selectedScenario2={selectedScenario2}
               combinedChart={true}
@@ -203,6 +235,22 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
+			 <StackedBarDiffChart
+              chartName="_CO2 emissionerINT"
+              chartTitle="CO2 emissioner og %-reduktion inkl international transport"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={true}
+              label="Kt"
+              minY={-16000}
+              maxY={16000}
+              minY2={-1}
+              maxY2={1}
+              label2="CO2 reduktion (1990)"
+              Y2Percentage={true}
+              stackedBar={stackedBar}
+              line={line}
+            />
             <StackedBarDiffChart
               chartName="_Biobrændsels forbrug"
               chartTitle="Biobrændsels-forbrug"
@@ -212,6 +260,22 @@ const Charts = props => {
               label="PJ"
               minY={-170}
               maxY={170}
+              stackedBar={stackedBar}
+              line={line}
+            />
+			<StackedBarDiffChart
+              chartName="_All_GHG_emissionsINT"
+              chartTitle="Alle Danske drivhusgasser inkl international transport"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={true}
+              label="Kt CO2e"
+              minY={-10000}
+              maxY={70000}
+              minY2={0}
+              maxY2={1}
+              label2="Drivhusgas reduktion (1990)"
+              Y2Percentage={true}
               stackedBar={stackedBar}
               line={line}
             />

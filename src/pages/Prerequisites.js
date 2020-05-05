@@ -74,14 +74,14 @@ export default () => (
     <AboutBody>
       Modellen TIMES-DK er en energisystemmodel udviklet som en følge af energiaftalen i 2012. Den er 
       udviklet i et samarbejde mellem Energistyrelsen og DTU og bliver i dag brugt til bl.a. Energistyrelsens 
-      årlige Basisfremskrivning. DTU’s udgave af TIMES-DK modellen adskiller sig fra Energistyrelsens på en 
+      årlige Basisfremskrivning. Energy modelling labs udgave af TIMES-DK modellen adskiller sig fra Energistyrelsens på en 
       række punkter, men grundmodellen er den samme. I vores modellering af scenarier bruger vi mange af de 
-      samme antagelser og forudsætninger som Energistyrelsen bruger i Basisfremskrivningen. DTU’s Basisscenario 
-      kan dermed sammenlignes med Energistyrelsens.
+      samme antagelser og forudsætninger som Energistyrelsen bruger i Basisfremskrivningen. Energy modelling labs 
+	  reference scenarie kan dermed sammenlignes med Energistyrelsens.
     </AboutBody>
     <AboutHeader2>Brændselspriser</AboutHeader2>
     <AboutBody>
-      Brændselspriserne, der anvendes i DTU’s TIMES-DK er baseret på Energistyrelses samfundøkonomiske beregningsforudsætninger fra 2018.
+      Brændselspriserne, der anvendes i energy modelling lab TIMES-DK er baseret på Energistyrelses samfundøkonomiske beregningsforudsætninger fra 2018.
     </AboutBody>
     <AboutBody>
       <AboutImage src="images/fuel_price.png" alt="Fuel price" width="752" height="452" />
@@ -306,7 +306,7 @@ export default () => (
     </AboutBody>    
     <AboutBody>
       Metode til beregning reduktioner i landbruget
-      DTU har forsøgt at beregne landbrugets bidrag til at sikre Danmarks reduktionen af drivhusgasser.
+      EML har forsøgt at beregne landbrugets bidrag til at sikre Danmarks reduktionen af drivhusgasser.
       Der antages en grundlæggende udvikling i henhold til folketingets beslutning i 1989 om at øge Danmarks skove 
       til 20-25 % af det samlede areal i Danmark i 2100. I dag har vi nået en del af vejen, nemlig skov på omkring 
       14 % af vores areal, hvilket vil betyde vi i gennemsnit skal beplante mellem 3000-4500 ha skov årligt frem mod 2100.

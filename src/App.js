@@ -215,12 +215,19 @@ export class App extends React.Component {
                       markdownFiles={[
                         "descriptions/0_intro.md",
                         "descriptions/1_basicscenarios.md",
-                        "descriptions/2_enhedslisten.md",
-                        "descriptions/3_socialistiskfolkeparti.md",
-                        "descriptions/4_radikalevenstre.md",
-                        "descriptions/5_socialdemokratiet.md",
-                        "descriptions/6_alternativet.md",
-                        "descriptions/7_regeringen.md"
+                        "descriptions/2_KP.md",
+                        "descriptions/3_DBD.md",
+                        "descriptions/4_Life.md",
+                        "descriptions/5_Waste.md",
+                        "descriptions/6_IT.md",
+                        "descriptions/7_Produktionsvirksomheder.md",
+						"descriptions/8_Landtransport.md",
+						"descriptions/9_Energi.md",
+						"descriptions/10_Handel.md",
+						"descriptions/11_Landbrug.md",
+						"descriptions/12_IND_HT.md",
+						"descriptions/13_Byg.md",
+						"descriptions/14_Finans.md"
                       ]}
                     />
                   );

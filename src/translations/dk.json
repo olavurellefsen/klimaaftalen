@@ -16,7 +16,7 @@
   },
   "general": {
     "scenarios": "Scenarier",
-    "CCS": "Bio",
+    "CCS": "Ingen biomasse import",
     "scenario-difference": "Scenarie difference",
     "red-minus-green": "(rød minus grøn)",
     "developed-by": "Udviklet af"

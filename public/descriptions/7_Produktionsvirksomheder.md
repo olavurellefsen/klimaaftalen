@@ -1,4 +1,6 @@
+<a name="Produktionsvirksomheder"></a>
 ## Produktionsvirksomheder 
+- [Gå tilbage] (#scenariebeskrivelser)
 
 ### Målsætning
 - Klima-neutral i 2030
@@ -15,5 +17,5 @@ Følgende er partnerskabets anbefalinger til politikker:
 
 ### Implementering i TIMES-DK modellen
 
-Udfasning af naturgas til prroduktions virksomheder, der sikres gennem energi og forsyningssektoren Biogas til de områder hvor elektrificering ikke er muligt, især højtemperatur processer.
-Energiforbrug til transport er ikke inkluderet i denne sektors bidrag til CO2 reduktioner, da dette høre under partnerskabet landtransport. En øget efterspørgelse til grøn transport fra produktionsvirksomheder vil dog kun sikre transport sektorens omstilling, vi kan dog ikke beregne evt. effekter af øget efterspørgelse. Ligeledes er finanseringsbehov til energieffektivisering ikke inkluderet, da disse tilhøre Finans partnerskabet og der dermed inkluderet i dennes reduktion.
+Udfasning af naturgas til produktionsvirksomheder, dette sikres gennem energi og forsyningssektoren. Biogas til de områder hvor elektrificering ikke er muligt, især højtemperatur processer.
+Energiforbrug til transport er ikke inkluderet i denne sektors bidrag til CO2 reduktioner, da dette høre under partnerskabet landtransport. En øget efterspørgsel af grøn transport fra produktionsvirksomheder hører under transportsektorens omstilling. Vi kan dog ikke beregne evt. effekter af øget efterspørgelse efter grøn transport. Ligeledes er finanseringsbehov til energieffektivisering ikke inkluderet, da disse tilhører Finans partnerskabet og der dermed inkluderet i deres reduktion.
